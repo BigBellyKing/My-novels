@@ -1,0 +1,95 @@
+
+:root {
+    --bg-color: #f4f4f4;
+    --container-bg: #fff;
+    --text-color: #333;
+    --heading-color: #2c3e50;
+    --link-color: #3498db;
+    --nav-border: #eee;
+    --chapter-link-bg: #f9f9f9;
+    --chapter-link-hover: #e9e9e9;
+}
+
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --container-bg: #2d2d2d;
+    --text-color: #e0e0e0;
+    --heading-color: #ecf0f1;
+    --link-color: #5dade2;
+    --nav-border: #444;
+    --chapter-link-bg: #3d3d3d;
+    --chapter-link-hover: #4d4d4d;
+}
+
+body {
+    font-family: 'Merriweather', Georgia, serif;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+.container {
+    background-color: var(--container-bg);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: background-color 0.3s;
+}
+h1 {
+    text-align: center;
+    color: var(--heading-color);
+    margin-bottom: 30px;
+}
+p {
+    margin-bottom: 1.5em;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--nav-border);
+}
+.nav a {
+    text-decoration: none;
+    color: var(--link-color);
+    font-weight: bold;
+}
+.nav a:hover {
+    text-decoration: underline;
+}
+.chapter-list {
+    list-style: none;
+    padding: 0;
+}
+.chapter-list li {
+    margin-bottom: 10px;
+}
+.chapter-list a {
+    text-decoration: none;
+    color: var(--text-color);
+    display: block;
+    padding: 10px;
+    background: var(--chapter-link-bg);
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+.chapter-list a:hover {
+    background: var(--chapter-link-hover);
+}
+.theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    background: var(--container-bg);
+    border: 1px solid var(--nav-border);
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    font-size: 1.2em;
+    z-index: 100;
+}

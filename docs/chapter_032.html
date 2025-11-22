@@ -1,0 +1,69 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 32</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 32: Why Did It Suddenly Get Spooky?</p>
+<p>As the two doctors, a man and a woman, conversed, Dong Zhen could finally enter the playable interface.</p>
+<p>The simple yet somewhat sarcastic dialogue, including the bickering between the doctors when they approached a squirrel, was quite detailed.</p>
+<p>"The details in this game feel pretty good, the dialogues are all very meticulous, exactly like the previous <em>Undertale</em>. Very, very detailed," Dong Zhen commented, controlling his character.</p>
+<p>For example, when they saw a signpost, they would even complain, wondering if a sign left in the mountains wouldn't be stolen.</p>
+<p>The dialogues were a bit humorous, and also made him, the streamer, feel a little out of a job.</p>
+<p>Because that kind of commentary was usually his job.</p>
+<p>Goodness gracious, if the game characters did all the complaining, what was left for him?</p>
+<p>"Is it a story-driven game? It seems a bit too bland, doesn't it?" Dong Zhen was somewhat curious.</p>
+<p>Aside from moving a stone-like object in the middle, the entire game's progression seemed to involve nothing more than walking and simple conversations. There was nothing particularly special about it.</p>
+<p><em>Undertale</em> at least had simple bullet-hell combat sequences, after all.</p>
+<p>The only truly good part was the game's music.</p>
+<p>From <em>Mirror (Game)</em> to <em>Undertale</em> and now <em>To the Moon</em>, the music was truly well-composed.</p>
+<p>As for the graphics, <em>To the Moon</em>, created by Chen Xu, had indeed seen some improvements compared to the pixel art of RPG Maker in his previous life.</p>
+<p>But it could only be described as average; it was clearly far from outstanding.</p>
+<p>While Dong Zhen mused to himself, Doctors Neil and Eva in the game arrived at their destination, a large mansion.</p>
+<p>Upon their knock, a middle-aged woman opened the door. According to the introduction, this woman was named Lily.</p>
+<p>She was the one who usually cared for the elderly Johnny, and the two children previously playing the piano in the room were her daughter and son.</p>
+<p>After speaking, Lily led the two doctors upstairs.</p>
+<p>Meanwhile, in the downstairs room, the two children briefly squabbled over who got to play the piano, then sat side-by-side and began playing.</p>
+<p>It was the same piano piece played before the two doctors' car crash.</p>
+                <div class="nav">
+                    <a href="chapter_031.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_033.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

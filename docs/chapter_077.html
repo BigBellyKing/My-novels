@@ -1,0 +1,57 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 77</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 77: Some Changes to Game Attributes</p>
+<p>Chapter 77: Some Changes to Game Attributes</p>
+<p>Inside the office, Chen Xu was meticulously refining the details for two game design concept drafts.</p>
+<p>Sanguosha was relatively simple. In its previous life, this game borrowed design concepts from BANG! and then localized them to fit the Three Kingdoms theme. For example, the Lord, Loyalist, Rebel, and Spy roles in the game corresponded to the Sheriff, Deputy, Outlaw, and Renegade roles, respectively. Of course, compared to BANG!'s single gameplay style, Sanguosha also made numerous novel improvements, such as the unique skills possessed by each of the Three Kingdoms generals available to players.</p>
+<p>In addition, Sanguosha also made detailed changes to the skill effects of the cards, differing from the original BANG! Leaving aside so-called balance issues, Sanguosha actually offered very high replayability. It could be said to be a game that combined luck and strategy.</p>
+<p>Many players in its previous life gritted their teeth when Sanguosha was mentioned, not because of the game itself, but because of Youka, the operator behind it. It could even be said that under Youka's operations, it was a miracle that this game could survive for 13 years and still possess a certain vitality.</p>
+<p>If one were to list Youka's sins, there were new complaints every year. But if we talk about its most famous and earliest 'scam,' the 'Rise of a General' expansion cannot be ignored.</p>
+<p>The so-called 'Rise of a General' initially had no connection to the online version of Sanguosha. This was simply a benefit for physical card game players. The generals within it were designed by players themselves, with officials making minor balance adjustments. The main purpose was to fulfill players' desire to have their own custom-designed generals. As a board game, if these cards were unbalanced, offline players could simply choose not to include them if they didn't want them.</p>
+<p>However, the most bizarre aspect of Sanguosha in its previous life was its </p>
+                <div class="nav">
+                    <a href="chapter_076.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_078.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

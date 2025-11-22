@@ -1,0 +1,171 @@
+Chapter 44: Outlast
+
+After the interview.
+
+Less than twenty minutes later, Chen Xu hadn't even returned to Nebula Games from the Game Department.
+
+Reports of the interviews by major media outlets were already out.
+
+*   Revealed: Nebula Games' Next Title Is Likely...
+*   Chen Xu: I Think I Should Be a Warrior of Love
+*   No New Game Plans Yet, But According to Chen Xu's Hints, Nebula Games' New Work Might Be a Heartwarming Romance Game!
+*   A Rising Star Independent Game Producer: The Warrior of Love – Chen Xu!
+
+The Sci-Fi Game Design Competition's buzz hadn't completely faded, and To the Moon was still featured on the Official Platform's recommendation list.
+
+These media interview articles also introduced many players to Chen Xu.
+
+Including his official Weibo account, his followers had already reached 800,000.
+
+Given the current momentum, breaking through 1 million is only a matter of time.
+
+Concurrently, in the verified 'Big V' profile of his official Weibo account, To the Moon was added to his representative works, along with the tag 'Warrior of Love'.
+
+Below the related interview articles, many players were buzzing with discussion.
+
+“Warrior of Love? What the heck is that!?”
+
+“If you think about it, Chen Xu really does seem like a Warrior of Love. Not to mention Mirror (Game), every character has a pure love storyline, though the alternative corrupted endings are, well, *that*…”
+
+“And Undertale's Pacifist Ending is full of love, and as for the latest work, To the Moon, there's no need to say more, the entire game revolves around love.”
+
+“Now that you mention it, it makes a lot of sense!”
+
+“But I'm more curious about what Chen Xu's next game will be.”
+
+“It should be a very heartwarming game, right?”
+
+“Exactly, he's the Warrior of Love after all.”
+
+………………
+
+However, Chen Xu didn't pay too much attention to the online discussions.
+
+Because at that moment, having just arrived at the Nebula Games office, he was alone in his office, performing a lottery draw.
+
+Golden lights bloomed one after another before his eyes.
+
+The special effects looked very impressive.
+
+It was just that this thing felt too real.
+
+Fifty consecutive pulls.
+
+Among them were 37 Common Skill Books, covering Plot, Music, and Level Design.
+
+There were 4 Rare Skill Books: one for Architecture, one for Psychology, and two for Music.
+
+The remaining 9 were all Memory Capsules.
+
+“One more pull, might as well just use it.” Seeing that he had just enough points for the last pull, Chen Xu didn't hesitate and used it immediately.
+
+Along with the golden light, to Chen Xu's surprise, something actually appeared this time!
+
+It wasn't a Rare Skill Book, but a special item, just like the Memory Capsules.
+
+“Single pulls can yield miracles, is it that superstitious? But this thing?” Chen Xu fell silent for a moment.
+
+【Fear Converter】 (120 days)
+Effect: Converts player fear value into ten times the points (max 6 million).
+
+Evidently, this item was a limited-time item, a double experience card with a cap, but only limited to players' fear.
+
+What was unclear was whether the cap applied after conversion or before.
+
+However, Chen Xu estimated it was likely the cap after conversion.
+
+“And this item is different from the Memory Capsules; it's limited-time. Is this implying that I should make a horror game next?” Chen Xu was a little speechless.
+
+As for what to choose for his next game, Chen Xu himself had actually been contemplating it.
+
+First, it wouldn't be a small project like before; at least this time, he wanted to move towards 3D games.
+
+But at the same time, the scale couldn't be too large.
+
+Although game development in the Parallel World was much simpler than in his previous life.
+
+This didn't mean that no technical accumulation was required at all.
+
+It was like building with blocks; everyone had the same parts to use, but what could be built depended on one's individual skill level.
+
+The same applied to games, especially FPS and ACT-style games.
+
+For example, in action games, the most crucial aspect was the sense of impact.
+
+So, how does one create a sense of impact?
+
+Sound effects, controller feedback, special effects, UI interface vibration, and so on, plus various physical collision detections.
+
+There was also a more core element: freeze frames.
+
+Similarly, the same applied to FPS games.
+
+Therefore, for his next project, Chen Xu wasn't planning to make an overly complex game.
+
+“Thinking this way, a horror game doesn't seem out of the question. It could incorporate some action elements, and for horror games, these action elements aren't the primary core.” Chen Xu stroked his chin, thinking to himself.
+
+Although he had an idea in mind, Chen Xu didn't immediately act. Instead, he first did some research online to get a general understanding of the current state of horror games in the Parallel World.
+
+Simply put, it wasn't much different from his previous life.
+
+Whether in the film and television industry or the gaming industry, horror games rarely had large-scale productions.
+
+They were basically all 'small investment, big returns' types.
+
+However, compared to his previous life, the market share for pure horror games was quite a bit larger.
+
+Among them, there were even single titles with nearly ten million in sales.
+
+Of course, these were older types, usually offered at 'cabbage-level' prices during holidays and had been online for many years.
+
+Furthermore, there were no horror games that felt more suited for the VR platform.
+
+After all, games for the VR platform could be quite massive in terms of development costs.
+
+At the same time, horror games themselves were a relatively niche genre.
+
+Unless one had a particular fondness or special love for horror culture, no one would develop horror games on the VR platform.
+
+The risks were simply too great.
+
+As for horror games on the PC platform, they were divided into two types: one was the relatively low-cost approach.
+
+For example, the model used by Undertale and To the Moon.
+
+The other type was made as medium-to-small scale games.
+
+After gaining a general understanding of the Parallel World's horror game market and its development.
+
+Chen Xu quickly made a decision.
+
+He would make it as a medium-to-small scale game. With the revenue brought in by Mirror (Game), Undertale, and To the Moon, Nebula Games still had some capital.
+
+Moreover, although the horror game market was niche, that was in comparison to traditional game genres like FPS and RPG.
+
+If done well and able to generate buzz, horror games could also sell very well.
+
+Next, was the question of which game to make.
+
+As for horror games, Chen Xu had quite a few options to choose from.
+
+However, after careful consideration, Chen Xu decided to choose Outlast as his next game.
+
+It was mainly quite suitable.
+
+In terms of game scale, Outlast's playtime was approximately 5 hours. Of course, if speedrunning through the process, it could be finished in less than an hour.
+
+Secondly, compared to horror games like Resident Evil, Silent Hill, and The Evil Within, Outlast had a rather clever aspect.
+
+That is, in this game, the player takes on the role of a reporter who can only escape and cannot fight back.
+
+For Chen Xu, Outlast was actually a game for team cohesion and for him to more deeply test the game engine.
+
+As for action and shooting elements, they could be reflected in the game's monsters, while the player-controlled protagonist would perform basic actions like running and climbing.
+
+It could be said that in all aspects, Outlast was a game that quite aligned with Chen Xu's expectations.
+
+The only concern was the review process.
+
+After all, unlike Eastern-style horror games like Silent Hill and Fatal Frame, Outlast was pure Western horror, meaning it was quite bloody in the game.
+
+Although the Parallel World's review system was very complete, whether it could pass review still depended on the Game Department.
