@@ -26,7 +26,7 @@ GLOSSARY_FILE = "glossary.json"
 
 # Parallel Execution Config
 MAX_WORKERS = 3           # Max simultaneous translations
-STAGGER_DELAY = 30        # Wait 30s before starting the next chapter
+CHUNK_SIZE = 4000         # Characters per chunk (approx 2-3k tokens)
 
 # Thread synchronization
 glossary_lock = threading.Lock()
@@ -55,8 +55,6 @@ class TranslationOutput(typing.TypedDict):
     new_terms: list[TermEntry]
 
 def load_glossary():
-    # We load the glossary once at the start. 
-    # In a threaded environment, we rely on the in-memory dict updated under lock.
     if os.path.exists(GLOSSARY_FILE):
         with open(GLOSSARY_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -66,21 +64,41 @@ def save_glossary(glossary):
     with open(GLOSSARY_FILE, "w", encoding="utf-8") as f:
         json.dump(glossary, f, ensure_ascii=False, indent=4)
 
-def process_chapter(chapter_filename, glossary):
+def split_text(text, max_chunk_size):
     """
-    Handles the full process for a single chapter: Translate -> Save -> Update Glossary.
-    This runs inside the worker thread.
+    Splits text into chunks, respecting paragraph boundaries (double newlines).
     """
-    raw_path = os.path.join(RAW_DIR, chapter_filename)
-    translated_path = os.path.join(TRANSLATED_DIR, chapter_filename)
+    paragraphs = text.split('\n\n')
+    chunks = []
+    current_chunk = []
+    current_length = 0
     
-    with open(raw_path, "r", encoding="utf-8") as f:
-        text = f.read()
+    for para in paragraphs:
+        # +2 for the newlines we'll add back
+        para_len = len(para) + 2
+        
+        if current_length + para_len > max_chunk_size and current_chunk:
+            # Chunk is full, save it
+            chunks.append('\n\n'.join(current_chunk))
+            current_chunk = []
+            current_length = 0
+            
+        current_chunk.append(para)
+        current_length += para_len
+        
+    if current_chunk:
+        chunks.append('\n\n'.join(current_chunk))
+        
+    return chunks
 
+def translate_chunk(text_chunk, glossary, chapter_filename, chunk_index, total_chunks):
+    """
+    Translates a single chunk of text.
+    """
     model = genai.GenerativeModel(MODEL_NAME)
 
     prompt = f"""
-    Translate the following novel chapter into English. 
+    Translate the following novel chapter segment into English. 
     Maintain the nuance, tone, and style of the original.
     
     IMPORTANT: The output "translated_text" MUST be in Markdown format.
@@ -99,17 +117,16 @@ def process_chapter(chapter_filename, glossary):
     - "translated_text": The full English translation in Markdown format.
     - "new_terms": A list of objects, each with "original_term" and "english_translation".
     
-    Original Text:
-    {text}
+    Original Text Segment:
+    {text_chunk}
     """
 
     max_retries = 5
     base_delay = 10
 
-    result = None
     for attempt in range(max_retries):
         try:
-            print(f"[{chapter_filename}] Translating (Attempt {attempt + 1})...")
+            print(f"[{chapter_filename}] Translating Part {chunk_index+1}/{total_chunks} (Attempt {attempt + 1})...")
             response = model.generate_content(
                 prompt,
                 generation_config=genai.GenerationConfig(
@@ -119,7 +136,7 @@ def process_chapter(chapter_filename, glossary):
             )
             
             result = json.loads(response.text)
-            break # Success
+            return result
             
         except Exception as e:
             error_str = str(e)
@@ -128,30 +145,66 @@ def process_chapter(chapter_filename, glossary):
                 print(f"[{chapter_filename}] Rate limit hit. Waiting {wait_time}s...")
                 time.sleep(wait_time)
             else:
-                print(f"[{chapter_filename}] Error: {e}")
-                return # Fatal error for this chapter
+                print(f"[{chapter_filename}] Error in chunk {chunk_index+1}: {e}")
+                return None
+    
+    return None
 
-    if result:
+def process_chapter(chapter_filename, glossary):
+    """
+    Handles the full process for a single chapter: Split -> Translate Chunks -> Combine -> Save.
+    """
+    raw_path = os.path.join(RAW_DIR, chapter_filename)
+    translated_path = os.path.join(TRANSLATED_DIR, chapter_filename)
+    
+    with open(raw_path, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    # Split text into chunks
+    chunks = split_text(text, CHUNK_SIZE)
+    total_chunks = len(chunks)
+    
+    full_translated_text = []
+    all_new_terms = []
+    
+    success = True
+    
+    for i, chunk in enumerate(chunks):
+        result = translate_chunk(chunk, glossary, chapter_filename, i, total_chunks)
+        
+        if result:
+            full_translated_text.append(result["translated_text"])
+            if "new_terms" in result:
+                all_new_terms.extend(result["new_terms"])
+        else:
+            print(f"[{chapter_filename}] Failed to translate chunk {i+1}. Aborting chapter.")
+            success = False
+            break
+            
+    if success:
+        # Combine all parts
+        final_text = "\n\n".join(full_translated_text)
+        
         # 1. Save Translated Text
         try:
             with open(translated_path, "w", encoding="utf-8") as f:
-                f.write(result["translated_text"])
+                f.write(final_text)
         except Exception as e:
             print(f"[{chapter_filename}] Error saving file: {e}")
             return
 
         # 2. Update Glossary (Thread-Safe)
-        new_terms_list = result.get("new_terms", [])
-        if new_terms_list:
+        if all_new_terms:
             with glossary_lock:
-                print(f"[{chapter_filename}] Found {len(new_terms_list)} new terms. Updating glossary...")
-                for term in new_terms_list:
-                    glossary[term["original_term"]] = term["english_translation"]
+                # Deduplicate terms
+                unique_terms = {t['original_term']: t['english_translation'] for t in all_new_terms}
+                
+                print(f"[{chapter_filename}] Found {len(unique_terms)} new terms. Updating glossary...")
+                for original, english in unique_terms.items():
+                    glossary[original] = english
                 save_glossary(glossary)
         
-        print(f"[{chapter_filename}] DONE and Saved.")
-    else:
-        print(f"[{chapter_filename}] Failed after retries.")
+        print(f"[{chapter_filename}] DONE and Saved ({total_chunks} parts).")
 
 def main():
     parser = argparse.ArgumentParser(description="Translate novel chapters.")
@@ -197,10 +250,10 @@ def main():
         print("No chapters to translate.")
         return
 
-    print(f"Starting staggered translation.")
+    print(f"Starting translation.")
     print(f"Chapters to process: {[f for f in chapters_to_translate]}")
     print(f"Max Concurrent: {MAX_WORKERS}")
-    print(f"Stagger Delay:  {STAGGER_DELAY}s")
+    print(f"Chunk Size:     {CHUNK_SIZE} chars")
     
     prevent_sleep()
     
@@ -213,14 +266,8 @@ def main():
                 # Submit task
                 future = executor.submit(process_chapter, chapter_file, glossary)
                 futures.append(future)
-                
-                # Wait before scheduling the next one (Staggered Start)
-                # We don't wait after the very last one
-                if i < len(chapters_to_translate) - 1:
-                    time.sleep(STAGGER_DELAY)
             
             print("\nAll chapters scheduled. Waiting for completion...")
-            # Wait for all tasks to finish
             concurrent.futures.wait(futures)
             
     finally:
