@@ -2,3 +2,4 @@
 .venv
 raw_chapters/
 translated_chapters/
+__pycache__\
