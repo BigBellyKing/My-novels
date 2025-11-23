@@ -1,0 +1,146 @@
+Chapter 97: Valiant Hearts: The Great War
+
+Ruan Ningxue was called into the office. First, they confirmed the art and related resource production matters for Dark Souls. Afterward, Chen Xu brought up the upcoming Game Design Competition.
+
+"During this time, are we also going to simultaneously develop a game for the competition?" Ruan Ningxue asked curiously.
+
+"Simply put, it's me. For Dark Souls, it's just a matter of time remaining. I'll handle the new game myself, but I'll need two people from the art team to provide assets. I'll take care of the rest," Chen Xu said.
+
+"Understood," Ruan Ningxue nodded.
+
+
+………………
+
+While Chen Xu and Ruan Ningxue were talking, news of the Game Design Competition had already spread throughout the gaming industry.
+
+'The Game Department has another Game Design Competition!'
+
+'Anti-war theme, this one isn't simple!'
+
+'World Peace Day is in two months, and in recent years, there have been many voices in society claiming that domestic war-themed games breed violence. This time, the Game Department choosing anti-war as a theme also carries a bit of political nuance.'
+
+'Honestly, that's all nonsense. I don't know who these clowns are.'
+
+'Don't talk about that stuff, they're all just clowns. The gaming industry pays so much in taxes every year, we gamers are upright and shouldn't fear malicious gossip. Let's discuss this competition instead.'
+
+'I wonder if NetDragon and TengHua will participate in this year's competition? Last year, NetDragon's Jianhuolei participated.'
+
+'Probably not, haven't heard any movement from them. But speaking of last year, I'm more concerned if Chen Xu will participate. Last year's To the Moon was completely unexpected.'
+
+'I don't think so. Isn't he developing that PC blockbuster Dark Souls?'
+
+'Yeah, for Nebula Games, that game should be very important. If it succeeds, their platform has a high chance of becoming an exclusive platform. They probably won't be distracted, right?'
+
+'Then I'm relieved. I was really afraid of running into Chen Xu again. Plus, that guy is a quick worker. This competition's development cycle is much shorter than before. If he participates, he'll have a huge advantage.'
+
+Many Game Designers in the industry were discussing the news of this Game Design Competition.
+
+The main reason was also that this time's development cycle was relatively short.
+
+And honestly, for war-themed games, if you just want to portray war, everyone knows how to do it.
+
+It's nothing more than showcasing grand war scenes, and as for the player's experience afterward, it just depends on whether they enjoy it or not.
+
+But an anti-war theme, that's much more difficult.
+
+If not handled well, it won't lead players to reflect on anti-war ideas, but rather to embarrassment.
+
+Under these circumstances, creating an excellent anti-war-themed game can be said to be extremely challenging.
+
+
+………………
+
+In Nebula Games' office, Chen Xu was typing on the keyboard in front of him. On the computer screen was a design concept draft, titled: Valiant Hearts: The Great War.
+
+In his previous life, there were many anti-war games.
+
+But unlike most anti-war games, Valiant Hearts: The Great War, developed by Ubisoft, was a very special work.
+
+In terms of game scale, Valiant Hearts: The Great War could be said to be quite small.
+
+Because it was a 2D doodle cartoon-style adventure puzzle game.
+
+Even within the entire game, the characters didn't have many lines.
+
+There were no depictions of brutal war scenes; instead, it used a unique perspective and narrative approach, indirectly showing players the true nature of war through a story.
+
+The entire game didn't offer players the visceral thrill of bayonets dripping with blood, yet it possessed the kind of emotion, found in All Quiet on the Western Front and Schindler's List, that only erupts amidst the most tragic and terrifying disasters.
+
+Of course, besides that, there was another reason for choosing this game.
+
+That was, the game's scope wasn't large, and like To the Moon, it was quite moving.
+
+It was perfectly suited to harvest a wave of players' melancholic emotion points.
+
+After all, the upcoming Dark Souls, as well as the currently thriving Sanguosha and Fall Guys, were not games that would make players cry and feel sad.
+
+Hmm... perhaps when Dark Souls launches, players who accumulated tens of thousands of souls without spending them, then died once and died again before retrieving them, might experience a lot of sadness.
+
+Sitting in front of the computer, Chen Xu was writing the game's background story.
+
+Three soldiers from different countries, a female nurse, and a dog.
+
+The entire game did not tell the story of war's impact from a macro perspective.
+
+Or the core essence of war.
+
+It merely selected ordinary people caught in the war to tell their stories.
+
+It deeply portrayed the tragic scenes of war and the profound suffering it brought to people.
+
+
+………………
+
+As days passed, for Valiant Hearts: The Great War, Chen Xu primarily assigned two employees responsible for art resources to assist.
+
+He completed the rest by himself, making steady progress, but he wasn't in a hurry.
+
+After all, there was still quite a long time until the deadline for the Game Design Competition.
+
+In addition to that, the combat system for Dark Souls was basically finalized.
+
+What remained were minor optimizations and adjustments, which weren't major issues.
+
+It was the difficulty level that made Qin Yi and other planners involved in the game's numerical design and level/BOSS design feel a bit uncertain.
+
+Initially, knowing there was no difficulty setting, no mini-map, and high monster attributes, Qin Yi didn't have a direct understanding.
+
+But as they proceeded with level design on the map, the "water temperature" gradually felt off.
+
+First and foremost, the map design was indeed exquisite.
+
+Although Dark Souls 3's maps weren't as artistic as Dark Souls 1's, Dark Souls 3's single-scene maps alone were enough to surpass a large number of games.
+
+However, besides marveling at the ingenious map design,
+
+the traps added later, and the monster distribution on the map...
+
+Qin Yi had only one feeling: it was filled with malice!
+
+This was practically inhumane!
+
+To describe it in one sentence, this world was full of danger.
+
+There would be some collectible elements in the game, which would sparkle, practically shouting at players: 'Come quickly, come quickly, I'm waiting right here for you to collect me!'
+
+This wasn't anything special; almost all RPGs, and even non-RPGs, had such a setting.
+
+But Dark Souls was different from those seductive pretenders.
+
+In the world of Dark Souls, there might be a hidden monster right above where you pick up items, just waiting to give you a sudden surprise when you bend down to collect these elements.
+
+Furthermore, within the game, there would be various monsters hiding in dark corners and behind cover, or simply appearing around a corner to greet you.
+
+At the same time, the game also featured Mimics disguised as treasure chests; you'd excitedly run over, thinking you'd found a treasure chest, only to be swallowed whole by it.
+
+As for the complex death traps on some scene maps, there was no need to even mention them.
+
+Even on the branching paths early in the game, there would be enemies far stronger than regular mobs, so powerful that if a player hadn't yet figured out the game's basic mechanics, encountering them meant instant death!
+
+Moreover, the game had another setting: the currency used for leveling up and shopping would drop upon death.
+
+If you didn't retrieve it before dying again, it would simply vanish. There was even a monster respawn mechanism.
+
+Although it was still just design concept planning and not fully implemented, Qin Yi could already visualize the game's appearance just by looking at it.
+
+(End of chapter)

@@ -1,0 +1,59 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 131</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Author's Note on Release</p>
+<p>Author's Note on Release</p>
+<p>Woo... it's officially released today. I don't really know what to say in an author's note, so to make a long story short...</p>
+<p>How far a book can go depends on its subscriptions. I hope everyone can support it.</p>
+<p>From the start of the book until now, I also want to thank everyone for their votes and tips.</p>
+<p>The final update will be released around 6 PM. Because I don't have any drafts saved up (sobbing), I'll update as much as I can, but it won't be less than ten thousand characters.</p>
+<p>As for extra updates, the book currently has 20,000 favorites. Starting from zero, 200 average subscriptions will get an extra update. Additionally, previous tips resulted in one Alliance Master, adding another update. The cumulative tips total 120,000 points, with 10,000 points counting as one update, for a total of 12 extra updates.</p>
+<p>Of course, it's impossible to release them all at once. With a minimum of 2 updates, I'll pay them back gradually.</p>
+<p>Finally, thanks to all my readers, and thanks to my editor, Niqiu.</p>
+<p>That's it, mwah. I hope everyone can support the legitimate subscriptions.</p>
+<p>(End of this chapter)</p>
+                <div class="nav">
+                    <a href="chapter_130.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_132.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

@@ -1,0 +1,143 @@
+Chapter 63: Relaxed Game Development
+
+The game's art style and character design requirements.
+
+The game's core gameplay, and the numerical design's control over player psychology.
+
+The design of different scene maps, and the expandable Workshop gameplay.
+
+Including the experimental nature of this game for platform promotion.
+
+Chen Xu didn't fully dissect all these points, only giving a general overview.
+
+After all, it was just concept drafts; getting into the real details would require subsequent development.
+
+Moreover, everyone present – from music, levels, numerical design, and art to marketing operations and platform – needed to be involved, so going into too much detail would actually be counterproductive.
+
+“Does anyone have any questions?” Chen Xu asked, looking at the group.
+
+Ruan Ningxue and Yang Xin shook their heads.
+
+Their side handled art and plot design.
+
+And judging by the content of the design concept drafts, the game's story was essentially an add-on, with no major work required.
+
+As for the art, the concept art was already out, and the cartoon style to adopt was practically decided.
+
+Only finalization of details would be needed later.
+
+The others mostly shook their heads as well, indicating they had nothing to say.
+
+In fact, everyone present was quite surprised.
+
+Because even though they were just concept design drafts, they had already formed the embryonic form of the entire game.
+
+All that remained was to develop it according to this model.
+
+As for the actual effect, that would have to wait until the DEMO was released for judgment.
+
+After all, it's hard to determine the quality of a game solely based on design concept drafts; no matter how good they are, they remain theoretical.
+
+The development team had basically no issues, but Zhang Yida, responsible for operations, had something to say.
+
+Zhang Yida spoke, “Mr. Chen, are we planning to launch this game during the Spring Festival?”
+
+Chen Xu said, “To be precise, it will launch on Valentine's Day.”
+
+Zhang Yida continued, “In that case, Mr. Chen, I suggest that at that time, we can adopt a coupon distribution model for the game, allowing players to get lower price discounts on the Nebula Games platform.”
+
+“At the same time, we can use the concept of a couple's game as a promotional gimmick. Based on market research, we should be the first to do so, and intrinsically, from the game's gameplay mode, it is indeed a cooperative type of game.”
+
+“Experience the sweetness of love, come to *Overcooked*! This can be our game slogan.”
+
+Unlike the R&D team, Zhang Yida would not be directly involved in game development.
+
+And as an experienced professional, Zhang Yida had developed some understanding of Chen Xu during this period.
+
+Game-related matters were non-negotiable, but promotion and operation outside of the game were open to collective input.
+
+Currently, the full development cycle for *Overcooked* was just over two months.
+
+Under these circumstances, finalizing the promotion was quite important, especially since *Overcooked* was considered an experimental game for promoting the Nebula Games platform.
+
+It couldn't be developed silently and then just thrown onto the market.
+
+If that were the case, especially during the Spring Festival when many games converge, it definitely wouldn't make a splash.
+
+Therefore, the promotion plan needed to be determined starting now.
+
+“For discounts, let’s be even more direct: buy one get one free. *Overcooked* is inherently a cooperative multiplayer game. As for the slogan and promotion, don't just limit it to couples. Although we've chosen Valentine's Day for launch, brotherhood, sisterhood, and strong friendships can all be used as promotional keywords,” Chen Xu said, nodding upon hearing this.
+
+……………………
+
+The concept drafts for *Overcooked* were explained, and the promotional direction was set. The entire team began preparing for the game's development.
+
+While others were deeply understanding the concept drafts and refining the art, plot, and related designs, Chen Xu was not idle either.
+
+In his office, Chen Xu used the Memory Capsule to organize and record some excellent level designs.
+
+The development difficulty of *Overcooked* primarily stemmed from its level design and numerical design.
+
+If it were too simple, the game would lose much of its charm.
+
+Just like the Souls series games, difficulty isn't the sole core of a Souls series game, but it is definitely a major characteristic.
+
+If a Souls series game turned into a Musou game, many of its original designs would no longer be brilliant but rather cumbersome.
+
+Although *Overcooked* is a common small-scale game, the same principle applies: if the difficulty curve isn't managed well, the game's essence will be lost.
+
+For example, chopping vegetables, washing dishes, preparing ingredients, and cooking, including the possibility of the kitchen catching fire and needing a fire extinguisher.
+
+These are gameplay elements, but more important is the arrangement of numerical values.
+
+If the time and score values are too high, it appears to be making things difficult for players.
+
+But if the values are too lenient, then all these settings in the game won't seem very important.
+
+Therefore, Chen Xu needed to properly control the difficulty.
+
+As a casual game, it needed to allow players to pass levels smoothly.
+
+However, achieving a three-star perfect rating would require a certain level of cooperation between two players.
+
+Finally, there was the online system. *Overcooked* was also Nebula Games' first online game.
+
+The server aspect definitely needed to be handled well.
+
+It should be known that *Overcooked* was a game whose selling point was its multiplayer connectivity.
+
+………………
+
+With the entire game plan and strategy finalized, the entire R&D department operated efficiently under Chen Xu's leadership.
+
+On the art side, Chen Xu explained the key points of *Overcooked* to Ruan Ningxue and the newly hired artists.
+
+“The overall art style of the game leans towards warm tones. Even the zombies in the background should give players a Q-style cute feeling. This is an all-ages game, a casual simulation game. We don't need it to be highly realistic or perfectly match the background, but it absolutely must be something that people of all ages won't dislike.”
+
+“Understood.” Ruan Ningxue nodded.
+
+As an artist, she had already participated in the development of four games with Chen Xu.
+
+It could be said she completely understood, while the new artist next to her looked bewildered.
+
+Because she felt her task was like an assembly line!
+
+The style, and even the simple sketches and requirements for characters, were so detailed they couldn't be more so.
+
+Handing it directly to an outsourcing company would immediately yield assets.
+
+Wasn't the position she applied for 'Art Designer'? Why did it feel like she only needed to check the quality of outsourced assets, without doing any design herself?
+
+A similar situation also occurred with Qin Yi and others.
+
+However, with their previous experience on *Outlast*, no one was particularly surprised this time.
+
+They only had one feeling: ease.
+
+Although overtime was inevitable, the crucial point was that useless design work rarely occurred.
+
+Areas that needed to be redone were mostly due to issues with details, not major directional problems.
+
+It was simply too easy!
+
+(End of Chapter)

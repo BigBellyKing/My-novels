@@ -1,0 +1,141 @@
+Chapter 62: Some Changes
+
+The overall plan for *Overcooked* was actually relatively simple.
+
+The story wasn't much; just simple cutscene CG animations. Unlike *To the Moon* and *Undertale*, this wasn't a story-driven game.
+
+Maps and levels, this was the most important aspect of *Overcooked*.
+
+Combined with the game's mechanics of chopping vegetables, washing dishes, and cooking meals, the quality of the level design directly impacted the player's experience in the game.
+
+At the same time, the game featured various different scenarios, with each act having a different themed environment, using different models, textures, and so on.
+
+Finally, *Overcooked*'s most distinctive feature was its gameplay mechanics.
+
+Players chopping vegetables, map environmental interaction, and washing dishes and cooking.
+
+The numerical design determined the game's difficulty and actual experience.
+
+However, this aspect wasn't a big problem for Chen Xu.
+
+Through the system's lottery, he had drawn many skill books related to numerical design during this period.
+
+If it were for large-scale, data-driven games like MOBA or RTS, it might still be a bit challenging.
+
+But for *Overcooked*, it was entirely effortless, not to mention the assistance from the Memory Capsule.
+
+After these aspects were handled, the remaining elements like music, UI, and so on, were not too important for this game.
+
+Furthermore, Chen Xu's changes to *Overcooked* primarily focused on game content expansion.
+
+In his previous life, *Overcooked* essentially had no MODs.
+
+Because if players were to create them, the workload would be too large.
+
+And game developers certainly wouldn't release the resources.
+
+After all, the core of *Overcooked* was its gameplay combined with varied maps.
+
+If they allowed players to expand it, what map DLCs would they sell later on?
+
+Of course, this was also related to the fact that the development team hadn't considered this aspect at all during game development.
+
+However, for Chen Xu, *Overcooked* would serve as a pilot project.
+
+After all, unlike his previous life, games in this Parallel World were basically all made using editor engines.
+
+As for MODs, they were very common in his previous life, with many games even being developed based on MOD gameplay.
+
+In the Parallel World, however, few game developers would open them up.
+
+On one hand, it was troublesome, and on the other hand, opening them up could easily leak the game's core numerical design.
+
+Moreover, to allow players to create MODs, the game's own resource architecture needed to be structured, considering it from a design perspective.
+
+This made many designers too lazy to even consider it.
+
+After all, it was troublesome and brought no profit.
+
+However, Chen Xu was very clear that MODs were extremely important for a game.
+
+Not just for Independent Games, but the existence of MODs could also enhance large-scale games.
+
+And *Overcooked* was considered an experimental work.
+
+For this game, Chen Xu planned to consider how to make MOD creation more convenient for players from the game's architecture itself, rather than simply opening a port like most games that allow MODs.
+
+In that case, players would still face a significant learning curve, which wouldn't be conducive to the spread of MODs.
+
+“For the Workshop community, if players want to play MODs, they must go through the Nebula Games platform. To facilitate this, a dedicated server will need to be set up for data backup.”
+
+“Additionally, the artistic architecture needs to be changed.”
+
+Chen Xu typed on the keyboard, writing the design concept drafts.
+
+Regarding this aspect, Chen Xu planned to make the game with block-based splicing, just like Minecraft.
+
+Various equipment and props in the game, such as conveyor belts, sinks, cabinets, fire extinguishers, serving areas, and gas stoves, as well as large props like hot air balloons, would all be individually movable.
+
+However, different background themes would be fixed, such as glaciers, ordinary restaurants, or even the world's core...
+
+Sitting in front of the computer, Chen Xu gradually perfected the related settings for *Overcooked*.
+
+After spending a day and a half to roughly finalize the design concept drafts for *Overcooked*, Chen Xu also prepared to hold a meeting to explain the new project work.
+
+***
+
+In a not-so-large conference room, a group of people sat whispering.
+
+Just then, the conference room door was pushed open, and Chen Xu walked in.
+
+Seeing Chen Xu arrive, everyone stood up from their respective seats.
+
+“Have a seat, everyone. I'll briefly explain our upcoming development plan,” Chen Xu said.
+
+Hearing Chen Xu's words, everyone showed excited expressions.
+
+They had previously caught wind of some rumors that a new project would be starting soon, and everyone was champing at the bit.
+
+The success of *Outlast* earlier had earned everyone a hefty bonus.
+
+After all, projects mean money.
+
+Of course, they had to succeed.
+
+Moreover, everyone was quite impressed with Chen Xu's capabilities.
+
+After all, they had no choice but to be convinced; Chen Xu's track record in games since his debut was enough to awe everyone.
+
+“Unlike the previous *Outlast*, this time we're turning our attention to developing a game primarily intended for launch during the Spring Festival.”
+
+“But don't worry, the scale of this game won't be very large; it will be significantly smaller than *Outlast*.”
+
+Chen Xu said, smiling as he looked at their expressions.
+
+However, Chen Xu's expression then became a little more serious.
+
+“Although this project is small in scale, it holds extraordinary importance for the company's development. I hope to leverage this game, taking advantage of the Spring Festival window, to gradually roll out our own platform,” Chen Xu said seriously.
+
+The people present had essentially all signed non-disclosure and non-compete agreements, so Chen Xu wasn't too worried about them leaking secrets.
+
+After all, Nebula Games was currently thriving, and Chen Xu had previously revealed news of the company's impending expansion, including making some grand promises.
+
+Besides, even if these things were leaked, it wouldn't really be a big deal.
+
+Because anyone in the gaming industry, especially game companies, wanted to build their own channels, didn't they?
+
+Chen Xu was perfectly aware of this.
+
+However, seeing Chen Xu's demeanor, everyone present appeared very serious, yet even more so, excited.
+
+Everyone was still young, and no one wanted to drift along in an unambitious company.
+
+Of course, the prerequisite was that the company truly had strength, otherwise, it would purely be toxic motivational speeches and grand promises.
+
+“Next, this is the game we're preparing to develop. Here are the Concept Drafts, everyone please take a look.”
+
+“After you've seen it, feel free to bring up any thoughts or opinions, including ideas for game promotion.”
+
+Chen Xu turned on the projector, and the design concept drafts for *Overcooked* appeared on the screen.
+
+(End of Chapter)

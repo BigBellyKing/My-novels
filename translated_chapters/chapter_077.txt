@@ -1,0 +1,65 @@
+Chapter 77: Some Changes to Game Attributes
+
+In the office, Chen Xu was refining the details of two game design concept drafts.
+
+*Sanguosha* was relatively simple.
+
+In his previous life, this game borrowed from the design philosophy of *BANG!* and localized it to fit the Three Kingdoms theme. For example, the Lord, Loyalist, Rebel, and Spy in the game correspond to the Sheriff, Deputy, Outlaw, and Renegade.
+
+Of course, compared to *BANG!'s* gameplay, *Sanguosha* also introduced many novel improvements based on it. For instance, each of the Three Kingdoms generals that players controlled in the game had unique skills. Additionally, regarding the skill effects of the cards, *Sanguosha* also made detailed changes, differing from the original *BANG!*.
+
+Setting aside the so-called balance issues, *Sanguosha* actually possessed very high replayability. It could be described as a game where both luck and strategy coexisted.
+
+In his previous life, many players would grit their teeth when *Sanguosha* was mentioned, not because of the game itself, but because of Youka, the operating company behind it. One could even say it was a miracle that this game managed to survive for 13 years under Youka's operation and still retain some vitality.
+
+If one were to list Youka's sins, it could be said that there was a new point of criticism every year. But if one were to mention its most famous and earliest pitfall beginning, *Rise of a General* would have to be discussed.
+
+The so-called *Rise of a General* initially had little to do with the online version of *Sanguosha*. Because it was merely a benefit for physical card players. The generals within it were player-designed, with the official team making minor balance adjustments. Its main purpose was to satisfy players' desire to have their own designed generals. As a board game, if these cards were unbalanced, players could simply choose not to include them when playing offline.
+
+But the most peculiar aspect of *Sanguosha* in his previous life was its "one game, two systems" approach. It was divided into Southern Youka and Northern Youka, with one responsible for physical offline board games and the other for the online version.
+
+When it came to the online version of *Sanguosha*, the operations team had a eureka moment. "These ready-made generals are so good! Wouldn't it be a waste not to add them? Add them, absolutely! And once added, they must be sold to players." This led to *Sanguosha*'s balance exploding, with Ma Dai and Bu Lianshi in 2012, and Cao Chong and Empress Fu in 2013. It truly ushered in the era of unbalanced generals.
+
+To what extent were these generals unbalanced? Some players even spontaneously banned Cao Chong and Empress Fu. It could be said that these overpowered generals completely disrupted the game environment. Why? Those who know, know. This also laid the groundwork for what followed: each generation became stronger than the last, and generals who once relied on Attack and Dodge were essentially completely outdated. From the Wuxia era, it officially entered the Cultivation era.
+
+Of course, from the perspective of game development, especially the cards that followed in card games, which were the generals in *Sanguosha*. Gradually getting stronger was actually an unavoidable phenomenon; the key was to grasp the right degree.
+
+Although these actions had already disgusted a large number of players. But as things stood, there was still some room for redemption.
+
+But did you think they suddenly realized their mistakes, and that was the peak of annoying players? Then you could only say you severely underestimated Youka.
+
+They first announced an event where buying any 23 paid generals would permanently grant Zuo Ci, then immediately threw the cheapest generals, which players bought the most, into the free member pool. "The game needs to undergo an engine upgrade, to make the graphics better and the player experience more enjoyable." "How thoughtful!"
+
+"But beware, old players cannot inherit their previous generals and skins when playing the new version!"
+
+The official team stated that they launched a generous event to share 200 million ingots. From afternoon until 11 PM, only over 3,000 players participated. However, in the last ten minutes of the event that night, suddenly over 400,000 phantom soldiers appeared. The official explanation for this was that there were indeed that many players, and those 400,000 players just coincidentally swarmed online in those last ten minutes. "Isn't that a coincidence?"
+
+Coupled with the phrase, ‘Our game is thriving,’ it truly had a sense of black humor.
+
+Of course, there were also some other points to note, particularly the game's art. Because in early *Sanguosha*, the art could be described as a hodgepodge. After all, in its early days, *Sanguosha* was a mom-and-pop operation, jointly developed by Huang Kai and his girlfriend, Li You. Most of the early characters were derived from *Dynasty Warriors* assets, and in the later official version, it also borrowed from many comics. For instance, the 'Attack' basic card's prototype came from Gin Ichimaru's movements in *Bleach*.
+
+However, these weren't major issues, as *Sanguosha*'s core essence lay in its mechanism architecture. Therefore, regarding *Sanguosha*, Chen Xu didn't need to change anything in terms of game rules and content.
+
+Temporarily, overpowered generals would not be added, and a broad balance would be maintained in the future.
+
+Operation-wise, the online version would definitely be the primary focus, and *Sanguosha* would be offered as a free-to-play game to players. The main revenue stream would still be skins and other cosmetic items. As for generals, a progression-based model would be adopted. Aside from basic generals, several free generals would be rotated weekly for players to use. Players would earn corresponding gold coins after each match in the game, and there would also be daily quests that grant gold coins upon completion. These gold coins could be used to purchase generals and some skins, or players could directly recharge to buy them. The purpose of this approach was secondary to profit; more importantly, it was to enhance the game's progression system and increase player abandonment and stickiness costs. Apart from cosmetic skins, players could completely enjoy the core content of *Sanguosha* for free. Furthermore, regarding the purchase of generals, Chen Xu would not intentionally make players grind excessively, such as requiring a month of grinding to acquire a single hero. This kind of setting would not be implemented. After all, the core of *Sanguosha* was primarily to strengthen the player stickiness for the Nebula Games Platform.
+
+Of course, there would also be more detailed optimizations later. For example, in offline board games, the Spy, Loyalist, Lord, and Rebel identities didn't feel significantly different because the social attribute outweighed the game attribute. But in the online version, it was completely the opposite: the game's win-loss attribute outweighed the social attribute, and there would be corresponding scores to differentiate players' matchmaking levels. This led to a situation where many people were unwilling to play as the Spy. In his previous life, *Sanguosha* had also faced such a situation. Many players who randomly received the Spy role would either choose to flee immediately or directly switch sides and kill the Lord to end the game quickly. At that time, *Sanguosha* was even called "Rebel Kill." This was clearly unreasonable.
+
+Therefore, Chen Xu also planned to balance the Spy's identity through third-party factors. For example, combining rewards with a Spy control-the-field mode. Because the Spy's win rate was very low, primarily due to the difficult winning conditions: they needed to kill everyone except the Lord, and then kill the Lord. Any other situation apart from these conditions would result in a loss. In such a situation, even if the penalty points were few, who would be willing to painstakingly control the field only to lose and still have points deducted? This was also the main reason many people didn't want to play as the Spy.
+
+Therefore, in Chen Xu's design, the Spy's score and rewards would not be based solely on victory or defeat, but on a field control model. For example, a Spy victory would earn 20 points; if the Spy failed in a final duel against the Lord, they could still get 15 points; if there was one Lord, one Rebel, and one Spy, and the Spy failed, they could get 10 points. And so on. As a unique third-party faction, the Spy's score could not be judged purely by victory or defeat. Of course, the actual effect would depend on player feedback during official operation, and adjustments would be made accordingly.
+
+Compared to *Sanguosha*, the other game, *Fall Guys*, was responsible for a rapid dissemination direction.
+
+In terms of stickiness, *Fall Guys* was certainly inferior to card-battling games like *Sanguosha*. But in terms of short-term popularity, *Fall Guys* would definitely surpass *Sanguosha*. In his previous life, its single-month sales on Steam alone reached tens of millions. This already proved the point; *Fall Guys* was a game with considerable charm.
+
+Moreover, unlike *Overcooked*, *Fall Guys* was a more comprehensive entertainment game. Even in single-player mode, players could still have a good experience in *Fall Guys*. This was something cooperative games like *Overcooked* couldn't achieve. After all, among gamers, "lone wolf" players were quite numerous. It wasn't that these players had no friends or girlfriends. It was just that their friends or girlfriends didn't like playing games, or couldn't spare the time to play.
+
+Similarly, compared to *Sanguosha*, *Fall Guys* could also be paired with a Workshop, allowing players to design their own levels.
+
+In terms of gameplay architecture, *Fall Guys* wasn't particularly complex. The only thing to note was the game's unique physical performance. In his previous life, the reason *Fall Guys* had such charm was partly due to its physical effects. The seemingly clumsy Fall Guys characters waddling towards the finish line, with physics reflecting bouncy rubber. It could be said that this was the game's hidden selling point, and such games were also called "silly games" by players. For example, *Gang Beasts*, *Party Animals*, and *Human: Fall Flat* all relied on the sense of chaos brought by comical physical effects, thereby attracting players indirectly.
+
+What made it different was that *Fall Guys* was a game that could accommodate multiplayer competition, integrating the characteristics of a variety show obstacle course. This meant that for "lone wolf" players, the game experience would be even better. Therefore, in terms of sales and popularity, it also completely dominated these other games.
+
+(End of Chapter)

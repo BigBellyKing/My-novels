@@ -91,6 +91,30 @@ def split_text(text, max_chunk_size):
         
     return chunks
 
+def validate_translation(filepath):
+    """
+    Checks if the translation file seems complete by looking for the end marker.
+    """
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+            
+            if not content.strip():
+                return False
+            
+            # Check for the specific marker the user mentioned (case-insensitive)
+            content_lower = content.lower()
+            if "(end of chapter)" in content_lower or "(end of this chapter)" in content_lower:
+                return True
+            # Also check for the original marker in case it wasn't translated
+            if "(本章完)" in content:
+                return True
+                
+            return False
+    except Exception as e:
+        print(f"Error validating {filepath}: {e}")
+        return False
+
 def translate_chunk(text_chunk, glossary, chapter_filename, chunk_index, total_chunks):
     """
     Translates a single chunk of text.
@@ -105,6 +129,7 @@ def translate_chunk(text_chunk, glossary, chapter_filename, chunk_index, total_c
     - Use double newlines (\\n\\n) to separate paragraphs.
     - Do NOT collapse the text into a single block.
     - Preserve the dialogue structure.
+    - Translate "(本章完)" as "(End of Chapter)".
     
     You MUST strictly follow this glossary of names/terms:
     {json.dumps(glossary, ensure_ascii=False)}
@@ -185,6 +210,35 @@ def process_chapter(chapter_filename, glossary):
         # Combine all parts
         final_text = "\n\n".join(full_translated_text)
         
+        # Validate Content Before Saving
+        is_valid = False
+        content_lower = final_text.lower()
+        if "(end of chapter)" in content_lower or "(end of this chapter)" in content_lower or "(本章完)" in final_text:
+            is_valid = True
+        else:
+            print(f"[{chapter_filename}] WARNING: Missing end marker after translation.")
+            
+            # Attempt to retry the LAST chunk only
+            if chunks:
+                print(f"[{chapter_filename}] Retrying last chunk to fix missing marker...")
+                last_chunk_idx = len(chunks) - 1
+                retry_result = translate_chunk(chunks[last_chunk_idx], glossary, chapter_filename, last_chunk_idx, total_chunks)
+                
+                if retry_result:
+                    # Check if the new last chunk fixes it
+                    new_last_text = retry_result["translated_text"]
+                    if "(end of chapter)" in new_last_text.lower() or "(end of this chapter)" in new_last_text.lower() or "(本章完)" in new_last_text:
+                        full_translated_text[last_chunk_idx] = new_last_text
+                        final_text = "\n\n".join(full_translated_text)
+                        is_valid = True
+                        print(f"[{chapter_filename}] Retry successful! Marker found.")
+                    else:
+                         print(f"[{chapter_filename}] Retry failed. Still missing marker.")
+        
+        if not is_valid:
+            print(f"[{chapter_filename}] CRITICAL: Validation failed. Saving anyway (as requested) to preserve partial translation.")
+            # We do NOT return here anymore. We save what we have.
+
         # 1. Save Translated Text
         try:
             with open(translated_path, "w", encoding="utf-8") as f:
@@ -211,6 +265,7 @@ def main():
     parser.add_argument("--limit", type=int, help="Limit the number of chapters to translate")
     parser.add_argument("--chapters", type=int, nargs="+", help="Specific chapter numbers to translate (e.g. 1 5 10)")
     parser.add_argument("--force", action="store_true", help="Force re-translation even if file exists")
+    parser.add_argument("--fix-only", action="store_true", help="Only re-translate broken chapters, do not translate new ones")
     args = parser.parse_args()
 
     os.makedirs(TRANSLATED_DIR, exist_ok=True)
@@ -235,11 +290,19 @@ def main():
             continue
             
         # Check if it already exists
-        if os.path.exists(translated_path) and not args.force:
-            # If user specifically asked for this chapter but didn't use force, warn them
-            if args.chapters and chapter_num in args.chapters:
-                print(f"Skipping {chapter_file} (already translated). Use --force to overwrite.")
-            continue
+        if os.path.exists(translated_path):
+            if not args.force:
+                # Check if the existing translation is complete
+                if validate_translation(translated_path):
+                    if args.chapters and chapter_num in args.chapters:
+                         print(f"Skipping {chapter_file} (already translated and valid). Use --force to overwrite.")
+                    continue
+                else:
+                    print(f"Retranslating {chapter_file} (found incomplete translation).")
+        else:
+            # File does not exist
+            if args.fix_only:
+                continue
             
         chapters_to_translate.append(chapter_file)
 

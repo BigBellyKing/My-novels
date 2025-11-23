@@ -1,0 +1,59 @@
+Chapter 209: A Large Batch of Sandbox Games (Requesting Subscriptions, Monthly Passes)
+
+The current game content definitely cannot be officially launched. Some features in the game have not yet been implemented, and the MOD tools are still undergoing internal debugging. Additionally, there is the review process for the Workshop.
+
+Before this, the main MOD content in the Workshop was for *Overcooked* and *Fall Guys*. The MODs developed by players for these two games were still based on components of the games' existing assets. So there wouldn't be any major problems. But now it's different, especially with the previous release of *Don't Starve*. For this game, Chen Xu granted players more permissions regarding MODs.
+
+Players can even modify some text descriptions in the game, and also implement higher-level changes to game content rules, as long as they are willing. Of course, whether it's good or bad, interesting or not, depends on the individual capabilities of the MOD makers. But it also made the MOD content for *Don't Starve* more complex.
+
+Compared to *Don't Starve*, *Minecraft*'s nature is even more prominent. Therefore, constant attention must be paid to the Workshop and player community. The amount of content in this area is quite substantial, so it also requires a dedicated review team.
+
+According to Chen Xu's plan, *Minecraft* will be launched in early February, which is around the Lunar New Year. At the same time, a small-scale closed beta will be released after New Year's Day to collect player feedback on game content and detailed user experiences.
+
+For instance, facing *Minecraft*'s completely free game mode, can players understand how to play it? Do they need new player tutorial guidance to grasp the basic operations in the early stages of the game? Also, in what areas did the game encounter problems? Did the controls or content make players feel uncomfortable? All this information needs to be collected during testing.
+
+After the testing is complete, based on the feedback received from these issues, Chen Xu and the team can decide whether or not to modify the game content. The period from the completion of testing to the game's launch is the reserved time. Of course, even if modifications are needed, they will mostly be limited to controls and tutorials, because the overall gameplay and framework of the game have already been set and will not change.
+
+...
+
+As *Minecraft*'s content gradually solidified, the market also saw the arrival of many sandbox games. Various developers competed to promote their games, hoping to get a slice of the pie before the sandbox game trend passed.
+
+Amidst the overwhelming publicity, games from NetDragon and TengHua, two major developers, were the most eye-catching. Although they hadn't launched yet, they were highly anticipated by many players. As for the reason? It's very simple: as major game developers, TengHua and NetDragon allocated sufficient budgets for this brand new sandbox game genre.
+
+Although for TengHua and NetDragon, such a budget was merely a trial run, given their vast enterprises, even a trial run budget was far beyond what ordinary companies could match. This led to high anticipation among players for TengHua's and NetDragon's new titles, *Voyage* and *Wasteland*.
+
+The former uses a nautical adventure as its entry point, while the latter features a post-apocalyptic worldview. TengHua's *Voyage* focuses primarily on adventure content, marketed externally as the first nautical sandbox game. NetDragon's *Wasteland* focuses on post-apocalyptic survival.
+
+The specific gameplay content isn't clear, as not much has been revealed, just the theme. But it must be said, they are indeed very attractive to players. There are quite a few wasteland-themed games, but few purely focus on survival. Nautical themes are even rarer. Adding sandbox elements immediately made these two games unique.
+
+Notably, the producer of NetDragon's *Wasteland* was Chen Xu's old acquaintance, the warm-hearted Teacher Meng. Among games released concurrently, these two titles certainly captured players' attention. After all, with good graphics, big-developer backing, and clear selling points, it was naturally hard for them not to attract players.
+
+During this period, following *Don't Starve*, some second and third-tier game developers also released their new titles. However, given the timing, most of them simply followed the trend, or even re-skinned old games and branded them as sandbox games. All of them were heavily criticized by players, with the highest rating barely reaching 7 points.
+
+Yet, precisely because of this, the industry actually became more optimistic about the future of sandbox games. Such fierce criticism indicated that players actually had high expectations for this genre. As for the games that were criticized, one could only say they were purely trying to make a quick buck. In terms of gameplay and settings, even without the 'sandbox' label, they would have been pretty much the same. In fact, by being branded as sandbox games, these titles received even more attention than before.
+
+The industry was constantly discussing the direction of sandbox games.
+
+"It feels different from the META games Chen Xu introduced back then. Perhaps sandbox games can become a major category in gaming?"
+
+"Indeed, with TengHua's *Voyage* and NetDragon's *Wasteland*, the attention has been steadily rising. I heard both companies increased their respective budgets."
+
+"Speaking of which, it's interesting in recent years. Whatever game one of them makes, the other immediately starts a project for it."
+
+"Haha, old rivals. But it makes me want to make a sandbox game too."
+
+"I advise caution. Although sandbox games seem to have excellent prospects, currently only *Don't Starve* has been validated by the market. The core of what defines a 'sandbox game' is still debatable. And looking at the current buzz, unless you launch before TengHua and NetDragon, it'll be hard to get a piece of it. It's better to observe the future development of sandbox games!"
+
+"Indeed, while the gaming industry isn't a zero-sum market, during this period, with a large number of sandbox games crowding the market, plus TengHua and NetDragon, if they succeed, they will undoubtedly capture many potential sandbox players. It's better to wait and see, at least understand the core aspects of sandbox games before entering the market."
+
+"Exactly, let's wait and see for a bit."
+
+"But Chen Xu seems to have been quiet recently. He launched a Game Design Competition not long ago, and I thought he'd participate like he did in the past two years."
+
+"Yeah, after *Don't Starve* was developed, he hasn't done much."
+
+"He's probably developing some new game, I guess?"
+
+While the industry was discussing the market and development of this large wave of sandbox games, in Nebula Games' office, Chen Xu, Qin Yi, Ruan Ningxue, and other team members were busy building houses.
+
+(End of Chapter)
