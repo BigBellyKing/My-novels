@@ -1,0 +1,68 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 104</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 203: Industry Discussions (Seeking Subscriptions, Monthly Passes)</p>
+<p>Chapter 203: Industry Discussions (Seeking Subscriptions, Monthly Passes)</p>
+<p>Initially, the META game concept in Undertale, developed by Chen Xu, opened up a new line of thinking for many Game Designers in the industry.</p>
+<p>Following this, the independent game scene also saw an explosion of META game fever.</p>
+<p>The second time was with the release of Overcooked and Fall Guys. Their cooperative and variety show-style gameplay similarly inspired many Game Designers.</p>
+<p>However, subsequent titles like Dark Souls and It Takes Two, despite also providing inspiration to many designers, revealed different insights.</p>
+<p>They highlighted the lack of excellent two-player cooperative games and that players' acceptance of hardcore games was higher than imagined.</p>
+<p>But in terms of the games' actual gameplay and settings, they generally offered little practical reference for many Game Designers.</p>
+<p>This was because the improvement came from overall quality, and many small studios and independent game designer teams simply couldn't bear the cost risks.</p>
+<p>Now, the emergence of Don't Starve and its so-called sandbox game genre, has brightened the eyes of many Game Designers.</p>
+<p>Though, as of now, all Game Designers have yet to fully grasp the core concept of Don't Starve or the concept of sandbox games.</p>
+<p>For instance, what exactly is the success factor of Don't Starve? Is it the survival gameplay, the collection and building elements within the game, or other hidden reasons?</p>
+<p>Nevertheless, it's undeniable that this type of game, Don't Starve, is completely worth trying.</p>
+<p>Because it has a fundamental element: Don't Starve is not a big-budget production.</p>
+<p>Judging by Don't Starve's art assets and its finished scale, it's clearly a standard independent team game.</p>
+<p>And small-scale production means low trial-and-error costs.</p>
+<p>Furthermore, from the overall external framework, many designers feel that replicating the success of Don't Starve is much easier than that of Dark Souls.</p>
+<p>Because the theme of Don't Starve is very clear: it simulates a rich sandbox world and allows players to survive better within it.</p>
+<p>The only question is how to achieve this in other sandbox games.</p>
+<p>On a certain industry forum, many renowned independent Game Designers, as well as designers from second and third-tier companies, were discussing the pros, cons, and direction of Don't Starve.</p>
+                <div class="nav">
+                    <a href="chapter_103.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_105.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

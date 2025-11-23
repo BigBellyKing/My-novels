@@ -1,4 +1,4 @@
 .env
 .venv
-raw_chapters
-translated_chapters
+raw_chapters/
+translated_chapters/

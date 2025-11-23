@@ -4,6 +4,8 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 import time
 import typing_extensions as typing
+import argparse
+import ctypes
 
 # Load environment variables
 load_dotenv()
@@ -19,6 +21,21 @@ MODEL_NAME = "gemini-2.5-flash"
 RAW_DIR = "raw_chapters"
 TRANSLATED_DIR = "translated_chapters"
 GLOSSARY_FILE = "glossary.json"
+DELAY_BETWEEN_CHAPTERS = 10  # 10 seconds = 6 RPM (Safe for 10 RPM limit)
+
+# Windows Sleep Prevention Constants
+ES_CONTINUOUS = 0x80000000
+ES_SYSTEM_REQUIRED = 0x00000001
+
+def prevent_sleep():
+    """Prevents the system from entering sleep mode."""
+    print("Preventing system sleep...")
+    ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS | ES_SYSTEM_REQUIRED)
+
+def allow_sleep():
+    """Allows the system to sleep again."""
+    print("Allowing system sleep...")
+    ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
 
 # Define the output schema
 class TermEntry(typing.TypedDict):
@@ -70,23 +87,35 @@ def translate_chapter(chapter_filename, glossary):
     {text}
     """
 
-    try:
-        print(f"Translating {chapter_filename}...")
-        response = model.generate_content(
-            prompt,
-            generation_config=genai.GenerationConfig(
-                response_mime_type="application/json",
-                response_schema=TranslationOutput
-            )
-        )
-        
-        result = json.loads(response.text)
-        return result
-    except Exception as e:
-        print(f"Error translating {chapter_filename}: {e}")
-        return None
+    max_retries = 5
+    base_delay = 10
 
-import argparse
+    for attempt in range(max_retries):
+        try:
+            print(f"Translating {chapter_filename} (Attempt {attempt + 1})...")
+            response = model.generate_content(
+                prompt,
+                generation_config=genai.GenerationConfig(
+                    response_mime_type="application/json",
+                    response_schema=TranslationOutput
+                )
+            )
+            
+            result = json.loads(response.text)
+            return result
+            
+        except Exception as e:
+            error_str = str(e)
+            if "429" in error_str or "Resource has been exhausted" in error_str:
+                wait_time = base_delay * (2 ** attempt) # Exponential backoff
+                print(f"Rate limit hit for {chapter_filename}. Waiting {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                print(f"Error translating {chapter_filename}: {e}")
+                return None
+    
+    print(f"Failed to translate {chapter_filename} after {max_retries} attempts.")
+    return None
 
 def main():
     parser = argparse.ArgumentParser(description="Translate novel chapters.")
@@ -99,39 +128,49 @@ def main():
     # Get list of chapters and sort them
     chapters = sorted([f for f in os.listdir(RAW_DIR) if f.endswith(".txt")])
     
-    count = 0
-    for chapter_file in chapters:
-        if args.limit and count >= args.limit:
-            print(f"Reached limit of {args.limit} chapters.")
-            break
+    prevent_sleep()
+    
+    try:
+        count = 0
+        for chapter_file in chapters:
+            if args.limit and count >= args.limit:
+                print(f"Reached limit of {args.limit} chapters.")
+                break
 
-        translated_path = os.path.join(TRANSLATED_DIR, chapter_file)
-        
-        # Skip if already translated
-        if os.path.exists(translated_path):
-            print(f"Skipping {chapter_file} (already translated)")
-            continue
+            translated_path = os.path.join(TRANSLATED_DIR, chapter_file)
             
-        result = translate_chapter(chapter_file, glossary)
-        
-        if result:
-            # Save translated text
-            with open(translated_path, "w", encoding="utf-8") as f:
-                f.write(result["translated_text"])
+            # Skip if already translated
+            if os.path.exists(translated_path):
+                print(f"Skipping {chapter_file} (already translated)")
+                continue
+                
+            result = translate_chapter(chapter_file, glossary)
             
-            # Update glossary with new terms
-            new_terms_list = result.get("new_terms", [])
-            if new_terms_list:
-                print(f"Found {len(new_terms_list)} new terms. Updating glossary...")
-                for term in new_terms_list:
-                    glossary[term["original_term"]] = term["english_translation"]
-                save_glossary(glossary)
-            
-            print(f"Saved {chapter_file}")
-            count += 1
-            
-            # Rate limit protection
-            time.sleep(2)
+            if result:
+                # Save translated text
+                with open(translated_path, "w", encoding="utf-8") as f:
+                    f.write(result["translated_text"])
+                
+                # Update glossary with new terms
+                new_terms_list = result.get("new_terms", [])
+                if new_terms_list:
+                    print(f"Found {len(new_terms_list)} new terms. Updating glossary...")
+                    for term in new_terms_list:
+                        glossary[term["original_term"]] = term["english_translation"]
+                    save_glossary(glossary)
+                
+                print(f"Saved {chapter_file}")
+                count += 1
+                
+                # Strict Rate Limit Delay
+                print(f"Waiting {DELAY_BETWEEN_CHAPTERS}s to respect rate limits...")
+                time.sleep(DELAY_BETWEEN_CHAPTERS)
+            else:
+                print(f"Skipping {chapter_file} due to error.")
+                
+    finally:
+        allow_sleep()
+        print("Translation session ended.")
 
 if __name__ == "__main__":
     main()

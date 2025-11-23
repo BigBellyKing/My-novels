@@ -1,0 +1,52 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 157</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 256: Something's Not Right! (Requesting Subscriptions, Monthly Passes)</p>
+<p>As a lone Longsword Hero, Song Ren was currently hunting alone.</p>
+<p>Song Ren was very fond of the Longsword as a weapon. He personally felt its strength was quite considerable. Its only major drawback was that when his friends Zhang Yi and Wang Han weren't around, he had no choice but to transform into a solitary Longsword Hero, journeying across the New World.</p>
+<p>Sometimes, he'd even see distress signals sent by others, only for them to instantly bail after he joined. This severely wounded his fragile heart. While gathering materials from a Tobi-Kadachi, Song Ren sighed with emotion, </p>
+                <div class="nav">
+                    <a href="chapter_156.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_158.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

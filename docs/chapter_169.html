@@ -1,0 +1,121 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 169</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 268: Map Editor and Optimization Improvements (Requesting subscriptions and monthly votes)</p>
+<p>After the meeting, Chen Xu returned to his office to meticulously refine the game design document.</p>
+<p>Unlike other RTS genres, the races, units, and even building attributes in Warcraft are all distinct.</p>
+<p>There are also corresponding detailed numerical designs, which is quite complex.</p>
+<p>These contents are precisely the core of Warcraft.</p>
+<p>Different races each possess their own unique characteristics and distinct positioning.</p>
+<p>For example, Night Elves' Ancient of War buildings can not only produce units but also stand up to move and attack.</p>
+<p>Therefore, Night Elves typically place their Ancient of War (barracks) near neutral creep camps, and once their starting hero emerges, they coordinate with the Ancient of War to quickly level up to level 2.</p>
+<p>The Humans operate similarly; their main town can transform Peasants into Militia. In the early game, Humans can utilize Militia to rapidly establish expansion mines and level up.</p>
+<p>Furthermore, with varying starting hero characteristics, there are countless tactical approaches.</p>
+<p>For instance, an Orc starting with a Blademaster can use Wind Walk to harass enemy Peasants, trail online multiplayer teams and steal kills and dropped treasures when opponents' monsters are at low health, and spend all early-game economy on purchasing attribute items from the neutral shop to maximize the Blademaster's combat prowess.</p>
+<p>When Humans face Orcs and there's a neutral tavern, they might abandon the advantage of expanding, focusing instead on leveling their starting Archmage. At level three, they head to the neutral tavern to buy a Beastmaster and harass with summoned quillbeasts, while accumulating Sorceresses and Priests. Once sufficiently developed, they purchase Scroll of Healing and Mini Towers from the Human shop. When their spellcasters reach a certain number, they bring Militia and Mini Towers to build arrow towers, directly taking out the Orcs.</p>
+<p>Racial traits, building characteristics, and hero combinations are the core aspects that differentiate Warcraft from other RTS games.</p>
+<p>Furthermore, when broken down, there are Attack Types, Armor Types, individual unit Skills, and related numerical designs, all of which are highly complex.</p>
+<p>Just considering attack types, Warcraft categorizes them into Normal, Piercing, Hero, Chaos, Siege, and Magic. Similarly, armor types include Light, Medium, Heavy, Fortified, Hero, and Unarmored.</p>
+<p>Chen Xu had already tasked Qin Yi with starting the creation of the Damage Model for these.</p>
+<p>First, these different types and Damage Calculation Ratios needed to be set up; Monster Classification would come later.</p>
+<p>Meanwhile, Ruan Ningxue and Yang Xin were responsible for producing the art assets for Warcraft.</p>
+<p>The main characters in the game, such as Arthas, Illidan, Tyrande, Sylvanas, and Jaina, were naturally handled personally by Chen Xu.</p>
+<p>If one were to only look at the in-game models of these characters, they would truly be an eyesore by today's standards.</p>
+<p>However, if one only looked at their concept art, they would undoubtedly be top-notch in any era.</p>
+<p>But the game wasn't limited to just these main characters.</p>
+<p>Common units, such as Human Footmen, Orc Grunts, and Undead Ghouls, all required art production.</p>
+<p>Beyond that were the game controls and UI interaction.</p>
+<p>This area required significant changes.</p>
+<p>Although Warcraft's game design philosophy was undoubtedly excellent, due to technological limitations in his previous life, this part of the content was quite user-unfriendly, even unscientific.</p>
+<p>The player's interactive experience was one such point.</p>
+<p>In his previous life, Warcraft did not support player-Customized Keybinds.</p>
+<p>For example, items in the hero item slots had to be used with the numpad's number keys.</p>
+<p>This design was primarily because Warcraft had a unit grouping function, and the number keys on the letter keyboard were reserved for control groups.</p>
+<p>Thus, the item slots could only naturally be used with the numpad.</p>
+<p>However, for most ordinary players, this design was actually quite awkward.</p>
+<p>Especially for newbie players.</p>
+<p>"Control groups?"</p>
+<p>"What do I need control groups for? Just box-select with the mouse, then blindly A-move. Focus entirely on one hero, and it's done."</p>
+<p>Additionally, there were related font bugs: when a game had too many map resources and ran for too long, fonts would sometimes turn into garbled text errors.</p>
+<p>These were all limitations of the game development technology at the time. Now, Chen Xu naturally intended to address them more seriously, correcting these flaws to make the entire game more perfect.</p>
+<p>As for the game's story, Chen Xu hadn't started on it yet, as it wasn't a priority.</p>
+<p>Beyond these, there was a very important direction, a design in Warcraft that could be called its greatest.</p>
+<p>It was also the design that allowed Warcraft in his previous life to endure for decades, captivating countless players even a decade or more later.</p>
+<p>That was Warcraft's map editor.</p>
+<p>To describe it in one sentence: Warcraft was a masterpiece that integrated the best of RTS.</p>
+<p>And Warcraft's map editor granted Warcraft even more possibilities.</p>
+<p>Many players didn't even get into Warcraft through its story, campaigns, or RTS gameplay.</p>
+<p>Instead, they were drawn in by various interesting RPG maps.</p>
+<p>Such as Swordguard of Shu, Defense of Athens, Fantasy Cao Cao's Legend, Monopoly of the World, Pyramid Escape, Western World's Tribulation, Cops and Robbers, Trolls and Elves, Bunny vs. Sheep, Human Invincible, The War of the Little Soldiers...</p>
+<p>It even spawned classic games like Dota. Especially Dota, which could be said to be inextricably linked to the later MOBA era in his previous life.</p>
+<p>Blizzard pioneered the map editor in his previous life, originally stemming from an idea in StarCraft. However, it wasn't very polished and was quite complex, only becoming relatively robust with Warcraft 3.</p>
+<p>But it was actually just a small supplement to Warcraft's content. Blizzard didn't even realize what a great thing it was.</p>
+<p>Which is why there was later a copyright dispute with IceFrog over Dota.</p>
+<p>Knowing these details, Chen Xu naturally wouldn't underestimate Warcraft's map editor.</p>
+<p>Instead, he wanted to dedicate himself to making it even more perfect.</p>
+<p>After all, in his previous life, with the evolution of technology, Warcraft's map editor was actually iterated through several versions by folk master players, incorporating even more content.</p>
+<p>Besides the in-game heroes, units, buildings, and other elemental and attribute content.</p>
+<p>It also included the creation of game maps.</p>
+<p>Forests, water, rocks; beyond these, the game also featured weather and time settings. The time factor would also affect the state of neutral monsters, causing them to awaken or sleep, and the game's Vision Radius would differ between day and night.</p>
+<p>However, compared to the map editor from his previous life, Chen Xu felt it was still too complex.</p>
+<p>Because the map editor in his previous life, despite its powerful functions, still required a certain coding foundation for map creation.</p>
+<p>But for Chen Xu, with the technology of the Parallel World, a more open-ended design was entirely achievable.</p>
+<p>To create more complex and interesting maps, he could grant higher port permissions to folk masters.</p>
+<p>As for ordinary players, they could also create simple defense maps using Warcraft's map editor, based on the game's inherent mechanics.</p>
+<p>Just like the openness to MODs in Fall Guys, Overcooked, and Minecraft.</p>
+<p>Allowing more ordinary players to create all sorts of interesting maps with a little thought. Why couldn't the map editor itself become a part of the game's core gameplay?</p>
+<p>For example, different maps could be categorized within a single community, and players could like the creators after playing their maps.</p>
+<p>Creating an open community just like Minecraft.</p>
+<p>And not like the official platform in his previous life, managed by the Pig Factory, where the quality of the remaster was Blizzard's fault, but why did the War3 official platform also become a money-grabbing tool, with more and more RPG maps resembling web games?</p>
+<p>Ultimately, it was due to platform commercialization. While many map players still chose to offer their creations for free or shared them out of sentimentality.</p>
+<p>However, War3's map community lacked the good environment of Minecraft. If your map didn't include a marketplace platform, it wouldn't be displayed when creating a game room. Moreover, if the platform deemed a map unprofitable, it wouldn't even pass review.</p>
+<p>Therefore, building a healthy community environment was essential.</p>
+<p>However, for Chen Xu, Nebula Games already had experience in this area.</p>
+<p>Of course, platform review was also something to pay attention to. Maps that excited Lewd Persons, like 'Seven Dwarfs and Snow White,' 'Athena Defense: Manly Edition,' or 'Princess Xiangxiang,' should simply disappear in the Parallel World.</p>
+<p>Hmm... at least players definitely wouldn't find them on the official platform.</p>
+<p>Sitting in his office, Chen Xu pondered directions for optimizing and improving Warcraft.</p>
+                <div class="nav">
+                    <a href="chapter_168.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_170.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

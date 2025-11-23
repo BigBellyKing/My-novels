@@ -1,0 +1,80 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 112</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 211: Promotional Warm-up (Seeking Subscriptions and Monthly Passes)</p>
+<p>Days passed one by one, and Nebula Games began its promotional warm-up for Minecraft.</p>
+<p>While players and industry designers were discussing this wave of sandbox trend.</p>
+<p>Chen Xu's official Weibo post instantly drew the attention of countless players and industry designers.</p>
+<p>Chen Xu's official Weibo post was very simple, containing only three words: New Game.</p>
+<p>Following this, a video link was released.</p>
+<p>However, upon clicking it, players who had been full of anticipation and curiosity were instantly stunned.</p>
+<p>Because it was simply too unexpected for them.</p>
+<p>With a melodious BGM, the game screen appeared.</p>
+<p>Blue skies and white clouds, oceans, trees, and beaches—under the distant sunset, a small figure rode a pink pig, running towards the foreground.</p>
+<p>'Let's go to a world made of blocks.'</p>
+<p>As the narration began, countless blocks formed a slide, allowing the block character and the little pink pig to move along it.</p>
+<p>'The only limit is your imagination.'</p>
+<p>The next moment, the slide collapsed in the middle, scattering blocks, but behind the block figure, red, cape-like wings unfolded, soaring through forests and over mountains.</p>
+<p>'Let's go anywhere you want, climb the highest peaks, dig the deepest caves.'</p>
+<p>On the beach, the block figure held a cube, placing it down.</p>
+<p>'Build anything you want, whether it's day or night, rainy or sunny.'</p>
+<p>Gazing into the distance in the desert.</p>
+<p>'This will be the most meaningful sandbox game you've ever stepped into.'</p>
+<p>The next moment, the scene shifted to a giant castle.</p>
+<p>'Build a magnificent castle.'</p>
+<p>Inside a mine filled with torches, a winding railway track.</p>
+<p>'Research the most advanced machines, take a rollercoaster ride.'</p>
+<p>In the forest, several block figures continuously chopped down trees with axes.</p>
+<p>'You can play with your friends, build your own community, and craft the strongest armor to protect yourselves.'</p>
+<p>In the dark of night, facing monsters that appeared in the forest, the block figures donned armor and charged forward with swords.</p>
+<p>'Fight monsters at night; no one can restrict your actions.'</p>
+<p>Continuously digging tunnels, magma poured in from underground.</p>
+<p>Creating dark, mysterious portals, behind which lay an eerie world.</p>
+<p>'No rules to obey; this adventure is yours to decide.'</p>
+<p>Accompanied by the narration, the camera slowly moved to the deep blue sea, where a whale made of blocks suddenly emerged from the surface.</p>
+<p>Countless blocks formed the game's LOGO and title: </p>
+                <div class="nav">
+                    <a href="chapter_111.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_113.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        
