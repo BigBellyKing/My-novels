@@ -1,47 +1,168 @@
-## Chapter 238: Even the Promotional Trailer is Gone? (Eighth update, Requesting Subscriptions, Monthly Passes)
+After Chen Xu finished explaining the entire game's concept drafts to everyone, the *Monster Hunter: World* project was approved, and the team began operating efficiently.
 
-After Chen Xu finished explaining the entire game's concept drafts to everyone, the project for *Monster Hunter: World* was approved, and the team began to operate efficiently.
+With prior experience developing *Dark Souls*, the entire team was no longer new to the action system, and the movements for different weapons were recorded.
 
-With previous experience developing *Dark Souls*, the team was no longer new to the action system, and actions for different weapons were recorded.
+Meanwhile, Ruan Ningxue's team successively produced concept art drafts, then contacted third-party art outsourcing companies for the production of art assets.
 
-Meanwhile, Ruan Ningxue successively produced concept art drafts, then contacted third-party outsourced illustrations studios for art asset production.
+Chen Xu, on his end, continued testing the AI's performance with Qin Yi and others, primarily to plan the difficulty and numerical values for each BOSS in the upcoming *Monster Hunter: World*.
 
-Chen Xu, on his end, continued to test the AI's performance with Qin Yi and others, mainly to plan the difficulty numerical planning for various BOSSes in the upcoming *Monster Hunter: World*.
+Regarding the BOSS performance in *Monster Hunter: World*, Chen Xu didn't particularly want the BOSS's difficulty to only be reflected in the margin for error provided by high numerical values.
 
-Regarding the BOSS performance in *Monster Hunter: World*, Chen Xu actually didn't want the BOSS's difficulty to only be reflected in the fault tolerance rate brought by high numerical values.
+For example, if a regular monster attacks a hunter five times consecutively, the hunter will cart.
 
-For example, if a regular monster attacks a Hunter five times consecutively, the Hunter will Carting.
+But if a Tempered monster attacks a hunter three times, the hunter will cart.
 
-But if a Tempered monster attacks a Hunter three times, the Hunter will Carting.
+Before better AI technology existed, it was naturally only possible to manipulate numerical values.
 
-Before better AI technology was available, one could naturally only make adjustments through numerical values.
+For example, higher attack power, giving monsters a higher attack frequency, and faster speed.
 
-For instance, higher attack power, giving monsters a higher attack frequency, and faster speed.
+But now, with AI performance technology, Chen Xu hoped that the difficulty of monsters in the game would not only be reflected in numerical values but more so in their in-game performance.
 
-However, with AI visual enhancement technology now available, Chen Xu hoped that the difficulty of monsters in the game would not only be reflected in their numerical values but, more importantly, in their in-game performance.
-
-For example, after embedding a series of commands such as escape, attack, enrage, and sneak attack into the BOSSes.
+For example, after implanting a series of commands such as escape, attack, berserk, and sneak attack into the BOSS.
 
 The BOSSes in the game would use advantageous terrain to attack players.
 
-And provide action feedback based on the player's performance in the game.
+And they would provide action feedback based on the player's performance in the game.
 
-In normal mode, players habitually keep their distance, then start sharpening their weapons or drinking potions.
+For instance, in normal mode, players habitually pull back to a distance, then start sharpening their weapons or drinking potions.
 
-A BOSS demonstrating higher difficulty AI technology would directly execute a Dragon Charge.
+A BOSS under higher difficulty AI performance would directly execute a Dragon Charge.
 
-However, after adjusting the AI values to the maximum, Chen Xu felt it was better to go easy.
+However, after adjusting the AI values to the maximum, Chen Xu thought it best to ease up a bit.
 
-Because with maximum AI performance, the BOSS's behavior was truly outrageous.
+Because under maximum AI performance, the BOSS's behavior was truly outrageous.
 
-If truly implemented, the following situations would likely occur:
+If it were truly implemented, there would likely be the following situations.
 
-A Longsword Hero, with Red Blade Helm Breaker, prepares to execute a decisive strike.
+A Longsword Hero, with Red Blade Helm Breaker, prepares to execute a one-slice-two-halves attack to show off.
 
-The BOSS shuffles a few steps, dodges the Longsword Hero's Helm Breaker, and counters with a Dragon Charge collision.
+The BOSS would take a small step, dodge the Longsword Hero's Helm Breaker, then counter with a Dragon Charge.
 
-A Great Sword user mindlessly charges a powerful attack for the BOSS, and the BOSS stands five meters away, looking at you like an idiot.
+A Great Sword user would mindlessly charge up for a powerful blow, then the BOSS would stand five meters away, looking at them like an idiot.
 
-In a normal game mode, monsters primarily exhibit their habitual behaviors, while combat applications should be reserved for when players hunt Tempered Dragons.
+In normal game mode, monsters would mostly display their habits, and combat applications would be reserved for when players hunted Tempered Dragons.
 
-After all, 
+After all, "Tempered" implies having endured hundreds of battles.
+
+So, it's quite normal for them to have rich combat experience and know how to deal with hunters, isn't it?
+
+Of course, the difficulty value would still have an an upper limit.
+
+Players still need to be able to farm decorations normally, right?
+
+Otherwise, wouldn't *Monster Hunter: World* lose a huge part of its fun?
+
+Wouldn't players' desire to grind protest?
+
+A *Monster Hunter* game that can't be grinded, is that still *Monster Hunter*?!
+
+...............
+
+During this period, Chen Xu and his team steadily progressed with the content development for *Monster Hunter: World*.
+
+Meanwhile, the gaming industry was far from calm.
+
+Firstly, *Minecraft*'s momentum remained incredibly strong.
+
+Players were coming up with more and more ways to play the game.
+
+At the same time, all sorts of MODs emerged endlessly, greatly enhancing *Minecraft*'s community content.
+
+As for sales, they had already numbed many game designers in the industry.
+
+Besides *Minecraft*, another piece of news also caught the attention of many designers in the industry.
+
+That was, despite the major channel providers gradually lowering their revenue share ratios, they were clearly not preparing to sit idly by.
+
+On May 1st, several major channels successively announced a strategic cooperation, forming a Channel Alliance to share channel resources.
+
+Concurrently, NetDragon and TengHua also successively announced several blockbuster titles, stating that their works would also be launched on the Channel Alliance.
+
+This was an unprecedented first, as NetDragon and TengHua had always been among the largest channels in China, with their respective games generally being exclusive to their own channels.
+
+But now, they had directly launched across all channels, and the implications were self-evident.
+
+This also left many designers in a dilemma.
+
+Primarily because after joining the Channel Alliance, they could no longer launch on platforms outside of the official one.
+
+However, the development trend of Nebula Games Platform, on the other hand, was still very good.
+
+Multiple titles had also proven one point: that the Nebula Games Platform had enough users to support game sales.
+
+However, Chen Xu remained very calm regarding the actions of NetDragon, TengHua, and the major channels.
+
+Just as those channel providers couldn't do anything to Nebula Games, Chen Xu actually had no means against them for now.
+
+The rest depended mainly on the accumulation of time: if Nebula Games Platform had more excellent games and provided better services to players, it would naturally become the biggest channel, and vice versa.
+
+Currently, the Nebula Games Platform had entered a stage of steady development.
+
+Both the user base and game developers had stabilized.
+
+All that remained was to continuously maintain the platform's competitiveness with one excellent game after another, and this was what Chen Xu feared least.
+
+However, for more ordinary players, compared to the platform situation.
+
+More players were still focused on the games themselves.
+
+Especially Chen Xu's fans, who were going wild at this time.
+
+The reason was very simple: countless players discovered that Nebula Games had not participated in this year's gameplay Expo.
+
+This instantly left countless players taken aback and bewildered.
+
+After all, Nebula Games had participated in the previous two Expos.
+
+The first Expo's grand finale featured two mini-games and a trailer, while the second's opening brought a trailer and a frustrating mini-game, "The one with the big hammer."
+
+But for this third Expo, Nebula Games was simply gone?
+
+This instantly sparked a heated discussion among countless players.
+
+'Damn! Did anyone notice? Nebula Games isn't participating in this year's gameplay Expo?!'
+
+'Holy cow, really?'
+
+'No way? Is Nebula Games going to stop making games and switch to being a channel provider?'
+
+'Who told you that?'
+
+'Can't you read? Obviously, I'm just guessing!'
+
+'But don't say it's impossible! *Minecraft*'s hot momentum has made Nebula Games a fortune, and with the Nebula Games Platform on the right track – even though its commission is the lowest in the industry, and according to Mr. Chen, the profit is small – it wins on stability!'
+
+'No way, really!?'
+
+Countless players' guesses grew increasingly outlandish.
+
+Chen Xu's official Weibo account, in particular, was @-mentioned by countless people.
+
+Inside Nebula Games, Chen Xu, who was leading the team in intense development of *Monster Hunter: World*, felt speechless seeing the online comments after being reminded by his assistant, Lin Rou.
+
+Nevertheless, he still released an official Weibo statement.
+
+"We are very grateful for players' concern for Nebula Games, but our non-participation in this year's gameplay Expo was a result of careful internal evaluation, as we are actively developing a brand-new blockbuster."
+
+"To bring this new surprise to players sooner, we have decided not to participate in this year's gameplay Expo, so that we can better and wholeheartedly dedicate ourselves to developing new titles for players."
+
+"Therefore, please look forward to it."
+
+With the release of Chen Xu's official Weibo post, many players became excited.
+
+So that's it!
+
+They're actively making a new game!
+
+But soon, as players got more excited, they discovered a problem.
+
+Aside from knowing that Nebula Games was developing a brand-new blockbuster.
+
+What theme, what genre, what platform, and what progress? They knew absolutely nothing!
+
+Nebula Games, which had participated in previous gameplay Expos, seemed to have never brought playable content, always just fobbing people off with a promotional video.
+
+This year, Nebula Games had completely ditched the Expo; forget about a demo, there wasn't even a promotional video?!
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

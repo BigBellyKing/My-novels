@@ -1,57 +1,143 @@
-Chapter 273: Industry and Player Attention (6th update, Requesting Subscriptions, Monthly Passes)
+Chapter 273: Industry and Player Attention (6th update, requesting subscriptions and monthly passes)
+
+Chapter 273: Industry and Player Attention (6th update, requesting subscriptions and monthly passes)
 
 Is the RTS market large?
 
-It is still a relatively large market.
+It's still a relatively large market.
 
-Not just domestically, but also overseas.
+Not just domestically, but also internationally.
 
-But it's difficult to enter.
+But it's difficult to get involved in.
 
-For the same reason, RTS-type games aren't hard to make, but they are hard to make well.
+The reason is still the same: RTS games aren't hard to make, but they are very difficult to make well.
 
 Moreover, RTS games are different from typical ARPGs and RPGs.
 
-For a typical RPG game, if there's a good one and a slightly inferior one, it doesn't mean the inferior one will necessarily fail completely.
+For typical RPGs, if there's a good one and a slightly inferior one, it doesn't mean the inferior one will completely fail.
 
 Because the content of these games is limited.
 
-After players experience one, if they're still interested in the same type, as long as it's not too outrageous, a portion of players will usually still get their hands on it.
+After players experience one, if they're still interested in the same genre, as long as it's not too outrageous, a portion of players will generally still buy it.
 
-This is also a characteristic of single-player games; the market is not a zero-sum market.
+This is also a characteristic of single-player games; the market isn't a zero-sum market.
 
 But RTS games are different.
 
-Because RTS is a competitive game, not just about single-player content, but more about player versus player confrontation.
+Because RTS is a competitive game, it's not just about single-player content, but more about player-versus-player confrontation.
 
-In this situation, an excellent RTS game can often sweep the entire market.
+In this situation, an excellent RTS game can often harvest the entire market.
 
-Unless there's an equally excellent and evenly matched RTS on the market, or one with unique characteristics.
+Unless there are equally excellent and evenly matched RTS games on the market, or games with unique characteristics.
 
-For example, if my RTS has a modern warfare setting and yours has an ancient warfare setting, this difference can attract different player demographics, but this is based on the condition that the gap isn't too large.
+For example, if my RTS has a Modern Warfare background and your RTS has an Ancient Warfare background, this difference will attract different player audiences, but this is only true if the gap isn't too large.
 
-But once there's a significant disparity in balance or player experience, one RTS will inevitably dominate the entire player market.
+However, once there's a significant disparity in balance or player experience, one RTS will inevitably go on to harvest the entire player market.
 
 Because when the number of players decreases, it signifies a shrinking player pool.
 
-It becomes increasingly difficult to match with players of similar skill levels; new players and veteran players get matched together, directly leading to a deterioration of the competitive environment.
+It becomes increasingly difficult to match with players of similar skill levels; rookies and veterans are matched together, directly leading to a deteriorating competitive environment.
 
-Of course, when the deterioration reaches a certain point, the environment will gradually improve again.
+Of course, once it deteriorates to a certain extent, the environment will slowly improve again.
 
-Because by then, only players who are deeply invested in the game will remain, with no new players at all.
+Because by then, only players with a deep understanding of the game will remain, with no new players at all.
 
 Everyone is evenly matched, forming a small circle.
 
 For players who still love the game, this feels like a good thing.
 
-But for a game developer and designer, when a game exhibits such a phenomenon, it essentially has one foot in the grave.
+But for a game developer and designer, when a game exhibits such a phenomenon, it's essentially already halfway into the grave.
 
-Any sequels are basically out of the question in the short term; perhaps after five or six, or even seven or eight years, one could try to see if player nostalgia could be sparked for a sequel or remake.
+Any sequels are basically out of the question in the short term; perhaps after five or six, or even seven or eight years, they could try to see if they can evoke players' nostalgia for a sequel or remake.
 
-It is precisely because of these characteristics that, although the RTS market size is not small, truly few game developers, both domestically and internationally, are willing to venture into it.
+It is precisely because of these characteristics that, despite the RTS market being quite large, very few game developers, both domestically and internationally, are willing to venture into it.
 
-But now that Nebula Games is suddenly making an RTS, it's clearly not a decision made on a whim.
+But now Nebula Games suddenly wants to make an RTS, which clearly wasn't a spur-of-the-moment decision.
 
-The crossover with Monster Hunter: World, and the crossover with Minecraft, are enough to prove that Nebula Games is playing for real.
+The crossovers with Monster Hunter: World and Minecraft are enough to prove that Nebula Games is serious.
 
-Furthermore, on the Channel Alliance's side, the game with the highest concurrent players currently is 
+Furthermore, on the Channel Alliance side, the game with the highest concurrent online players is Human Wars, which also happens to be an RTS.
+
+Combining this with Nebula Games' official Weibo post stating 'redefine RTS,' it's quite obvious!
+
+'It's clear that Nebula Games is targeting the Channel Alliance!'
+
+'It's normal, after all, they're already competitors, and Chen Xu must know that the Channel Alliance won't remain indifferent; TengHua and NetDragon's previous indirect support was already a big deal.'
+
+'But what surprises me is that Chen Xu actually chose RTS, which is what the Channel Alliance is best at!'
+
+'Yeah, and shouldn't Chen Xu specialize in RPGs and action-adventure games?'
+
+'Indeed, looking at Chen Xu's previous games, this is his first time with an RTS.'
+
+'I'm more concerned about Chen Xu's so-called 700 million Yuan. That's a bit of an exaggeration; it's not a VR game that could cost 700 million Yuan, is it? If he said Monster Hunter: World cost that much, I might believe it.'
+
+Regarding Chen Xu's new game, many designers in the industry were discussing it, but most clearly didn't have high hopes.
+
+The reason is simple: after all, it seemed Chen Xu was a newcomer to the RTS genre.
+
+On the Channel Alliance side, although their reputation in the gaming industry wasn't great, after jointly forming the Channel Alliance, Human Wars was already a leader in the RTS genre. With this wave of player resources, it expanded significantly, even continuously dominating the Channel Alliance's sales charts.
+
+On the Channel Alliance side, inside the office.
+
+Zhou Qi, the designer of Human Wars, was also discussing this matter with Yang Hong, the President of Hero Entertainment.
+
+It was collectively called the Channel Alliance, but in reality, each company simply opened its channels.
+
+As for Hero Entertainment, their signature title was Human Wars, which was managed very well in both esports and merchandise.
+
+Moreover, with the establishment of the Channel Alliance, Human Wars also experienced a huge wave of player enthusiasm.
+
+Previously, Nebula Games' sudden intervention in channels caused major changes, and Hero Entertainment's revenue also significantly decreased. At least for the latter half of this year, the bulk of their revenue was sustained by Human Wars.
+
+Nebula Games making an RTS game would have the biggest impact on Hero Entertainment.
+
+"700 million Yuan in costs, that's definitely bragging!" Zhou Qi, the lead designer, shook his head as he looked at the online news.
+
+Only a fool would believe Chen Xu would actually spend 700 million Yuan to make an RTS.
+
+Isn't that just having too much money to burn?
+
+"It might be exaggerated, but it's at least over 100 million Yuan. This time, Nebula Games is definitely coming on strong!" Yang Hong, who was beside him, felt a bit flustered at this moment.
+
+"Don't worry, Mr. Yang. While I admit Chen Xu is a genius in the gaming field, with Dark Souls, Monster Hunter: World, and Minecraft all being pioneering works, the RTS genre isn't just about creativity. Balance is the most crucial aspect of RTS." Hearing Yang Hong's words, Zhou Qi remained unfazed.
+
+He was quite confident in the RTS genre.
+
+"Of course, we can't do nothing. Mr. Yang, I think we can remaster Human Wars to give players better graphics, and at the same time, launch a discount promotion." Zhou Qi said to Yang Hong.
+
+"Additionally, regarding public opinion, we can also hire internet trolls to set the narrative, for example, by claiming Nebula Games is engaging in false advertising." Zhou Qi added.
+
+Although he felt Chen Xu's Warcraft RTS title was nothing to worry about when talking to Yang Hong, he still took it seriously strategically. After all, even a lion uses its full strength to hunt a rabbit, and moreover, Warcraft was backed by the Nebula Games Platform; if they weren't careful and got bitten, it would be troublesome.
+
+"The internet trolls part is a bit tricky; Nebula Games' legal department is quite ruthless. As for the graphics remaster, that's not an issue; the finance department can approve the budget directly when the time comes." Yang Hong nodded, making the decision.
+
+..............
+
+Under the attention of the industry and players.
+
+Hero Entertainment, leveraging the power of the Channel Alliance, also began its counterattack.
+
+First, there would be a graphics remaster for the game, offering a free upgrade service.
+
+At the same time, they also made many grand promises regarding future version updates.
+
+As for why they were called "grand promises," it was because there had been absolutely no news about them before.
+
+Meanwhile, Chen Xu also announced a piece of news.
+
+That is, Warcraft would offer a free trial experience, just like Monster Hunter: World.
+
+As for the date, it would be November 11th.
+
+Although this date made many single players want to complain, wondering if it was Chen Xu's wicked sense of humor.
+
+But it also made many excited players and skeptical players look forward to it.
+
+After all, whether Nebula Games could truly make a good RTS, and whether the so-called 700 million Yuan development cost was just bragging.
+
+Wouldn't it be clear once they got to try the demo?
+
+(End of Chapter)
+
+<<END_OF_CHAPTER>>

@@ -1,29 +1,114 @@
 Chapter 225: Freedom is the Core (Requesting Subscriptions, Monthly Passes)
 
-Whether it was private servers, Single-Player Mode, or official servers, all were filled with incredibly excited players.
+Whether it was private servers, Single-Player Mode, or the official servers, all were filled with incredibly excited players.
 
-Without exception, all players who visited the structures Chen Xu placed in the display server immediately entered *Minecraft* with an excited heart, ready to flex their muscles and build the structures they envisioned in their minds.
+Without exception, all players who had visited the structures Chen Xu placed on the display server immediately entered *Minecraft* with an excited heart, ready to show off their skills and build the structures they had envisioned in their minds.
 
-At Nebula Games' office, despite it being the Spring Festival, the importance of *Minecraft* to the development of the Nebula Games Platform was considered.
+In Nebula Games' office, despite it being the Spring Festival, the importance of *Minecraft* to the development of the Nebula Games Platform was taken into consideration.
 
-Therefore, Chen Xu had previously discussed with his team about working overtime during the New Year, though not excessively. The main responsibility was to manage various tasks during the Spring Festival. Employees residing in Modu who were on duty during the holiday adopted an in-office work arrangement, while non-local employees could go home for the Spring Festival and work from home. Of course, corresponding welfare plans were comprehensive, and combined with the year-end bonus just distributed before the New Year, quite a few people were willing to stay and work overtime. In fact, because the number of willing individuals exceeded Chen Xu's expectations, they had to choose by lottery. This was primarily due to the generous overtime pay and various benefits provided.
+Therefore, Chen Xu had previously discussed working overtime during the Spring Festival with his team, though not excessively.
 
-Emerging from his office, Yang Xin excitedly greeted him, with Qin Yi, Lin Tao, and others standing nearby. They all lived in Modu, and everyone was visibly thrilled.
+The main task was to manage various content during the Spring Festival. Employees residing in Modu who were on duty during the holiday would work in the office, while non-local employees could go home for the Spring Festival and work remotely.
 
-"Mr. Chen! Sales have already surpassed 3 million! Based on today's trend, it's highly possible to break 4 million!" Yang Xin exclaimed excitedly.
+Naturally, a comprehensive welfare plan was in place. Coupled with the year-end bonuses just distributed before the New Year, quite a few people were willing to stay and work overtime.
 
-The others, including Qin Yi, were equally enthusiastic.
+In fact, the number of willing individuals exceeded Chen Xu's expectations, necessitating a lottery selection. Of course, this was mainly due to the generous overtime pay and various benefits.
 
-"Alright, keep an eye on the servers, and the backup servers can also be activated," Chen Xu nodded, acknowledging the news and informing Qin Yi and the others.
+As Chen Xu walked out of the office, Yang Xin excitedly approached him, with Qin Yi, Lin Tao, and others also present.
 
-"Mr. Chen, aren't you excited?" Yang Xin looked at Chen Xu, a little bewildered, and Qin Yi and the others next to him were also a bit puzzled.
+Everyone lived in Modu, and they were all beaming with excitement.
 
-First-day sales might reach 4 million!
+"Mr. Chen! Sales have already surpassed 3 million! Judging by today's trend, it's very likely to break 4 million!" Yang Xin exclaimed excitedly.
 
-This was an astonishing figure in the gaming industry.
+The rest, including Qin Yi, were also full of excitement.
 
-Although *Minecraft*'s selling price held a significant advantage compared to big titles, these sales were genuine. It might even challenge for ten million sales in the first week.
+"Hmm, keep an eye on the servers. The backup servers can also be activated," Chen Xu nodded, acknowledging the information and informing Qin Yi and the others.
 
-"Don't forget, *Minecraft* started pre-orders a month in advance, and this is just the beginning. There's no need to be overly excited yet, and the overseas version hasn't even launched," Chen Xu said calmly.
+"Mr. Chen, aren't you excited?" Yang Xin looked at Chen Xu, a little bewildered. Qin Yi and the others beside him were also puzzled.
 
-The previous videos, such as 
+First-day sales could reach 4 million!
+
+This was definitely a shocking figure in the gaming industry.
+
+Although *Minecraft*'s price offered a significant advantage compared to big titles, the sales were genuine.
+
+It might even challenge for ten million sales in the first week.
+
+"Don't forget, *Minecraft* opened for pre-order a month in advance, and this is just the beginning. There's no need to be overly excited, and the overseas version hasn't even launched yet," Chen Xu said calmly.
+
+The previous videos of Along the River During the Qingming Festival and the Forbidden City had played a good promotional effect.
+
+Coupled with Nebula Games' consistent reputation, *Minecraft* only reached its current seemingly formidable stage by combining first-day sales with pre-order sales.
+
+But Chen Xu knew that this was actually just the beginning.
+
+These videos merely showcased the game's potential. To truly experience the fun and charm of the game, players needed to fully participate. This was a highly replayable game that only got better the more you played it.
+
+At this stage, it could only be said to have gotten off to a good start. Even now, the current Workshop only contained the few building complexes MODs that Chen Xu had uploaded.
+
+At the same time, Chen Xu had also made some settings regarding MODs.
+
+That was to protect the rights of MOD authors.
+
+For example, MOD authors could set whether subsequent players could modify their original MODs.
+
+If Player A built a castle, but Player B merely modified a few things on it and then claimed it as their own MOD, this situation would be restrained.
+
+After players created a corresponding structure, they could set whether other players could perform secondary creation after it was uploaded.
+
+Furthermore, for the *Minecraft* community, Chen Xu specifically established a department to maintain the community.
+
+In his previous life, the reason *Minecraft* became so popular was inseparable from its excellent community environment.
+
+After discussing the current situation of *Minecraft* with Qin Yi and the others, Chen Xu returned to his office and opened *Minecraft*'s management backend to check the game's relevant data.
+
+Currently, the official servers primarily offered three modes:
+
+Survival, Creative, and Showcase.
+
+The Showcase mode was where servers containing building complexes like Along the River During the Qingming Festival and the Forbidden City were stored, allowing players to freely visit them.
+
+As for Survival, it was a large server capable of accommodating 2,000 players. In this mode, there were no strict rules; everything depended on the players' own development.
+
+The entire game world was a super large map, and the map's appearance was randomly generated.
+
+Players in the game were also randomly assigned spawn points on the map.
+
+Of course, there would be many other players around each player.
+
+After all, it was a multiplayer mode. If players started with nothing and only encountered others after developing to a certain extent, there would be no need for a multiplayer mode.
+
+So, generally, in the early stage, players would usually encounter other players while collecting resources.
+
+At this point, whether to huddle together for warmth, be mutually hostile, or develop individually was up to the players' choice.
+
+Chen Xu and Nebula Games would not interfere with this.
+
+Of course, with a server capacity of 2,000 players as the upper limit, some players would inevitably leave in the end.
+
+However, in the plan, if just one-tenth of the players remained, it would be entirely sufficient for a server's ecological environment.
+
+Besides these rule-unrestricted servers, there were also servers specifically designed for players who enjoyed building houses and peaceful construction.
+
+In these servers, players could not attack each other, though the monster setting was still retained.
+
+Furthermore, to prevent troublemaking players/griefers from destroying others' home bases, players in peaceful mode servers could set their structures to be indestructible by others. They also had a skill to save their buildings at a specific point in time, essentially a save function.
+
+This could be used infinitely in peaceful mode. In normal multiplayer mode, however, there was a cooldown time, and structures were not indestructible. Instead, depending on the materials used, they would have a special durability. Other players wanting to dismantle them would require specific tools, and the process would be relatively slow.
+
+Additionally, regardless of the mode, players could save their in-game data as a save file and transfer it to the single-player Survival mode, though this was a one-way transfer.
+
+In his previous life, these gameplay elements existed but were limited to private community servers. Chen Xu estimated that some players would like these settings, while others would not.
+
+But it didn't matter, because the core of *Minecraft* itself lay in freedom.
+
+You couldn't say which mode was the true gameplay of *Minecraft*.
+
+Furthermore, there were plans for some mini-games later on, but Chen Xu did not intend to release this content through official channels.
+
+After all, the early stage relied on official guidance, while the later stage would depend more on the power of the player community.
+
+Of course, Chen Xu wasn't unprepared. If all else failed, he could always use a private account and pretend to be an ordinary MOD creator to publish them!
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

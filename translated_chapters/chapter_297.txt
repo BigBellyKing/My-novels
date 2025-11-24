@@ -1,62 +1,138 @@
-# Chapter 296: The RTS Achilles' Heel (Requesting Subscriptions, Monthly Passes)
+Chapter 296: The Inherent Flaw of RTS (Requesting Subscriptions, Monthly Passes)
 
-In the days following Chen Xu's demonstration of the balance in `Warcraft`.
+Chapter 296: The Inherent Flaw of RTS (Requesting Subscriptions, Monthly Passes)
 
-Various online gaming communities, as well as Chen Xu's official Weibo account, were filled with all sorts of comments.
+In the days following Chen Xu's demonstration of balancing Warcraft.
 
-And from these comments, one could see the countless grievances of players.
+Various online game communities and Chen Xu's official Weibo account were filled with all sorts of comments.
 
-'That's just too damn unethical! Mr. Chen is something else!'
+And from these comments, one could see the endless grievances of countless players.
 
-'Exactly! Exactly! He just dropped a line about a new version launching soon, then played dead!'
+'That's so damn unethical! Mr. Chen is unbelievable!'
+
+'Exactly! Exactly! He left a message saying a new version would be launched soon, and then he started playing dead!'
 
 'It's agonizing!'
 
-'But what do you guys think this new version will contain? A brand new race? It seemed like we could already control the Naga race in the campaign mode!'
+'But what kind of content do you think this new version will have? A brand new race? We could already control the Naga in the campaign mode, right?'
 
-'Yeah, right? And don't you think the Naga race is highly complete, with comprehensive building functions, and units from peasants to Tier 1, Tier 2, and Tier 3 are all there? Plus complete offensive and defensive tech, unit skill tech, and even their own shops and heroes. They could totally be released as a new race.'
+'Yeah, and don't you think the Naga race is highly complete, with comprehensive building functions, and units from peasants to Tier 1, Tier 2, and Tier 3 units already available, plus complete offensive and defensive tech, unit skill tech, and even their own shops and heroes? It could totally be released as a new race.'
 
-'I don't think so. The Naga units are simply too strong. I feel like adding them to the game would somewhat break the balance.'
+'I don't think so. The Naga units are just too strong. I feel like adding them to the game would somewhat break the balance.'
 
-'Exactly, with their performance in the campaign, if the Naga are added, it'll probably really turn into Naga Supremacy.'
+'Exactly, with their performance in the campaign, if the Naga were added, it would probably really turn into Naga Supremacy.'
 
-'I, for one, think it might be a new story campaign. Could it be the story after Arthas became the Lich King?'
+'I, on the other hand, think it might be a new story campaign. Could it be the story after Arthas became the Lich King?'
 
-'That's hard to say for sure!'
+'That's really hard to say!'
 
-Players were discussing animatedly, guessing about the information and content of the new version that Chen Xu had previously revealed.
+Players were discussing animatedly, speculating about the information and content of the new version that Chen Xu had previously revealed.
 
 Meanwhile, in the Nebula Games office, Chen Xu was feeling very comfortable and relaxed.
 
-At this moment, he was checking the several RPG maps that Qin Yi and Ruan Ningxue had created.
+At this moment, he was checking the RPG maps that Qin Yi, Ruan Ningxue, and a few others had created.
 
-Chen Xu could tell that the few of them had put a lot of effort into these maps.
+Chen Xu could tell that the team had put a lot of effort into these maps.
 
-Including their level of detail and numerical balance, they were better than in his previous life, as the available resources were different after all.
+Both the level of detail and the numerical balance were better than in his previous life, as the available resources were different.
 
-Additionally, some of the heroes in these maps were also distinct, and they even included several easter egg-like heroes from Nebula Games' own titles.
+Additionally, some of the heroes in these maps were also unique, and they even included several easter egg heroes from Nebula Games' own titles.
 
-For example, the Undead from `Dark Souls` and the Azure Star from `Monster Hunter`.
+For example, the Undead from 'Dark Souls' and the Azure Star from 'Monster Hunter'.
 
-And these maps each had their own unique characteristics.
+And each of these maps had its own distinct characteristics.
 
-`Defend the Sword Pass`: Players choose heroes from the Shu Kingdom of the Three Kingdoms to defend against Wei's attacks, with content like dungeons, quests, and grinding for equipment, just like typical RPG gameplay.
+'Defend the Sword Pass' allowed players to choose heroes from the Shu Kingdom of the Three Kingdoms to defend against Wei's attacks, with content similar to dungeons, quests, and farming equipment, just like a regular RPG game.
 
-`Calamity of the Western World`: Players can choose various heroes and gradually advance the plot, just like a normal RPG. The entire game even spans four to five hours.
+In 'Calamity of the Western World', players could choose various heroes and gradually advance the plot, much like a normal RPG, with the entire game even lasting four to five hours.
 
-`Demon Hunter Chronicles` was divided into different phases: grinding monsters and equipment for progression, then entering a defensive phase, and finally an offensive phase.
+'Demon Hunter Chronicles' was divided into different stages: grinding monsters for equipment and progression, then entering a defense phase, and finally an attack phase.
 
-As for `Monopoly of the World` and `Pyramid Escape`, the former featured a board game-like gameplay similar to Monopoly, while the latter combined numerous casual mini-games where survival was achieved by maneuvering to avoid traps.
+As for 'Monopoly of the World' and 'Pyramid Escape', the former was a board game similar to Monopoly, while the latter combined numerous casual mini-games where players survived by maneuvering to avoid traps.
 
-Of course, Chen Xu also made some changes in this aspect.
+Of course, Chen Xu also made some changes in this area.
 
-In his previous life, the RPG maps, mini-games, and tower defense maps in `Warcraft` were generally fine, usually lasting around an hour and a half.
+In his previous life, the RPG maps, mini-games, and tower defense maps in Warcraft were generally fine, usually lasting around an hour and a half.
 
-However, some defense maps and RPG maps often had durations of two to three hours, or even four to five hours.
+However, some defense maps and RPG maps often had playthroughs of two to three hours, or even four to five hours.
 
-This would often lead to players quitting midway, and once a player quit, especially on a high difficulty, it would become nearly impossible to clear the game.
+This would frequently lead to players quitting midway, and once a player quit, especially on a high difficulty, it would be nearly impossible to complete the game.
 
 Therefore, Chen Xu also added a save mechanism to the game.
 
-Players could save their progress if they quit midway and then continue their unfinished game later. Of course, considering server issues, there was also a time limit for this.
+Players could save their progress if they quit midway and then continue the unfinished game later. Of course, considering server issues, there was also a time limit for this.
 
+“That should be about right,” Chen Xu said, nodding after reviewing the relevant numerical content through the backend and trying it out himself.
+
+The three people standing beside him also smiled upon hearing Chen Xu's words.
+
+Then Yang Xin asked Chen Xu curiously, “Mr. Chen, are these maps the only content update for the version? Won't the content be too little?”
+
+During development, Yang Xin and the others had also experienced the gameplay of these maps.
+
+Initially, they found it very enjoyable, but after completing them, they felt a bit bored.
+
+After all, compared to the content of Warcraft itself, the gameplay of these RPG maps was still too limited.
+
+“The key isn't the maps, but the Map Editor!” Qin Yi said from the side.
+
+“Exactly, the Map Editor is the most crucial thing,” Chen Xu said with a smile upon hearing Qin Yi's words.
+
+The role of RPG maps was very simple: to give players something fresh.
+
+Currently, although Warcraft's popularity was still booming, especially after Chen Xu resolved the balance crisis and with the Golden Monthly Tournament on the Shark TV platform, and both overseas and domestic Nebula Games authorizing third parties to host official Warcraft tournaments.
+
+However, through internal backend data, Chen Xu already had a rough idea.
+
+Because the backend data showed that the number of players had actually begun to experience a slight decline.
+
+Although not significant, it was indeed happening.
+
+70% of the lapsed players were those with Ladder scores roughly between 500 and 1000.
+
+This indicated that Warcraft's player base was starting to shrink.
+
+However, this was also within Chen Xu's expectations.
+
+After all, the barrier to entry for RTS-type games was simply too high, and this was an inherent flaw of RTS games.
+
+Although players in the Parallel World had a higher enthusiasm for RTS than in his previous life, and the environment was also better.
+
+For players who loved RTS-type games, Warcraft was an enduring title; even if the current version content remained unchanged, it could be played for years, a decade, or even longer.
+
+But for ordinary players, Warcraft's appeal to them had actually begun to rapidly decline.
+
+The epic storyline had been experienced, and the exquisite CG cutscenes had been watched.
+
+The game's mechanics were also understood.
+
+Ladder matches had been played.
+
+Then, due to technical reasons, things like triple-line operations, dual-line operations, and various micro-management techniques were basically irrelevant to them.
+
+Not to mention the Insane AI, they couldn't even beat the Regular AI or Easy AI.
+
+In this situation, this segment of players would naturally quickly lose interest in the game.
+
+Because in RTS games, the only positive feedback players received came from victory.
+
+Unlike FPS games, even if you lost every round, you could always get a kill through a sneak attack or by a lucky shot.
+
+But in Warcraft, this was difficult to achieve. In fact, most players with 500-1000 Ladder points had a win rate below 30%.
+
+Even though Chen Xu had already optimized the game's matchmaking algorithm very well.
+
+They still lost when they were supposed to lose.
+
+This led many players to feel a sense of frustration.
+
+This was determined by the game's inherent characteristics.
+
+However, there was a way to solve it.
+
+That was to make Warcraft attract players not just with its RTS content.
+
+And this was the task of the Map Editor and RPG maps.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

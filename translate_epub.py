@@ -5,18 +5,21 @@ from dotenv import load_dotenv
 import time
 import typing_extensions as typing
 import argparse
-import concurrent.futures
 import ctypes
 import threading
+import generate_site
 
 # Load environment variables
 load_dotenv()
 
 API_KEY = os.getenv("GEMINI_API_KEY")
 if not API_KEY:
-    raise ValueError("GEMINI_API_KEY not found in .env file")
+    print("WARNING: GEMINI_API_KEY not found in .env file. Ensure it is set in environment.")
 
-genai.configure(api_key=API_KEY)
+try:
+    genai.configure(api_key=API_KEY)
+except Exception as e:
+    print(f"Error configuring API: {e}")
 
 # Configuration
 MODEL_NAME = "gemini-2.5-flash" 
@@ -24,10 +27,7 @@ RAW_DIR = "raw_chapters"
 TRANSLATED_DIR = "translated_chapters"
 GLOSSARY_FILE = "glossary.json"
 
-# Parallel Execution Config
-MAX_WORKERS = 3           # Max simultaneous translations
-
-# Thread synchronization
+# Thread synchronization (still good practice even if sequential, for future proofing)
 glossary_lock = threading.Lock()
 
 # Windows Sleep Prevention Constants
@@ -36,13 +36,19 @@ ES_SYSTEM_REQUIRED = 0x00000001
 
 def prevent_sleep():
     """Prevents the system from entering sleep mode."""
-    print("Preventing system sleep...")
-    ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS | ES_SYSTEM_REQUIRED)
+    try:
+        print("Preventing system sleep...")
+        ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS | ES_SYSTEM_REQUIRED)
+    except AttributeError:
+        pass
 
 def allow_sleep():
     """Allows the system to sleep again."""
-    print("Allowing system sleep...")
-    ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
+    try:
+        print("Allowing system sleep...")
+        ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
+    except AttributeError:
+        pass
 
 # Define the output schema
 class TermEntry(typing.TypedDict):
@@ -74,11 +80,14 @@ def validate_translation(filepath):
             if not content.strip():
                 return False
             
-            # Check for the specific marker the user mentioned (case-insensitive)
+            # Primary check: <<END_OF_CHAPTER>>
+            if "<<END_OF_CHAPTER>>" in content:
+                return True
+                
+            # Secondary checks
             content_lower = content.lower()
             if "(end of chapter)" in content_lower or "(end of this chapter)" in content_lower:
                 return True
-            # Also check for the original marker in case it wasn't translated
             if "(本章完)" in content:
                 return True
                 
@@ -108,6 +117,7 @@ def process_chapter(chapter_filename, glossary):
     - Do NOT collapse the text into a single block.
     - Preserve the dialogue structure.
     - Translate "(本章完)" as "(End of Chapter)".
+    - At the very end of translated_text, append the literal string <<END_OF_CHAPTER>> on its own line.
     
     You MUST strictly follow this glossary of names/terms:
     {json.dumps(glossary, ensure_ascii=False)}
@@ -158,17 +168,17 @@ def process_chapter(chapter_filename, glossary):
         
         # Validate Content Before Saving
         is_valid = False
-        content_lower = final_text.lower()
-        if "(end of chapter)" in content_lower or "(end of this chapter)" in content_lower or "(本章完)" in final_text:
+        if "<<END_OF_CHAPTER>>" in final_text:
             is_valid = True
         else:
-            print(f"[{chapter_filename}] WARNING: Missing end marker after translation.")
-            # No retry logic for full chapter to save costs
+             # Fallback check
+            content_lower = final_text.lower()
+            if "(end of chapter)" in content_lower or "(end of this chapter)" in content_lower or "(本章完)" in final_text:
+                is_valid = True
         
         if not is_valid:
-            print(f"[{chapter_filename}] CRITICAL: Validation failed. Saving anyway (as requested) to preserve partial translation.")
-            # We do NOT return here anymore. We save what we have.
-
+            print(f"[{chapter_filename}] WARNING: Missing <<END_OF_CHAPTER>> marker. Saving partial translation.")
+        
         # 1. Save Translated Text
         try:
             with open(translated_path, "w", encoding="utf-8") as f:
@@ -204,6 +214,10 @@ def main():
     glossary = load_glossary()
     
     # Get list of chapters and sort them
+    if not os.path.exists(RAW_DIR):
+        print(f"Directory {RAW_DIR} not found.")
+        return
+
     chapters = sorted([f for f in os.listdir(RAW_DIR) if f.endswith(".txt")])
     
     # Filter chapters
@@ -246,36 +260,26 @@ def main():
         return
 
     print(f"Starting translation.")
-    print(f"Chapters to process: {[f for f in chapters_to_translate]}")
-    print(f"Max Concurrent: {MAX_WORKERS}")
+    print(f"Chapters to process: {len(chapters_to_translate)}")
     
     prevent_sleep()
     
     try:
-        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            futures = []
-            for i, chapter_file in enumerate(chapters_to_translate):
-                print(f"\nScheduling {chapter_file} ({i+1}/{len(chapters_to_translate)})...")
-                
-                # Submit task
-                future = executor.submit(process_chapter, chapter_file, glossary)
-                futures.append(future)
-            
-            print("\nAll chapters scheduled. Waiting for completion...")
-            concurrent.futures.wait(futures)
+        # SEQUENTIAL PROCESSING
+        for i, chapter_file in enumerate(chapters_to_translate):
+            print(f"\nProcessing {chapter_file} ({i+1}/{len(chapters_to_translate)})...")
+            process_chapter(chapter_file, glossary)
             
     finally:
         allow_sleep()
         print("Translation session ended.")
 
-import generate_site
-
-if __name__ == "__main__":
-    main()
-    
     # Automatically generate site
     print("\nTriggering site regeneration...")
     try:
         generate_site.generate_site()
     except Exception as e:
         print(f"Error generating site: {e}")
+
+if __name__ == "__main__":
+    main()

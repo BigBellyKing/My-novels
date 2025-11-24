@@ -1,0 +1,146 @@
+Chapter 302: Some Content Changes (7th update, requesting subscriptions and monthly passes)
+
+From a game mechanism perspective, the modes in Rainbow Six Siege are actually quite simple.
+
+They are mainly divided into attackers and defenders.
+
+Among these, there are three different modes.
+
+Hostage Mode, Bomb Mode, and Secure Area Mode.
+
+Hostage Mode and Bomb Mode are generally present in previous FPS games, with the main differences being some mechanism changes.
+
+As for Secure Area Mode, it's essentially a point-capture mode, where victory is determined when players from one side occupy an area.
+
+Besides these, there's also a rather special mode, which is Terrorist Hunt Mode.
+
+This is mainly for new players to use for training, allowing them to solo or team up against AI terrorist personnel of different difficulty levels.
+
+Of course, this mode was later renamed Training Grounds, and the suicide bombers inside also disappeared.
+
+For this mode, Chen Xu decided to retain the earlier Terrorist Hunt Mode, and through the performance of AI technology, players can experience a more realistic counter-terrorism feel when facing the White Masks in PVE.
+
+The rest concerns the recreation of maps; for Rainbow Six Siege, maps can be said to be the most crucial core.
+
+In his previous life, many players would say '500 hours to get started,' which made many rookies tremble, but it was actually a somewhat exaggerated statement.
+
+Because in Rainbow Six Siege, unlike other FPS games, the requirement for marksmanship is not as high as in other FPS titles.
+
+More importantly, it's about familiarity with Operator skill mechanisms, gadget usage, and the maps themselves.
+
+If one isn't familiar with the maps, a common situation will arise.
+
+Who am I?
+
+Where am I?
+
+Who's shooting me?
+
+And who killed me?
+
+How did someone get behind me?
+
+It would literally turn Rainbow Six Siege into a horror game.
+
+This is precisely what happens due to unfamiliarity with the maps.
+
+Because in Rainbow Six Siege, walls, wooden panels, and other elements are destructible, and once destroyed, a new attack route emerges.
+
+Attackers can use their gadgets to forcibly destroy obstacles, launching unexpected attacks from surprising locations to catch opponents off guard.
+
+Similarly, defenders can also utilize this feature to open up passages first, expanding their line of sight, or hide in a small room and fortify it—though this is strongly not recommended unless on specific maps.
+
+Additionally, attackers possess two unmanned reconnaissance vehicles that can enter rooms through gaps beneath wooden panels and ventilation ducts to observe the situation and gather intelligence.
+
+Defenders, on the other hand, can access the cameras within the building to observe information about various areas.
+
+It can be said that from the very beginning of the game, both sides will be engaged in a phase of information gathering and psychological warfare.
+
+Secondly, in terms of action, because it's a VR game, Chen Xu also considered making it more realistic.
+
+Of course, there will be two versions: one for players and a military version.
+
+However, the two versions will have some differences.
+
+The military version, for instance, will feature more detailed operational content.
+
+For example, allowing hostages in Hostage Mode to move.
+
+After all, in a real counter-terrorism operation, hostages would clearly not be squatting on the ground, hands over their heads, completely motionless.
+
+Secondly, there's the ability to step over Kapkan traps, a more realistic operation, including more destructible environments and interactive items.
+
+And also, character jumping in the game.
+
+In his previous life, some players also raised questions about this, and the official answer was that it was for realism; after all, how could counter-terrorism personnel jump while carrying dozens of pounds of equipment?
+
+This answer seemed quite reasonable, but in reality, it was simply to reduce workload and bugs.
+
+However, Chen Xu planned to add jumping to the military version.
+
+Because compared to the standard edition, the military version could prioritize realism more than balance.
+
+After all, wasn't the direction given by the Game Department for training purposes?
+
+And honestly, jumping doesn't hold much significance in Rainbow Six Siege.
+
+The imagined scenario of Fuze jumping up and deploying his cluster charge against the ceiling with a 'thump-thump-thump' is completely non-existent.
+
+After all, carrying such heavy equipment, even if one could jump, it wouldn't be very high; at most, it would be a simple small hop.
+
+Besides this, the version provided to players also features many detailed content changes.
+
+For example, rope climbing; camera angle switching in VR is also a crucial core point, otherwise, Rainbow Six might very well turn into Vertigo Six.
+
+……………………
+
+Chen Xu was gradually refining the design concept document for Rainbow Six Siege.
+
+He was relatively low-key, but NetDragon, which had already confirmed its cooperation with Nebula Games, became very high-profile after their discussions.
+
+They specifically held a news conference to announce the latest news about their collaboration with Nebula Games to develop a VR blockbuster.
+
+【The new game will be jointly developed by Nebula Games and NetDragon! The codename is temporarily set as 'R6'】
+
+【This will be a game utilizing the latest VR technology, bringing an unprecedented new experience to all players】
+
+【Nebula Games Platform and NetDragon Platform will engage in deep strategic cooperation】
+
+Instantly, news was flying everywhere.
+
+There was official news revealed by NetDragon, various unofficial news, and wild guesses from players.
+
+As for Chen Xu, he was much more low-key, only posting an official Weibo update confirming that the game codenamed 'R6' was indeed real.
+
+In an instant, the gaming industry experienced a major upheaval, and countless industry designers and developers were bewildered.
+
+NetDragon is cooperating with Nebula Games!?
+
+Didn't NetDragon seem to be making overtures to the Channel Alliance before?
+
+How did they suddenly turn around and get involved with Nebula Games?
+
+Even the Channel Alliance was dumbfounded.
+
+Originally, NetDragon's attitude was rather ambiguous, not like TengHua's, but they thought NetDragon was one of their own, and with a little effort, they could make connections.
+
+But then, in a flash, they ran off to the competitor's side?
+
+And it even seemed like they initiated the move themselves?
+
+However, compared to the news of NetDragon and Nebula Games entering a strategic partnership that deeply impacted the industry.
+
+Ordinary players, on the other hand, clearly didn't care about any of that; what they truly cared about was that NetDragon and Nebula Games were actually jointly developing a VR blockbuster!?
+
+As soon as this news was announced, players of both NetDragon and Nebula Games instantly erupted in excitement.
+
+After all, even though NetDragon hasn't been doing so well in recent years, it's still a giant in the gaming industry.
+
+And Nebula Games, needless to say, all of its games so far have been quality titles.
+
+The immense popularity of the recently released Warcraft hasn't even faded yet!
+
+The remaining question was what type and theme this game, codenamed R6, would actually be.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

@@ -1,16 +1,72 @@
 Chapter 212: The Quintessential Sandbox Game (Requesting Subscriptions, Monthly Passes)
 
-In Nebula Games' Project Room.
+In Nebula Games' project office, Chen Xu was busy building game models.
 
-Chen Xu was currently working on building game models. For promotion, the promotional video had already been released. However, player feedback varied; after all, it's extremely difficult to guess a game's gameplay from just one video. Otherwise, there wouldn't be so many misleading trailers. Many game promotional videos are made to look like the greatest masterpieces of all time, but once you enter the game, wow, even instant noodle commercials don't shrink the actual product as much as yours.
+Regarding promotion, the promotional video had already been released. However, player feedback was varied, as it was truly difficult to guess a game's gameplay from just one video. Otherwise, there wouldn't be so many misleading trailers. Many game promotional videos are made to the point where they almost claim to be the greatest masterpiece of all time, but once you enter the game, good heavens, even instant noodle advertisements don't shrink their actual product as much as yours.
 
-Although Chen Xu was criticized by many players as a big bluffer, and some players, whose scalps were numb from being tormented in *Dark Souls*, even angrily denounced him as an Old Geezer, the anecdotes about him proclaiming himself a 'Warrior of Love' have become an unavoidable meme for Chen Xu's fans.
+Although Chen Xu was criticized by many players as a big swindler, and some players who were tormented to the point of numbness in *Dark Souls* even angrily denounced him as an Old Geezer, the anecdotes about him proclaiming himself a 'Warrior of Love' have become an undeniable meme among Chen Xu's fans.
 
-But one thing everyone agreed on was that Chen Xu generally wouldn't pull any tricks in his promotional trailers. However, this time, *Minecraft* truly left many players scratching their heads. A pixel game, could it really play any new tricks?
+But there was one point everyone agreed on: Chen Xu generally didn't pull any tricks in his promotional trailers. However, this time, *Minecraft* truly left many players scratching their heads. A pixel game, could it really offer anything groundbreaking?
 
-Chen Xu saw the players' confusion online and the debates within the gaming industry. But he didn't explain anything; he knew that once the Early Access trial began and subsequent promotions rolled out, players would naturally understand. Anything said now wouldn't be as convincing or as shocking as directly showcasing it to players then.
+Chen Xu saw the players' confusion online and the debates within the gaming industry. But he didn't offer any explanations. He knew that once the Early Access trial began, and subsequent promotions rolled out, players would naturally understand. Anything said now wouldn't be as convincing or shocking as directly presenting it to the players then.
 
-In front of the computer in the Project Room, Chen Xu's screen switched rapidly. Repeating blocks were directly constructed by creation tools and AI. Chen Xu, on the other hand, was building more complex scenes. With his current ability, building structures in the game was a piece of cake. Moreover, Chen Xu had already replicated various templates through his Memory Capsule beforehand. Now, it was essentially copying like tracing a gourd.
+In front of the computer in the project office, Chen Xu's screen rapidly switched. Repetitive blocks were directly constructed by the building tools and AI. Chen Xu, on the other hand, was engaged in building more complex scenes. With his current ability, creating a building in the game was child's play. Moreover, he had already replicated various templates in advance through the Memory Capsule. Now, it was essentially copying like tracing a gourd.
 
 Soon, buildings appeared one after another in *Minecraft*.
 
+"That's amazing, Mr. Chen!"
+
+"It looks so real!"
+
+"Oh my god!"
+
+"Mr. Chen is too strong!"
+
+Qin Yi and Lin Tao, two grown men who had just finished their modeling tasks, stood behind Chen Xu, watching him construct various buildings in the game with expressions of awe. Ruan Ningxue and Yang Xin, who were recreating 3D images provided by Chen Xu in the game, cast a disdainful glance at the two men. Bootlickers!
+
+So far, about one-third of the building complexes had been completed. According to Chen Xu's vision, in addition to being used for promotion, a 'Nebula Games Museum' would be specially built within the game. The employee IDs of those involved in its creation would be added for players to visit. In the future, more unique content would be continuously produced. And players would also be able to place these buildings into their own worlds, though only in Single-Player Mode.
+
+"Alright, I'll find something for you two to do, and you can also work on something more complex," Chen Xu said helplessly, looking at the two behind him. If the houses were built and there was nothing to do, then they could build railways.
+
+***
+
+*Minecraft* was promoted step by step, and at the same time, TengHua's *Voyage* had also begun its promotion. During this period, *Minecraft*'s promotion, apart from releasing some simple creature concept art, mainly announced its test mode.
+
+In the original plan, Chen Xu had decided to conduct a small-scale test. The desired selection method was for pre-ordering players to sign up and then participate in a lottery. However, this plan was quickly rejected by Chen Xu. After all, it would be somewhat unfair to players. One must know that while everyone is a player, some are lucky enough to get SSRs and golden light with a single pull, while others are big chiefs who only get guaranteed pulls after spending money on 100 pulls. So, in the end, Chen Xu made a decision: players could pre-order in advance and then participate in a five-day Early Access trial. At the same time, pre-ordering players could request a refund within five days if they felt the game wasn't to their taste. This attracted many players, as they would soon discover the true nature of *Minecraft*.
+
+However, what puzzled the gaming industry was that *Wasteland*, which had once shone with equal brilliance as *Voyage*, had suddenly gone silent. As for the reason, others didn't know, but Chen Xu did. Because at this moment, Chen Xu was experiencing *Wasteland*, developed by Meng Zuo.
+
+The game began with a simple tutorial: after the world fell into nuclear war, surface civilization was destroyed, and radiation spawned various mutated creatures and plants. Players take on the role of a member of a shelter. However, all other inhabitants of the shelter have died, leaving only the protagonist. Most of the shelter's functions are also defunct, making continued stay a dead end. Thus, players must leave the shelter and venture to the surface. The good news is that, regardless of why, the post-nuclear radiation, while mutating creatures and animals, no longer poses a threat to humans by the time the protagonist emerges.
+
+The main quest of the game is very simple: rebuild civilization. In terms of gameplay, the combat mode is not real-time but somewhat similar to the close-quarters turn-based combat of the previous life's X-COM. The game also includes an evasion stat. At least during his playthrough, Chen Xu witnessed the famous scene of a 'point-blank miss,' which made Meng Zuo, sitting beside him, smile awkwardly. Solving this wasn't as simple as it seemed; if a guaranteed hit at point-blank range was implemented, the question arose: what exactly constituted 'point-blank'? Was two body lengths away considered point-blank? And removing evasion would indeed solve it, but it would affect the entire game's combat system.
+
+Aside from these, the main gameplay revolves around wasteland scavenging, collecting resources, and establishing one's own camp. Additionally, the game has a unique feature: teams. During the game, players encounter various NPCs in the wasteland, and each NPC has their own personality, which in the game is represented by characteristics. These NPCs can become doctors, combat personnel, weapon manufacturers, and so on; essentially, it's the normal game's building system presented in a different mode. Playing through it, Chen Xu wasn't sure if the subsequent content, including numerical design and gameplay, would collapse. But based on what he saw so far, the quality was quite excellent.
+
+However, in Chen Xu's opinion, the game's strategic attribute far outweighed its sandbox attribute. This is because players need to make trade-offs when taking in NPCs, as NPCs in this game also consume player resources. If resources are insufficient, NPCs cannot be supported; they might mutiny, starve to death, freeze to death, or leave the camp. At the same time, some NPCs might have negative characteristics, such as being prone to unrest or betrayal, yet they are very useful. In Chen Xu's view, this should be a survival strategy game that heavily tests players' resource allocation and trade-off skills. As for how it relates to sandbox games, it definitely falls into the category of being highly replayable, the kind that would make players grind out several livers.
+
+"How is it, Mr. Chen?" Meng Zuo asked.
+
+"Very interesting." Chen Xu nodded, giving his affirmation.
+
+"By the way, Mr. Chen, is your new game *Minecraft* a pixel game?" Meng Zuo probed.
+
+"Indeed." Chen Xu nodded.
+
+"Then, Mr. Chen, what do you think are the differences between *Wasteland* and *Minecraft*, these two sandbox games?" Meng Zuo half-lifted the cloth covering something.
+
+"There's no comparison at all." Chen Xu gently shook his head. Meng Zuo was somewhat taken aback. Chen Xu continued, "Because the two games are completely different types. If you absolutely had to compare them, it would be like Guan Gong fights Qin Qiong. And *Wasteland*, strictly speaking, is not what I consider a sandbox game."
+
+"Then what do you consider a sandbox game, Mr. Chen?" Meng Zuo asked.
+
+"What is a sandbox game? Hmm... I think *Minecraft* is currently the quintessential sandbox game. You'll know next week, Teacher Meng." Chen Xu said with a smile.
+
+Hearing Chen Xu's words, Meng Zuo was stunned. The quintessential sandbox game? That's too arrogant! Bragging, joking?
+
+But from Chen Xu's tone, it didn't sound like it! Full of doubts, Meng Zuo didn't continue the conversation on this topic. After they parted ways, Meng Zuo's mind was still filled with Chen Xu's words. *Minecraft* would be the quintessential sandbox game? *Wasteland* isn't a sandbox game?
+
+After going over it a few times in his mind, Meng Zuo finally made a decision, pulling out his phone and sending a message to his assistant. Announce a game delay, at least to avoid clashing with *Minecraft*.
+
+Meanwhile, Chen Xu also felt a bit emotional. From *Wasteland* and some previously released games, Chen Xu had made a rough judgment. These games might be excellent, but they completely missed the key aspects of sandbox games. The game quality was well-handled, but they couldn't truly be called sandbox games; they merely borrowed some characteristics of sandbox games.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

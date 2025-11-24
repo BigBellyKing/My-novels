@@ -1,61 +1,72 @@
 Chapter 291: Fire-Demon Tower (Requesting Subscriptions, Monthly Passes)
 
-As the Defense Tower entered its upgrade phase, Satellite, who was in the game, was utterly stunned.
+As the defense towers entered an upgrade phase, Satellite, who was in the game, was completely dumbfounded.
 
-In the early game, he adopted a single Burrow fast tech playstyle.
+In the early game, he adopted a Single Burrows Fast Tech strategy. For the Orcs, the biggest characteristic of this playstyle is that it's much faster than a normal opening, allowing them to reach Tier 2 tech at around 17 food. Combined with early Wolf Riders, they could quickly get moving. This is considered one of the mainstream tactics developed by Orc players.
 
-For the Orcs, the biggest characteristic of this tactic was its much faster opening speed compared to normal, essentially allowing them to go Tier 2 tech by 17 Food.
+The main reason Orcs can play this way is that the Orc Grunt is the tankiest infantry unit in the early game. A main hero paired with an Orc Grunt is already enough for leveling, and the Orc shop is also the most suitable for the race; after taking heavy damage, one Great Potion and a little while later, they're ready to fight again.
 
-Coupled with early Wolf Riders, they could get going very quickly.
+Currently, Satellite found himself in a very awkward situation: five Peasants were directly building Guard Towers, which are very vulnerable during construction and upgrading. But the opponent was building them directly outside the Burrow's defensive range, so even if the Peons entered the Burrow, they couldn't defend. Meanwhile, his Blademaster and current Orc Grunt seemed completely unable to win. In a direct fight, the Fire Demon definitely couldn't beat the Blademaster, but the opponent wasn't fighting him head-on at all! His Blademaster and Orc Grunt were attacking the Fire Demon, while the Guard Towers continued to be built nearby and upgraded into Arrow Towers. The Fire Demon also didn't engage him, just kited around. If he attacked the Peasants, they would just run. The Arrow Towers were already upgrading, and the Fire Demon, Lesser Fire Demon, and Grunts were attacking his units. And if he turned back to attack the Guard Towers, facing five Peasants, he currently only had 1 Blademaster and 2 Orc Grunts, with the third Orc Grunt still being built. It was a bit like being on the back of a tiger, unable to dismount. Moreover, the Burrow was essentially a shoddy project; at least before upgrading to concrete, Burrows were too easy to be destroyed. This was one of the reasons he built it so far inside, because it was too easily harassed. But now he felt like he had eaten poop, completely unprepared for Humans to be able to play like this.
 
-This was considered one of the mainstream tactics developed by Orc players at the moment.
+At this moment, Chen Xu was also extremely focused. The Human TR, or Peasant-with-Tower all-in push, was quite an extreme tactic. If executed well, the opponent would be completely suppressed in the early game. But if they weren't crushed directly, then the attacker would essentially be out of the game. Fortunately, there weren't many units to control in the early game, so his hand speed could still cope.
 
-The main reason Orcs could play this way was that the Orc Grunt was the tankiest infantry unit in the early game.
+The situation on the field was very sticky, and with the completion of the Arcane Tower, a defense tower that could drain mana, it basically marked the first successful step of the TR tactic. The Human race had established a foothold at the Orcs' main base. As for Satellite, he had actually thought of how to counter it. That was to upgrade to Tier 2 tech, build a War Mill, and use Catapults to resolve the situation. But the crucial problem was that he couldn't hold on much longer! He needed to make trade-offs between gold and lumber. If he built Orc Grunts to buy time, then the production of Catapults and the War Mill would inevitably slow down. And the opponent's defense tower speed wouldn't decrease, but if he didn't build Orc Grunts, then he couldn't even stall for time! It was a complete dead end. Looking at the two defense towers that had just been erected, he tried to struggle, cutting down the Fire Demon in front of him, then Satellite directly typed 'GG' in the public chat.
 
-A main hero paired with an Orc Grunt was perfectly sufficient for creeping, and the Orc Shop was also the most fitting for their race; after being on low health, one Great Potion would bring them back to fighting shape in no time.
+As these two 'GGs' were typed out, the players watching the live stream instantly erupted in excitement. If his previous victory against Shu Ben's Orcs with Night Elves could only be attributed to the opponent underestimating him or something similar, then this match, using Humans, could only mean that the Orcs were indeed not invincible!
 
-Currently, Satellite found himself in a very awkward situation. Five Peasants were directly building Watchtowers, even though they were very vulnerable while under construction and upgrading.
+'No way! What happened to Orc Supremacy? Why do I feel like Orcs have become the weakest race?'
 
-But the opponent was building them directly outside the Burrow's defensive range, so even if the Peons entered the Burrow, there was no way to defend.
+'Holy crap, they said the demo game was balanced. Chen Xu isn't going to play a few matches, decide Orcs are too weak, and then buff them, is he?'
 
-And his Blademaster, along with his current Orc Grunt, seemed completely outmatched.
+'I'm utterly convinced, who exactly is the professional player here!?'
 
-In a head-on fight, the Fire Demon definitely couldn't beat the Blademaster, but the opponent wasn't fighting him head-on at all!
+'To be fair, Chen Xu also made some mistakes in his micro, but more importantly, the other players completely didn't expect Humans and Night Elves to be played this way, and they were caught off guard.'
 
-While his Blademaster and Orc Grunts were attacking the Fire Demon, the nearby Watchtowers continued to be built, then upgraded to Arrow Towers. The Fire Demon didn't fight him, it just kited around.
+'That being said, skill is still quite crucial in RTS. Mr. Chen's micro probably crushes at least 90% of players, right? If an ordinary player used this method against a professional, they'd probably still get hard-countered.'
 
-If he attacked the Peasants, they would just run away. The Arrow Towers were already upgrading, and the Fire Demon, Lesser Fire Demon, and Footmen were attacking his units.
+'Be more confident, it should be 99%. But what I feel most directly is that you have to adapt based on the characteristics of the unit types and the racial traits!'
 
-If he turned back to attack the Watchtowers against five Peasants, he currently only had one Blademaster and two Orc Grunts, with the third Orc Grunt still building.
+'Yeah! It's absolutely brilliant!'
 
-He was in a bit of a bind.
+Even in the RTS professional group chat, many pro players who hadn't participated before were now eager to try. It had truly given them too much inspiration. Before this, no one had thought of this mode. It wasn't that no one knew Humans could collectively build structures. But the key was that many people previously thought it was a chicken rib (i.e., had little value). Because it would consume extra lumber and gold, but they never expected they could use this fast building characteristic to directly build defense towers inside the opponent's base, essentially turning RTS into a tower defense game.
 
-Moreover, the Burrow was essentially a shoddy construction; at least before upgrading to Fortified Burrows, it was far too easily destroyed.
+………………
 
-This was one of the reasons why he built them so far in, as they were too easily harassed.
+Satellite was also a bit helpless. He hadn't thought of this playstyle at all. Who would have thought that in less than three minutes, the opponent would bring their entire family to his doorstep and start building houses? At this moment, he also went to the group chat, where a bunch of people were chatting.
 
-But now he felt utterly disgusted; he hadn't anticipated that the Human race could even play like this.
+"Satellite, you lost too!?" Shu Ben's voice was depressed but also carried a hint of schadenfreude.
 
-At this moment, Chen Xu was also extremely focused.
+"Yeah! I lost too." Satellite then remembered he wasn't alone.
 
-The Human TR, or Peasant-and-Tower all-in push, was quite an extreme tactic. If executed well, the opponent would be completely suppressed in the early game.
+"You called GG in less than eight minutes!" Shu Ben's voice had an extra hint of glee compared to before.
 
-But if they weren't crushed directly, then the initiator was basically doomed.
+Hearing this, Satellite's face darkened involuntarily.
 
-Fortunately, there weren't many units to control in the early game, so his hand speed could still handle it.
+What's that supposed to mean?
 
-The situation on the field was very contested, and with the Arcane Tower, which could drain mana, being completed, it essentially marked the first successful step of the TR tactic. The Human race had already gained a foothold at the Orcs' home base.
+You called GG later than me, so you feel stronger than me? Is that your subtext?
 
-As for Satellite, he had actually figured out how to respond.
+But he was powerless to refute.
 
-That was to upgrade to Tier 2 tech, build a War Mill, and counter with Catapults.
+Because it was indeed a bit tragic.
 
-But the key problem was that he couldn't hold on much longer!
+"This Fire-Demon Tower move is really something. If you rely on traditional Orc Burrows, you basically can't defend against it at all!" someone in the group said.
 
-He needed to make a trade-off between economy and lumber.
+Guadi also chimed in, agreeing: "Exactly, if I went up against it, without knowing, I wouldn't have any good solutions either. But now that I know this playstyle, there are actually quite a few ways to counter it."
 
-If he built Orc Grunts to stall for time, then the production of Catapults and the War Mill would inevitably slow down.
+"The first method is to directly scout the opponent's base. If they build a Barracks first and immediately produce two Footmen, then it's basically this Fire-Demon Tower strategy. At that point, you can just dismiss your Blademaster at home, recruit a Beastmaster or Goblins from the Tavern, use early summoned units to buy time, and once the War Mill and Catapults are out, this strategy is basically useless."
 
-And the speed of the opponent's Defense Towers wouldn't slow down, but if he didn't build Orc Grunts, he wouldn't be able to stall at all!
+"Of course, you could also choose to start with a Far Seer and use Feral Spirits to get through the early game."
 
-It was a complete dead end. Looking at the two Defense Towers that had just been erected in front of him, and after a struggling attempt to cut down the Fire Demon, Satellite directly typed 
+Guadi, hailed as the strongest Orc player at this stage, still had some unique insights at this moment. However, as soon as Guadi finished speaking, Human players also offered different opinions.
+
+"That's not necessarily true. Humans don't necessarily have to go for a Tier 1 Fire Demon with towers. They can perfectly well start with a normal Archmage, then fast Tier 2 tech, mass Footmen, and upgrade Defend. In such a situation, the margin for error is higher than with Tier 1 tech."
+
+"And it's not necessarily only Humans who can use the Fire-Demon Tower. Orcs can actually use the Fire-Demon Tower too, it's just that they can't do a Tier 1 Fire-Demon Tower like Humans."
+
+Many professional players in the group chat were discussing, and the next question also arose.
+
+"By the way, who's up next?" Many people wanted to play against Chen Xu. Originally, many people weren't too keen on participating. After all, there wasn't much to be proud of if they won; the opponent was just a game designer. But if they lost, it would be embarrassing. But now everyone knew that Chen Xu's skill was truly extraordinary, and many professional players also wanted to go up and face him. Ultimately, everyone decided to use the roll dice method to determine who would play next; whoever rolled the highest number would go.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

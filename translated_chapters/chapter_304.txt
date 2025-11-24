@@ -1,0 +1,116 @@
+Chapter 303: Special Operators (Requesting Subscriptions, Monthly Passes)
+
+After the news of NetDragon and Nebula Games' joint venture spread, online players all engaged in discussions.
+
+It was clear that this appeared to be a VR blockbuster, developed through the collaboration of two highly anticipated game developers: NetDragon and Nebula Games.
+
+Furthermore, this was considered Nebula Games' first large-scale VR game.
+
+_Silent Hill PT_ couldn't be counted, as it was developed earlier for the Game Department to test the new version VR.
+
+Due to the special nature of its theme, it wouldn't be made available to ordinary players.
+
+So, currently, the only version of _Silent Hill PT_ that online players could play was the PC version.
+
+As for _Minecraft_, it was a somewhat unique existence.
+
+If judged solely by visual presentation, setting aside MOD content, _Minecraft_'s visual performance in VR was actually in the lower-middle tier.
+
+In terms of graphics, it clearly couldn't be considered a blockbuster.
+
+But this mysterious game named R6 was different.
+
+With two companies joining forces, all players believed it would definitely be a blockbuster; otherwise, there would be no need!
+
+For a time, online players discussed animatedly.
+
+"I wonder what kind of game this R6 is! One letter, one Arabic numeral, impossible to guess!"
+
+"I think it should be an ARPG, after all, Nebula Games is best at that."
+
+"ARPG or RPG, or maybe an action-adventure game. Storytelling is definitely one of Nebula Games' strengths."
+
+"Do you think it could be a VR version of Dark Souls?"
+
+"I hope not. The PC version is already enough to torment me. A VR version would not only torment me but also make me pee my pants from fright. Just imagine facing Hollows in VR, and entering the scenes of Farron Keep and Irithyll Dungeon."
+
+"Damn, stop talking, I already have the visuals in my head."
+
+"Hehe, I've already peed."
+
+The known information was too scarce, so players were just bragging and chatting online.
+
+Anyway, they knew nothing, so they just made wild guesses.
+
+However, for TengHua, the Channel Alliance, and some industry-renowned game designers, there was something they could guess about what kind of game Nebula Games and NetDragon were co-developing.
+
+It was clearly related to the Game Department's notification, and if it involved that, it was highly likely to be an FPS game, no doubt about it.
+
+Chen Xu, located within Nebula Games, paid no attention to the online chatter and continued writing the design concept document.
+
+For the VR version of _Rainbow Six Siege_, whether for the player-facing or military versions, there were still many details and actions that needed to be addressed.
+
+For the military version, naturally, the focus was on realism.
+
+For example, in the player version, when scanned by Unmanned Reconnaissance Vehicles and cameras, players would be alerted, letting them know their position was exposed.
+
+However, the military version obviously couldn't do that.
+
+Regarding camera usage, after dying in the military version, the screen would be black, with no way to provide information or use cameras to assist teammates.
+
+But the regular player version allowed this. Although there was a high probability that regular players would go AFK on cameras after dying, thinking they had no contribution if they died easily.
+
+In reality, this behavior was quite wrong.
+
+While alive, they might indeed have made little contribution, but after death, providing information to teammates through cameras could be a greater contribution than when they were alive.
+
+Besides these, there were many other details that needed careful consideration, but these were all contents that needed to be tackled bit by bit during development.
+
+For Chen Xu, the current task was to complete the overall framework of the game.
+
+In terms of gameplay, there wasn't much difference from later versions of _Rainbow Six Siege_.
+
+At the start, the attackers would use Unmanned Reconnaissance Vehicles to gather information on bomb and hostage locations.
+
+As for the defenders, they would perform "interior decoration," such as sealing off or opening up various passages and setting traps.
+
+This allowed them to defend more effectively based on the indoor environment.
+
+In addition, there were various related items, as well as the different characteristics and skill equipment of each Operator.
+
+Attackers were divided into roles such as information gathering, obstacle breaching, and assault.
+
+Similarly, defenders also had roles like information gathering, hindering attacks, stealth ambushes, and setting traps.
+
+As for the special Operators, Chen Xu did not plan to include too many in the early stage, opting instead for those with unique characteristics.
+
+Xiao Meilian, codenamed Ying, a Flying Tigers special operative. Her special skill is 'Candela's' Flash Thunder, a fragmentation flashbang that can be embedded in surfaces or launched as a grenade, blinding and deafening all Operators in the room, regardless of allegiance, for a short period. However, due to Ying's specialized goggles and helmet, she will not be affected.
+
+Sledge, codenamed Sledge, from a city above the Scottish Highlands, became captain of the Scotland National Youth Rugby Team, eventually joining the army at 18, and five years later was recruited into the British 22nd Special Air Service Regiment. His special skill is the breaching hammer, which is very simple and brutal in its effect: it can smash open any destructible surface; he also has a deployable machine gun and bulletproof panels, but with a durability limit.
+
+Fuze, born into a military family in Samarkand, Uzbekistan, immigrated to Russia shortly before the collapse of the Soviet Union. He appears rough in his words and actions, but possesses a strong moral compass. His special skill is the Cluster Charge, a special device that can be placed on destructible walls and floors. When activated, it sequentially deploys 5 hand grenades from right to left behind the obstacle, each with the power of a single hand grenade.
+
+Ten Operators for the attackers and ten for the defenders.
+
+No, to be precise, it should be eleven, as there is also a special Operator that can be used by both attackers and defenders: Recruit.
+
+His biggest characteristic is that he has no characteristics.
+
+He has no special skills, is fixed at two armor, two speed (endurance to hits, movement speed, and sound produced), but can choose from a wider range of firearms and items.
+
+Soon, the game's design concept document was completed, and it entered the routine meeting and explanation session.
+
+However, unlike before, this meeting also included Meng Zuo from NetDragon and corresponding working group members.
+
+From their expressions, it was clear that everyone present was very excited.
+
+After all, this was their Nebula Games' first VR blockbuster.
+
+As for the game type, everyone present already had a general understanding.
+
+It was a counter-terrorism game, and unlike traditional counter-terrorism games, this would be a game that focused more on its core essence.
+
+But how this game would actually be presented was finally about to be revealed.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>
