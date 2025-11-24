@@ -1,0 +1,75 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 269</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 268: Map Editor and Optimization Improvements (Requesting Subscriptions, Monthly Passes)</p>
+<p>After the meeting, Chen Xu returned to his office to meticulously refine the game design draft in more detail.</p>
+<p>Unlike other RTS types, the races, unit types, and even building attributes in Warcraft are all different.</p>
+<p>There are also corresponding detailed numerical values, which are quite complex in this aspect.</p>
+<p>And these contents are the most core aspects of Warcraft.</p>
+<p>Different races each have their own characteristics and positioning.</p>
+<p>For example, the Night Elves' Ancient of War buildings can not only produce units but also stand up to move and attack.
+So, Night Elves typically place their Ancients of War (barracks) next to neutral creeps. After their starting heroes emerge, they cooperate with the Ancient of War to quickly level up to 2.
+The same applies to the Human race; their main city can transform Peasants into Militia. In the early game, Humans can use Militia to quickly expand, level up, and develop.
+In addition, with different starting hero characteristics, there are countless tactical playstyles.</p>
+<p>For instance, an Orc player starting with a Blademaster can use Wind Walk to harass enemy Peasants, tail online multiplayer teams to snatch monsters and dropped items when opponents bring monsters to low health, and spend all their early-game economy on rushing to buy attribute items from neutral shops to maximize the Blademaster's combat prowess.
+Against Orcs, if there's a neutral tavern, Humans might abandon the advantage of expanding. They would focus entirely on leveling their Archmage hero, and at level three, go to the neutral tavern to buy the Beastmaster to harass with Quillbeasts. Meanwhile, they would accumulate Priests and Sorceresses. Once their spellcasters are formed, they'd buy the group healing scroll and mini-towers from the Human shop. When they have a sufficient number of Mages, they would bring Militia and mini-towers to construct Arrow Towers, directly eliminating the Orcs.</p>
+<p>Racial characteristics, building characteristics, and hero combinations are the core points that distinguish Warcraft from other RTS games.</p>
+<p>Furthermore, if subdivided, it includes attack types, armor types, the skills of various unit types, and related numerical values, all of which are very complex.</p>
+<p>Just the attack type alone in Warcraft is divided into Normal, Piercing, Hero, Chaos, Siege, Magic, etc. Similarly, armor is divided into Light, Medium, Heavy, Fortified, and Hero, as well as Unarmored.</p>
+<p>Chen Xu has already tasked Qin Yi with starting the production of the damage model for this. The priority is to establish these different types and damage calculation ratios; the classification of monsters will come later.</p>
+<p>As for Ruan Ningxue and Yang Xin, they are responsible for producing the art content for Warcraft.</p>
+<p>The main characters in the game, such as Arthas, Illidan, Tyrande Whisperwind, Sylvanas Windrunner, and Jaina, are naturally handled by Chen Xu himself.</p>
+<p>If one were to only look at the models of these characters in the game, from a modern perspective, they would truly be terrible to behold. However, if one only looks at the concept art, it would undoubtedly be top-tier, regardless of the era.
+But the game isn't just about these main characters. Ordinary unit types, such as Human soldiers, Orc soldiers, and Undead Ghouls, all require art production.
+In addition to that, there's the game's operation and UI interaction.</p>
+<p>This area requires significant modifications. Although Warcraft's game design philosophy is unquestionable, it was limited by the technology of his previous life. This part of the content could be described as quite user-unfriendly, even unreasonable.
+Player interactive experience is one such point. In his previous life, Warcraft did not support custom keybinds for players.
+For example, items in the hero's item slots required the numeric keypad to use.
+This design was primarily because Warcraft had a Unit Grouping feature, and the number keys on the letter keys were reserved for grouping. Therefore, the item slots could only be used with the numeric keypad.
+However, for most ordinary players, this design was quite awkward. Especially for noob players.
+Unit Grouping?</p>
+                <div class="nav">
+                    <a href="chapter_268.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_270.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

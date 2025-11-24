@@ -1,137 +1,135 @@
 Chapter 27: The Next Game
 
-Yang Xin and Ruan Ningxue were full of doubts.
+Yang Xin and Ruan Ningxue were both full of confusion.
 
-"Not developing a sequel to `Undertale`, and not making META games anymore?" Yang Xin couldn't quite understand why.
+"Not developing a sequel to *Undertale*, and not making META games anymore?" Yang Xin couldn't quite understand why.
 
 Ruan Ningxue felt the same way.
 
-One must know that currently, game media were almost uniformly publishing various reviews about `Undertale`.
+One must know that current game media was almost uniformly publishing various reviews about *Undertale*.
 
-And in the forums frequently visited by industry designers, various professional game developers were analyzing the characteristics of `Undertale`'s unique approach.
+And in forums frequently visited by industry designers, various gaming industry professionals were analyzing the characteristics of *Undertale*'s unique approach.
 
 After all, such a fresh element truly felt like it could become a new trendsetter.
 
-Even some game developers and designers had openly stated that they had greenlit projects incorporating META elements.
+Even some game developers and designers had openly stated that they had greenlit projects involving META elements.
 
-But now Chen Xu said he wouldn't do it?
+But now Chen Xu was saying he wouldn't do it anymore?
 
-It was imaginable how many people would be surprised if such news got out.
+Releasing such news would undoubtedly surprise many.
 
-After all, the concept of META was largely ignored before `Undertale`.
+After all, the concept of META was unheard of before *Undertale*.
 
-Following the normal pattern, with the popularity of `Undertale`, it would be natural to strike while the iron is hot and release a sequel, just as `Mirror (Game)` had released DLC.
+According to the normal mode, given *Undertale*'s popularity, one would naturally strike while the iron is hot and release a sequel, just like *Mirror (Game)* released its DLC.
 
-At the very least, it should be an entirely new META game!
+At the very least, it should be a brand new META game!
 
 In fact, Ruan Ningxue and Yang Xin had discussed this privately before.
 
-They even thought that their next project might be a prequel to `Undertale`.
+They even thought that their next project might be a prequel to *Undertale*.
 
-After all, in the game, the stories of Asriel and Chara were merely outlined, not fully developed.
+After all, the story of Asriel and Chara in the game was basically just a brief overview, not fully developed.
 
-Yet now, Chen Xu was telling them he wouldn't make a sequel to `Undertale`, and wouldn't even make META games anymore?
+Yet now, Chen Xu told them he wouldn't make a sequel to *Undertale*, or even any more META games?
 
-"It's not very suitable, and the scope of META elements is quite limited. `Undertale` certainly brought players sufficient shock, but the main reason for that was that players had no prior psychological preparation, nor any corresponding concept of META elements."
+"It's not very suitable, and the scope of META elements is very limited. *Undertale* certainly gave players a sufficient shock, but the main reason for this was that players had no prior mental preparation and no corresponding concept of META elements."
 
-"If we continue to release META games at this point, the subsequent reactions will definitely not be better than `Undertale`. In fact, building on players' first impressions, they might even feel that we're getting worse and worse."
+"If we continue to release META-style games at this point, the subsequent repercussions will definitely not be better than *Undertale*. In fact, due to players' first impressions, they might even feel that we're making things worse."
 
-Chen Xu explained to the two of them.
+Chen Xu explained to the two.
 
-Other people might not be clear about the types of META games, but Chen Xu was very clear.
+Others might not be clear about the genre of META games, but Chen Xu certainly was.
 
-Before his transmigration, META games were nothing special.
+Before he transmigrated, META games were no longer anything special.
 
-`ICEY`, `The Stanley Parable`, `Pony Island`, and `Undertale`, which Chen Xu chose to develop.
+*ICEY*, *The Stanley Parable*, *Pony Island*, and *Undertale*, which Chen Xu chose to develop, were all outstanding examples.
 
-All were outstanding examples.
+But the highest sales went to *Undertale* and *ICEY*. In his previous life, *The Stanley Parable*, which truly brought META into players' view, actually had lower sales than these two rising stars.
 
-However, the highest sales belonged to `Undertale` and `ICEY`. `The Stanley Parable`, which truly brought META into players' view in his previous life, actually had lower sales than these two rising stars.
-
-As for `Pony Island`, many players hadn't even heard of it.
+As for *Pony Island*, many players hadn't even heard of it.
 
 The main reason was that META elements were not suitable as a primary core selling point.
 
-A closer look reveals that `ICEY` incorporated action elements.
+Upon careful study, one would find that *ICEY* incorporated action elements.
 
-Although `Undertale` subverted RPG conventions, it was essentially a combination of RPG and bullet-hell gameplay.
+Although *Undertale* overturned RPG settings, it was essentially a combination of RPG and bullet-hell gameplay.
 
-Both of these games used META elements as a secondary component, while `Pony Island` and `The Stanley Parable` focused more on META elements as the primary, with other elements being secondary.
+Both of these games used META elements as a supplement, while *Pony Island* and *The Stanley Parable* focused more on META elements with other elements as secondary.
 
-META elements could indeed be a very shocking concept for players.
+META elements could indeed be a setting that greatly shocked players.
 
-However, it was not suitable as the main core; it was better suited as a lubricant, allowing it to create a chemical reaction with the game's intrinsic content.
+However, they were not suitable as the main core; they were more suited as a lubricant, creating a chemical reaction with the game's inherent content.
 
-Many large-scale games in his previous life also adopted similar designs.
+Numerous large-scale games in his previous life also adopted similar designs.
 
-For example, Psycho Mantis, the BOSS in the `Metal Gear` series who could read the player's memory card.
+For example, Psycho Mantis, the BOSS in the *Metal Gear* series, who could read players' controller inputs.
 
-And the final ending of `Nier: Automata`, which utilized the player's save data to save others.
+And the ending of *Nier: Automata*, which used players' save data to save others.
 
-These were all uses of META elements, but mostly as a supporting feature.
+These were all uses of META elements, but mostly as supplementary settings.
 
-And `Undertale`'s success was certainly not solely due to META elements.
+The success of *Undertale* was definitely not solely due to META elements.
 
 After listening to Chen Xu's explanation, Ruan Ningxue and Yang Xin were still a bit bewildered.
 
 They understood, but not completely.
 
-However, one point they did grasp clearly.
+However, one thing they did grasp: continuing to release META games might not earn much money, and the reputation might not be good.
 
-That is, continuing to release META games might not earn much money, and the reputation might not be good either.
+Coupled with a large number of game developers incorporating META elements, players might even experience aesthetic fatigue.
 
-Coupled with a multitude of game developers incorporating META elements, players might also experience aesthetic fatigue.
+"So, what type of project should we choose next?" Yang Xin asked Chen Xu.
 
-"Then for our next project, what type should we choose?" Yang Xin asked Chen Xu.
-
-"For now, we'll make a small-cost transitional game, and the team will also need to expand," Chen Xu stated.
+"For now, we'll make a low-cost transition game, and the team also needs to expand," Chen Xu replied.
 
 "As for the type... take a look at this."
 
-Saying this, Chen Xu opened the laptop next to him and logged into a website: the Official Game Department website.
+With that, Chen Xu opened his laptop and logged into a website: the Game Department Official Website.
 
 Then, under the slightly bewildered gazes of Ruan Ningxue and Yang Xin, he opened an announcement.
 
-**[Science is the source of human progress; scientific advancement and innovation are bringing about earth-shattering changes in our lives. This time, the Game Department will host a Sci-Fi Game Design Competition with the theme "Technology Changes Life."]**
+"Science is the source of human progress; scientific advancement and innovation are bringing earth-shattering changes to our lives. This time, the National Game Department is holding a Sci-Fi Game Design Competition with the theme 'Technology Changes Life'."
 
-I. Eligible Participants: Game designers nationwide.
+"I. Participants: National game designers."
 
-II. Submission Requirements: No platform restrictions, healthy and uplifting themes.
+"II. Submission Requirements: No platform restrictions, themes must be positive and wholesome."
 
-III. Event Organization: This event is hosted by the National Game Department, and selections will be made through a dual model of expert review and player voting to ensure fairness and impartiality.
+"III. Event Organization: This event is hosted by the National Game Department and will use a dual selection mode of judging and player voting to ensure fairness and impartiality."
 
-IV. Selection and Recognition: Based on the total number of submitted entries, one first prize, three second prizes, six third prizes, and several honorable mentions will be awarded.
+"IV. Evaluation and Commendation: Based on the total number of competition entries, one first prize, three second prizes, six third prizes, and several honorable mentions will be awarded."
 
-Outstanding works will be promoted and recommended on the homepage of the Official Game Platform after the event concludes.
+"Outstanding works will be promoted and recommended on the official platform's homepage after the event concludes."
 
-Concurrently, winning designers will be awarded the title of "Outstanding Designer" as an encouragement.
+"Additionally, award-winning designers will be granted the title of 'Excellent Designer' as encouragement."
 
-(Registration for participation is from September 1st to September 5th, and the event concludes at the end of September.)
+"(Registration period for participants is September 1st to September 5th, and the event closes at the end of September.)"
 
-"Are we going to participate?" Yang Xin asked with a look of surprise.
+"Are we entering the competition?" Yang Xin asked, surprised.
 
 She was actually aware of this event.
 
-It appeared to be a call for game designers nationwide, but in reality, most participants were independent game designers or small and medium-sized game companies.
+It appeared to invite national game designers, but in reality, most participants were independent game designers or small and medium-sized game companies.
 
-There were naturally benefits, as the host was the Game Department, which was primarily responsible for game reviews, designer professional title evaluations, game engine technology development, and the introduction of relevant game policies.
+There were certainly benefits, as the host was the Game Department, which was primarily responsible for game reviews, job title evaluations for designers, game engine technology development, and the introduction of relevant game policies.
 
-Being able to gain exposure in front of the authorities was certainly beneficial and harmless.
+Making an official appearance before them would certainly be beneficial and harmless.
 
-Furthermore, promotion and recommendations on the homepage of the Official Game Platform represented substantial benefits.
+Moreover, promotion and recommendations on the official platform's homepage represented tangible benefits.
 
-After all, the Official Game Platform was considered one of the largest channels in the country.
+After all, the Official Game Platform was considered one of the largest distribution channels in the country.
 
-As for why major publishers didn't participate, it was mainly because such competitions were "chicken rib" (of little value but difficult to discard) for them.
+As for why large developers didn't participate, it was mainly because this type of competition was a chicken rib for them.
 
-With high costs and high production values, they certainly didn't lack such exposure.
+High-cost, high-production games definitely didn't lack such exposure.
 
-Moreover, games with high costs and high production values would undoubtedly be primarily commercial.
+And high-cost, high-production games would surely be commercially driven.
 
-Commercial-focused games naturally wouldn't lack special elements that could attract players.
+Commercially driven games naturally wouldn't lack special elements that attract players.
 
-Not to mention violence and fanservice, even elements like multiple female protagonists forming a harem would look very inappropriate for an official event like this.
+Forget violence or suggestive content; even elements like "Multiple Female Protagonists with a Harem" would be very unappealing in such an official event.
 
-Thus, naturally, there were no large-budget games participating.
+So naturally, no large-budget games participated.
 
-Most participants were independent game designers and small to medium-sized game companies; of course, some studios acquired by major publishers would also participate.
+Most participants were independent game designers and small to medium-sized game developers, though some studios acquired by large developers would also participate.
+
+(End of Chapter)

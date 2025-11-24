@@ -1,0 +1,161 @@
+Chapter 267: Warcraft (Seventh Update, Requesting Subscriptions)
+
+Chen Xu came out of the office.
+
+At this moment, Qin Yi, Yang Xin, and Ruan Ningxue were sitting in front of computers in the lounge area, teaming up to grind in Monster Hunter: World.
+
+"These Tempered monsters are an all-around buff! I seriously doubt if players will be tormented into unconsciousness," Yang Xin said with some emotion.
+
+Compared to ordinary players, their save files were clearly far ahead, as they had been playing since the development and testing phase.
+
+Of course, the relevant data was not included; it was separate.
+
+"I'm not sure if players will be unconscious, but you definitely are," Chen Xu said as he walked over, seeing the four large characters "EXHAUSTED AND COLLAPSED!" appear on Yang Xin's screen, followed by a mission failed notification.
+
+The monster in question was a Lavasioth. This monster wasn't particularly difficult, nor was it easy; it was just annoying.
+
+It loved swimming in lava and its hardened skin made it a bane for melee attackers.
+
+"Mr. Chen, don't talk nonsense, we've only fainted seven or eight times!" Yang Xin retorted.
+
+"Exactly, exactly!" Ruan Ningxue chimed in.
+
+"Alright, there's a meeting this afternoon about the new project and the subsequent update and operation arrangements for Monster Hunter: World," Chen Xu interrupted them, giving them a heads-up.
+
+"A new project!?" Yang Xin looked surprised.
+
+"Mr. Chen, so soon!?" Qin Yi was also very surprised.
+
+"What's the theme and genre of our new project?" Ruan Ningxue asked, more curious than the others.
+
+"You'll find out later," Chen Xu said, not directly answering, just smiling.
+
+"Alright, you guys can keep playing. I'm going to get ready." After staying in the lounge for a bit, Chen Xu sent a message in the work group chat and turned to leave.
+
+In the afternoon, in the conference room.
+
+A group of people sat there, all with varied expressions.
+
+Clearly, no one had expected the new project to arrive so suddenly.
+
+"First, regarding the subsequent update schedule for Monster Hunter: World, the overall content is basically complete. Future content will focus on adding new monsters to the base game. As for new map scenarios like the Iceborne DLC, there's no rush for now," Chen Xu said, looking at everyone.
+
+"For new monsters, we can maintain a rhythm of releasing one every twenty days or so to keep Monster Hunter: World's popularity up."
+
+"However, pay attention to the R&D timeline, because in between, I'll need to create a crossover between Monster Hunter: World and the new game, including transmog for character equipment and weapons, as well as brand new hunting quests."
+
+As Chen Xu's words fell, two colossal monsters appeared on the projector.
+
+One was a colossal Bone Dragon, massive but only its skeleton remaining, covered in ice and snow. The other was a two-headed beast with a lion's head, a ram's body, and a serpent's tail, with relevant background information displayed behind it.
+
+"In ancient times, dragons would fly to the cold Northrend continent to await death when their lives were nearing an end. Over time, it became a dragon's graveyard, with countless dragon skeletons scattered across the land, until evil powers awakened and resurrected them. These dragons, radiating icy power, devotedly served their dark master."
+
+"The Chimera from Ashenvale are mysterious beasts that live in harmony with the Night Elves. These fearsome two-headed monsters soar above the dark forests, using deadly breath attacks against any enemy that invades the sacred Kalimdor continent. Many enemies retreat immediately upon merely seeing these dark, colossal beasts."
+
+Since they were all their own IPs, Chen Xu didn't mind initiating a crossover. After all, it was free popularity if he didn't exploit it.
+
+Additionally, Black Dragon Kalameet and Seath the Scaleless from Dark Souls could also be added to Monster Hunter: World in the future.
+
+But everyone in the conference room looked astonished.
+
+From these two monsters and their descriptions, some clues were already apparent.
+
+"Northrend, Night Elves... is the new project a fantasy theme? Like Dark Souls?" Yang Xin, as Nebula Games' narrative lead, speculated.
+
+"Of course! You can tell just from the monsters' designs," Ruan Ningxue said, rolling her eyes.
+
+"But Mr. Chen, we just finished developing Monster Hunter: World. Won't players' blood pressure be raised too high with this!?" Qin Yi expressed his concern.
+
+From his perspective, this new project was probably another high-difficulty hardcore game like Dark Souls.
+
+Hmm... although, to some extent, it really *was* hardcore.
+
+"Stop guessing," Chen Xu shook his head, then pulled up the design concept document for Warcraft.
+
+"Warcraft, an RTS type?!" Qin Yi's eyes widened, looking bewildered.
+
+The rest of the people in the conference room also had surprised expressions.
+
+They had absolutely not expected their new project to be an RTS game.
+
+If one were to call it niche, RTS was actually not very niche in the Parallel World.
+
+Many mainstream esports events featured RTS, and both the audience and player base were substantial.
+
+However, RTS was not an easy genre to develop.
+
+Basically, the RTS games that sold well and became popular each year were mostly made by a few veteran game developers. For example, Human Wars from the domestic Channel Alliance was a popular RTS in recent years.
+
+Its content and gameplay mainly divided into several different eras.
+
+The Stone Age, Feudal Age, then the Modern Era, and finally the Contemporary Era and Future Era.
+
+Each period had different unit types, which were then divided according to cultural regions.
+
+It was somewhat like a "Civilization" RTS version from his previous life, but without the domestic affairs management.
+
+With surprise, everyone carefully read the design concept document before them.
+
+"It feels so complex and massive!" Yang Xin muttered.
+
+"It seems to differ significantly from the RTS games currently on the market!" Qin Yi also nodded.
+
+The entire game concept document didn't delve into detailed game content, mainly because it was too massive. The initial design concept draft primarily introduced some core systems and gameplay, and Chen Xu hadn't even mentioned the game editor's settings yet.
+
+But even so, a few people already had a general understanding of the game.
+
+"Mr. Chen, according to the design concept document, the game seems to have a massive world-building and plot!" Yang Xin spoke first.
+
+"Exactly, the game's plot is a very important part, and this will be a grand series. Unlike the fragmented narrative of Dark Souls, we want to make the plot much more detailed," Chen Xu said with a smile.
+
+Chen Xu had immense confidence in Warcraft.
+
+One must know that in his previous life, when Aomei distributed Warcraft 3 in China in 2002, even in an era rampant with piracy, it still sold 1.6 million copies domestically. Although Aomei's "shenanigans" were abundant, such sales were simply incredible, and even 20 years later, this sales volume would not be considered low.
+
+Hearing Chen Xu's words, a few people clicked their tongues. As for "grand," that was yet to be seen.
+
+But looking at the momentum, it was clear that this RTS game called Warcraft would not be a small production.
+
+"Next, I'll tell you about your respective responsibilities," Chen Xu said, looking at everyone.
+
+"For the in-game level maps and related numerical design, Qin Yi, you will be solely responsible. Of course, I will also participate to ensure quality control," Chen Xu said to Qin Yi.
+
+As an RTS game, Warcraft's numerical framework could be said to be quite complex.
+
+From the campaign storyline to the design of the four racial unit types, all related attribute values were extremely important.
+
+Moreover, a simple numerical adjustment could lead to the emergence of a new tactic.
+
+In his previous life, after Warcraft 3 Reforged was released, setting aside its subpar quality, just the changes to some of its numerical values allowed this nearly twenty-year-old game to still spawn new strategies and tactics.
+
+Qin Yi alone definitely wouldn't be able to complete this part, so Chen Xu would work with him on the subsequent numerical model.
+
+As for the game's story, Chen Xu would also take primary responsibility for its content.
+
+"For the art aspect, Ruan Ningxue, it's still up to you. For the game's art style and characters, I'll provide line art later, just like before, and then we can discuss outsourcing the models," Chen Xu said, turning to Ruan Ningxue.
+
+"Also, unlike before, for Warcraft, we need to produce quite a few CG animations to showcase the in-game story," Chen Xu stated.
+
+This was actually very costly. For example, in Warcraft from his previous life, most of the story was told through in-game dialogue and the game's own models.
+
+As for CG cutscenes, only a few were produced.
+
+For instance, Arthas, the filial son, returning home to care for his elderly father, or Medivh's Riddler-like warnings.
+
+Chen Xu planned to enrich this aspect, and if it came down to money, it was merely a small matter for Nebula Games currently.
+
+Especially with the Nebula Games Platform now on track, even though the commission percentage was small, the sheer volume made up for it.
+
+"As for Yang Xin, you need to pay more attention to system interaction and story background," Chen Xu said, looking at Yang Xin.
+
+For example, Warcraft's original creation was actually because Blizzard couldn't get the rights to Warhammer Fantasy. So, the team brainstormed, thinking, "Fine, we'll just make our own."
+
+That's why some of the game's exclusive terms corresponded to terms from Warhammer Fantasy.
+
+In addition, there were quite a few easter egg memes, such as the most addicting Peasant voice lines that many players remembered: 'Yes, milord?' and 'Off I go, then!' (which sounded like "Ah-Ba-Dou-De" in-game in China). They were just too infectious.
+
+But later on, there were many easter egg lines related to movies, such as 'Are you a king? Well, I didn't vote for you,' which was a meme from the classic 1975 comedy film Monty Python and the Holy Grail in his previous life.
+
+Similarly, the Acolyte voice lines for the Undead also contained memes related to StarCraft and Star Wars, and these would all need some modifications.
+
+(End of Chapter)

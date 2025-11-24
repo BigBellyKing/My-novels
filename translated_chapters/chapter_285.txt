@@ -1,0 +1,55 @@
+Chapter 284: RPG Maps and Tournaments (Requesting Subscriptions and Monthly Passes)
+
+Qin Yi stared at the several different documents before him, a bit bewildered.
+
+Regarding the Map Editor in _Warcraft_, Qin Yi and his team were somewhat aware. This was because Chen Xu had instructed the development team to reserve a dedicated port during development for the future integration of the Map Editor.
+
+But what were these now?
+
+“Are these maps like the single-player campaigns?” Qin Yi and the others seemed a little confused, clearly not quite grasping the meaning of these maps.
+
+“Something similar. They are more casual maps. You can think of them as large levels within a single-player campaign,” Chen Xu said with a smile.
+
+As a Map Editor, how could players discover its interesting aspects more quickly? The best way was for them, as the official developers, to lead by example. For these particular maps, Chen Xu chose ones with distinct characteristics.
+
+Mini-games, Defense maps, RPG Dungeon Crawling maps, and fun casual maps – these were all quite unique. While these would be released officially, many interesting maps would still be needed in the early stages. So, Chen Xu planned to release some classic maps from his previous life as an ordinary player later on. He would also open up corresponding permissions, allowing other players to make secondary modifications to these maps. This would compensate for the initial lack of maps.
+
+“I’ve clearly outlined the characteristics of these maps for you. The main focus is on gameplay. You can handle the numerical design yourselves. Additionally, the Art team can add some models to the Map Editor for replacing scene maps and hero models,” Chen Xu told the group.
+
+Chen Xu didn't intend to create these maps from his previous life himself; he just needed to make the core gameplay clear to everyone. As for the numerical aspects, there was no need for him to get involved. The balance of these player-made maps wasn't inherently very high. Weak heroes would find it difficult to complete them solo, while strong heroes would find it very easy.
+
+With Qin Yi and his team's capabilities, managing the numerical balance for these maps would be no problem. These maps were more about entertainment than strict numerical balance. And it also served as an opportunity to train the abilities of Qin Yi and the other two.
+
+“What about you, Mr. Chen?” Qin Yi instinctively asked, rubbing his head.
+
+“Me? I’ll just watch you work,” Chen Xu said self-righteously.
+
+Everyone: ?????
+
+***
+
+Of course, Chen Xu wasn’t entirely just watching Qin Yi and his team work. He would occasionally offer guidance. Qin Yi and his team had been involved in the entire production of _Warcraft_'s single-player campaigns, so they weren't unfamiliar with developing these map contents. Furthermore, Chen Xu had streamlined _Warcraft_'s Map Editor during this period. While it wasn't a completely idiot-proof version, the learning curve wasn't steep, especially for Qin Yi and his team; a little familiarity and there would be no significant issues.
+
+Most of the time was spent on creating heroes and adjusting the gameplay of the levels. Especially in these maps, the design of hero skills was completely different from regular Versus mode. However, they still needed to somewhat align with the hero's setting. For example, in the “Defend the Sword Pass” map, with a Three Kingdoms background, you couldn't possibly design Lu Bu to be a Healer, could you? Fortunately, Chen Xu didn't impose strict standards on skill combinations, which often led to ingenious ideas from the team. If an effect was too unbalanced and difficult to control through numerical adjustments, they would simply make it a BOSS for players to fight. After all, it's quite reasonable for a BOSS to have slightly stronger skills, isn't it?
+
+Over the next few days, Chen Xu was quite relaxed. It was a rare few days of rest. Meanwhile, Lin Rou reported to Chen Xu on the arrangements for Shark TV’s event.
+
+Relevant terms had mostly been agreed upon. And it wasn't just Shark TV; several other domestic live streaming platforms had directly collaborated to host it. The name of the tournament was the Golden Monthly Tournament. Held once a month, the prize money would be provided by Shark TV and other major platforms, along with some equipment sponsors.
+
+The tournament was divided into 4v4 team matches and solo matches. Of course, the 4v4 team matches weren't a free-for-all brawl, but rather arena matches. Each side would send four players, and each player would compete in a Best of 3 format. For the team competition, the championship prize money was 150,000 Yuan, second place 100,000 Yuan, third place 40,000 Yuan… The rest would be reduced according to rank, but all teams reaching the elimination round would receive prize money. Of course, the last-place team would only receive a three-digit consolation prize.
+
+As for the solo tournament, it would span four weeks: the first week for preliminary rounds, the second and third weeks for the group stage, and then players would be eliminated or placed into the winner's and loser's brackets based on their points. The group stage would use a Best of 2 format, with 3 points for a win, 1 for a draw, and 0 for a loss. The elimination round would be Best of 5, and the semi-finals and finals would be Best of 7.
+
+The first monthly tournament adopted an open selection system. In the future, it would use a combined invitation and open selection model. Any _Warcraft_ player with a Ladder Score of 2000 or higher could sign up.
+
+Meanwhile, Shark TV had also specifically applied to Nebula Games for a dedicated server. The participants for the first monthly tournament had largely been selected. However, whether it was for team or solo matches, all participants were from newly established _Warcraft_ divisions of various clubs. This wasn't entirely surprising; after all, ordinary players and high-level players still had a significant gap compared to those who treated it as their profession. For most players, entertainment was a hobby, but for competitors, it was a career. The participating players were mostly familiar faces from other RTS games who had transitioned into _Warcraft_. Chen Xu even saw some foreign players among them.
+
+“There are even foreign players? Are they playing with latency?” Chen Xu was a little surprised. Although the network technology in the Parallel World was much stronger than in his previous life, with an ocean separating them, there was still some physical latency on civilian networks.
+
+“Although they are foreign players, they have joined domestic clubs. And Target Software also mentioned that some overseas organizers want to obtain _Warcraft_ event authorization to host some tournaments,” Lin Rou told Chen Xu. Chen Xu nodded without speaking, but he couldn't help but feel a bit emotional. The esports events in the Parallel World were much more professional than in his previous life. He had initially thought that the events organized by Shark TV and other platforms would be similar to internet cafe tournaments, but in reality, they were not.
+
+Commentators, screen-switching perspectives, and specially designed tournament tools were all in place. For instance, viewers could click on real-time plugins on the screen while watching the live stream to understand the attributes of various units and troop types in the game, instead of having to wait for the director to switch to that view. There were also dedicated analysts and other professionals. These introductions were incredibly precise. For this, Chen Xu even looked up some famous RTS game tournaments from previous years. Although those RTS games were now largely unpopular, and Chen Xu hadn't played them, he could still generally understand them just by listening. He wasn't completely clueless.
+
+In this aspect, Chen Xu had to admit that the Parallel World was indeed much more professional in organizing competitive tournaments. Chen Xu believed that the reason the RTS genre maintained such a strong presence in the Parallel World was closely related to its mature esports ecosystem.
+
+(End of Chapter)

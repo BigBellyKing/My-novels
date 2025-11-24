@@ -1,79 +1,149 @@
-Chapter 48: Horror Games Are As Easy As Breathing For Me
+Chapter 48: Horror Games Are As Easy As Breathing To Me
 
-By mid-November, roughly seventy percent of the game content for *Outlast* was essentially complete.
+By mid-November, the 'Outlast' project had essentially completed seventy percent of its game content.
 
-The remaining thirty percent primarily involved voice acting, corresponding scene construction, and performance aspects.
+The remaining thirty percent of content primarily involved voice acting, corresponding scene construction, and presentation.
 
-For Chen Xu, the biggest gain from *Outlast*'s development was a deeper understanding of how to use the editor.
+For Chen Xu, the biggest gain from 'Outlast''s development was a deeper understanding of the editor's application.
 
-At the same time, *Outlast*'s game content, with his current 2048M resource access, meant the monthly quota was entirely sufficient.
+At the same time, with his current 2048M resource permissions, the monthly quota for 'Outlast''s game content was entirely sufficient.
 
-Besides game development, the Nebula Games Platform also quietly launched during this period.
+Aside from game development, the Nebula Games Platform also quietly launched during this period.
 
 Chen Xu promoted it on his official Weibo account.
 
-However, it didn't cause much of a stir.
+But it didn't cause much of a stir.
 
-There was no talk of industry giants taking notice or media outlets reporting on it; none of that actually happened.
+There were no industry giants taking notice, no widespread media reports – none of that happened.
 
-Some media outlets, having run out of news, simply placed this information in a sub-section.
+It was just that some media outlets were truly out of news, so they relegated this information to a sub-section.
 
-If you didn't specifically look for it, you wouldn't even see it.
+If you didn't specifically look for it, you really wouldn't see it.
 
-Currently, the only games launched on the platform were *To the Moon* and *Undertale*.
+The only games currently launched on it were 'To the Moon' and 'Undertale'.
 
-As for sales, the two games combined sold a total of 172 copies.
+As for sales, the two games together sold a total of 172 copies.
 
-However, the cumulative playtime was less than 50 hours in total.
+However, the cumulative playtime was less than 50 hours in total for a single day.
 
-Clearly, the players who bought them must have been Chen Xu's fans, simply purchasing an extra copy on his platform to support their favorite designer and game company.
+Clearly, the players who bought them were likely Chen Xu's fans, simply purchasing an extra copy on his platform to show support for their favorite designer and game company.
 
-Chen Xu wasn't particularly discouraged by this, as platform development doesn't happen overnight.
+Chen Xu wasn't discouraged by this; after all, platform development doesn't happen overnight.
 
-Days passed, and it was early December.
+Days passed, and it was now early December.
 
-The entire development of *Outlast* was also drawing to a close.
+The entire development of 'Outlast' had also concluded.
 
-Corresponding promotions began one after another.
+Corresponding promotions gradually began.
 
-One day, Chen Xu suddenly posted on his official Weibo account.
+On this day, Chen Xu suddenly posted on his official Weibo account.
 
-The Weibo post was very simple: a paragraph of text and a game poster.
+The Weibo post was very simple, containing a paragraph of text and a game poster.
 
-'Only by escaping can you survive the ordeal!'
+'Only by escaping can you survive!'
 
 'December 15th, Outlast begins!'
 
-Below this text was the game poster for *Outlast*.
+Below this text was the 'Outlast' game poster.
 
-The poster's background appeared to be a hospital room, with scattered medical equipment covering the floor and tables.
+In the poster, the background appeared to be a hospital room, with medical equipment scattered across the floor and tables.
 
-On the wall were two large characters: 'Escape'.
+On the wall were two large characters: 'Outlast'.
 
-The color, in night vision mode, appeared black, immediately making people think of bloodstains.
+The color appeared black in night vision mode, immediately bringing to mind bloodstains.
 
-Meanwhile, under the bed in the corner, a person with a face full of fear was cowering, their right index finger pressed to their mouth, looking extremely eerie.
+Meanwhile, under the bed in the corner, a person with a face full of terror was cowering, their right index finger pressed to their mouth, looking incredibly eerie.
 
-As Chen Xu's Weibo post went out, major media outlets began reporting on *Outlast* one after another.
+As Chen Xu's Weibo post went out, major media outlets began reporting on 'Outlast'.
 
-Moreover, *Outlast* was launched early on the Official Game Platform.
+Furthermore, 'Outlast' was launched ahead of schedule on the Official Game Platform.
 
 Of course, it was currently in pre-sale mode.
 
-Priced at 65 Yuan, it wasn't a particularly high price.
+Priced at 65 Yuan, it wasn't a very high selling price.
 
-After all, *Outlast* wasn't a very large game in terms of content.
+After all, 'Outlast' wasn't a very large-scale game.
 
-At the same time, major gaming communities and forums were buzzing with discussions about *Outlast*.
+Simultaneously, a wave of discussions about 'Outlast' erupted across various game communities and forums.
 
-Of course, this wasn't spontaneous player activity. Although *Undertale* had gained some minor fame and *To the Moon* had won first place in the Sci-Fi Game Design Competition.
+Of course, this wasn't spontaneous player activity; although 'Undertale' had gained some renown and 'To the Moon' had won first place in the Sci-Fi Game Design Competition.
 
-Merely relying on reputation wasn't enough to generate a hot topic; Chen Xu's current fame wasn't sufficient for that.
+But merely relying on reputation wasn't enough to create a hot topic; Chen Xu's current fame was still insufficient for that.
 
-What caused all this, naturally, was Money Power.
+The cause of all this, naturally, was Money Power.
 
 ………………
 
-As time progressed day by day, *Outlast* finally ushered in its launch.
+As time progressed day by day, 'Outlast' finally reached its launch.
 
-On Shark TV's gaming section, a livestream room named 
+On Shark TV's game section, a live stream room named 'Commentator Old Boy'.
+
+"Why is it just me? Brother Huang went for a medical check-up, he'll probably be back a bit later."
+
+"Don't keep talking about horror games. I've told you, horror games are no pressure for me at all, they're just like breathing."
+
+"You want me to stream horror games because you think I might get scared badly, but then you'll see me completely expressionless! It'll feel just like breathing, and you'll be so disappointed, won't you? Extremely disappointed then."
+
+"Alright, fine, then later on, everyone knows, right, I have no pressure playing horror games because I've played too many before. So let's try it first, if it's not scary, we'll wait for Brother Huang to come back, then we'll play other games."
+
+"Okay, okay, I'll turn on the camera for you, but honestly, you'll be really disappointed then. Those expressions you're hoping for won't appear on my face at all."
+
+"Because I'm a very calm person, horror games are as simple as breathing for me."
+
+Sun Yixie, who was commentating on a game replay, appeared very calm and composed as he watched the bullet comments in his live stream room.
+
+He repeated "as simple as breathing" three times.
+
+He felt quite confident in his own courage.
+
+Opening the Official Game Platform, he ignored the bullet comment in the live stream room that read, 'Big Bro can't even launch the game independently.'
+
+After some effort, Sun Yixie installed the game, then turned on his camera and entered the game.
+
+A brief sizzling sound, and then the game interface appeared.
+
+The entire game screen was tinged with a blue-green hue, just like the color tone of old Hong Kong films and ghost films.
+
+The background was a hospital-like building, with sparse lighting and some dynamic clouds, looking quite creepy.
+
+"It feels a little bit, but just a little, of course. Still, like I said before, horror games are as simple as breathing for me."
+
+Sun Yixie said this while looking at the bullet comments.
+
+At this point, he still appeared quite confident.
+
+"As for difficulty, let's play on normal for the first time."
+
+Entering the game, it first plunged into darkness, followed by a low narration, an eerie BGM, and the sound of a car radio interspersed with static.
+
+'My name is Miles Upshur, an ordinary reporter. In the distant Colorado Mountains, a long-abandoned asylum has reopened—Mount Massive Asylum.'
+
+'But one day, a mysterious person wrote me a letter, telling me that a huge secret was hidden deep within this asylum. To investigate this, I came here.'
+
+Along with the narration from the car radio, the game's background world was briefly introduced.
+
+Sun Yixie showed no emotional fluctuations whatsoever, appearing as calm as he had claimed earlier.
+
+Because most horror games or horror films are like this.
+
+After the narration, the game screen appeared.
+
+However, it was still an uncontrollable mode.
+
+The protagonist drove towards Mount Massive Asylum.
+
+The dim color tone background, along with the static-filled car radio, immediately set the atmosphere.
+
+Soon, the car reached its destination, stopping at an entrance to Mount Massive Asylum.
+
+The game's guidance then appeared, instructing him to pick up the camera and a letter from the passenger seat.
+
+The content of this letter was the narration that appeared earlier; the protagonist, a reporter, had come to Mount Massive Asylum to investigate and get a big scoop.
+
+After picking up the letter, a mission prompt also appeared on the game screen: Enter Mount Massive Asylum.
+
+From then on, players could move freely in the game.
+
+Getting out of the car, the darkness, combined with the surrounding wind sounds and the rustling of leaves, plus the fact that an asylum is inherently an unfriendly place, made Sun Yixie's heartbeat suddenly quicken a little.
+
+(End of Chapter)

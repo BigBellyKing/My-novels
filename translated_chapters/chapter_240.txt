@@ -1,0 +1,71 @@
+Chapter 239: System Design Full of Targeted Features (Requesting Subscriptions, Monthly Passes)
+
+At Nebula Games, watching the various comments from players on the official Weibo account, Ruan Ningxue couldn't help but exclaim: "The players have inadvertently exposed the truth!"
+
+"Indeed!" Hearing this, Yang Xin beside her chuckled.
+
+Chen Xu, who was standing by Qin Yi's workstation and had just finished reviewing some AI parameter adjustments and optimizations, heard the remark and said earnestly: "Don't spread rumors. We skipped the gameplay Expo simply to better develop *Monster Hunter: World* so that players can enter the game world sooner."
+
+No promotional video means no participation in the expo? Is Chen Xu such a person? Wouldn't his heart ache saying such things?
+
+Although, so far, the promotional video and other outsourced tasks haven't actually been completed. But this isn't the primary core reason. The real reason is that due to the previous transition of the Nebula Games Platform, the entire team hadn't started any new projects.
+
+It wasn't until this channel war temporarily settled that they initiated new plans. However, by then, there was less than a month until the gameplay Expo, even less preparation time than the previous two years. With nothing ready, Chen Xu naturally didn't plan to attend the gameplay Expo.
+
+But looking at it now, is this acceptable? Especially with the online mockery directed at Nebula Games.
+
+Things like, "Don't rush, it's being made, it's being made. When has your Brother Xu ever lied to you?" or "It's almost done, it's nearly complete, the folder has already been created." All sorts of comments were there. Some even came with screenshots of folders and his previous amiable smile memes. It was simply too much!
+
+Listening to Chen Xu's words, Ruan Ningxue, Yang Xin, and Qin Yi all quietly lowered their heads.
+
+Others might not know, but how could they not? If during the previous meeting they only had a general understanding of *Monster Hunter: World*'s difficulty curve, then as the game entered the detailed development stage, with systems being separated, everyone now fully understood the game's overall tone.
+
+Simply put, *Monster Hunter: World*'s difficulty is a rollercoaster-like experience. It starts from the lowest valley, suddenly pushing players to the highest peak. After players experience that peak, the difficulty slowly decreases. Just when players think they've got it, the introduction of the Tempered monster mechanic once again makes them relive that earlier feeling.
+
+And it's not just the monster design; various system designs in the game are also full of targeted features. However, despite being targeted, much like the map traps in *Dark Souls*, they are very distinctive.
+
+For example, if a hunter continuously attacks with their weapon for a long time, its Sharpness will decrease. The so-called Sharpness, of course, isn't the taste of the blade; it can be understood as its keenness. The sharper the weapon, the higher the damage dealt per attack, and the easier it is to damage hard monster body parts. When Sharpness decreases, the weapon's output also decreases accordingly. If the weapon's Sharpness is too low, attacking hard monster parts will result in weapon bounce. Not only will this further significantly reduce Sharpness, but it will also leave the hunter in a flinch/stun state.
+
+To recover, players in the game need to stop and diligently use a Whetstone from their inventory to sharpen their weapon. And according to different states, it's divided into various color display levels, with white being the highest. For hunters with obsessive-compulsive disorder, seeing their Sharpness drop below white in the game will likely make them pull out a Whetstone to thoroughly sharpen their blade. At this point, if a Dragon Charge comes your way, you can only hope your health bar is full.
+
+Furthermore, while the game supports multiplayer hunts and doesn't have a friendly fire system, it does have impact and flinch/stun effects. After attacking a teammate, the teammate will enter a flinch/stun state, and their ongoing actions and attacks will be interrupted. At this moment, pray that your teammate can survive against the BOSS.
+
+In regular games, teaming up is an effective way to reduce difficulty, but in *Monster Hunter: World*, sometimes the terrifying thing isn't the Elder Dragon you face, but your three Longsword Hero teammates.
+
+Moreover, there's no way to see a monster's health in the game. You can only judge whether it's in a dying state by its injuries and actions.
+
+"Mr. Chen, I'm sure players will be incredibly 'surprised' then," Ruan Ningxue said with emotion.
+
+"Absolutely! After all, the goal of us Game Designers is to bring surprising experiences to players with every game, isn't it?" Chen Xu said with a chuckle.
+
+No matter if there's more 'shock' or more 'joy', as long as there's something, that's enough.
+
+After chatting for a few minutes in the lounge, when working hours began, everyone stopped their joking and focused intently on developing *Monster Hunter: World*.
+
+Ruan Ningxue's Art Team meticulously designed concept art. Then, through an outsourced art company, model assets were produced. For a game like *Monster Hunter: World*, the graphics and art modeling are naturally the more exquisite, the better. Buildings, maps, monsters, weapons, armor, and so on – the amount of resources needed is even greater than for *Dark Souls*.
+
+Qin Yi, meanwhile, continued to fine-tune the various parameters of the in-game AI system, ensuring that the monsters in the game would exhibit higher intelligence, but with a very precise control over the difficulty. After all, all monsters have numerical values; if the difficulty is increased through AI performance, then the monster's numerical attributes must be weakened, and vice versa.
+
+At the same time, Chen Xu also hired a top symphony orchestra team to record the game's soundtrack. After all, the music in *Monster Hunter* is very classic, especially the series' main theme, Proof of a Hero, which possesses an incredibly powerful and awe-inspiring grandeur, making people's blood boil. In most *Monster Hunter* games, whenever the Dragonator or Ballista appears – right! – it means someone has selected "Proof of a Hero" on the playlist!
+
+Because in most cases in the *Monster Hunter* series, it first appears on the decisive battle stage when hunters stab an Elder Dragon with a Dragonator but fail to kill it.
+
+……………………
+
+While Nebula Games was gradually advancing the development of *Monster Hunter: World*.
+
+In the gaming industry, discussions were also ongoing regarding Chen Xu's explanation on the official Weibo account as to why he didn't attend the gameplay Expo.
+
+Undoubtedly, Nebula Games was developing a new game. And it sounded like it might be a major title. However, nothing had been revealed – not even the gameplay content, let alone the game type.
+
+But the vast majority of players believed that Chen Xu's next new title would likely be a Souls-like game, as *Dark Souls* was Nebula Games' only major game to date. Although from a story perspective, the Firelinking saga had concluded, couldn't a new story simply be introduced?
+
+After all, *Dark Souls*' gameplay and map design are also very crucial aspects of the game. Of course, some players expressed skepticism, as *Minecraft* and the earlier *Don't Starve* had directly ignited a wave of sandbox games. Furthermore, in recent times, various channel alliances had been aggressively pushing forward with major projects, making the underlying intentions clear to everyone.
+
+Thus, many players suggested that Nebula Games might strike while the iron is hot and continue to release a large-scale sandbox game. However, other players raised objections, arguing that *Minecraft*'s sales were simply terrifying, a true miracle in the gaming world, one that broke records daily. In such a situation, Chen Xu would have no need to develop another sandbox game, as the risk would be too great.
+
+In short, every player had their preferred direction, until three days after the gameplay Expo.
+
+Nebula Games' official Weibo account and Chen Xu both released a pre-release announcement about the new game.
+
+(End of Chapter)

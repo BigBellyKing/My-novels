@@ -1,0 +1,47 @@
+## Chapter 238: Even the Promotional Trailer is Gone? (Eighth update, Requesting Subscriptions, Monthly Passes)
+
+After Chen Xu finished explaining the entire game's concept drafts to everyone, the project for *Monster Hunter: World* was approved, and the team began to operate efficiently.
+
+With previous experience developing *Dark Souls*, the team was no longer new to the action system, and actions for different weapons were recorded.
+
+Meanwhile, Ruan Ningxue successively produced concept art drafts, then contacted third-party outsourced illustrations studios for art asset production.
+
+Chen Xu, on his end, continued to test the AI's performance with Qin Yi and others, mainly to plan the difficulty numerical planning for various BOSSes in the upcoming *Monster Hunter: World*.
+
+Regarding the BOSS performance in *Monster Hunter: World*, Chen Xu actually didn't want the BOSS's difficulty to only be reflected in the fault tolerance rate brought by high numerical values.
+
+For example, if a regular monster attacks a Hunter five times consecutively, the Hunter will Carting.
+
+But if a Tempered monster attacks a Hunter three times, the Hunter will Carting.
+
+Before better AI technology was available, one could naturally only make adjustments through numerical values.
+
+For instance, higher attack power, giving monsters a higher attack frequency, and faster speed.
+
+However, with AI visual enhancement technology now available, Chen Xu hoped that the difficulty of monsters in the game would not only be reflected in their numerical values but, more importantly, in their in-game performance.
+
+For example, after embedding a series of commands such as escape, attack, enrage, and sneak attack into the BOSSes.
+
+The BOSSes in the game would use advantageous terrain to attack players.
+
+And provide action feedback based on the player's performance in the game.
+
+In normal mode, players habitually keep their distance, then start sharpening their weapons or drinking potions.
+
+A BOSS demonstrating higher difficulty AI technology would directly execute a Dragon Charge.
+
+However, after adjusting the AI values to the maximum, Chen Xu felt it was better to go easy.
+
+Because with maximum AI performance, the BOSS's behavior was truly outrageous.
+
+If truly implemented, the following situations would likely occur:
+
+A Longsword Hero, with Red Blade Helm Breaker, prepares to execute a decisive strike.
+
+The BOSS shuffles a few steps, dodges the Longsword Hero's Helm Breaker, and counters with a Dragon Charge collision.
+
+A Great Sword user mindlessly charges a powerful attack for the BOSS, and the BOSS stands five meters away, looking at you like an idiot.
+
+In a normal game mode, monsters primarily exhibit their habitual behaviors, while combat applications should be reserved for when players hunt Tempered Dragons.
+
+After all, 

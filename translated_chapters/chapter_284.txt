@@ -1,0 +1,151 @@
+Chapter 283: Esports Planning and New Version Plans (Requesting Subscriptions, Monthly Passes)
+
+During the period since `Warcraft` launched.
+
+Aside from the `story` in the game, which attracted `ordinary players`, many `players` who were keen on `RTS` gameplay were also studying the `gameplay` and content of `Warcraft`.
+
+Completely on par with `Warcraft`'s `single-player story`, many `players` discovered that the `RTS` gameplay content of this game was far more complex than they had imagined.
+
+In the beginning, most `players` basically just kept `producing units`, creating `heroes`, then `fast tech`-ing to `all-in push`.
+
+As for anything else, they were completely baffled.
+
+But as `players` gradually gained understanding, many `RTS masters`, leveraging the game's characteristics, discovered the impact of high-level `heroes` on the battle.
+
+Moreover, `heroes` could also use `items`, and some simple `tactics` were invented.
+
+For instance, in the `early game`, letting `common soldiers` accompany `heroes` to `level up` to increase `hero` levels faster.
+
+At the same time, there were some targeted playstyles, such as the `Orc` `Blademaster` having `Wind Walk`, allowing them to `harass` `Peasants` in the enemy's base.
+
+They would tail enemy `creeping` units, then use `Wind Walk`'s bonus damage to `last hit` to `snatch experience` and `items`.
+
+Furthermore, to counter early `harassment` from `Blademasters` and faster-moving `Demon Hunters`, some `players` also discovered the mysteries of `Warcraft`'s `building placement`, such as blocking the path to the `gold mine` to prevent `harassment`.
+
+………………
+
+In `Nebula Games`' office, `Chen Xu` was currently testing `Warcraft`'s `Map Editor`.
+
+Just then, a knock sounded on the office door. After receiving the notification, `Lin Rou` walked in.
+
+“`Mr. Chen`, `Shark TV` contacted us, saying they hope to obtain authorization for a `Warcraft` `esports event`,” `Lin Rou` said to `Chen Xu`.
+
+“`Esports event`? Elaborate,” `Chen Xu` asked, slightly taken aback by `Lin Rou`'s words.
+
+The `esports event` aspect was actually part of `Chen Xu`'s plan.
+
+It was just that `Chen Xu` hadn't considered it for the current stage.
+
+Mainly because the skill level of `Warcraft` `players` was still `uneven`.
+
+To be honest, hosting a `Warcraft` tournament wouldn't have much `credibility`.
+
+Moreover, for `players`, it was still largely a `learning phase`, and the `spectator appeal` wasn't that strong.
+
+`RTS` was considered a relatively special genre among `esports` titles.
+
+If one understood it, it was absolutely the most `spectator-friendly`.
+
+But if one didn't understand it, it would be `completely baffling`.
+
+Because even if you didn't understand `esports` titles like `FPS` and `MOBA`,
+
+You could still grasp simple information like `solo kills` or a `one-health comeback kill` against `one hundred health`.
+
+But what about `RTS`?
+
+That involved `macro` aspects.
+
+For instance, if a `hero` died once, some `players` would immediately `call GG`; if a few `Peasants` died, they'd immediately `call GG`.
+
+For `players` who understood the `game mechanics`, they knew this was quite normal.
+
+Because they were already too far behind, this amount of time was enough for the opponent to build a significant advantage and `macro` them to death.
+
+But for `players` who didn't understand, it felt `bewildering`; they had no grasp of the `tactics`. From their perspective, one side lost a `hero` and three `units`, then suddenly surrendered. They might even suspect `match-fixing`.
+
+At this stage, launching `RTS` competitions wasn't, in `Chen Xu`'s opinion, a particularly good idea.
+
+Furthermore, in the `Parallel World`, the `esports industry` wasn't as backward as one might think; on the contrary, it was quite prosperous.
+
+`Third-party event organizers`, various `sponsorship channels`, well-regulated `clubs`, and corresponding `guilds` were all very well-established.
+
+This also meant that there were quite a few `RTS esports` titles.
+
+Although `Warcraft` was `popular`, did people want to operate `esports` projects for it right after launch?
+
+With `doubt`, `Chen Xu` listened to `Lin Rou`'s explanation and then `suddenly realized`.
+
+“`Shark TV` wants to organize a `platform` event?” `Chen Xu` asked, looking at `Lin Rou`.
+
+It was simple: the `live streaming platforms` saw that `Warcraft`'s `popularity` was very high, and there were also many `RTS masters` among the `streamers` signed to the `platform`. So, they wanted to purchase a `platform event authorization` from `Nebula Games` to host a `Shark TV Warcraft Monthly Tournament` format, where `Shark TV`'s contracted `streamers` would compete.
+
+As for `sponsorship`, `prizes`, and `operations`, `Shark TV` would handle everything. `Nebula Games` would merely `oversee` it, `glancing` over things, and then `collect the money`.
+
+To put it bluntly, the `platform` wanted to hold an `event` and attach an `esports` name to it. As for the content, it would be similar to the early `internet cafe tournaments` of `esports`.
+
+There would be no `offline audiences` or `offline venues`.
+
+“Contact the people at `Shark TV` regarding this; we can discuss it. However, we should also establish a dedicated `department` ourselves to first learn the relevant content and `insights`,” `Chen Xu` said to `Lin Rou` after some thought.
+
+`Chen Xu` also valued the `esports event` sector highly.
+
+It wasn't for money or `tournament revenue`.
+
+What `Chen Xu` cared about most was the `promotion` of the game through such `esports events`.
+
+When a game has a suitable pond (environment), `esports` can be a great way to consolidate `player stickiness` and `IP`.
+
+For example, in his `previous life`, games like `League of Legends` and `DOTA` — even if their `player` numbers decreased, the overall `IP value` of the games did not decline at all.
+
+Because many `players` would still `watch matches` even if they didn't play the game, and for `Warcraft`, cultivating such `IP value` was clearly very necessary.
+
+Of course, it was also important to strike a balance: `third-party events` and `official events` should proceed simultaneously.
+
+Like `Blizzard` in his `previous life`, if you say they had the ability, they wanted to `monopolize profits`, which led to `StarCraft 2` falling out with `third-party organizers` during its `golden age`, `squandering` a good hand.
+
+But if you say they lacked ability, for games like `Overwatch`, whose `popularity` continued to decline, the `clubs` and `events` were still managed well, even to the point where `everyone had a livelihood`.
+
+This collaboration with `Shark TV`, besides further `promoting the game`, also aimed to cultivate `Nebula Games`' internal understanding of the `esports industry`.
+
+After all, `Nebula Games` would inevitably develop this type of game in the future.
+
+And `esports-type games`, if `operated well`, were essentially `evergreens`.
+
+As for how `Shark TV` would actually organize the first `Warcraft` '`internet cafe tournament`', that could be discussed later.
+
+After speaking with `Lin Rou`, `Chen Xu` also sent a message in the `work group chat`.
+
+Asking `HR` to see if there were any `employees` willing to `transfer positions`, and to `recruit new staff`.
+
+……………………
+
+“`Mr. Chen`, are we going to hold an `esports tournament`?” After talking with `Lin Rou`, `Chen Xu` stretched a bit and walked towards the `project office`. Seeing `Chen Xu` arrive, everyone seemed a little `curious`.
+
+“Just granting authorization for `Shark TV` to organize it. Our own direct `department` will learn from the experience. Even if we officially host one later, it'll mostly be outsourced to `third parties`. We just need to understand this area and know how to `operate competitive games`,” `Chen Xu` said, shaking his head.
+
+“But speaking of which, `Warcraft` indeed meets the conditions for hosting tournaments now,” `Qin Yi` said.
+
+Currently, `Warcraft` has been online for a while, having passed its `initial phase`, and `player` skill levels have gradually diverged.
+
+Coupled with `Warcraft`'s `popularity` in the country, it has essentially `crushed` other `RTS` games.
+
+Therefore, various `clubs` have been rumored to be `transitioning` their `other RTS game divisions` into `Warcraft` divisions.
+
+With the influx of other `RTS` `professional players`, there's no shortage of so-called `master players`.
+
+“Alright, enough talk. You've had enough rest lately, so start preparing the `new version plan` for `Warcraft`,” `Chen Xu` said, smiling at them.
+
+He took out a `document` that had already been printed beforehand.
+
+“Uh! A `new version plan`!?” Everyone was a little `surprised`. A new version so soon?
+
+However, when they saw the `document` in front of them, they were even more `bewildered`.
+
+What is this supposed to be?
+
+‘`Defend the Sword Pass`’ ‘`Pyramid Escape`’ ‘`Demon Hunter Chronicles`’ ‘`Monopoly of the World`’ ‘`Calamity of the Western World`’ What are these?
+
+How did `Warcraft` get involved with `Pyramids` and `Sword Pass`?
+
+(End of Chapter)

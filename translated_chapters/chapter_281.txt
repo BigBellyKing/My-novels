@@ -1,0 +1,135 @@
+Chapter 280: Official Release (6th update, requesting subscriptions and monthly passes)
+
+Online discussions about 'Death to Cliffhanger Authors' and other comments were not given much attention by Chen Xu or the Nebula Games team members.
+
+This has become a habit for Nebula Games.
+
+That is, to focus on making games.
+
+As for various player comments online, they shouldn't be overly managed, but rather understood after the game is released.
+
+The game development phase is primarily about game development.
+
+Of course, at this stage, *Warcraft* has not yet included the Map Editor and its subsequent community.
+
+However, all related game settings are essentially complete.
+
+The various servers for multiplayer mode have been set up.
+
+At the same time, the corresponding RANK point matchmaking system has also been perfected.
+
+Regarding maps, matchmaking and ranked play are divided into two modes.
+
+The matchmaking maps are quite numerous; Chen Xu has currently created about 15 of them.
+
+As for ranked maps, considering balance, Chen Xu selected some classic tournament maps from his previous life, such as Twisted Meadows (TM), Turtle Rock (TR), Lost Temple (LT), King's Realm (TS), Echo Isles (EI), and Gnoll Wood (GW).
+
+And in fact, these maps are not perfectly balanced.
+
+For example, Turtle Rock (TR) can be said to be the home field for Elves, because on this map, neutral creeps are mostly Sea Turtles. Sea Turtles have a passive skill that causes melee units to take a certain amount of reflected damage when attacking them. Most of the Orcs' firepower comes from melee units, putting them at a significant disadvantage when expanding, playing online, or farming items. In contrast, Elves primarily rely on ranged attacks, combined with the support of Raptor Druids' Faerie Fire (armor reduction) skill, giving them a natural advantage.
+
+Conversely, Lost Temple (LT) becomes the Orcs' home field, as the map features a structure called the Fountain of Life. Approaching it continuously restores health, and Orc Grunts have the highest health among all races, making them excellent tanks. Therefore, fighting near the fountain gives them an advantage, and they can clear the fountain early for rich experience and good items.
+
+Furthermore, this map lacks a neutral Tavern, which means certain Human strategies cannot be executed against Orcs, allowing Orcs to better capitalize on their power spike.
+
+It can be said that each map has its unique characteristics, which led players in his previous life to a unique view of *Warcraft*: there are no unbalanced races, only unbalanced maps.
+
+This is an inevitable situation, as all four races have their distinct characteristics.
+
+So, in ranked play, Chen Xu also incorporated a Ban-Pick function.
+
+Before the game, both players select their respective races, then proceed to Ban-Pick maps, where they can ban a map they don't want to play, and then draw from the remaining map pool.
+
+After finalizing some subsequent plans, Chen Xu stretched and walked out of his office.
+
+In the rest area, since game development work was temporarily complete, everyone in the team was relatively relaxed.
+
+And they had also switched to preferring the new over the old, no longer grinding *Monster Hunter: World*, but instead starting to play *Warcraft*.
+
+“Oh no, pull your peasants!”
+
+“Don’t block the entrance!”
+
+“Scatter the Dust of Appearance!”
+
+“How am I supposed to help you now!”
+
+Yang Xin, Ruan Ningxue, Qin Yi, and Lin Tao sat in a row.
+
+Humans, Orcs, Night Elves, and Undead—each chose one, leaving none out.
+
+Their opponent was an Orc player.
+
+At this moment, a level 6 Blademaster was unleashing Bladestorm, causing a massacre.
+
+And after the Blademaster finished Bladestorm, without waiting for the Mountain King’s hammer to strike, he immediately activated Wind Walk and vanished into invisibility.
+
+“Oh, Sister Xin, with that move, the Blademaster had already moved away who knows how far before you even scattered the Dust of Appearance.”
+
+“Yeah, yeah, it’s been so long, Sister Xin, why do you only have one Mountain King, eight Riflemen, and two Knights as your entire force?!”
+
+“That’s right, Sister Xin, aren’t you at Tier 3 already? You can even build two heroes, why aren’t you doing it?”
+
+Listening to her colleagues, Yang Xin's face turned red as she sat in front of the computer.
+
+“Honestly, I definitely can’t summon any more heroes. I can’t control them, and they also split experience when leveling up!”
+
+“As for why I have so few units, haven’t you seen my base? So many Defense Towers, whoever comes dies!”
+
+Ruan Ningxue glanced at Yang Xin's screen, a bit speechless: “Sister Xin, heroes have high attack and powerful skills! I’m telling you, it doesn’t have to be that complicated. Just select all your units, A-move them, and then just control the hero you want to play the most. Anyway, the common soldiers will attack automatically.”
+
+As a skilled *Warcraft* player, Ruan Ningxue imparted her unique A-move skill.
+
+“Mr. Chen, do you think I’m right?” Ruan Ningxue noticed Chen Xu approaching and asked.
+
+“Hmm… for novices, it’s best to start by mastering one hero, then move on to heroes and units, then multiple units, and finally macro,” Chen Xu mused, saying things that sounded useful but also rather unhelpful.
+
+After all, if he played himself, he knew how, but when it came to teaching others, he was completely at a loss.
+
+And these four people fighting a maddening AI opponent for so long, and from the battle situation, it didn't seem certain they could even win, which surprised him a little.
+
+“By the way, Mr. Chen, how are *Warcraft*'s pre-order sales?” Qin Yi asked, thinking of something.
+
+Hearing Qin Yi’s words, everyone else also looked at Chen Xu with concern.
+
+This aspect was something everyone was very interested in.
+
+Because *Warcraft*, as a game, could be said to be Nebula Games’ largest investment to date.
+
+This was mainly because the CGI was simply too expensive.
+
+And the modeling was even done to the standards of a typical RPG.
+
+How could that not burn money?
+
+“You’re all well aware of the game’s quality, so why worry about sales?” Chen Xu said with a smile.
+
+However, he still revealed some information to them.
+
+“We didn’t adopt a pre-sale model overseas because there were still some issues with censorship; it will likely launch about a week after the domestic release. But domestic pre-order sales have already exceeded 3 million. Recovering costs on the first day might be a bit difficult to achieve, but being profitable in the first week of sales is not a problem, and that’s even excluding overseas sales,” Chen Xu said with a smile.
+
+Upon hearing this figure, everyone was invigorated.
+
+This figure wasn’t Nebula Games’ best performance to date; *Minecraft* was still the best, followed by *Monster Hunter: World*.
+
+However, this was clearly a great success.
+
+The game's inherent quality, content, and current sales figures also gave them a shot in the arm.
+
+This time, everyone in the team was full of confidence, believing that *Warcraft* would surely become a critically acclaimed and commercially successful game, redefining the concept of RTS games!
+
+…………
+
+On November 15th, *Warcraft* officially launched!
+
+After the previous demo version, *Warcraft*'s popularity was unparalleled for a time.
+
+On the official Weibo account, “The Fall of Lordaeron” and “Arthas” even became trending topics.
+
+On video websites, many UP hosts created video mashups of *Warcraft*'s CGI cutscenes, which also garnered high view counts.
+
+For players, whether they were drawn in by the plot or by the unique gameplay.
+
+They were clearly eager to experience this true RTS masterpiece.
+
+(End of Chapter)
