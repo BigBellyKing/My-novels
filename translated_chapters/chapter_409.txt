@@ -1,0 +1,72 @@
+Chapter 408: Amazing Physics Engine (Requesting Subscriptions, Monthly Passes)
+
+Chapter 408: Amazing Physics Engine (Requesting Subscriptions, Monthly Passes)
+
+Chen Xu at Nebula Games didn't react much to the discussions among outside players.
+
+Because these doubts were actually within expectations. After all, when open world games are mentioned, many people's first impression is Red Dead Redemption.
+
+Large maps, multiple quests, good graphics—this was roughly the unified perception of this genre in the Parallel World's gaming industry. In his previous life, The Legend of Zelda: Breath of the Wild, as the highest-selling entry in the series, brought many Zelda players into the franchise not through classic titles like Ocarina of Time, Twilight Princess, or Skyward Sword, but through Breath of the Wild.
+
+Initially, many also debated the art style of The Legend of Zelda: Breath of the Wild. Of course, as they said, The Legend of Zelda: Breath of the Wild was made that way due to the Switch's hardware capabilities.
+
+But that doesn't mean that if the Switch's hardware capabilities were powerful enough, The Legend of Zelda: Breath of the Wild would abandon this art style. Because a game's art style isn't just determined by the hardware capabilities of its platform.
+
+It also depends on the game's gameplay, background, and story. One could say that the story of Zelda is about a hero defeating the Great Demon King to save the world. Even Twilight Princess, the grandest in scale and darkest in tone, didn't deviate from this scope. Including the more realistic-leaning Twilight Princess, its art wasn't entirely realistic, but rather inclined towards a comic-style.
+
+And The Legend of Zelda: Breath of the Wild's own story and plot didn't require complete realism; it needed precisely this animated art style. Sometimes, it's not simply because technical capabilities and game console capabilities are insufficient that an animated rendering style is adopted; rather, sometimes, this animated art style is precisely what it needs.
+
+Moreover, even animated art, if done well, can be even more captivating than traditional realistic styles. Chen Xu believed that once the game was presented to players and they experienced it firsthand, they would understand that this art style wouldn't hold the game back; instead, it would give it a unique charm.
+
+………………
+
+After Chen Xu first announced The Legend of Zelda: Breath of the Wild,
+
+The sales of the Switch also saw another surge. Clearly, for players, the reputation of Nebula Games and Chen Xu was still very trustworthy.
+
+Furthermore, the combination of the Switch and open world elements as a gimmick sparked interest in many players.
+
+“Mr. Chen, if online players knew the development progress, they'd probably be in an uproar!” Meng Zuo, sitting in the office, couldn't help but exclaim to Chen Xu. If he weren't in charge of the content for The Legend of Zelda: Breath of the Wild, he too would believe, after seeing the online discussions, that the game was almost finished.
+
+“It’s fine; players will definitely get to play it before the New Year anyway,” Chen Xu said with a smile. He had promised to release the game in the second half of this year, and he certainly wouldn't break that promise.
+
+And the statement that development progress was very encouraging was not exaggerated at all. The game's physics engine, art assets, and level design were all progressing smoothly, without any hitches or obstacles.
+
+As Chen Xu and Meng Zuo were chatting, there was a knock on the office door, and Qin Yi entered, saying with a hint of excitement: “Mr. Chen, the environmental feedback framework in the physics engine is complete.”
+
+During this time, Qin Yi’s team was responsible for constructing the framework of this environmental feedback mechanism, and now it was time to see the results.
+
+After hearing Qin Yi's report, Chen Xu walked towards the project office. Upon arrival, the staff began the demonstration.
+
+The demo screen appeared on the large display. In a grassland, Link, with a sword on his back, was running. Suddenly, a strong wind picked up, the sky was covered by dark clouds, and unsettling flashes of electricity were faintly visible within the thick clouds, while the iron sword on Link's back also emitted electric sparks.
+
+Seeing this, Link immediately threw off the sword on his back and ran in the opposite direction. The next moment, a bolt of lightning ripped across the sky, followed by a booming thunderclap. The lightning struck exactly where the iron sword had fallen, instantly igniting the grassland.
+
+The green grass was consumed by flames, nearby trees were shattered by the lightning, and apples scattered on the ground, some rolling into the blaze, where they ripened in the intense heat and eventually turned to ash. As the strong winds intensified, the grassland fire grew larger and larger.
+
+Some goblin-like monsters were caught in the inferno, letting out wails of agony as they were reduced to fragments. Then, torrential rain poured down from the dark clouds, and the great fire on the grassland was extinguished with the heavy downpour.
+
+…………
+
+After this demo, there was a brand new one. In a hot desert region, Link again appeared, this time carrying a large ice block as he walked through the desert. However, as he progressed, the ice block on him began to melt, growing smaller and smaller until it vanished without a trace.
+
+Next, the scene shifted to a cold, snowy mountain. It was still Link, dressed in thin clothing, climbing towards the summit. But due to the cold, he shivered uncontrollably, and snot bubbles even froze out of his nose.
+
+Looking at the peak ahead, the shivering Link opened his inventory, placed a bundle of firewood and a flint on the ground, then swung his long sword. Instantly, the flint sparked, igniting the firewood. Watching the bonfire in front of him, Link took out a wooden weapon, lit it, and warmed himself. Holding the burning weapon, Link continued to ascend the snowy mountain, but his good fortune didn't last long; before he had even gone halfway, the wooden weapon in his hand burned directly into ash.
+
+Each unique demo was projected onto the large screen. Using electric attribute attacks in a lake shocked all the nearby fish. Using fire to ignite a grassland, then fanning the flames with large leaf fans, causing the fire to spread like wildfire. Using time-freezing items to freeze stones, then charging up to directly break trees and knock monsters flying.
+
+After watching the actual performance of the entire physics engine, everyone was deeply shocked.
+
+“If this engine were applied to Red Dead Redemption, it would be absolutely explosive!”
+
+Meng Zuo couldn't help but exclaim as he looked at the engine's effect before him.
+
+“It would be explosive, yes, but what would also explode would probably be the players' VR equipment,” Chen Xu said with a laugh.
+
+“You're right,” Meng Zuo chuckled in agreement. The environmental interaction mechanism effects demonstrated by this engine were not simple. In reality, fire igniting paper and burning to ash seems natural and logical. But in a game, it's different. To achieve these effects, in addition to compatible physics engine logic, various stages of art performance must be created separately.
+
+For a game like The Legend of Zelda: Breath of the Wild, it might be manageable. But for a realistic game like Red Dead Redemption, it would be a heaven-defying workload and a huge test for players' equipment at the same time.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

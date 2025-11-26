@@ -1,0 +1,168 @@
+Chapter 358: Open World (Requesting Subscriptions, Monthly Passes)
+
+After confirming the plot details with Yang Xin, Chen Xu stretched and checked the current situation of the company.
+
+There were basically no issues to worry about. As for the previously acquired game developers and studios, they continued to maintain their original operating models.
+
+Each retained its own brand and developed new games.
+
+Of course, technical exchange was the main direction for now, as that was the very purpose of the acquisitions.
+
+Aside from that, a piece of news from NetDragon made Chen Xu pause in surprise.
+
+It was that NetDragon wanted to launch a brand new ‘Warzone’ mode in Rainbow Six Siege. Clearly, NetDragon was eager, seeing Call of Duty: Modern Warfare making such a killing.
+
+However, Chen Xu directly refused.
+
+Because the inherent mode of Rainbow Six Siege completely clashed with battle royale gameplay.
+
+The core of Rainbow Six Siege was information gathering and tactical planning.
+
+At the same time, Rainbow Six Siege's character movement speed, including the inability to jump, was all to emphasize indoor combat gameplay.
+
+Call of Duty: Modern Warfare was different; its smooth sliding, climbing, and other actions made the pace incredibly intense.
+
+Coupled with its large-map battle royale gameplay, it could be said they perfectly complemented each other.
+
+If Rainbow Six Siege were truly made into a battle royale, the experience would undoubtedly feel so awkward that players might almost suffer a brain hemorrhage.
+
+This was also why, in his previous life, Ubisoft publicly announced that Rainbow Six Siege would never incorporate a battle royale mode.
+
+Because from the very core attributes of the game, it was destined to be fundamentally incompatible.
+
+Unless they just slapped a skin on it and made a battle royale, but then Rainbow Six Siege's unique characteristics would be lost.
+
+However, while a Rainbow Six Siege ‘Warzone’ wasn't suitable, some simple crossovers weren't impossible.
+
+Of course, this would require serious consideration later, but for now, the work on Red Dead Redemption was more important.
+
+Coming out of the office, Chen Xu called Qin Yi, Lin Tao, and other core development team members into the conference room to discuss some of the upcoming game framework for development.
+
+“Mr. Chen, what kind of mode will we adopt for the new game's gameplay?” Qin Yi asked Chen Xu, a little curious.
+
+If it were up to him, the new game would follow the Call of Duty: Modern Warfare model.
+
+But Chen Xu had previously mentioned a very novel term, ‘open world,’ which made Qin Yi a bit unsure.
+
+“Actually, open-world games can be considered a hybrid of sandbox and box garden games,” Chen Xu said with a smile.
+
+Sandbox games, this keyword, had nearly perfected its concept after the birth of Minecraft.
+
+This included the gaming industry's understanding of sandbox games, which was largely similar to his previous life.
+
+As for box garden games, there were already similar games and understandings in the Parallel World. They involved creating beautiful and exquisite garden scenery for players to enjoy and appreciate. The scenery within the box garden would form a stable structure, presenting the unique aesthetic of a miniature world.
+
+And the open world, then, was a perfect balance point between sandbox and box garden.
+
+In his previous life, open worlds, strictly speaking, were divided into three major categories.
+
+One was a mode like Red Dead Redemption, leaning towards a cinematic style, with various detailed contents that made players feel the world truly existed.
+
+Secondly, there was the mode that focused on openness, map elements, and level design, such as the combination of various levels and abilities in The Legend of Zelda: Breath of the Wild's shrines, and the concept of an attraction anchor.
+
+Finally, there was Ubisoft's signature formulaic open world, with numerous collectible elements and perfectly replicable mission and level designs. This was also a mainstream open-world design mode. As for why it was mainstream?
+
+Because compared to the other two modes, this one was easier to make.
+
+Of course, further subdivisions based on game content included types like The Witcher's strong narrative quests.
+
+But broadly speaking, an open world fundamentally revolved around one element.
+
+A large, open, and free map, a world available for players to explore.
+
+“The upcoming Red Dead Redemption will follow a cinematic mode, but not like Call of Duty: Modern Warfare; it needs to be much more leisurely,” Chen Xu told the team.
+
+In his previous life, many players had commented that Red Dead Redemption's pace was too slow.
+
+The main reason was the difference in vehicles.
+
+Because during this period in 1899, especially in the West,
+
+horses and carriages were still the mainstream modes of transportation.
+
+So the pace was very slow.
+
+Chen Xu continued, “Furthermore, just like Call of Duty: Modern Warfare, the visual presentation cannot be perfunctory; it must be of the absolute top tier currently available.”
+
+“Every landscape in the game should be usable as a wallpaper or poster. Besides that, there must be various detailed interactions.”
+
+“Also, for the cinematic presentation, similar to Call of Duty: Modern Warfare, attention must be paid to facial details; I won't repeat that.”
+
+“Under sunlight, mirrors and water surfaces will reflect opposing scenery. Clouds in the sky will drift with the wind's direction, and sunlight will change with the weather and time.”
+
+“Rain will also drift with the wind's direction, and the size of raindrops and snowflakes in blizzards cannot be constant.”
+
+“Player characters will appear fatter or thinner depending on how much they eat. Players wearing less will feel cold, and those wearing more will feel hot.”
+
+As Chen Xu spoke, everyone in the team was astonished.
+
+These demands were simply too terrifying!
+
+And this was showing off technical prowess!?
+
+“Precisely, showing off technical prowess! As a flagship game for Huanyu VR, we need to demonstrate the powerful capabilities of new-generation VR. Showcasing tech aligns perfectly with the Game Department's planning,” Chen Xu stated as a matter of course.
+
+“But Mr. Chen, won't these contents have much impact on the game's gameplay?” someone raised a question.
+
+After all, how many players would idly spend time studying such details?
+
+Many players might not even notice these details after completing the game.
+
+Hearing that, Chen Xu smiled: “If players won't actively discover them, won't we actively disclose them?”
+
+“As for why we're doing this? Because Red Dead Redemption is a story-driven open-world game.”
+
+“A lifelike Wild West world, where a story involving Arthur Morgan and the Van der Linde gang once unfolded on this land.”
+
+“We are telling this story, but this world needs to feel real to the players,” Chen Xu explained with a smile.
+
+For an open world, what is more essential: openness or the world itself?
+
+In his previous life, whether it was the many prominent designers in the gaming industry or the players, everyone had their own valid points.
+
+But at least for this game, there was a very clear definition: it was a storytelling game. From a certain perspective, Red Dead Redemption wasn't truly free, because when you were on a main quest, you couldn't do anything else.
+
+You couldn't leave midway or do anything else; you could only complete the mission. This was more akin to a linear game.
+
+But the development team was stubbornly insistent on building a world before telling its story.
+
+And this made a game that should have been a linear story suddenly appear free.
+
+Listening to Chen Xu, everyone came to a realization, but new problems arose soon after.
+
+“But if Mr. Chen does this, creating a seamlessly connected world will be a huge demand on current performance capabilities,” everyone said to Chen Xu.
+
+This was an extremely critical issue.
+
+Why were Call of Duty: Modern Warfare's graphics so excellent?
+
+Because loading screens were hidden within cutscenes.
+
+But Red Dead Redemption was different. According to Chen Xu, it would be an open and seamless world.
+
+Therefore, the game certainly couldn't use the method of playing cutscenes.
+
+“For the initial loading and in-game resource loading, resources within a certain range will be read and loaded according to the player's game progress. The rest will be slowly loaded in-game. Players' primary mode of transportation is horses, which are completely sufficient in terms of speed.”
+
+“When riding carriages, trains, or fast traveling, an animation playback mode can be used to load resources within a certain range,” Chen Xu said to everyone.
+
+He had considered this aspect long ago.
+
+“But Mr. Chen, this way, players will have to spend a lot of time loading game content before starting, possibly even one to two minutes,” Qin Yi and the others were stunned.
+
+It wasn't that no one knew this could be done, but the most crucial point was that absolutely no one dared to do it!
+
+Making players wait so long for loading before the game even starts?
+
+“For the sake of game quality, compromises must be made,” Chen Xu said, shaking his head.
+
+Would it affect players?
+
+Certainly it would, but in Chen Xu's view, the impact of this aspect was clearly less important than the overall quality of the game when it's released.
+
+Moreover, it wasn't as if there were no remedies.
+
+For example, what if some playable content were added to the loading screen?
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

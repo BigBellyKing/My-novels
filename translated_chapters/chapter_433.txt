@@ -1,0 +1,164 @@
+Chapter 432: Seamless Realism (Requesting Subscriptions, Monthly Passes)
+
+Facing the sudden surge in popularity of Uncharted.
+
+Atari wasn't entirely inactive either.
+
+After a period of anticipation, once the buzz around Uncharted had slightly subsided, Atari directly announced that there would be an Easter egg hunt event in their game.
+
+In the game, players would explore the four elemental worlds of Earth, Water, Fire, Air, searching ancient ruins to find four elemental swords.
+
+The first player to find the corresponding Easter egg and complete it in-game would win a grand prize from Atari.
+
+This prize was a 1:1 replica of an elemental sword, crafted from gold and diamonds, with a total value of 50,000 USD.
+
+Though unstated, Atari was clearly feeling competitive.
+
+"It's just an Easter egg event, isn't it?"
+
+"Who can't do that!"
+
+"They'd do it too, and do it even better!"
+
+This announcement also surprised many players.
+
+If one were to talk about value, the four swords across four spots only amounted to 200,000 USD.
+
+Some esports game prizes were considerably higher than this.
+
+However, the key was that this event was open to all players, which sparked a lot of interest.
+
+Coinciding with Atari's Easter egg event promotion, *Element World* also released an actual gameplay demonstration animation.
+
+Moreover, this time, *Element World* specifically emphasized that it was an actual gameplay demonstration, not a pre-recorded one.
+
+Game trailers were sometimes dubbed "game scam trailers" by many players, mainly because some game companies loved to play little tricks with them.
+
+For example, rendering a demonstration in the engine and then overlaying a UI.
+
+Or misleading players with word traps: "What? You said actual gameplay? Don't talk nonsense, we never said that! We said it was pre-recorded footage!"
+
+"Besides, didn't we say at the beginning that development videos don't represent the final quality? So, some visual downgrade later is perfectly normal, right?"
+
+Nebula Games, however, was different. From its inception until now, Nebula Games had always clearly shown players whether something was an actual gameplay demonstration or a game CGI animation.
+
+This was precisely why Nebula Games earned the trust of so many players.
+
+Now, Atari openly and emphatically stressed this point, clearly confident in its visuals.
+
+In the video released by Atari, the player, portraying a hero, led a team into ruins resembling a pyramid.
+
+The environment was gloomy, filled with strange traps and beetle-like monsters.
+
+To find the Earth Sword, the protagonist's party ventured deep inside, but instead of finding the sword, they triggered a curse, bringing the Undead from the ruins back to the light of day.
+
+The newly resurrected Undead at the end of the footage, along with various treasures in the ruins, presented a truly shocking visual.
+
+Then the scene shifted, showing forests, oceans, and a fragmented Element World, leaving many players thrilled. From a visual perspective, it seemed to be entirely on par with Nebula Games' previous *Red Dead Redemption*.
+
+'Oh my god, Atari feels really good this time!'
+
+'Exactly, and Atari stated this is actual in-game footage!'
+
+'When those endless bugs appeared, I got goosebumps. This VR immersive experience won't turn into a horror game, will it?'
+
+'That's what makes it exciting! And isn't there an Awakening Mode?'
+
+'Looking forward to more content!'
+
+'I feel like Chen Xu and Nebula Games are being overshadowed!'
+
+'Yeah, not only is their popularity being suppressed, but so is the size of their protagonist's party. Atari has three people participating in the action, while Chen Xu's seems to only have Nathan Drake and Elena, right?'
+
+...............
+
+Atari deployed various tactics, reclaiming all the popularity it had previously lost.
+
+Countless players excitedly discussed the content related to *Element World*.
+
+Meanwhile, Chen Xu was filming.
+
+"For the central explosion scene, I need high-definition cameras placed within it for capture, from all directions."
+
+"One-time shot, that's it. As long as we get the desired content."
+
+Inside the film studio, Chen Xu was recording footage for an explosion scene in *Uncharted* with his team.
+
+Previously, explosion scenes in games produced by Nebula Games were mostly computer-generated special effects.
+
+Achieved through in-game modeling combined with physics engine effects and special effects production.
+
+But this time, *Uncharted* was different; Chen Xu planned to do some live-action shooting for certain shots.
+
+A cave scene had been set up in front of them. The scene Chen Xu was currently filming was the one where Nathan Drake and Sam first found a clue, but then the huge map marker was blown up by mercenaries and collapsed.
+
+The model wasn't large, but it was incredibly detailed.
+
+All relevant procedures had been completed, and Chen Xu was discussing with the pyrotechnics and lighting teams.
+
+This scene could technically be created entirely with computers, but Chen Xu wanted to convey a more prominent sense of realism.
+
+As for how to achieve realism? Throwing actors into the explosion for a real experience?
+
+That was, of course, impossible.
+
+Similar to how blockbuster movies are shot, specialized high-definition cameras and drones were placed at the center of the explosion to capture the scene, followed by post-production adjustments, allowing players to viscerally experience that intense and thrilling scenario.
+
+After having each department double-check everything, Chen Xu walked to the adjacent set, where cameras were already set up from all angles.
+
+Chen Xu sat in front of the monitor, watching the footage, and couldn't help but sigh with emotion.
+
+The money wasn't really the biggest issue; the more troublesome part was dealing with various departmental procedures, as explosion scenes weren't something you could just film whenever you wanted.
+
+After having the team check all aspects for a third time, and confirming everything was correct, Chen Xu notified all departments to prepare for filming.
+
+The entire shoot used wire-controlled explosives, primarily because with so many communication tools nowadays, there was a risk of signal interference causing accidental detonations. Therefore, traditional wire control was safer than wireless remote control.
+
+All vehicles were driven to a distance, and filming officially began.
+
+With all departments confirmed ready, at the last second of the countdown,
+
+The wire-controlled explosives were detonated. A deafening explosion suddenly roared, and orange-red flames erupted from within.
+
+The specialized rock ruins instantly disintegrated, countless fragments scattered, and a scorching wave of air surged outwards like a tide.
+
+The drones at the center of the explosion also began flying and filming along their pre-set routes.
+
+It looked incredibly terrifying, but in reality, for the pyrotechnics team, the control over the force was extremely precise.
+
+The designed ruins weren't completely pulverized but began to crumble and collapse in a fragmented state.
+
+"Perfect!"
+
+Chen Xu smiled, looking at the footage captured from various angles.
+
+Of course, this raw footage couldn't be used directly in the game.
+
+It required extensive post-processing.
+
+For example, the sound of the explosion, and the subsequent game special effects and physics engine performance.
+
+Generally, in games, to make explosion scenes more spectacular, besides particle effects, common methods include camera shake, haptic feedback, and also using blurred color visual effects to give players a more immersive feeling.
+
+In VR immersive mode, these techniques are mostly unnecessary, but dynamic integration will still be applied later.
+
+Simply put, when an explosion occurs in the game, in addition to the booming sound and the visuals players see, they should also hear the sounds of birds, insects, or the surrounding environment. This dynamic contrast will better emphasize the power and impact of the explosion.
+
+Furthermore, there's the player's first-person perspective. Combined with the recently filmed explosion scene, Chen Xu and the team also need to make it more visually appealing and cool, as complete realism isn't always a good thing.
+
+And it's not just explosions; there are also various actions.
+
+For example, in the rock climbing aspect, Chen Xu would have the team add more animations to ensure players had a better experience.
+
+Details, realism, and visuals are the main core of this game.
+
+Of course, not everything leans towards realism. Some realistic elements that would hinder game fluidity simply cannot be included.
+
+For instance, reloading bullets and retracting ropes, while seemingly realistic, might feel somewhat contrived or slow.
+
+But if choosing between realism and a fluid gaming experience, the latter is more important.
+
+Chen Xu's desired effect was for players to feel no sense of incongruity in a scene, while these realistic details wouldn't interrupt the game's fluidity.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

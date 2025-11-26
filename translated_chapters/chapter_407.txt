@@ -1,0 +1,126 @@
+Chapter 406: The Art and Gameplay Design of Breath of the Wild (Requesting Subscriptions, Monthly Passes)
+
+In the conference room, looking at the team, Chen Xu connected his computer screen to the projector.
+
+On the large screen appeared the pre-written design concept draft, with the title 'The Legend of Zelda: Breath of the Wild'.
+
+However, what surprised everyone the most were the annotations below and two colored concept drafts.
+
+A blond young man, wearing a blue jacket, with a bow on his back and a sword and shield in hand, stood atop a mountain peak, gazing into the distance.
+
+Regarding Link's character design, Chen Xu adopted the settings from Breath of the Wild.
+
+Firstly, Link is not left-handed; his dominant hand is his right. In his previous life, the early Link was left-handed because the early producer Shigeru Miyamoto was left-handed, but this was changed to the right hand in motion-controlled games like 'Twilight Princess' and 'Skyward Sword'.
+
+As for the green hat, that was discarded. After all, its implication isn't great, and in Breath of the Wild, Link's design as a guardian inherently doesn't involve a hat. Of course, the green hat in the game is still a collectible item; if players want it, they can collect and wear it.
+
+“This art style, is it an animated style?”
+
+“And a gameplay point: puzzles.”
+
+Everyone was a little bewildered.
+
+“Do open worlds and puzzles have any connection?”
+
+Seeing their bewildered expressions, Chen Xu smiled.
+
+Dungeons and puzzles are, in fact, one of the core elements of the Zelda series.
+
+Breath of the Wild is no exception. By solving various shrines, players earn corresponding Trial Certificates. Collecting four of these can increase health or stamina, which is also a characteristic system of The Legend of Zelda series.
+
+Of course, in one particular title, the producer had a sudden whim and changed these Trial Certificates from four to five, making countless players grind endlessly.
+
+As an open-world game developed for the Switch, it was clearly unfeasible to create a world as immersive as 'Red Dead Redemption' with numerous NPCs and abundant realistic details.
+
+“So, how should 'The Legend of Zelda: Breath of the Wild' be made?”
+
+“That would be through combat, puzzles, and environmental interaction.”
+
+In terms of combat mechanics, 'The Legend of Zelda: Breath of the Wild' can be said to be frighteningly rich.
+
+From the most basic Shield Parry and dodging into Link time (slow-motion bullet time).
+
+The game also features various advanced action techniques, such as using the built-in Remote Bombs for Bomb Shield Parry, or entering Link time out of thin air by holding and sheathing the bow after a dodge.
+
+How to distinguish a Breath of the Wild player as a master or an ordinary player primarily depends on how they fight monsters.
+
+Those who only rush in and hack away are clearly Hyrule Link, who has just awakened to save the princess.
+
+Players who can maturely utilize various techniques, enter Link time, and even perform 'golden flashes' are certainly Master Link, who has honed his skills for fifty years before going to save the princess.
+
+And players who can masterfully use Link time, as well as leverage the environment and Link's special items like Remote Bombs, Stasis, Cryonis, and Magnesis to pull off all sorts of flashy maneuvers, are undoubtedly Hyrule's Old Rogue, who has wandered Hyrule for over a hundred years and forgotten what the princess even looks like.
+
+“Before developing 'The Legend of Zelda: Breath of the Wild,' there are two prerequisite tasks everyone needs to complete. The first is for Qin Yi and your team to build a unique environmental interaction mechanism framework: water freezing into ice, wind increasing fire spread, electrical conductivity, and the effects of temperature and weather on the environment,” Chen Xu said, looking at Qin Yi.
+
+Listening to Chen Xu's words and the simply listed features, Qin Yi and the others all looked taken aback.
+
+Because, through Chen Xu's introduction, they could clearly discern some characteristics of this game.
+
+If 'Red Dead Redemption' makes players feel a sense of realism through countless details.
+
+Then 'The Legend of Zelda: Breath of the Wild,' according to Chen Xu, makes players feel realistic through environmental interaction.
+
+When wooden weapons touch fire, they will automatically burn, and after burning for a period, they will be destroyed.
+
+Each weapon has unique durability, and prolonged use will cause it to break.
+
+When players venture into cold areas, they will lose health due to the cold.
+
+They will need winter clothing and cold-resistant food like chili peppers or to carry a torch to feel better and avoid losing health.
+
+The game also features weapons with different attributes: ice can freeze, electricity can paralyze...
+
+Players also possess many special abilities, such as the power of magnetism to lift metal objects.
+
+Using this method, players can lift iron crates and then throw them onto monsters' heads to crush them.
+
+Freezing water surfaces into ice allows players to walk and climb on them, reaching areas normally inaccessible.
+
+Round and square Remote Bombs can blast certain monsters away.
+
+There's also a special ability to freeze time, for example, by freezing a rock and then continuously attacking it with weapons, the rock can be made to fly further.
+
+By continuously chopping down trees, freezing time just as one is about to fall, and then continuously attacking it while climbing the tree, one can shoot off like a rocket.
+
+Besides these, there are many other features; almost every object in the environment can interact with the player.
+
+At this moment, Meng Zuo, Qin Yi, and the others understood why Chen Xu said this was a puzzle game.
+
+This type of puzzle-solving is different from traditional pathfinding and clue-finding puzzles.
+
+Just like 'Minecraft,' this puzzle-solving maximally stimulates players' imagination to defeat monsters using various methods.
+
+Stealing monster weapons, setting forests on fire to burn monsters to death, or using various traps and special abilities to eliminate monsters.
+
+Listening to Chen Xu's introduction, everyone felt a surge of excitement, as they could already sense the unique characteristics of this game just by imagining it.
+
+The only thing left to do was to build this system and framework, which was not an easy task, especially on the Switch platform.
+
+“Additionally, regarding art, because it needs to be developed on the Switch platform, the game's art will adopt an Animated style, which can save a significant amount of resources for developing game content,” Chen Xu said, looking at Yang Xin and Ruan Ningxue.
+
+At the same time, the screen magnified the concept art and displayed some key explanations.
+
+The art style in 'The Legend of Zelda: Breath of the Wild' will adopt an Animated aesthetic.
+
+Moreover, the game's special effects won't use particle effects, but rather frame-by-frame animated line-art.
+
+The biggest advantage of this approach is that it aligns with Zelda's inherent animated style, and another point is that it saves resources.
+
+Furthermore, in this situation, to ensure players fully accept this art style.
+
+The game needs to use large color blocks to showcase its outdoor scenic style.
+
+Whether it's the bluish sky and water surface, or the clouds with a strong hand-drawn texture.
+
+The exaggerated atmospheric perspective gives players a sense of déjà vu, as if looking at a gouache painting.
+
+The advantage of this technique is to use artistic colors and styles to present the entire game world.
+
+Instead of purely pursuing realism, which differs from the lower saturation of the real world.
+
+This makes the entire game's color scheme lean towards romanticism, giving more consideration to the overall visual perception of colors and the aesthetic appeal of the palette.
+
+And of course, there's one more point: it saves resources.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

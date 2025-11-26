@@ -1,0 +1,166 @@
+Chapter 386: A Game Design Philosophy Completely Different from the Mainstream (Requesting Subscriptions, Monthly Passes)
+
+Looking at everyone, Chen Xu briefly explained the special features of these two games.
+
+First, regarding Animal Crossing, from a gameplay perspective, there isn't any earth-shattering or astonishing gameplay.
+
+To summarize in three words: playing house.
+
+Gradually building one's island and interacting with the little animals on it to foster relationships.
+
+This game itself is a very slow-paced, everyday game.
+
+Even changes to the island don't take effect immediately.
+
+Coupled with its tie to real-world time, it's destined not to be a fast-paced game.
+
+Planting a tree takes four days, fruit respawns take three days, renovating a house takes a day, and even buying an item in the game requires waiting a day for express delivery.
+
+But these are not the core of this game.
+
+Building the island and getting to know and befriending its various residents — loving the world and being loved by the world — is the core of this game.
+
+It can be said that the little animals in the game are its biggest core point.
+
+These little animals have various personalities, and even their dialogue is completely different, making players feel as if there's a human customer service representative playing each animal resident behind the scenes.
+
+Similarly, Chen Xu believes that the AI Technology of Nebula Games can be perfectly applied to these animal residents in the game.
+
+Animal Crossing is arguably the most suitable game for showcasing AI Performance Technology.
+
+Catch a butterfly in front of an animal resident on the island, and they'll stop to clap and cheer.
+
+They get sick, argue, and even act as peacemakers when others quarrel.
+
+Crocodile Fengnian loves sports and constantly wants to show off his abs, but secretly tells players that he often falls asleep halfway through doing push-ups.
+
+Tiger Sister Ran is a night owl, often wandering around the island late at night. If you get stung by a wasp, she'll even apply medicine for you.
+
+Pierrot, like a clown, is an artist. Sometimes he writes poems to show off, but is often found to have many typos.
+
+Animal Crossing's design is not particularly difficult.
+
+Because it largely involves numerical design.
+
+For example, when players fish, how many times will they encounter Fishing for Sea Bass?
+
+And when buying and selling Turnips, will it lead to getting rich overnight or meeting on the rooftop (going bankrupt)?
+
+And the residents who come to each island.
+
+Behind these are suitable numerical logics.
+
+Animal Crossing itself has no level design or elaborate story.
+
+It's a progression-based game.
+
+It requires players to invest their time and experience.
+
+And from it, reap a moving experience.
+
+From a design perspective, the small details are actually more important.
+
+For instance, every resident on the island must have dialogue that allows for perfect interaction with the player.
+
+It should even make players feel that they are flesh and blood.
+
+Only then, through daily interactions, can players truly become good friends with them, rather than just treating them as NPCs.
+
+This is extremely important.
+
+Moreover, it's completely different from typical social progression games.
+
+Animal Crossing is an anti-social progression game.
+
+Why say that?
+
+Because other social progression games actually exploit players' negative emotions.
+
+They entice players to compete in the game, using the subconscious to create a hierarchy and stimulate players' desires, thereby achieving their so-called social interaction.
+
+Animal Crossing, however, is completely different. On the one hand, it ties to reality, hoping players don't escape life; on the other hand, it encourages players to put down the game.
+
+How to play is ultimately up to the players themselves.
+
+It's not a game with freedom in its gameplay, but it's a game that offers players freedom of the spirit.
+
+As for the other game: Super Mario Odyssey.
+
+From a design perspective, it's far more complex than Animal Crossing, as it's a game that takes box garden game level design to the extreme.
+
+Compared to the previous Super Mario Galaxy, Super Mario Odyssey's box garden world blurs the lines of levels, offering players an alternative kind of freedom.
+
+This makes many players feel that Super Mario Odyssey is an open-world game.
+
+But in essence, it's still fundamentally a box garden game.
+
+The game provides broad goals for each level, but you can completely ignore them; as long as you collect enough Power Moons, you can pat your butt and leave.
+
+This game also fully utilizes the performance of the Switch.
+
+Players can perform special gestures by waving the Joy-Con controllers to make Mario perform special actions.
+
+For example, when climbing, waving the controller can make Mario climb faster.
+
+Complex moves like triple jump, long jump, rolling, ground pound, backflip, side flip, etc., each have corresponding button presses and gestures.
+
+Among them, the most prominent gameplay feature is the 'Cappy System', and compared to traditional jumping and punch attacks.
+
+The Cappy's function in the game is incredibly powerful.
+
+Furthermore, Cappy's greater role is 'possession'. Players can possess certain NPCs and enemies through Cappy, utilizing their characteristics or skills to pass different levels, offering players many fresh attempts.
+
+And the game's more than 17 scene variations and art styles are absolutely stunning.
+
+From a story perspective, Super Mario Odyssey is actually nothing special.
+
+It's just Bowser the Great Demon King, for over thirty years, kidnapping the princess and proposing marriage, only to be stopped by Uncle Mario the plumber in the red hat.
+
+Finally, the princess travels the world, leaving Mario and Bowser to 'become a couple' in a jokingly implied way.
+
+The fairytale-like story and art style allow people of all ages to enjoy the game's fun.
+
+There's no blood, no violence; it's a very pure game.
+
+It keeps players' focus solely on gameplay and level design.
+
+It can be said that Super Mario Odyssey has pushed gameplay to its absolute limit.
+
+Each scene has three different collectibles: coins, regional coins, and Moons.
+
+Their difficulties also vary. Regular coins serve as a guide for routes and for purchasing simple items.
+
+Regional coins require a small challenge, and collecting them unlocks specific shop collectibles.
+
+As for the final Moons, those are the most difficult points and the ultimate challenge.
+
+The level design, progressing from easy to difficult, provides players with a perfect difficulty experience.
+
+Moreover, the design of respawn points also significantly reduces players' sense of frustration in the game.
+
+Secondly, the most important core lies in the various collectibles in the game.
+
+It can be said that the story is never the core of Mario.
+
+When you've cleared the entire main story of the game and look back at the Moons, you'll find that despite feeling accomplished, you haven't even collected half of the total.
+
+Continuous, unexpected surprises — this is Odyssey's best reward for players' efforts in exploration, and also the essence of the game's level design.
+
+Furthermore, Moons are just a completion meter or badge; what truly attracts players are the series of challenges they represent.
+
+The game features a plethora of challenges hidden in every corner, bizarre and numerous. These include Running on Musical Notes, Platforming Puzzles, races, collecting coins, as well as novel gameplay elements like playing volleyball, jumping rope, Remote-Controlled Racing, and Puzzles. They test players' skills from every angle, pushing the boundaries of imagination.
+
+Listening to Chen Xu's introduction, everyone's eyes lit up.
+
+Although they hadn't seen the detailed design concept document.
+
+Just by listening, they could feel the fun of these two games, especially Odyssey.
+
+It's a game tailor-made for the new handheld console, Switch!
+
+And from the game's style and content, everyone further sensed its characteristics.
+
+That is, whether it's Odyssey or Animal Crossing, the underlying direction and design philosophy hidden within these games are completely different from mainstream games.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

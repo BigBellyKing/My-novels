@@ -58,6 +58,94 @@ class TermEntry(typing.TypedDict):
 class TranslationOutput(typing.TypedDict):
     translated_text: str
     new_terms: list[TermEntry]
+    thought: str  # Added for Chain of Thought
+
+class RateLimiter:
+    """
+    Simple Rate Limiter for RPM and TPM.
+    """
+    def __init__(self, rpm_limit=10, tpm_limit=100000):
+        self.rpm_limit = rpm_limit
+        self.tpm_limit = tpm_limit
+        self.request_timestamps = []
+        self.token_timestamps = [] # List of (timestamp, token_count)
+        self.lock = threading.Lock()
+
+    def _cleanup(self):
+        now = time.time()
+        # Remove timestamps older than 60 seconds
+        self.request_timestamps = [t for t in self.request_timestamps if now - t < 60]
+        self.token_timestamps = [(t, c) for t, c in self.token_timestamps if now - t < 60]
+
+    def wait_if_needed(self, estimated_tokens=0):
+        with self.lock:
+            while True:
+                self._cleanup()
+                
+                # Check RPM
+                current_rpm = len(self.request_timestamps)
+                
+                # Check TPM
+                current_tpm = sum(c for t, c in self.token_timestamps)
+                
+                if current_rpm < self.rpm_limit and (current_tpm + estimated_tokens) <= self.tpm_limit:
+                    break
+                
+                # Wait a bit
+                time.sleep(1)
+            
+            # Record this request
+            now = time.time()
+            self.request_timestamps.append(now)
+            if estimated_tokens > 0:
+                self.token_timestamps.append((now, estimated_tokens))
+
+# Global Rate Limiter
+rate_limiter = RateLimiter(rpm_limit=10, tpm_limit=100000)
+
+def check_hallucination(text):
+    """
+    Simple check for repetitive loops (hallucinations).
+    Returns True if hallucination detected.
+    """
+    lines = [line.strip() for line in text.split('\n') if line.strip()]
+    if len(lines) < 10:
+        return False
+        
+    # Check for immediate repetition of the same line multiple times
+    for i in range(len(lines) - 5):
+        chunk = lines[i:i+5]
+        # If the next 5 lines are exactly the same as this chunk
+        if i + 10 <= len(lines):
+            next_chunk = lines[i+5:i+10]
+            if chunk == next_chunk and chunk[0] == chunk[1]: # Strong repetition
+                 return True
+                 
+    # Check for single line repeating many times
+    from collections import Counter
+    counts = Counter(lines)
+    most_common = counts.most_common(1)
+    if most_common:
+        line, count = most_common[0]
+        if count > 10 and len(line) > 5: # Arbitrary threshold
+            return True
+            
+    return False
+
+def check_refusal(text):
+    """
+    Checks if the text looks like an AI refusal.
+    """
+    refusal_keywords = [
+        "I cannot translate", "I can't translate", "I am unable to translate",
+        "I apologize, but", "I'm sorry, but", "As an AI language model",
+        "violate my safety guidelines", "against my content policy"
+    ]
+    lower_text = text.lower()
+    for keyword in refusal_keywords:
+        if keyword.lower() in lower_text:
+            return True
+    return False
 
 def load_glossary():
     if os.path.exists(GLOSSARY_FILE):
@@ -69,17 +157,42 @@ def save_glossary(glossary):
     with open(GLOSSARY_FILE, "w", encoding="utf-8") as f:
         json.dump(glossary, f, ensure_ascii=False, indent=4)
 
-def validate_translation(filepath):
+def validate_translation(filepath, source_text=None):
     """
-    Checks if the translation file seems complete by looking for the end marker.
+    Checks if the translation file seems complete and valid.
     """
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
             
             if not content.strip():
+                print(f"Validation Failed: Empty content in {filepath}")
                 return False
             
+            # 1. Refusal Check
+            if check_refusal(content):
+                print(f"Validation Failed: AI Refusal detected in {filepath}")
+                return False
+
+            # 2. Hallucination Check
+            if check_hallucination(content):
+                print(f"Validation Failed: Hallucination detected in {filepath}")
+                return False
+
+            # 3. Length Ratio Check (if source provided)
+            if source_text:
+                len_source = len(source_text)
+                len_trans = len(content)
+                if len_source > 0:
+                    ratio = len_trans / len_source
+                    if ratio < 0.2: # Too short
+                        print(f"Validation Failed: Translation too short ({ratio:.2f}) in {filepath}")
+                        return False
+                    if ratio > 5.0: # Too long (suspicious)
+                        print(f"Validation Failed: Translation too long ({ratio:.2f}) in {filepath}")
+                        return False
+
+            # 4. End Marker Check
             # Primary check: <<END_OF_CHAPTER>>
             if "<<END_OF_CHAPTER>>" in content:
                 return True
@@ -90,7 +203,8 @@ def validate_translation(filepath):
                 return True
             if "(本章完)" in content:
                 return True
-                
+            
+            print(f"Validation Failed: Missing End Marker in {filepath}")
             return False
     except Exception as e:
         print(f"Error validating {filepath}: {e}")
@@ -126,7 +240,8 @@ def process_chapter(chapter_filename, glossary):
     1. Translate them consistently within this chapter.
     2. Add them to the 'new_terms' list in your output.
     
-    Return the result in JSON format with two fields:
+    Return the result in JSON format with three fields:
+    - "thought": A brief reasoning about the translation approach for this chapter.
     - "translated_text": The full English translation in Markdown format.
     - "new_terms": A list of objects, each with "original_term" and "english_translation".
     
@@ -134,12 +249,17 @@ def process_chapter(chapter_filename, glossary):
     {text}
     """
 
-    max_retries = 5
+    max_retries = 2
     base_delay = 10
-    result = None
+    
+    # Estimate tokens (rough char count / 4)
+    estimated_tokens = len(prompt) // 4
 
     for attempt in range(max_retries):
         try:
+            # Rate Limiting
+            rate_limiter.wait_if_needed(estimated_tokens)
+
             print(f"[{chapter_filename}] Translating (Attempt {attempt + 1})...")
             response = model.generate_content(
                 prompt,
@@ -150,7 +270,35 @@ def process_chapter(chapter_filename, glossary):
             )
             
             result = json.loads(response.text)
-            break # Success
+            
+            final_text = result["translated_text"]
+            new_terms_list = result.get("new_terms", [])
+            
+            # Temporary save for validation
+            with open(translated_path, "w", encoding="utf-8") as f:
+                f.write(final_text)
+                
+            # Validate
+            if validate_translation(translated_path, source_text=text):
+                # Success!
+                
+                # Update Glossary (Thread-Safe)
+                if new_terms_list:
+                    with glossary_lock:
+                        # Deduplicate terms
+                        unique_terms = {t['original_term']: t['english_translation'] for t in new_terms_list}
+                        
+                        print(f"[{chapter_filename}] Found {len(unique_terms)} new terms. Updating glossary...")
+                        for original, english in unique_terms.items():
+                            glossary[original] = english
+                        save_glossary(glossary)
+                
+                print(f"[{chapter_filename}] DONE and Saved.")
+                return # Exit function on success
+            else:
+                print(f"[{chapter_filename}] Validation failed. Retrying...")
+                # If it was a validation failure, we might want to wait a bit or adjust prompt (not implemented here)
+                time.sleep(5)
             
         except Exception as e:
             error_str = str(e)
@@ -160,47 +308,10 @@ def process_chapter(chapter_filename, glossary):
                 time.sleep(wait_time)
             else:
                 print(f"[{chapter_filename}] Error: {e}")
-                return # Fatal error for this chapter
+                # Don't return immediately, try to retry if it's a transient error
+                time.sleep(5)
 
-    if result:
-        final_text = result["translated_text"]
-        new_terms_list = result.get("new_terms", [])
-        
-        # Validate Content Before Saving
-        is_valid = False
-        if "<<END_OF_CHAPTER>>" in final_text:
-            is_valid = True
-        else:
-             # Fallback check
-            content_lower = final_text.lower()
-            if "(end of chapter)" in content_lower or "(end of this chapter)" in content_lower or "(本章完)" in final_text:
-                is_valid = True
-        
-        if not is_valid:
-            print(f"[{chapter_filename}] WARNING: Missing <<END_OF_CHAPTER>> marker. Saving partial translation.")
-        
-        # 1. Save Translated Text
-        try:
-            with open(translated_path, "w", encoding="utf-8") as f:
-                f.write(final_text)
-        except Exception as e:
-            print(f"[{chapter_filename}] Error saving file: {e}")
-            return
-
-        # 2. Update Glossary (Thread-Safe)
-        if new_terms_list:
-            with glossary_lock:
-                # Deduplicate terms
-                unique_terms = {t['original_term']: t['english_translation'] for t in new_terms_list}
-                
-                print(f"[{chapter_filename}] Found {len(unique_terms)} new terms. Updating glossary...")
-                for original, english in unique_terms.items():
-                    glossary[original] = english
-                save_glossary(glossary)
-        
-        print(f"[{chapter_filename}] DONE and Saved.")
-    else:
-        print(f"[{chapter_filename}] Failed after retries.")
+    print(f"[{chapter_filename}] Failed after {max_retries} retries.")
 
 def main():
     parser = argparse.ArgumentParser(description="Translate novel chapters.")

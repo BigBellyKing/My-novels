@@ -1,0 +1,80 @@
+Chapter 387: Switch's Plan (Requesting Subscriptions, Monthly Passes)
+
+If previous games like *Red Dead Redemption* belonged to serious literature, then *Super Mario Odyssey* would probably be a fairy tale loved by both children and adults.
+
+The entire game sounds very simple, essentially just a 3D platformer.
+
+However, the game involves some complex actions Chen Xu mentioned, such as triple jump, wall jump, ground pound, backflip, and so on. These actions geometrically increase the game's complexity, because if they are implemented, corresponding levels will inevitably be added to the game.
+
+From individual actions to the integration of all actions, just thinking about it is surprising.
+
+As for whether it's difficult or not?
+
+That's relative.
+
+Because difficulty mainly depends on how malicious the designer is. Especially for platform games, with just a slight tweak, they can go from a hot spring to hellish difficulty.
+
+For example, adding a time limit, no save points in between, or placing more monsters on the path. Of course, this wouldn't happen in *Super Mario Odyssey*.
+
+Because for *Super Mario Odyssey*, the story's progression is just an appetizer. Once you complete the entire story, you'll pretty much understand the game's content. But then, if you look back, you'll realize you've only collected a few elements, and that's when the game truly begins.
+
+Players need to search for the Power Moons they haven't found in various scenes. Some require players to put in a lot of thought to solve puzzles, as they are very well hidden. Others require players to have a certain level of skill, as they are right there, but you can't get past them without some ability.
+
+Easy, Normal, Hard.
+
+Collectibles are divided into three levels, accounting for approximately 60%, 30%, and 10%.
+
+"Regarding the development of *Super Mario Odyssey*, everyone needs to remember one point: the game must be fun, easy to pick up, provide timely satisfaction, and allow players to play and put it down at will," Chen Xu explained simply to the group.
+
+This is a characteristic of all Nintendo's games: easy to pick up, difficult to master. For players with plenty of free time, the game offers sufficiently deep content for them to explore; for players with fragmented time, the game's quick onboarding, fun, and play-and-put-down nature allows them to pick up their Switch and play those games from time to time.
+
+Moreover, being easy to pick up also means that even if some players return after a long time, they can quickly understand how to play by relying on their old memories. This is something other games can't achieve, as complex settings and content can sometimes lead to forgetting controls and other details if you haven't played for a long time. This is also why some AAA-tier games are never reopened after a period, eventually becoming another addition to a player's library, leaving the player to laugh and say: Do I actually have to *play* the game I bought?
+
+Of course, it's not about which is superior or inferior, but rather different attributes.
+
+After a brief introduction of the core concepts of the two games to the team, Chen Xu first began to create the corresponding art assets and complete design concept documents.
+
+---
+
+Returning to his office from the meeting room, Chen Xu began writing the concept documents.
+
+*Animal Forest* is actually relatively simple, as its core lies in filling in various details, such as different small animals and decorative content.
+
+As for the previous life's DLC, 'Happy Home Paradise,' Chen Xu does not intend to include it in the initial release. Of course, this isn't solely for future sales; the base game content itself is sufficient for players to enjoy for a long time. Adding too much content at once can actually be counterproductive. The 'Happy Home Paradise' content is actually similar to the *Animal Crossing* DLC 'Happy Home Designer' on the 3DS.
+
+It mainly focuses on decorating, designing, and furnishing gameplay.
+
+Beyond that, it involves setting various minor details.
+
+Conversely, *Super Mario Odyssey* is more difficult and complex.
+
+The total number of Moons reaches 880, and some Moons cannot even be obtained in the first playthrough. Coupled with ordinary gold coins and the unique currency of each map, the content is incredibly rich.
+
+Furthermore, as a box garden game, the game's levels are paramount, even more complex in some aspects than the previous *Red Dead Redemption*. After all, in *Red Dead Redemption*, many content settings could simply be outlined by Chen Xu for the team to handle, with him primarily overseeing the content.
+
+For example, Chen Xu would design Valentine, but he couldn't personally handle all the wilderness scenes. *Super Mario Odyssey* is different; every path and every level is meticulously crafted, which is a major characteristic of Nintendo's games: the attraction anchor. Players are walking along, and suddenly, "Hey... I see something good!" They then have to figure out a way to get that good thing.
+
+In addition, there are numerous easter eggs within the game's various themed maps. New Donk City, modeled after New York, has an English name that sounds like 'ne donk iyt'. This name is a combination of 'New York' and 'Donkey Kong', a game, and it is also Mario, the protagonist of the Mario series, 's origin point. Initially, this red-hatted plumber wasn't called Mario but Jumpman.
+
+Moreover, this level map also features many echoes of Mario and Donkey Kong, such as posters of the original Mario game in the streets and alleys. There are also various mini-levels referencing Nintendo's original Mario games, full of nostalgia for loyal fans of the Mario series.
+
+However, players in the Parallel World would clearly not understand these easter eggs, which is somewhat regrettable.
+
+And besides *Super Mario Odyssey* and *Animal Forest*,
+
+Chen Xu also had other arrangements.
+
+However, this part would not be done by Nebula Games itself.
+
+Instead, it would be outsourced to third-party game developers to produce for Nebula Games.
+
+For example, adding some classic FC games and Arcade games from his previous life. Although they might not be stunningly impressive in the Parallel World, their level design and replayability would remain unchanged.
+
+Original Mario, Contra, Tank Wars, as well as Metal Gear, Ikaruga, Snow Bros., Knights of Valour, and Oriental Legend from the arcade platform. These extremely classic games from his previous life would also be successively commissioned by Chen Xu to third-party game developers and studios for production and then released on the Switch platform.
+
+As for these games, Chen Xu did not plan to sell them individually, as their cost was not high. Therefore, Chen Xu intended to launch a Switch membership service later. Besides providing features like cloud saves, these games would be added to the membership library for players to enjoy.
+
+As for the price, it was tentatively set at 5.9 Yuan per month, with an annual fee discounted to 60 Yuan. Simultaneously, like in his previous life, the family membership setting would be retained, with an annual fee of 220 Yuan allowing the invitation of up to five family members besides the subscriber.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>
