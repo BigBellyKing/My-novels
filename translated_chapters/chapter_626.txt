@@ -1,0 +1,191 @@
+Chapter 625: Warcraft's Operation Settings (Requesting Subscriptions, Monthly Passes)
+
+Six years of waiting, fueled by nostalgia, coupled with Nebula Games' existing reputation among players, and Chen Xu's own promotional warm-up for *World of Warcraft*.
+
+Combined with this cinematic-grade animated CG promotional video.
+
+*World of Warcraft*'s popularity immediately topped the trending searches and simply wouldn't come down.
+
+Players were also discussing various aspects of the game's genre.
+
+However, they soon got the answer they wanted.
+
+On Chen Xu's official Weibo account, there was no silence like before.
+
+Facing the enthusiastic discussions from players, Chen Xu announced to global players on his official Weibo account that afternoon that this was an MMORPG.
+
+This also made many players and game industry developers take a moment of pause.
+
+As for the players, they didn't overthink it.
+
+While MMORPG was unexpected, many players had actually guessed it before, based on the content within Nebula World.
+
+However, for gaming industry professionals, the genre of *World of Warcraft* raised questions.
+
+MMORPG?
+
+This was truly something they hadn't anticipated.
+
+Prior to this, many game developers would have thought that *World of Warcraft* might be an ARPG.
+
+Or perhaps a game like *The Witcher: Wild Hunt*, which had an open-world facade but leaned more towards RPG content.
+
+After all, based on the game's background story, this was highly probable.
+
+But an MMORPG raised doubts among many game developers and game designers.
+
+The main reason was that the situation for MMORPGs was a bit awkward.
+
+There were indeed some MMORPGs that continued to operate, but they were mostly MMORPGs that had been running for a long time.
+
+As for new MMORPGs, one might not even be released in a year or two.
+
+Because MMORPGs usually had two outcomes:
+
+Either succeed and run long-term, becoming a stable cash cow.
+
+Or be half-dead, half-alive, directly becoming a money pit.
+
+It could be said to be very extreme.
+
+And now Nebula Games was going to make an MMORPG.
+
+And it was the Warcraft IP.
+
+Such news immediately drew attention from the gaming industry.
+
+After all, MMORPGs were generally considered difficult to make.
+
+The difficulty wasn't just in monetization.
+
+In an MMORPG, there were too many things to consider.
+
+For example, numerical design and level design, as well as class balance, skill balance, and even the game's story, quests, and related resource allocation.
+
+Also, development progress. If *Red Dead Redemption*, *The Legend of Zelda: Breath of the Wild*, and *The Witcher: Wild Hunt* had very large maps.
+
+Then any MMORPG's map, accumulating various maps, would be larger than these games.
+
+The development cycle naturally lengthened, which is why MMORPG graphics generally couldn't compare to those of top-tier single-player games.
+
+It could be said that MMORPGs were one of the most difficult genres among various game types.
+
+Of course, this difficulty was relative, measured by a standard of excellence.
+
+If it was just about making an MMORPG rather than making a good game, that would naturally be different.
+
+But could *World of Warcraft* succeed now?
+
+At least judging from Chen Xu's promotional CG animation, he definitely spared no expense!
+
+After the news of *World of Warcraft* was announced, it undoubtedly dominated the trending topics lists.
+
+Even though there was only a CG promotional video for now.
+
+But unlike ordinary games, first, this was a new game from Nebula Games.
+
+Moreover, it had frequently appeared in Nebula World before.
+
+Plus the Warcraft IP.
+
+And Nebula Games' first MMORPG.
+
+Any one of these tags would be enough to make it onto the trending topics list.
+
+Even though there haven't been any prominent MMORPGs in recent years, both overseas and domestically, it was precisely for this reason that *World of Warcraft*'s popularity was further amplified.
+
+Not only were players looking forward to it, but the gaming industry also wanted to see what Nebula Games could make of *World of Warcraft*.
+
+Judging from the specifications of the promotional CG and the environment art in Nebula World, it was clear that this project had been long-planned by Nebula Games.
+
+Chen Xu, at Nebula Games, was unaware of the various discussions outside.
+
+Currently, Chen Xu was with the Operations team, finalizing the future operations plan for *World of Warcraft*.
+
+Chen Xu had already made decisions regarding this aspect.
+
+And the Operations team wasn't a bunch of rookies; after all, not all of Nebula Games' titles were single-player games. *Fall Guys*, *Sanguosha*, *Rainbow Six Siege*, *Call of Duty: Modern Warfare*, etc., were all continuously operating games, and the team had accumulated ample experience during this process.
+
+First, the game would not have an in-game store.
+
+Because *World of Warcraft* was a game primarily focused on PVP and PVE.
+
+The gear sets obtained from PVE dungeons in the game offered not only attributes but also appearance and glory, which was itself part of the reward and positive feedback loop.
+
+As for attributes that affected balance, let's not even discuss those. Pure cosmetics and mounts are another matter.
+
+If cosmetics and mounts were sold, they would inevitably have to look better than the sets obtained from dungeons; otherwise, what would be the point of releasing them?
+
+But if they were released, the value of rewards from dungeons would be cut in half.
+
+Imagine players grinding the Lich King day and night just for the Invincible mount.
+
+Then, after days and nights, you finally get Invincible, and just as you're about to show off in the capital city, you see people riding Black Dragons in front and Phoenixes behind.
+
+What's there to show off about then?
+
+So Chen Xu never considered item-based monetization.
+
+Overall, only the purest time card system was most suitable.
+
+As for time cards, Chen Xu adopted the same system as the Chinese server after its publisher changed in his previous life, rather than the North American server's buy-to-play and monthly subscription structure.
+
+The game would simply use a time-based billing model, running parallel with time cards and monthly subscriptions.
+
+Subsequently, different monetization models like quarterly passes and half-year passes would be introduced.
+
+Regarding the pricing standard, a minute-based billing model would be adopted.
+
+Each minute would cost 0.045 Yuan, equivalent to 2.7 Yuan per hour. Players could choose to purchase a full face-value time card or top-up by the hour.
+
+As for the monthly subscription, it would be 200 Yuan per month.
+
+Additionally, there would be no official store in the game, but there would be an exchange house.
+
+Players would be allowed to trade in-game gold coins, monthly subscriptions, or time card points, but a certain service fee would be charged, similar to the WoW Token in his previous life.
+
+As for allowing players to directly exchange gold coins for cash, that was unrealistic.
+
+It wasn't that it couldn't be done technically, but mainly, if it were implemented, the players' beloved Mr. Chen might end up singing prison tears.
+
+As for wealthy players acquiring more gold coins by selling time cards, this was completely unavoidable.
+
+Even setting limits on the number of sales wouldn't be very effective.
+
+Because there were also offline channels, and *World of Warcraft*, as an MMORPG, inherently involves trading as a gameplay element.
+
+If trading wasn't possible in the game, players could still trade outside the game.
+
+Given this, it was better to guide it through official channels.
+
+For some players, they didn't necessarily have to spend money to play the game.
+
+They could completely achieve the feat of playing for free by gold farming and buying time cards sold by others.
+
+As long as they were willing to put in a little effort, they could absolutely play the game for free.
+
+After all, other players were willing to 'foot the bill'.
+
+As for gold farming guilds, if normal gold farming guilds manually farmed gold based on their skills, what reason would there be to interfere?
+
+As for gold farming software, assuming it could bypass the closed Huanyu VR System and Nebula Games' top technical experts in security, would someone with such technology only develop an automated gold farming script?
+
+In addition to these measures, Chen Xu also specifically established an economic research team, mainly to ensure economic stability within the game.
+
+To prevent in-game inflation and 'financial crises'.
+
+An MMORPG is essentially a small country.
+
+What affects game balance is not just gameplay, numerical design; the game's monetary economic system is also crucial. In some respects, the economic system is even more important than numerical design and gameplay.
+
+Because in such a game that requires continuous operation and is gear-oriented.
+
+Its core aspect is progression, and progression implies value.
+
+And the collapse of the in-game economic system could mean that a character you've spent a long time developing, goes from owning a property in the city center of a first-tier city to owning one in the city center of a third-tier county.
+
+After all, if players are dissatisfied with the gameplay, it can be modified; an underpowered class can be rectified with a numerical patch; if it's too strong, it can be nerfed.
+
+However, the economic system belongs to irreversible content.
+(End of Chapter)
+<<END_OF_CHAPTER>>

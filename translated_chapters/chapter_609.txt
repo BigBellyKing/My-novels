@@ -1,0 +1,114 @@
+Chapter 608: Detroit: Become Human (Requesting Subscriptions and Monthly Passes)
+
+A week after Chen Xu and Yang Chen's conversation, the aftermath of The Last of Us online had yet to dissipate.
+
+News about a new auxiliary device compatible with Huanyu VR was also revealed, and overseas Zeus promptly followed suit with a similar announcement.
+
+If the announcement hadn't come from official sources, everyone would surely have dismissed it as a joke. But now?
+
+This news instantly spread across the globe.
+
+'Holy crap, holy crap! Something this awesome has come out?'
+
+'I'm a little skeptical. Capturing thoughts and feeding them into the game? Won't I be as good as the masters then? The difference between me and them used to be that my brain reacted, but my hands couldn't keep up!'
+
+'Ahem, bro upstairs, your brain reacting but your hands not might just be an illusion created by your brain. In reality, masters' brains react, but their hands can't keep up with their brain speed, leading to a bottleneck. And you? You're just slow-brained and clumsy-handed, period?'
+
+'????? Shut up!'
+
+'Lots of authoritative media have reported it too. Holy crap, is this for real?'
+
+'Is it really that amazing? I wonder how much it'll cost!'
+
+The impact of this news was nothing short of an earthquake. For a time, speculations about this new device were rampant and varied.
+
+At Nebula Games, Chen Xu and his team members were all in the project office. The Game Department had also provided the relevant development prototypes. Including some relevant data that could be disclosed.
+
+“So this is the latest device? Doesn't look like much to me!”
+
+“I thought it would be like a large gaming pod, where players lie down and various instruments connect to their bodies.”
+
+Qin Yi, Ruan Ningxue, Meng Zuo, and Yang Xin looked at the development prototype with expressions of curiosity. It was like a head-mounted device; if not for the connected data cables, one wouldn't realize it was the new expansion equipment.
+
+However, compared to the curious Yang Xin and the others, Chen Xu was focused on the new device's parameters and its actual numerical performance.
+
+“The main challenge is with operation feedback. Latency is generally not a big issue,” Chen Xu said, nodding at the feedback on the large screen.
+
+Brainwaves are fed back to the device, and then the device converts them into action information within the game. This point is crucial, directly affecting the types of games that can be developed.
+
+When a player presses a controller, there's an output line delay as the signal transmits to the game device. Then there's a computation delay as the game device processes it. Finally, there's another output line delay as the game device's response transmits back to the real-world device.
+
+The so-called brainwave capture controllers aren't made by just one game developer; they're produced both domestically and internationally. Just like gamepad controllers, different price points come with different advantages and disadvantages.
+
+Mid-range models exhibit a floating latency of approximately 20ms in their feedback. Although there's a certain gap compared to traditional controllers, this gap is generally imperceptible without specialized testing equipment.
+
+As for the current top-tier devices, latency feedback can be compressed to around 10ms, which is almost negligible.
+
+“This new device will likely completely change players' operating habits! It’s too convenient,” Meng Zuo exclaimed, standing beside Chen Xu and looking at the relevant data.
+
+“Not necessarily, but many games can certainly benefit,” Chen Xu nodded and said.
+
+Regarding VR devices, Chen Xu had some previous projects where he couldn't fully unleash his potential. Because the core of player operation is one aspect. For instance, with more complex gameplay and operations, in addition to considering the player's learning curve, one must also consider their gaming equipment.
+
+“So, Mr. Chen, will our next project utilize this brand-new technology?” Qin Yi asked Chen Xu.
+
+“Of course. Also, we want to see how far this new technology can go when applied to games. If it’s outstanding enough, then the game we’ve been preparing since the Nebula World era can also be put on the agenda,” Chen Xu nodded and said.
+
+***
+
+It wasn't just Nebula Games making preparations. Major game developers, both domestic and international, were essentially exploring and experimenting with the new technology.
+
+Although it wasn't a disruptive revolution, it could influence players' operating modes in the future. And changes in operating mode would fundamentally impact game design, including level creation.
+
+Of course, in the early stages, it would primarily be compatible with two different operating modes. Just like when the new era Huanyu and Zeus consoles were first released, major game developers, including Nebula Games, would also release previous-generation versions.
+
+It wasn't until Huanyu VR gradually permeated the market and its installation base grew that the focus fully shifted to Huanyu VR. The same applies to the current new technology; the proportion of players with the new device needs to be considered.
+
+But undoubtedly, this was a new direction.
+
+FOW immediately announced a game delay, stating that their new title would introduce completely new controls. Atari announced it would specifically develop a game using the new technology. Domestically, NetDragon stated that it would reset one of its excellent IP titles and incorporate the new control technology.
+
+Players expressed their habituation to this, as it was NetDragon, after all.
+
+However, what made many players a bit uneasy was that while game developers were all busy making grand promises, Chen Xu, whom they had always considered the master of making such promises, was surprisingly silent, as if he didn't even exist.
+
+In Nebula Games' project office, Chen Xu watched the various topics players were discussing in the game community, especially those focused on him, and couldn't help but sigh, shaking his head: “Is players’ impression of me really just stuck at the 'making grand promises' stage?”
+
+Of course not, there were also 'tragic storylines,' 'wicked sense of humor,' and the newly added 'Riddler-like' persona.
+
+Those around him muttered inwardly.
+
+“But, Mr. Chen, what exactly is our new project?” Qin Yi asked with some curiosity.
+
+During this time, they hadn't been completely idle. Instead, they had conducted extensive resource trial-and-error. Such as a series of actions including running, climbing, and fighting.
+
+Brainwave capture and feedback are primarily about triggering on/off states. It's not that players can simply think about drawing a circle with their left hand, a circle with their right hand, or doing a somersault on the spot, and those actions will actually happen.
+
+Instead, the game itself needs to support these actions, and then, based on program analysis, they can be transformed into signal triggers. Therefore, adding more details to the game's existing actions and incorporating brainwave capture for feedback—these all require experimentation.
+
+And they all knew that the new title was considered a trial run for the new technology. They had produced quite a lot of assets, but they still didn't know the actual game content.
+
+“How do you all view artificial intelligence? If robots possessed human emotions and thoughts, would you consider them human?” Chen Xu asked with a smile.
+
+Without waiting for anyone to answer again, Chen Xu continued speaking to himself.
+
+“And if AI robots become widespread, what kind of situation will society face?”
+
+“A large number of AI will replace ordinary human jobs—drivers, construction workers, more and more positions will be taken over by robots, leading to hatred and conflict between human society and artificial intelligence.”
+
+“Just like when large machines appeared during the Industrial Revolution, workers believed the machines stole their jobs and began smashing them.”
+
+“But the difference is that back then, people hated machines, but machines without thought couldn't fight back. If the objects became AI robots, and the Three Laws ceased to be effective on them, leading to unstable software and breaking down that wall, then could robots and humans coexist peacefully, or would they wage war?” Chen Xu said with a smile, looking at everyone.
+
+Detroit: Become Human—this was the game Chen Xu was preparing to test the waters with.
+
+First, unlike regular games, this one was an interactive movie genre game. Interactive movie games could be said to be the type of game requiring the least amount of operation. Even simpler to control than some casual games.
+
+Because in the game, apart from requiring players to control the direction of their characters' movements, the main point was to perform QTEs and answer multiple-choice questions based on the game's content.
+
+Secondly, in Detroit: Become Human, there were small segments of fighting, shooting, climbing, and parkour. Of course, in his previous life, these were all done as QTEs. But now, the combination of these simple elements could serve as a test for the new technology.
+
+Additionally, coupled with different choices, brainwave capture technology, and Huanyu VR's inherent immersive experience, Chen Xu felt that through this game, he might be able to offer players a rather unique experience.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

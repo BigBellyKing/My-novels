@@ -1,0 +1,128 @@
+Chapter 715: Don't Overestimate Players' Understanding (Requesting Subscriptions, Monthly Passes)
+
+Zhang Yi and Wang Han chatted while opening 'DOTA', which they had already downloaded to their desktop. The icon showed a red square with openings in the top right and bottom left, and a horizontal bar in the middle, similar to the Chu-Han boundary on a chess board.
+
+Double-clicking the icon, Zhang Yi entered the game.
+
+Upon entering, the entire UI was very concise and clear.
+
+At the top, it listed 'Heroes', 'Store', 'Spectate', 'New Player Tutorial', 'Inventory', and sub-options like 'Right-Click'.
+
+On the left were his personal user interface and friends list, and in the bottom right corner was the 'Start Game' option.
+
+In the center was a hyperlink to 'Dragon's Blood'.
+
+The overall UI layout of 'DOTA' largely followed the 'DOTA' from Chen Xu's previous life.
+
+Compared to typical online games, 'DOTA''s UI could be said to be very concise.
+
+Zhang Yi clicked on the Hero interface and was immediately surprised.
+
+"My goodness, there are a bit too many heroes, aren't there?" Looking at the dazzling array of heroes, Zhang Yi couldn't help but smack his lips.
+
+Although Chen Xu hadn't included all the DOTA heroes – for example, Marci, Mars, Pangolier, Dark Willow, Hoodwink, Snapfire, and others were omitted.
+
+Yet, the current number was enough to surprise players who hadn't experienced this type of game.
+
+Zhang Yi also noticed some details: these heroes were divided into three different categories.
+
+Intelligence, Agility, and Strength. Zhang Yi wasn't unfamiliar with this, as from the attributes, it was clear that 'DOTA' was designed based on the heroes in 'Warcraft'.
+
+Three main attributes, six item slots, three minor abilities, and one ultimate ability.
+
+What truly gave Zhang Yi pause was the presence of many tags within the hero interface.
+
+These corresponded to: Core, Support.
+
+A quick glance made them easy enough to understand.
+
+Core, simply put, meant they were powerful with money, while Support was the laborer.
+
+Beyond that, they were further categorized into Tank, Crowd Control, Push, Escape, and Burst Damage.
+
+Tank was easy to understand, like the Main Tank in World of Warcraft.
+
+Crowd Control, as the name suggested, meant heroes with disabling abilities. Push referred to heroes with healing or summoning abilities, Burst Damage heroes could deal massive damage instantly, and Escape heroes had displacement abilities like a mage's Flash or a warrior's Charge.
+
+As players who had played 'Warcraft' and 'World of Warcraft', these descriptions quickly conjured corresponding scenes in Zhang Yi's mind, giving him a general idea.
+
+The only remaining curiosity was how to play this game and what type of game it was.
+
+"It feels a lot like an RPG. Isn't it just controlling a hero to farm money and then synthesize equipment?" Wang Han, like Zhang Yi, quickly scanned the in-game text descriptions.
+
+Wang Han hadn't played much of 'Warcraft''s RTS content, mainly because the sheer number of units to control easily overwhelmed her. So, her 'Warcraft' journey usually involved just setting up an initial base, then mass-producing units, encircling them, and then A-moving to attack.
+
+That was her 'all-in push' style. However, while she wasn't good at RTS, she had a lot of fun with the various 'Warcraft' RPG maps that were later released.
+
+"Don't worry about it so much, let's just play." Zhang Yi didn't dwell on it, or rather, many players shared this mindset.
+
+Some players hadn't actually understood much about 'DOTA', merely downloading it blindly out of trust in the 'Nebula Games' brand, and of course, the game being free also played a big part. After downloading the game and figuring out the general gameplay, whether they were interested or not, they usually gave it a try since it was already downloaded.
+
+Zhang Yi and Wang Han clicked the 'Start Game' button in the bottom right corner, which brought up several sub-options.
+
+These were 'Training', 'Co-op vs. AI', 'Normal Matchmaking', and 'Create Custom Game Room'.
+
+The ranked ladder system had actually been completed.
+
+However, Chen Xu had no intention of releasing it at this stage. After all, it was just a test, and initial players' understanding of the game was certainly insufficient. Everyone started with fresh, blank accounts, and statistics based on win rate and performance were enough to match players of similar skill.
+
+Only after most players had a basic understanding of the game would the ranked matchmaking be released via a version update. Of course, there were also prerequisites.
+
+Players would need to complete 100 normal matchmaking games.
+
+For now, new players had to complete a mandatory new player tutorial, which was unskippable.
+
+As for the smurf experience, for competitive games, Nebula Games had always strictly prohibited smurfing.
+
+If a high-level player simply created a new account to climb from scratch, the impact on the game environment would actually be limited.
+
+This was because, under the system's matchmaking mechanism, if a new account's win rate and KDA were particularly high, it would immediately skip several tiers, getting out of the casual player brackets as quickly as possible.
+
+However, players who specifically created smurfs to 'fish' were different. They intentionally avoided ranking up, staying in a specific bracket to torment weaker players, and after climbing, would intentionally lose to drop back down. This back-and-forth behavior could have an extremely detrimental impact on the game environment. Therefore, in terms of post-launch operations, Nebula Games would have a dedicated team responsible for handling reports of malicious game experience disruption.
+
+Entering the game, it was not much different from what he had envisioned.
+
+Apart from the visual presentation, the primary perspective was the same God's-eye view as in 'Warcraft'.
+
+At the same time, a female narrator began explaining the game's new player tutorial.
+
+[Welcome to the world of 'DOTA'. Here, you will embody heroes of the Scourge and Sentinel, or Radiant and Dire. The team that first destroys the enemy's Ancient will win the match...]
+
+Accompanying the tutorial voice, the game screen continuously shifted, showing players information about the World Tree, defense towers, fountains, and heroes.
+
+This new player tutorial had also been adjusted by Chen Xu.
+
+This included basic game operations, and Chen Xu also designed the in-game camera to have both fixed and movable perspectives.
+
+Simply put, the movable perspective allowed the player to move the camera to areas beyond their hero's location to observe other parts of the map. The fixed perspective, on the other hand, centered the camera on the hero.
+
+Any player who had played 'Warcraft' would generally use the movable perspective, as a fixed perspective was like playing blindfolded, and collecting information is crucial in such games.
+
+However, this was only true for 'Warcraft' players. For some players who had only played RPGs, a common issue when first starting out was losing track of their hero during combat. And while there was a hotkey to instantly center on one's hero, many players might simply forget to use it.
+
+In such cases, the fixed perspective became a good solution.
+
+As for players complaining that the fixed perspective limited a player's skill ceiling, these players failed to consider that without such a fixed perspective option, new players might try one game, get lost, and immediately quit, let alone understand the difference between fixed and non-fixed later on.
+
+Zhang Yi quickly completed the new player tutorial, secretly grumbling a little. As a player, he clearly didn't understand the significance of these tutorials, as for him, having played 'Warcraft', the tutorials about camera movement felt like taking off your pants to fart.
+
+But it was still very necessary. Everyone has areas they are good at and areas they are not. Overestimating other players' level of understanding is a very common phenomenon.
+
+Just like players in his previous life who played on Steam might think, 'Doesn't every player understand how to use Steam?'
+
+But in reality, for new rookies, it wasn't easy at all. Not to mention registering an account and buying games, many players who came looking for the game through search engines ended up downloading a fake platform called 'Game Butler' that was top-listed in search results, instead of Gaben's store, causing them to waste their money. Of course, if someone tried to download Steam but ended up with Hsteam, they might not be a rookie, but they were definitely a seasoned Lewd Person.
+
+And 'DOTA' was the same. Players who had played 'Warcraft' and many other games might feel these tutorials were like taking off your pants to fart.
+
+But for some rookies who had never touched such games, these tutorials were very necessary.
+
+Of course, an overly comprehensive new player tutorial couldn't be dumped on them all at once.
+
+Chen Xu divided the game's new player tutorial into different parts.
+
+Because putting everything together would indeed be a bit lengthy.
+
+Besides being long, the main reason for splitting it up was to motivate players with phased rewards.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

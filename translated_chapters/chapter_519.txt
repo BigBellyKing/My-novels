@@ -1,0 +1,84 @@
+Chapter 518: Players Are All Speechless (Requesting Subscriptions, Monthly Passes)
+
+Following the discovery of this Ciri easter egg content in Nebula Games, many players were filled with anticipation.
+
+Moreover, this easter egg content revealed a lot. Besides letting players know key names like Ciri and Geralt, the character of Ciri also made many players exclaim their excitement, and players gained a general understanding of Ciri's special temporal abilities.
+
+On the forums, topics like 'Chen Xu's New Game' and 'Nebula Games' New Title' immediately ignited.
+
+'The new game seems to be an RPG with a fantasy background!'
+
+'Too little information, no way to tell yet, but those monsters called Niegui and Leshen are really a bit ugly. Please don't tell me this will be a game similar to Bloodborne.'
+
+'I feel it doesn't matter even if it is. Ciri should be the player-controlled character, right? That's awesome!'
+
+'Exactly! Her gray hair, which isn't dry and lifeless, combined with the eyeshadow and sharp look, is simply beautiful!'
+
+'Yeah! And the scar on her face just adds to her charm!'
+
+'You're all discussing Ciri, unlike me who only feels bad for the Azure Star!'
+
+'Feeling bad for the Azure Star +1! I never expected the Azure Star still hasn't spoken at this point!'
+
+'The Witcher accepts commissions to hunt monsters, so our stat-boosting NPC can finally go offline?'
+
+'Azure Star: Please help me, I'm unemployed!'
+
+'It's getting competitive! It's getting competitive!'
+
+Many players were cheerfully discussing Ciri and Chen Xu's new game. Although Chen Xu hadn't officially announced anything yet, with the crossover easter egg already out, wasn't the official launch of the game just a matter of time?
+
+Not only players thought this way, but major game developers did too. Some games with recent launch intentions, such as FOW's new title Wasteland 1978, recruited by Zeus, were just waiting to announce their launch date. But as news of Nebula Games' new title popped up, FOW immediately adopted a wait-and-see approach. After all, they had no idea what kind of quality Nebula Games' new title would be. Moreover, from the revealed background, it was Nebula Games' specialty: a fantasy world setting. This made FOW somewhat hesitant; their competitor had been silent, yet now, just as they were about to launch, this happened. It was hard to say it wasn't a deliberate attempt to snipe them!
+
+However, what was strange was that as time progressed day by day, aside from this crossover easter egg, Chen Xu and Nebula Games showed no intention of announcing any further news. Many players, including designers in the gaming industry who had been paying close attention, were puzzled. Because there was absolutely no follow-up activity! Since the easter egg content had been released, shouldn't subsequent promotions immediately follow suit? The topic had been brewing for nearly a week, and the initial excitement had cooled down. Why was Nebula Games still silent?
+
+So FOW couldn't hold back any longer. They released another newly edited actual gameplay demonstration video to the public. But Chen Xu still made no move. Then FOW tentatively released news of an online press conference. Still no movement. Subsequently, FOW directly announced the release date of their new game.
+
+And at this moment, to the players' surprise, Nebula Games finally made a new move. Chen Xu's official Weibo account finally sent out a message about the new game. However, this message made all players want to rush into Nebula Games and beat Chen Xu to death.
+
+Chen Xu's official Weibo content was very simple.
+
+"New game The Witcher: Wild Hunt is currently under development. Ciri from the Monster Hunter crossover is one of the main characters in the game. Stay tuned for more new content."
+
+Looking at Chen Xu's official Weibo, players were initially excited: New game news! The game is called The Witcher: Wild Hunt! Ciri is one of the main characters, so does that mean she might not be the player-controlled protagonist? However, after the initial excitement, when players saw the content Chen Xu revealed later, they were dumbfounded. From that short line of text, players familiar with Nebula Games and Chen Xu's style could read one sentence from those 42 characters, no matter how they looked at it: Don't rush, the game is already being made.
+
+Many players quickly realized.
+
+"Holy cow, after all that talk, Mr. Chen is back to that one line again? 'It's being made, it's being made'?"
+
+"By the way, who started spreading the rumor that the game was almost finished? I really want to give them a buff!"
+
+"Damn it, Mr. Chen, seriously, other games announce their project initiation, but you started doing crossovers when your game wasn't even visible yet?"
+
+"I'm impressed! If you had just announced a project name, that would have been fine, but you just had to do a crossover and make me control Ciri for a test run!"
+
+"You're really something else, Mr. Chen!"
+
+Many players were speechless. This was simply a promotional genius! Other games' promotions are about project initiation, but Nebula Games, on the other hand, had completely unclear game progress. Everyone thought you were almost done and were releasing news to directly confront FOW, but now it seems you might have just started development.
+
+Of course, the most bewildered had to be FOW. So, they had been probing for a long time, purely engaging in a battle of wits with thin air? Nebula Games wasn't even paying attention to them? For a moment, FOW didn't know whether to be happy or angry.
+
+In Nebula Games' office, Chen Xu looked at the players' messages online and couldn't help but sigh with emotion.
+
+"Sigh, why is all the blame being thrown at me!" Chen Xu felt quite innocent.
+
+His past 'Warrior of Love' and 'Mind's Dawn' projects indeed contained a bit of his wicked sense of humor. But this time, he was truly more wronged than Dou E!
+
+Ruan Ningxue, Yang Xin, Qin Yi, and others sitting nearby remained silent.
+
+What was this called? This was repayment!
+
+"Right, Mr. Chen, the band for the music has been finalized. They will produce it using Eastern European traditional instruments combined with orchestral music, as requested, including modifications to some Eastern European folk songs," the person in charge of music for the game reported to Chen Xu on the progress.
+
+"First, you guys should produce the samples here, then we can make secondary changes later. As for the game's camera work, I won't say much more; everyone has accumulated enough experience," Chen Xu said, looking at the team.
+
+In his previous life, The Witcher: Wild Hunt actually had quite a few shortcomings. For example, the rather stiff camera work combined with real-time rendering. In the game, players might be discussing important political matters of the continent with an NPC, and the next second, a random background NPC might leisurely stroll into the camera's view. Therefore, Chen Xu had made some specific design changes regarding camera performance.
+
+Additionally, there was the famous 'Geralt's Fall Height' from his previous life: a renowned Witcher dying from falling off a two-meter-high wall? While it spawned many memes, it clearly wasn't a very reasonable thing, and when players were actually playing, it would significantly reduce their sense of immersion. The reason for this in his previous life was mainly the fall damage calculation and numerical issues. CD Projekt Red didn't fix it because they were concerned about introducing new bugs, as the game itself already had enough. If they were to fix the numerical values in this area, new bugs would inevitably appear.
+
+Furthermore, the jump function wasn't actually designed with significant level importance in The Witcher: Wild Hunt. It was mostly just to give players the feeling of "hot feet" or to take a slight shortcut, so the game developers didn't modify it. But for Chen Xu, some modifications were clearly necessary.
+
+Dying from a two-meter fall was simply unreasonable. It should at least be ten meters, right?
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

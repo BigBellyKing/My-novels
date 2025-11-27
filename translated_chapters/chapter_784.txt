@@ -1,0 +1,126 @@
+Chapter 783: Open World
+
+The scores for *Xenoblade Chronicles* were quickly released. GameSpot, as one of the most authoritative media outlets in the industry and also an old friend of Nebula Games, gave it a score of 9.4.
+
+For other game developers, receiving a score of 9.4 would obviously be a cause for great celebration, and their fan players would also be very excited.
+
+But for Nebula Games players, this score felt perfectly normal; after all, it was a new work by Chen Xu, and it would have been strange if it *didn't* receive such a score.
+
+Even in its review article, GameSpot spared no praise for *Xenoblade Chronicles*.
+
+It even bestowed a very high evaluation: 'A renaissance for traditional RPGs.'
+
+This evaluation was undoubtedly high. While some players had minor criticisms, more expressed agreement.
+
+Because in the realm of traditional RPGs, it had truly been many years since a game as stunning as *Xenoblade Chronicles* had emerged.
+
+The 'stunning' aspect wasn't about its sales; rather, it was *Xenoblade Chronicles*' core concept that was stunning.
+
+It combined traditional RPGs with open-world map exploration, while also not completely abandoning the traditional turn-based strategy mode in its gameplay.
+
+*Xenoblade Chronicles*' combat system could be said to have excellently balanced turn-based strategy with action.
+
+This made players incredibly captivated once they became familiar with the combat.
+
+Some even felt like, 'Why is this monster's health bar so fragile?'
+
+As for the story, as a classic shonen RPG, *Xenoblade Chronicles*' plot wasn't considered stunning. At least for many players, the emotional impact wasn't as profound as games like *BioShock*. Nevertheless, it did create some very classic character images.
+
+With traditional RPGs showing weakness and lacking truly outstanding titles, when *Xenoblade Chronicles* burst onto the scene with its inherently strong quality, it was naturally propelled to the top.
+
+Concurrently, the concept of open-world was once again brought into the spotlight by game designers in the industry.
+
+Open-world, at this point, was no longer a new genre.
+
+The emergence of *Red Dead Redemption* and *The Legend of Zelda: Breath of the Wild* had previously ignited a trend of 'open-world fever' throughout the gaming industry.
+
+It seemed that if a game didn't incorporate open-world elements, it couldn't be considered a proper game.
+
+However, very few games ultimately achieved massive sales solely by relying on open-world elements.
+
+Excluding Nebula Games' own products, only a few overseas game developers like Atari and FOW had managed to create some decent open-world games.
+
+Especially after some top-tier developers spent huge sums on open-world game production only to achieve dismal sales, the popularity of open-world games had gradually declined.
+
+Instead, thread-based games, which were particularly compatible with VR experiences, had become a mainstream direction in the game market.
+
+But this time, the appearance of *Xenoblade Chronicles* once again showed many industry designers and players the potential of open-world games.
+
+After all, *Xenoblade Chronicles*' significant difference from traditional RPGs lay in its stage framework.
+
+Without this open-world-oriented concept, it would have been difficult to create such map design and gameplay elements.
+
+However, Nebula Games, or rather Chen Xu, wasn't overly concerned with the various external debates.
+
+Regarding *Xenoblade Chronicles*, the subsequent *Torna ~ The Golden Country* DLC was currently under development. As for the story of Mechonis and Bionis, and the background of the two worlds merging later, those were future development plans.
+
+Currently, Chen Xu himself had more important matters to attend to.
+
+While *Xenoblade Chronicles*' subsequent DLC arrangements were being finalized, Chen Xu also transferred some members of the technical team to a new task: developing a brand-new 'event engine'.
+
+Everyone was a bit bewildered upon hearing Chen Xu's keyword, completely unsure what this 'thing' actually was.
+
+However, after the project team was established and Chen Xu provided his explanation, everyone understood.
+
+This so-called 'event engine,' in essence, was primarily an application of AI technology within games.
+
+With the development of the gaming industry, besides graphics and other visually direct experience providers, there was another aspect.
+
+That was the in-game AI, whether for random NPCs, enemies, or teammates.
+
+If sufficiently realistic, it could give players a stronger sense of immersion, just like Elizabeth in *BioShock*, developed by Nebula Games previously.
+
+Her incredibly strong AI brought a powerful sense of immersion and identification with Elizabeth.
+
+But that was limited to just one NPC. Now, according to Chen Xu's introduction, this new 'event engine' would encompass a large amount of computational logic, thereby creating all aspects of the world's rules.
+
+Within the game, there would be bandits, villagers, mercenaries, mages, and rogues. Different professions or monsters would have their own life circumstances.
+
+Furthermore, these different entities would have interactive AI.
+
+For example, bandits would rob villagers encountered on the road, and mercenaries would hunt down bandits. This was the most complex part of the entire event, as creating a sense of randomness in this required a butterfly effect, where one action affects everything.
+
+Besides that, there was another point: openness.
+
+The game's skeletons, AI, event feedback, and so on—it could be said that nearly half of the game's reserved interfaces would be open.
+
+………………
+
+“Mr. Chen, isn't this going too far for VR games?”
+
+Inside the project office, Qin Yi looked at the relevant data and the open reserved interfaces, speaking with some uncertainty.
+
+What the new game actually was, remained uncertain until now.
+
+But for this brand-new engine, Nebula Games' core team had worked hard for nearly two months, even delaying the progress of *Torna ~ The Golden Country*.
+
+And this new engine's construction was clearly meant to serve a new title.
+
+But the key was its excessive freedom. Simply put, it was like *Minecraft* and *Warcraft*; it was akin to handing over a complete set of development tools directly to the players.
+
+For ordinary players, it would, of course, be quite difficult, but for creators who understood this content, it would be entirely different.
+
+Simply put, once this 'thing' was opened up, what clothes characters wore and what they did in the game would no longer be up to them, and it would be especially easy for players to modify.
+
+“It's a kind of experiment, and we've always done very well with our player community,” Chen Xu said with a smile, not overly concerned.
+
+“So, the new game will be one where MODs are the extended content?” Meng Zuo speculated.
+
+After all, these features seemed designed for the convenience of MOD developers. Would it be a game like *Minecraft*?
+
+“Of course not. Don't confuse the primary and secondary goals. The new engine's interactive features and the creation of a more realistic world are the main objectives. The reserved interfaces are just a bonus,” Chen Xu said, shaking his head.
+
+“Also, I believe you can more or less guess what type of game this setup is designed for,” Chen Xu added.
+
+“Open world...” Meng Zuo said.
+
+The others were also top industry professionals, so they naturally understood that this engine was practically tailor-made for open-world games.
+
+And this was one of Nebula Games' strong suits.
+
+“Exactly. No matter the game, they all have unique attribute points. Simulation management is about meticulous planning (or chaotic building); shooting and action are about explosive excitement (or self-torment for clumsy players); real-time strategy and tactics are about deploying troops (or getting outsmarted). And open world can be said to be the most special category.”
+
+Inside the project office, Qin Yi, Meng Zuo, and the others fell silent, waiting for Chen Xu to continue.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

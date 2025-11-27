@@ -1,0 +1,82 @@
+Chapter 707: A Warcraft Editor Map (Please subscribe for monthly passes)
+
+Players who were initially looking forward to Sekiro's Despair Mode lost all desire for it after experiencing the Twin Heroes difficulty in their second playthrough.
+
+The demands placed on players in this second playthrough were simply too high all at once.
+
+If one didn't return the charm, then this second playthrough wouldn't actually have many difficult points. In fact, with the inherited attack power from the first playthrough, and having familiarized themselves with monster patterns and BOSS attack styles, they could even go on a rampage.
+
+But the crucial point was that to unlock Despair Mode, one had to complete the Twin Heroes difficulty, and this instantly overwhelmed countless players.
+
+There was no need to mention other points; just the fact that an imperfect parry or a regular guard would deplete health was enough to give many players a tough time. Moreover, this was only when the charm was returned. Many players didn't dare to imagine how terrifying the difficulty would become after ringing the bell later on.
+
+Players who had cleared the first playthrough and felt very strong, when attempting the high-difficulty challenge of the second playthrough, discovered that besides knowing the moves of the mobs and BOSSes, they still had to endure all the suffering.
+
+Especially with perfect parrying, when facing BOSSes with high attack frequency, if they still relied on the Flickering Blade Technique with insufficient health, it would only lead to death.
+
+Of course, some players were instead stimulated by a masochistic urge. Instead of backing down, they met the challenge head-on. After all, isn't the greatest feature of Souls-like games to seek to break one's own limits through suffering?
+
+Coupled with Sekiro's engaging deflect system, many players found it very exciting. Being tormented wasn't a one-time thing, and in such circumstances, some high-level players utilized the Prosthetic Arm in the game, combined with skills, to achieve brilliant effects just like in promotional trailers and movies.
+
+After all, for players who weren't very skilled at Flickering Blade Technique or perfect deflects, the increased health and posture bar in the second playthrough, and percentage health loss from attacks, were minor issues. The biggest difficulty was health deduction from blocking. However, for experts, blocking damage was a minor concern. So, after the game had been online for a while, once high-level players figured out the attack mechanisms of the game's monsters, both the Twin Heroes difficulty and multiple playthroughs became easy for them.
+
+On major video websites, there were also various videos of players dominating BOSSes.
+
+After clearing the three consecutive battles—Shura, Immortal Severance, and Returning the Young Lord—they unlocked Inner Genichiro, Inner Father, and Inner Isshin, then proceeded to the seventeen-consecutive-battle Deathmatch Gauntlet.
+
+Even before Despair Mode was released, this mode became a challenge for players. However, apart from Inner Father, Inner Genichiro, and Inner Isshin, the other BOSSes remained unchanged. As for Inner Genichiro, Father, and Isshin, they only gained a few special moves. For example, Genichiro could use Sakura Dance, and Father, as always, was the most despicable, learning a new trick, Mist Raven, in addition to firecrackers and shurikens, always pulling off petty moves.
+
+It could be said that under the competition of high-level players, Genichiro and Isshin had already become mere units of time, much like the Nameless King in Dark Souls or Nergigante in Monster Hunter, until the launch of Despair Mode.
+
+Familiar maps, familiar characters, but what was different was that the monsters' moves had completely changed. For example, in Genichiro's first phase, a jumping overhead slash would always be followed by a thrust, but in Despair Mode, this thrust might become Floating Passage or a low sweep. And most critically, the 'Perilous Attack' prompt was removed in Despair Mode. This meant players could only judge based on their own experience and reactions, instantly escalating the game's difficulty to the stratosphere.
+
+Innumerable players who had previously boasted of being experts found themselves utterly despairing after starting Despair Mode. “What the heck, is this even playable by humans? The margin for error is unbelievably low!”
+
+In an instant, the live streams on major gaming platforms and videos on video websites seemed to have returned to when Sekiro: Shadows Die Twice was first released. Ordinary players, on the other hand, watched with amused expressions.
+
+“Play Despair Mode myself? I’m not stupid! Clearing Twin Heroes difficulty on high New Game+ or the Twin Heroes 17-consecutive-battle gauntlet is already my limit, okay? As for Despair Mode, I’ll leave that to the real experts.”
+
+Many speedrunning masters, both domestically and internationally, were researching how to clear Sekiro's Despair Mode better and faster. After all, this Despair Mode had a built-in ranking system. Achieving a first kill or breaking a time record meant showing off to players worldwide. How exhilarating was that?
+
+………………
+
+Various expert players were exerting all their strength to break through Despair Mode faster, but for Chen Xu, Sekiro: Shadows Die Twice had come to an end for now.
+
+From the perspective of subsequent replayability, Sekiro: Shadows Die Twice was actually weaker than Bloodborne and Dark Souls. Because it lacked grinding elements, if one deliberately tried to complete it, they could generally max out all Prosthetic Arm and combat style skills by the third or fourth playthrough.
+
+In terms of gameplay strategies, compared to the combinations of different classes, weapons, and stat allocations in Dark Souls and Bloodborne that offered RPG elements, Sekiro: Shadows Die Twice focused more on the action aspect, honing players' individual skills. Therefore, it didn't have as much content variety in its gameplay.
+
+In Nebula Games' lounge, Chen Xu held a can of Coke, lay down on a massage chair, and looked at some reports on a laptop. The main points concerned updates for World of Warcraft, such as the schedules for Ahn'Qiraj and Naxxramas, and class data correction issues, which were mostly pre-planned with few surprises.
+
+As for future projects, after Sekiro: Shadows Die Twice put players through the wringer, Chen Xu decided it was time for players to relieve some stress.
+
+While thinking, Chen Xu suddenly heard Yang Xin's voice from the adjacent employee recreation room. “Quick, Xiaoxue! TP to the first tower! They’re diving the tower!”
+
+Chen Xu paused, got up from the chair, and walked towards the entertainment room next door. Upon entering, Chen Xu saw Yang Xin, Ruan Ningxue, Qin Yi, Meng Zuo, and Hu Tu sitting in a row in front of computers. The screen showed the interface of Warcraft.
+
+“An RPG map on Warcraft?”
+
+Yang Xin, whose screen had just turned black as she returned to the base fountain, was about to head out for another battle when she suddenly heard a voice behind her. Startled, she turned around and sighed with relief upon seeing Chen Xu. “Mr. Chen, startling people can scare them to death!”
+
+After a brief complaint, Yang Xin replied, “Yes, Mr. Chen, this map is quite interesting.”
+
+Standing behind Yang Xin, Chen Xu took a quick look and basically understood what was going on. It was a map created with the Warcraft editor, a 5v5 competitive mode where the main goal was to destroy the opponent's main base, split into three lanes.
+
+It was similar to the 3C and DOTA gameplay of his previous life. The specific content wasn't clear yet, but from the minimap, Chen Xu could roughly deduce the map's rudimentary structure. The settings for forests and high ground, from a layout perspective, clearly weren't deeply considered; they served merely as decorative elements, much like early DOTA in his previous life. There was also no concept of jungle public resources, only rocks, trees, and岔道.
+
+However, the concept of three lanes, unit spawning, and controlling a single hero in combat was already present.
+
+“Who made this map? How popular is it now?” Chen Xu asked Yang Xin. Hearing Chen Xu’s question, Qin Yi interjected, “Mr. Chen, this map is still in internal testing and hasn’t been launched yet. A friend of mine made it; he currently works at Atari.”
+
+Atari?
+
+An old acquaintance!
+
+Chen Xu was slightly taken aback, not expecting this map to still be in its testing phase and developed by an Atari employee. After all, this company had quite a few skirmishes with Nebula Games in recent years. Red Dead Redemption and The Legend of Zelda: Breath of the Wild were both topics of discussion.
+
+He had also heard that after Sekiro: Shadows Die Twice launched, Atari had started a similar new project.
+
+“Qin Yi, you… *cough cough*, you should contact your friend and ask if he’s interested in working for Nebula Games,” Chen Xu said with a slight cough.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

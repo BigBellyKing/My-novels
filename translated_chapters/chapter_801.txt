@@ -1,0 +1,162 @@
+## Chapter 800: Lewdness is the Primary Driver of Productivity
+
+"But Mr. Chen, the openness of this MOD is simply too high!" Qin Yi exclaimed as he watched the MOD tools being tested.
+
+Developing corresponding MODs on the VR Platform is a relatively difficult task.
+
+After all, not all Game developers specifically open up relevant permissions.
+
+Although the VR Platform is not completely closed, it's still relatively conservative compared to the compatibility of the PC Platform.
+
+So, the team needed to specifically optimize a MOD Development Kit for The Elder Scrolls V: Skyrim.
+
+This would allow players to create MODs more effectively.
+
+Furthermore, there was another important matter: lowering the barrier to entry for MOD creation.
+
+Why is it that even today, Warcraft still has many MOD makers creating all sorts of interesting maps?
+
+Minecraft also has an endless stream of MODs.
+
+Aside from the excellent quality and sustained popularity of the games themselves, it's their friendliness towards MOD makers.
+
+Most MODs created by MOD developers for typical games are injection-type MODs that rely on third-party tools.
+
+For example, modifying weapon and clothing models is done through process-level injection with third-party tools. These tools simply intercept the threading-based process to dynamically modify the game's runtime memory data.
+
+This is a superficial modification, not a change to the game's self-loading files.
+
+But The Elder Scrolls V: Skyrim's MOD Development Kit is different; it can directly alter the game's inherent rules.
+
+As long as players are willing, they can even expand the game's map, combat system, and game rules, effectively dismantling the original framework and rebuilding it from scratch.
+
+Of course, it's easy to say, but the sheer amount of work involved makes it almost impossible for ordinary individual players to achieve, unless they have a team.
+
+"The tools are ready for the players. As for how far they can go, and whether they can rival Warcraft or Minecraft, that's up to the players themselves," Chen Xu said with a smile upon hearing Qin Yi. "Also, in addition to the 'Dragonborn Museum,' these three brand-new versions of content will also be included."
+
+Just like the Warcraft editor back then, it provides a basic framework for these MOD makers.
+
+For the official MODs, Chen Xu didn't plan to give players any major quests or map expansion MODs.
+
+Instead, a simple aesthetic enhancement, adding things like hairstyles, clothes, and character customization.
+
+Originally, The Elder Scrolls V: Skyrim leaned towards a realistic style. Its characters could only be described as not ugly, but certainly not handsome or beautiful.
+
+Perhaps the only character with decent looks in the entire game was the Vampire Lady.
+
+Most players prefer the first-person perspective when playing The Elder Scrolls V: Skyrim.
+
+It wasn't because first-person offered more immersion; it was purely because the protagonist created in third-person was a bit unbearable to look at.
+
+Arthur Morgan, Wolf, Fire Keeper—all these famous IP characters from Nebula Games could be included.
+
+Since they were their own, there was no need to worry about copyright issues.
+
+Additionally, there's a functional MOD that allows players to skip the initial prisoner storyline and start their adventure in a brand new way. This was a classic MOD in his previous life, almost a must-have for second playthroughs: Alternate Start.
+
+Players could choose to be an Imperial Legion soldier, a Stormcloak rebel, a wandering adventurer, a Bard temporarily resting in various cities, a Mage diligently studying magic in Winterhold, a Thief in the Thieves Guild, a Warrior in the Companions, or even a Vampire...
+
+This gives players more background choices, enhancing their sense of immersion.
+
+As for the last MOD, it's about giving every Elder Scrolls player a 'wife.'
+
+Many players who played The Elder Scrolls V: Skyrim strongly complained about why they couldn't marry the Vampire Lady, even though she had become a follower.
+
+Of course, this strong condemnation didn't mean that all players truly had a bond stronger than gold with the Vampire Lady.
+
+It was mainly because the Vampire Lady was simply the most beautiful female NPC in the entire game.
+
+So, for this last MOD, Chen Xu planned to add a few special Followers to The Elder Scrolls V: Skyrim.
+
+After all, Lewd Persons are the primary drivers of productivity.
+
+As for the types of Followers, some classic characters from Nebula Games were very suitable.
+
+Ciri, who traveled through time and space from The Witcher: Wild Hunt to Skyrim; perhaps an Elizabeth from countless Parallel Universes also arrived in Skyrim...
+
+And an Elf princess who, because monsters destroyed her Elf kingdom, wandered to Skyrim and became acquainted with the Dragonborn.
+
+………………
+
+In Nebula World, Song Ren logged into the game platform as usual, preparing to grind dungeons in World of Warcraft.
+
+Unlike his early days of non-stop dungeon crawling, Song Ren was now more zen about it, no longer striving for max gear. After all, he, an African (bad luck) player, simply didn't have the luck. Since playing day and night during a new patch still wouldn't get him his best-in-slot gear, what was the difference between being a slacker and a hardcore player anyway?
+
+He still wouldn't get max gear on day one, right?
+
+However, upon logging into the game platform, he noticed something different: The Elder Scrolls V: Skyrim had actually updated, and it was a very large update.
+
+"Is it a DLC? There wasn't any announcement!" Song Ren looked at the rapidly updating game, a little surprised.
+
+He had grown a bit tired of The Elder Scrolls V: Skyrim recently. Even though he hadn't thoroughly explored every corner of Skyrim in the game, hadn't finished the Daedric Quests, and had only completed the Dark Brotherhood and Companions Guild Quests.
+
+But after so many days, he was ready to take a break, yet now the game had a major update again.
+
+Once the update was complete, Song Ren entered the game.
+
+However, unlike before, this time he didn't load directly into the spot where he last exited. Song Ren found his scene had changed to a forest. Then, a fierce battle sound echoed from deep within the forest.
+
+Following the sound, Song Ren controlled his game character and ran towards the depths of the forest.
+
+He saw an Elf girl in green leather armor being chased by a monster resembling Anubis.
+
+At the same time, a prompt appeared in the center of his vision, asking him to help the Elf girl.
+
+"What's going on? Is this really DLC content? But no, that's not right..." Song Ren looked astonished.
+
+Although incredibly curious, Song Ren immediately controlled his character and charged forward.
+
+The monster looked intimidating, but it was incredibly weak. Song Ren took it down with a few slashes.
+
+The Elf girl gratefully thanked him. Up close, he could clearly see the changes in her expression: "Are you the Dragonborn the soldiers spoke of? Thank you for helping me!"
+
+Instantly, Song Ren realized something. Was this Elf girl a new content easter egg for The Elder Scrolls V: Skyrim on the Nebula World platform? Like Chloe before?
+
+A new AI character?
+
+Song Ren tried to talk to her: "Who are you?"
+
+"I am Tania, princess of the Elf kingdom!"
+
+"But the Elf kingdom was destroyed by monsters. I was the only one who escaped and came to Skyrim for refuge, but I didn't expect to be found by this monster again."
+
+Tania's emotions seemed a bit low, but then became high-spirited again: "But thanks to you, Dragonborn, you saved me."
+
+So, this weakling was the monster that destroyed the Elf kingdom in the background story? Song Ren subconsciously glanced at the monster's corpse.
+
+Looking at the cute Elf girl Tania, Song Ren tried to chat with her.
+
+Soon, Song Ren found that Tania was similar to the butler Chloe in Nebula World. Some basic conversations could be completed, and she would react accordingly.
+
+But if the conversation was nonsensical, Tania wouldn't be able to respond. Also, if he said something rude, Tania would get angry.
+
+Then Song Ren discovered that he could even access Tania's equipment interface, and could even 'strip' her equipment.
+
+With a bit of curiosity and a testing mindset, there were no issues when he removed her dagger and bow.
+
+However, when he reached for her clothes, Tania suddenly became shy and blushed, her tone a little angry.
+
+She then left, saying that if he wanted to find her, he should go to Whiterun, and then disappeared.
+
+"So... this is a MOD? Holy cow, is this a new Follower character?"
+
+As Tania left and the game's UI interface reappeared, Song Ren finally realized what this update brought: a new MOD module feature.
+
+In The Elder Scrolls V: Skyrim's Tieba community and forums, countless players were also discussing this update.
+
+'Oh my god, is this really a character from Elder Scrolls? Did she run to the wrong place?'
+
+'I checked the update, it seems to be a new MOD!'
+
+'It really is! And it's an official MOD!'
+
+'And not just a MOD, it's in Nebula World too! Besides Chloe, my Nebula World now has this Elf girl!'
+
+'Wait, I don't have her!?'
+
+'Checked it, you have to buy The Elder Scrolls V: Skyrim to get this Elf girl.'
+
+'Holy cow, say no more, I'm buying it now!'
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

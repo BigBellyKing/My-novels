@@ -1,0 +1,241 @@
+Chapter 772: A Misleading Promotional Video
+
+After finalizing the development plan for *Xenoblade Chronicles*, Chen Xu himself had a lot of work to do.
+
+For example, the game's soundtrack, as the music from its previous life was simply too classic. Especially with “Counterattack” playing, it would give anyone goosebumps from excitement.
+
+There were also detailed system settings, such as the Mercenary System in the game. This system was essentially an idle mini-game, primarily designed for players to raise their Blades' Affinity.
+
+Because each Blade in the game had different Affinity requirements, relying entirely on players to complete them manually would be extremely painful. Therefore, a special Blade named Qibing would be added to the game settings. Her mission time could be compressed to an 8-minute cooldown, allowing players to quickly complete the Affinity conditions for other Blades, colloquially known as ‘Miss Qibing taking her Blades for a walk’.
+
+However, in the original game, completing Mercenary Group missions required players to manually open, manually accept, and manually close them, which was very cumbersome. So, Chen Xu planned some special optimizations for this, such as a Loop Mode. Once players set up their Mercenary Group roster, it could automatically complete and accept missions without manual adjustment.
+
+Of course, there was also a very important point: the game's promotional video. The game could be developed slowly, but the promotional video could not be delayed.
+
+………………
+
+Online, the hype for *Silent Hill* had largely died down. Although it had scared many players, the rewards were undeniably enticing. Large groups of players still endured the discomfort, successfully completed the game, and obtained the right to purchase Nebula Games Redemption Coupons.
+
+After purchasing the redemption coupons, many players naturally became concerned about Nebula Games' new releases. After all, most old games that could be pre-ordered had already been pre-ordered, so everyone's target for the coupons was very clear: major titles that Nebula Games would release later.
+
+Many players were very confident about this, with their only concern being the genre of the upcoming Nebula Games blockbusters. Would it be an open-world ARPG like *The Witcher: Wild Hunt* or *Red Dead Redemption*? Or an FPS like *Call of Duty: Modern Warfare*? Or cinematic narrative games like *The Last of Us* or *Uncharted*?
+
+Every player had their favorite genre and naturally hoped that Nebula Games would release something they liked. To that end, players were arguing fiercely online.
+
+As if their requests had been heard, before the relevant topics could even fully ferment, something that surprised many players occurred: Chen Xu released a promotional video for a new game!
+
+What surprised players even more was the content showcased in this promotional video.
+
+The promotional video began with a red-haired beautiful girl and a soft, adorable young boy in salvage gear sitting by a bonfire.
+
+‘As long as the Core exists, a Blade’s life is eternal.’
+
+‘If, because of memories, one must continually feel pain in an eternal life, then I think forgetting might be a happy thing.’
+
+Accompanied by the bonfire's glow, the camera slowly panned up to a sky full of stars. The next second, the scene cut to a basement, where characters resembling a Dromarch and a ‘Cat Girl’ appeared, fighting powerful enemies.
+
+‘For a Blade, memories with their Driver must be very precious, meow!’
+
+Continuous scene changes showed Dromarch, a Cat Girl, a blindfolded young man, a noble young man in formal wear...
+
+‘For Miss, to resonate with me is a one-of-a-kind Driver.’
+
+‘There’s no way I’d ever forget, how could I?’
+
+On an endless plain, two beautiful girls, one red-haired and one blonde, like sisters, extended their hands to a young boy.
+
+‘We absolutely must go there, together with Rex!’
+
+A series of intense battle montages showed Rex and his companions retreating repeatedly.
+
+‘Blades are but a fleeting moment; memories vanish when they return to their Core Crystal.’
+
+‘The more we fight, the more Pyra and Mythra get hurt. Rather than that, it's better not to be by someone like me.’
+
+...
+
+‘Our encounter with Rex and everyone, these are the best memories.’
+
+‘This is our promise, isn’t it? I will go to Elysium for you! What were you born for! How will our future with you unfold!’
+
+‘Let’s make many memories!’
+
+Continuous combat and surging music, but after the darkness came Pyra’s pained expression.
+
+‘Stop! Don’t take away my memories!’
+
+‘Pyra!’
+
+As Rex’s desperate voice cried out, the Aegis’s Core Crystal fell to the ground, dim and lifeless.
+
+……………………
+
+After watching the entire promotional video, players familiar with Nebula Games felt like they'd been struck by lightning. They subconsciously checked the date to confirm it wasn’t April Fool’s Day.
+
+Because the art style was simply too anime-like, or rather, too otaku-oriented. It wasn't Nebula Games' first time doing a cartoon style, with titles like *The Legend of Zelda: Breath of the Wild*, *Super Mario Odyssey*, and *It Takes Two* covering everything from realistic cartoon to other styles.
+
+But with this new work, *Xenoblade Chronicles*, the style had completely changed! If it weren't explicitly stated that this was a game, many players would have thought Nebula Games was preparing to make an animated series.
+
+What? Not doing its proper work, you say? A gaming company that's been 'delayed' by animation is playing tricks on you!
+
+*DOTA* previously had ‘Dragon’s Blood’, and now the second season was about to launch. It wasn't impossible to make a completely new animated series now.
+
+Of course, besides *Xenoblade Chronicles* abandoning Nebula Games’ previous art style and suddenly veering towards an anime aesthetic, what concerned players even more was the content shown in the promotional video.
+
+Leaving aside the background settings of Drivers and Blades, and not discussing the gameplay for now, the fragmented plot details made many players’ hearts suddenly tremble. Because this damn thing felt too much like a tragedy!
+
+“I have to say, this new game’s art style absolutely excites me! But why do I feel like it’s a tragedy?”
+
+“+1! You’re not the only one who thinks so. Blades, Blades turning into Core Crystals and losing memories, going to Elysium, getting more and more injured in battles – this is pure tragedy!”
+
+“Why does everyone think it’s a tragedy? Maybe there’s a twist?”
+
+“If it were any other game company, I’d say there’s a good chance, but this is Mr. Chen!”
+
+“That’s not necessarily true. Didn’t Mr. Chen often make us misunderstand things before?”
+
+“Heh, that’s because he wanted to lure you in and ambush you! And in the past two years, Mr. Chen hasn’t really done that kind of thing. After all, Mr. Chen knows his image is deeply ingrained in people’s hearts. It’s not impossible for this promotional video to be him just phoning it in now!”
+
+“Exactly!”
+
+………………
+
+In the office.
+
+“Mr. Chen, this promotional video is too misleading!” Yang Xin looked at the players’ comments online, completely speechless.
+
+As for the plot, in Yang Xin’s view, *Xenoblade Chronicles*, despite some twists, was actually more like a fairy tale. A boy meets a girl, bravely ventures to Elysium – a standard heroic, hot-blooded story. There was no need to dwell on its reasonableness; just watch it like an animated series and be done with it.
+
+Moreover, the game had an unexpectedly sweet ending. It seemed this time he truly intended to make players understand that their beloved Mr. Chen could indeed be a genuine ‘Warrior of Love’, capable of warming hearts. But the crucial point was that the direction of this promotional video was completely different from the story, full of misleading elements.
+
+“If I tell players that this will truly be a heartwarming story, what do you think they’ll think?” Chen Xu chuckled.
+
+“Hmm… most likely, players will assume it’s a tragedy, right?” Yang Xin considered Chen Xu’s image in the players’ minds.
+
+“Exactly. So now, I’m giving players the illusion that I’m acting lazy. How many extra surprises will players get when they find out it’s not what they expected? And that sense of guilt for misunderstanding me might just reverse their impression of me.” Chen Xu said with a smile.
+
+“Mr. Chen, I think the surprise is possible, but this ‘label’… *cough cough*, Mr. Chen, don’t hold onto any hopeful illusions.” Yang Xin coughed twice.
+
+Chen Xu’s face darkened as he looked at Yang Xin, who was trying to suppress her laughter. He pointed at the adjacent cubicle: “You talk too much! Get back to work!”
+
+(End of Chapter)
+<<END_OF_CHAPTER>>
+
+```
+{
+  "new_terms": [
+    {
+      "english_translation": "Xenoblade Chronicles",
+      "original_term": "《异度之刃》"
+    },
+    {
+      "english_translation": "soundtrack",
+      "original_term": "配乐"
+    },
+    {
+      "english_translation": "Mercenary System",
+      "original_term": "佣兵系统"
+    },
+    {
+      "english_translation": "idle mini-game",
+      "original_term": "放置类的小游戏"
+    },
+    {
+      "english_translation": "Blade",
+      "original_term": "异刃"
+    },
+    {
+      "english_translation": "Affinity",
+      "original_term": "羁绊"
+    },
+    {
+      "english_translation": "Qibing",
+      "original_term": "七冰"
+    },
+    {
+      "english_translation": "cooldown",
+      "original_term": "冷却"
+    },\n    {
+      "english_translation": "Miss Qibing taking her Blades for a walk",
+      "original_term": "七冰大小姐出门遛狗"
+    },
+    {
+      "english_translation": "Loop Mode",
+      "original_term": "循环模式"
+    },
+    {
+      "english_translation": "Mercenary Group",
+      "original_term": "佣兵团"
+    },
+    {
+      "english_translation": "cinematic narrative game",
+      "original_term": "电影化叙事游戏"
+    },
+    {
+      "english_translation": "Redemption Coupon",
+      "original_term": "兑换券"
+    },
+    {
+      "english_translation": "otaku-oriented",
+      "original_term": "宅向"
+    },
+    {
+      "english_translation": "animated series",
+      "original_term": "番剧"
+    },
+    {
+      "english_translation": "Core",
+      "original_term": "核心"
+    },
+    {
+      "english_translation": "Driver",
+      "original_term": "御刃者"
+    },
+    {
+      "english_translation": "Dromarch",
+      "original_term": "白虎"
+    },
+    {
+      "english_translation": "Cat Girl",
+      "original_term": "猫女"
+    },
+    {
+      "english_translation": "Rex",
+      "original_term": "莱克斯"
+    },
+    {
+      "english_translation": "Pyra",
+      "original_term": "焰"
+    },
+    {
+      "english_translation": "Mythra",
+      "original_term": "光"
+    },
+    {
+      "english_translation": "Elysium",
+      "original_term": "乐园"
+    },
+    {
+      "english_translation": "Aegis",
+      "original_term": "天之圣杯"
+    },
+    {
+      "english_translation": "Core Crystal",
+      "original_term": "核心水晶"
+    },
+    {
+      "english_translation": "sweet ending",
+      "original_term": "发糖结局"
+    },
+    {
+      "english_translation": "sense of guilt",
+      "original_term": "愧疚感"
+    },
+    {
+      "english_translation": "label",
+      "original_term": "标签"
+    }
+  ],
+  "thought": "The translation focused on maintaining the nuance and tone of the original, particularly for the game's promotional aspects and player reactions. I strictly adhered to the provided glossary for names and terms. For new proper nouns, especially those related to the game 'Xenoblade Chronicles' (such as character names and key in-game terminology), I used their official English localizations where possible, or translated them consistently if no official term exists in the common gaming lexicon. Markdown formatting with double newlines for paragraphs and preserved dialogue structure was applied to 'translated_text'. Special attention was given to translating Chinese internet slang and idioms to convey their intended humorous or critical effect within the gaming context. The translation for '(本章完)' and the final marker were also included as instructed."
+}
+```

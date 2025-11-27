@@ -1,0 +1,128 @@
+Chapter 828 Our Players Are Tough
+
+As time progressed, major titles from various game developers began to emerge in clusters.
+
+And before their launch, they all scrambled to promote, afraid their games wouldn't receive enough attention, leading to poor sales.
+
+However, Nebula Games' new title, 'Elden Ring,' was clearly different.
+
+Aside from the previous online live broadcast, there had been no news whatsoever, practically making countless players anxious to death waiting.
+
+After all, up until now, apart from the game's name, genre, and theme, nothing else about its content was clear.
+
+………………
+
+While players outside were being tortured by the teasing, Chen Xu and his team inside Nebula Games were having a joyous time.
+
+In his previous life, 'Elden Ring' indeed boasted excellent game quality, yet it also had many aspects that players found fault with.
+
+Regarding content, the most direct issue was that many side quests were cut.
+
+Content triggered in-game, coupled with dialogue later unpacked by players, clearly revealed that many crucial side quests had been removed.
+
+According to content unpacked by some players in his previous life, putting aside the completely absent side quests for the Sellswords and Rya's half-body, Melina, in her role as the Fire Keeper, also had a related series of stories.
+
+From her original dialogue, it could be seen that she was a character who was lost about her own meaning of existence, harbored deep affection for the Tarnished, and constantly encouraged the Tarnished to become Elden Lord.
+
+Melina also didn't tell the Tarnished how to level up independently; the original design was likely that each level-up required Melina to hold the Tarnished's hand.
+
+The Eternal City also originally had a related Mimic Tear side quest, but it was directly cut, becoming merely a plot map for Ranni's and Fia, the Deathbed Companion's questlines.
+
+These were entirely removed, plots that players couldn't discover without unpacking the game files.
+
+However, some others were anticlimactic.
+
+Among them, the sorceress Sellen, who was very kind to players, had some dialogue cut, but her main storyline was quite complete.
+
+But for a name familiar to veteran Souls series players, Patches' storyline was a dead end; you couldn't encounter him after the volcano.
+
+There were also Kenneth Haight, the warrior Nepheli Loux, and the Gatekeeper of Stormveil Castle, which were originally three intertwined questlines.
+
+Kenneth Haight's main objective was to find the rightful ruler of Limgrave, who was the warrior. Also, in Stormveil Castle, every time a player died, money would be stolen, they'd be led through a secret path into a dark room to get a key, get locked in, and finally step on the very angry and perverted Gatekeeper who served Godrick. These characters all had their own dialogues with each other.
+
+But all of these were cut.
+
+Nevertheless, the side quests in 'Elden Ring' were still quite excellent, especially Ranni's and Fia, the Deathbed Companion's questlines, which players almost invariably completed.
+
+One of them allowed players to obtain a staple weapon of the Souls series: the Moonlight Greatsword, and also successfully acquire a wife.
+
+Not the kind imagined by players, but the kind where you personally put on a ring and get a unique ending.
+
+And the story of Fia, the Deathbed Companion, was even more thrilling; not only could players experience hugs throughout, but they could also ultimately transform into a Netorare Warrior and cuckold the legendary Death Prince.
+
+Furthermore, these two impactful ending side quests had interaction between them; to complete Fia's quest, one first needed to complete Ranni's prerequisite to open the secret passage in the Carian Study Hall to reach the Divine Tower.
+
+For Chen Xu, he was also prepared to complete as much of the missing content as possible.
+
+Moreover, he intended to optimize some of the game's content, because as a first attempt at an open world, 'Elden Ring' in his previous life still had many shortcomings in player experience.
+
+Unlike 'Bloodborne,' 'Dark Souls,' and 'Sekiro,' as an open-world game, it had much vaster content and numerous items.
+
+However, the experience wasn't great. For example, after picking up an item, players had to open their inventory and slowly search for each item to determine if it was a consumable, a crafting material, or a quest item.
+
+Furthermore, there was numerical imbalance. The Spirit Ash system was originally intended to make it easier for players to defeat BOSSes, and many BOSSes were even designed with Spirit Ashes in mind. However, the impact of aggro values, combined with certain special weapon arts and classes – such as the Moonveil Katana and Hoarfrost Stomp with their extremely high Poise Break values – caused the game's difficulty curve to collapse instantly.
+
+However, these would clearly not be problems for Nebula Games, as they could conduct better content and numerical testing.
+
+As for the difficulty influenced by Spirit Ash aggro, that was even easier to resolve.
+
+More mature AI would allow BOSSes to behave more intelligently, instead of having monster aggro constantly on the Spirit Ashes, as in MMORPGs like 'World of Warcraft.' This would directly make the difficulty curve more reasonable. This aspect was something that had long been mastered in the 'Death Mode' of the original 'Dark Souls.'
+
+Therefore, for Chen Xu and his team, the more crucial aspects were level design and some detailed settings specifically for VR performance.
+
+"Mr. Chen, this design of yours..."
+
+Yang Xin looked at the screen on Chen Xu's monitor, hesitating to speak.
+
+"Isn't this to give players a more immersive sense of presence?" Chen Xu smiled slightly.
+
+The screen showed a pre-demonstration, which would later be implemented on the VR platform.
+
+In the game, the armored Tarnished slowly pushed open an iron gate located in an attic.
+
+Inside the gate was pitch black. At this point, the Tarnished didn't have a waist lamp hanging from their belt like players in 'Bloodborne.'
+
+Then, in the corner of the room, an armored knight holding a sword and shield slowly stood up, pushing aside a wooden crate in front of him.
+
+The next second, footsteps suddenly echoed from behind, along with a lewd laugh, and a 'creak' sound.
+
+The large iron gate closed, leaving only the formidable knight before the player.
+
+There were many, many more insidious designs like this.
+
+"The sense of immersion is incredibly strong; just looking at it makes my blood pressure explode!" Yang Xin couldn't help but complain.
+
+In Souls series games like 'Dark Souls,' 'Bloodborne,' and 'Sekiro,' almost every installment is filled with various insidious monsters.
+
+But compared to 'Elden Ring,' Yang Xin felt all those were minor in comparison. Because of its open-world elements, this game had too many ways to mess with players.
+
+Points where it looks like you won't die from jumping, but actually will make you fall to your death.
+
+The crossbows in Stormveil Castle that can shoot players dead.
+
+The unassuming exploding barrels.
+
+All sorts of gargoyle imps hiding in dark corners of the dungeons.
+
+Just looking at them, Yang Xin couldn't even imagine.
+
+"And what's more crucial, Mr. Chen, the monsters in these maps will truly make players break down!" Ruan Ningxue, who was in charge of art, also complained.
+
+Originally, she thought that the various Cthulhu-esque Great Ones' designs in 'Bloodborne' were already the peak.
+
+But when it came to 'Elden Ring,' according to the materials Chen Xu provided, it was simply escalating things!
+
+The furry giant ants heading to Deeproot Depths, the spiders, maggots, and large-eyed curse frogs in the Royal Capital sewers, and the maggot-spitting creatures in the woods outside Leyndell, Royal Capital...
+
+It could be said that in 'Elden Ring,' monsters that directly drain players' SAN points would definitely be no fewer than in 'Bloodborne.'
+
+"Relax, our players are tough. We must believe in their psychological endurance." Chen Xu said to Ruan Ningxue with a chuckle.
+
+He wasn't worried about any of this.
+
+After all, by the time players reach this point, they would have at least defeated Godrick and Rennala, Queen of the Full Moon. If they haven't been discouraged by then, what is there to worry about?
+
+Perhaps some players with more peculiar 'XPs' might even enjoy it quite a lot?
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

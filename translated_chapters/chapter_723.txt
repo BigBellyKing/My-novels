@@ -1,0 +1,138 @@
+# Chapter 722: Mr. Chen Really Knows How to Play! (Requesting Subscriptions, Monthly Passes)
+
+As the non-wipe open beta for `DOTA` commenced, the team members at Nebula Games were not idle.
+
+Ismael and others who had transferred from Atari and FOW were now planning the relevant data for the `DOTA` project team.
+
+Simultaneously, the entire team was constantly collecting player game data and various feedback.
+
+Many players who experienced `DOTA` were discussing this seemingly unique game online.
+
+“This 5v5 confrontation actually seems a bit interesting!”
+
+“It’s not quite like the RPG maps I’ve played before; it feels very competitive.”
+
+“Anyway, I feel it’s much simpler to control than `Warcraft`. I struggled with the `Warcraft` campaigns, only able to circle my units and A-move them. Now it’s so convenient to just control one hero.”
+
+“Ahem, just look up Invoker Carl, Broodmother, Chen, Meepo, and Brewmaster in the game. They’re still a nightmare for clumsy players!”
+
+“A nightmare? There are so many heroes; why would I insist on playing those few?”
+
+“I strongly recommend Shadow Fiend Nevermore and Sniper for new players. These two heroes are incredibly simple and brutal. Especially Sniper, his attack range is super long, and his ultimate is super satisfying for kill stealing!”
+
+“While it’s playable, the game's depth is too shallow compared to `Warcraft`. It feels like it’s primarily for entertainment.”
+
+“Indeed, it feels like the competitive aspect is a bit lacking.”
+
+“No, isn't it too early to say there's no competitive aspect? Or are you all new fans? Have you forgotten that when `Warcraft` was first released, some people also questioned the balance of the races?”
+
+“Exactly. I don't think `DOTA` is such a simple game, especially with the various role divisions, and the settings for Smoke of Deceit, Town Portal Scroll, Observer and Sentry Wards, and Fog of War. While these are all elements from `Warcraft`, combining them might lead to significant differences in tactical expression later on.”
+
+“You said yourself these are `Warcraft` elements. How can it break new ground?”
+
+Players online had their own opinions. This was because it had been previously rumored that `DOTA` was based on a `Warcraft` RPG map.
+
+Coupled with `DOTA`'s own content, many things reminded players of `Warcraft`.
+
+For example, the six item slots, heroes' three primary attributes, three minor skills and one ultimate, including Town Portal Scrolls, Dust of Appearance, and so on—all could basically find their counterparts in `Warcraft`.
+
+So, players naturally compared `DOTA` to `Warcraft`, even though their gameplay was completely different.
+
+For players who particularly loved `Warcraft`, their initial impression of `DOTA` was that while it was okay, it felt less competitive compared to `Warcraft`.
+
+In short, it was a hierarchy of contempt born from excessive fondness for the game they played.
+
+Just like in his previous life, those who initially played WAR3 thought DOTA players were noobs who couldn’t handle WAR3. Then DOTA players thought `League of Legends` players were clumsy and only played `League of Legends` because they couldn’t handle DOTA. Though, the antagonism between DOTA and `League of Legends` largely stemmed from the root of all evil: an animal living in the Antarctic called a penguin (referring to Tencent).
+
+History then repeated itself with astonishing similarity, as with the advent of `Honor of Kings`, the criticism shifted once again.
+
+Currently, it wasn't as exaggerated as in his previous life, but such comments did exist.
+
+Chen Xu didn't pay too much attention to it, as conflicts arising between players couldn't be resolved through game modifications.
+
+However, Chen Xu also believed that as players understood `DOTA` better, such comments would naturally fade away.
+
+This was because `DOTA` and `Warcraft` had completely different core philosophies.
+
+Compared to the heated online discussions, Chen Xu had more important matters to attend to.
+
+In Nebula Games’ lounge area, Chen Xu sat in front of a computer, controlling Phantom Lancer, dismantling the Dire’s main base.
+
+All five enemy heroes were respawning in their fountain, and so were his four allied heroes.
+
+“Radiant Victory!”
+
+Accompanied by cheers echoing throughout the room, the Dire’s Ancient toppled with a crash.
+
+Yang Xin, who had just walked over, was very surprised to see Chen Xu sitting in front of the computer.
+
+“Mr. Chen, why are you playing `DOTA` too?” Yang Xin asked.
+
+“Why can’t I play?” Chen Xu was a bit speechless.
+
+“That’s not what I meant, I was just curious.” Yang Xin quickly shook her head. After all, when everyone was developing `DOTA`, they often played together as a team.
+
+Even now, team members would team up for a match every day, and the losers would run errands to the cafeteria for cake and milk tea for the winners.
+
+They were having a blast, but Yang Xin couldn’t recall seeing Chen Xu play DOTA.
+
+“Huh… Mr. Chen, are you playing bot matches? Mr. Chen, you like playing bot matches too! Isn’t it super stress-relieving?” Yang Xin seemed to have discovered a new continent.
+
+Her favorite thing to do was create a custom room and play against five AI opponents.
+
+As for why it was custom, it was mainly because she played against insane AI opponents. In such cases, she would sometimes still die. Although it didn't affect the overall situation, the wait time for respawn was quite agonizing. Since it was a bot match, she would then input the cheat command `-respawn` to instantly bring her hero back to full health.
+
+Of course, this hobby was unique to her. Now, she had finally found her tribe, a kindred spirit, and it was none other than Mr. Chen!
+
+“Stress-relieving? Not really, it’s quite strenuous to play.” Chen Xu said with a smile.
+
+“Strenuous? Mr. Chen, actually, there are tricks to playing bot matches. Some heroes are especially good for bot matches.” Hearing Chen Xu's words, Yang Xin immediately had something to say.
+
+In terms of skill, she wasn’t the strongest at Nebula Games.
+
+But when it came to bot matches, she felt she was quite accomplished!
+
+Especially compared to new `DOTA` players online, having played it daily during development, she already knew all the game's various mechanisms inside out.
+
+Now, hearing Chen Xu say he found bot matches strenuous, her desire to show off immediately surfaced.
+
+“Want to try?” Chen Xu’s smile was exceptionally bright as he patted the chair.
+
+“No problem, Mr. Chen, let me tell you, Huskar, Viper, and Monkey King, these heroes are incredibly powerful in bot matches!” Yang Xin happily sat down in the chair as she spoke.
+
+“Huh… Mr. Chen, why do your AI opponents have team names next to them?” Yang Xin found it a bit strange.
+
+Both her teammates and the opposing AI opponents had team tags in front of their names.
+
+For example, her teammates had a DC tag, and their names were something like DC-Resolut1on, DC-MiSeRy. The opponents also had a WINS tag, named ICEICE, Y`, which made her feel a bit out of place.
+
+“These are bot matches from a test version. `DOTA` will definitely be pushing for professional esports in the future, don't you think this gives it a great sense of ceremony?” Chen Xu’s smile became even brighter.
+
+Without suspicion, Yang Xin showed a sudden realization.
+
+Mr. Chen really knows how to play!
+
+And indeed, it was quite satisfying to think about. Putting champion teams as AI opponents would allow players to fantasize and immerse themselves, imagining they were leading a team to crush the opponents and win the championship.
+
+With an “I see” expression, Yang Xin selected a hero named Monkey King and also bought an Arcana item.
+
+Upon entering the game, Yang Xin couldn't help but mutter.
+
+“This bot seems a bit off compared to the ones I played before, besides the different names. Why did it immediately use Smoke of Deceit at level one?”
+
+Still buying items in the fountain, Yang Xin watched as her AI support teammate activated Smoke of Deceit and headed straight to mid-lane with other teammates, feeling a little bewildered.
+
+However, as the support approached the mid-lane near the top jungle’s neutral shop and placed an Observer Ward, Yang Xin looked thoughtful.
+
+“The AI support knows how to ward for vision? This is great! It’s much more comfortable to play.” Yang Xin was still happy.
+
+With the war horn blaring across the map, her own creeps set off, but Yang Xin wasn’t in a hurry. She controlled Monkey King in mid-lane, using his exclusive 72 Transformations skill, turning into a tree one moment and then a Tree of Life the next.
+
+However, soon after the creep wave arrived, Yang Xin’s expression gradually became subtle.
+
+Because she discovered a very serious problem.
+
+Why did these creeps run up the enemy’s high ground?
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

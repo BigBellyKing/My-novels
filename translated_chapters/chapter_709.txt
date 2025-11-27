@@ -1,0 +1,50 @@
+Chapter 708: DOTA (Requesting Subscriptions, Monthly Passes)
+
+Chapter 708: DOTA (Requesting Subscriptions, Monthly Passes)
+
+Sitting in front of the computer in the lounge, listening to Qin Yi and the others' introductions, Chen Xu understood.
+
+This map wasn't actually the first of its kind. Previously, on `Warcraft`, the same author had made many similar maps. From 2v2, 3v3 all the way to 6v6, they had basically all been done, and the content also varied. This map was also one of those versions, but it was defined as 5v5, and its gameplay style was also set.
+
+That is, the game discards the RTS gameplay and focuses on controlling a single hero, just like in ordinary RPG maps. Of course, it still retains some RTS features, but these have been transformed into hero skills and purchasable, synthesizable items. For example, there's a character in the game called `Lich King` who uses the `Arthas's Death Knight` model, and one of his skills can summon a neutral monster. In addition, players in the game can purchase and synthesize an item called `Helm of Domination`, which can also summon a neutral monster, somewhat similar to the `Helm of Dominator` from `DOTA` in his previous life, except that since the map has no `neutral monsters` set, it can only summon them randomly from thin air.
+
+Different versions of the map kept players entertained, but in Chen Xu's view, they were still very rough. And while the various hero skills seemed creative, without a defined gameplay framework, `balance` became a huge problem. However, this wasn't the main core issue, as no game can achieve perfect `balance`.
+
+In his previous life, `DOTA` and `DOTA`-like games, which evolved from `StarCraft` map editing and established their core gameplay, and `League of Legends`, which later swept the globe by renaming this mode to `MOBA`, none actually achieved true `balance`.
+
+Early `League of Legends` `numerical BUGs`, such as the `Sunfire Cape Legion` and `Black Cleaver Legion` metas, were exceptions. But later `Assassin Legion`, `Tank Legion`, and `Marksman Legion` eras, as well as most competitive matches featuring the same old faces, clearly pointed to `balance` issues. While `DOTA` offered more strategies and tactics, leading to greater variability in matches and team compositions, most players experienced `public matches`, not competitive play, and in this regard, `DOTA`'s `balance` could not be perfectly achieved either.
+
+The era of constant `Black King Bar` refreshing in 6.59 was too long ago, not to mention the `Four Heavenly Kings of Magic Cores` led by `Tinker`. Then there was the late `Era of Heavenly Kings and Protectors` featuring `Timbersaw`, `Slark`, `Earth Spirit`, `Venomancer`, `Spirit Breaker`, and `Broodmother`. And later in the `DOTA2` era, early instances of `Radiant Terrorblade`, the `Juggernaut, Axe, Troll Warlord Trio`, `Doom, Father Always the Father`, `Drow Ranger Insta-Killing Ancients`, and `Magnus Skewering`...
+
+It could be said that in the `public matches` of these versions, if these `heroes` were available, it was always a case of 'you pick one, I pick one', and in competitive play, they were `either banned or picked`. `Balance` is a very important `core` aspect of a game, but it's not the true `core` factor influencing a game.
+
+Because whether it's `League of Legends`'s so-called simplified system or `DOTA`'s tactical setups, they actually share a common `core`. That is, the ability to experience an indispensable role in the game. Just like this map.
+
+And in the game, as long as you perform well enough, you can save the world. Just like in `DOTA public matches`, `Radiant Spectre`, `Divine Rapier Medusa`, and `Enigma Blink Dagger Black Hole` are all synonymous with saving the world and turning the tide. Similarly, in `League of Legends`, with `Vayne` or `Twitch` in the team, and if their `development` is acceptable, players can still feel the hope of a comeback.
+
+As a counter-example, there's `Heroes of the Storm`, which was always on the verge of becoming popular. If everyone plays well, the enjoyment is 100 points, but if one person doesn't know how to play, the enjoyment is -100 points.
+
+Aside from this `core` gameplay attribute, the biggest influence on a game is actually its `operations`. In his previous life, `DOTA` could be said to be a classic example of `playing a good hand poorly`.
+
+Early `DOTA` had a very wide `user base` globally, but unfortunately, the lawsuit with `Blizzard` made it lose market initiative. Even after a settlement was reached later, `IceFrog` and `Valve` collaborated to launch `DOTA2`, but compared to `League of Legends` operated by `Riot Games` and `Tencent`, `DOTA2`'s `operations` were indeed very subpar.
+
+In terms of events, it was the same as the game; `The International` made `DOTA2` the unprecedented biggest `esports` event, but `Valve`'s approach to competition was largely inactive, including the organization and system of events, which were indeed inferior to `League of Legends`. Of course, these are secondary; the most important point is the inactivity in the game content system.
+
+Any `DOTA2` player knows that the `new player tutorial` in this game is almost nonexistent. A complete novice, excitedly entering the war between `Radiant and Dire`, would find that they learn nothing. Or rather, what you learn in the `new player tutorial` is less than what you'd learn from watching a `live stream` for a while or being coaxed by friends into picking the powerful `Meepo`, or `Shadow Fiend Nevermore` who can quickly familiarize you with all the game's `hero` skills.
+
+You would find it hard to imagine that a crucial `new player tutorial` for new blood to `get into the game` was only launched almost 10 years after the game's release, and it wasn't even led by the `official` team but was a self-initiated project by the `player community`.
+
+Of course, in some aspects, `DOTA2`'s `operations` were indeed very strong, such as the `TI3 Green Compendium`, the earliest `Battle Pass`, which `Fortnite` later popularized, making it a mandatory system for games, whether `mobile games`, `PC games`, or `web games`.
+
+For Chen Xu, `DOTA` and `League of Legends` could both serve as future directions. However, considering `Warcraft`'s RTS gameplay, although not at its peak, it still held a significant market share. Furthermore, elements like `deny`, `forest vision high and low ground`, and certain other `mechanisms` were all present in `Warcraft`.
+
+Chen Xu still chose `DOTA`. There was also another reason: the first map he saw had instantly reminded him of `DOTA`. Moreover, for `Nebula Games` currently, both `DOTA` and `League of Legends` would primarily serve to `add icing to the cake`.
+
+As for launching both simultaneously, that would be `competing for one's own livelihood`. Although their `cores` are different, in their broad framework and direction, these two games are consistent. Of course, now that he's decided to make `DOTA`, he still needs to carefully consider how to do it, as each version has its own unique characteristics.
+
+However, having characteristics doesn't necessarily mean they're good. For example, the plight of `supports` in early versions: after 40 minutes of play, a `support` might only have a `Town Portal Scroll`, a pair of 500-gold `Boots of Speed`, a stack of `Sentry Wards` and `Observer Wards`, and a `Smoke of Deceit`. What? You say there's still a slot for `Kelen's Dagger` (`Blink Dagger`)? Where do you come from, a `wealthy family`? Having a `Magic Wand` is already good, isn't it?
+
+During team fights, a `support` might be instantly killed by the opposing `mid laner` or `carry` after casting their spells. One can't say they had no experience; one can only say their experience was zero.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

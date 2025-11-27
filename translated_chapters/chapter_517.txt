@@ -1,0 +1,100 @@
+Chapter 516: Even the Easter Egg Warm-up Is Out, Is the Game Still Far Off? (Requesting Subscriptions, Monthly Passes)
+
+At Nebula Games' project office, Chen Xu sat beside Qin Yi and Meng Zuo.
+
+"How are Ciri and her associated systems coming along?"
+
+Chen Xu asked Qin Yi.
+
+"The overall framework is essentially complete," Qin Yi reported.
+
+"No need to rush. The Ciri in the warm-up will not use the same architecture as The Witcher: Wild Hunt. Do you remember Ciri's background?" Chen Xu looked at Qin Yi and said.
+
+Qin Yi, beside him, nodded. Although he wasn't responsible for the plot-related content, the combat system design needed to be designed according to the character's background. So he had naturally seen Ciri's background and story.
+
+As the inheritor of the Elder Blood, Ciri possesses many unknown magical potentials that she cannot fully control herself. Her teleportation skill is more powerful and convenient than any sorcerer's or sage's portal.
+
+While evading the pursuit of the Wild Hunt, Ciri once used this power to travel to other dimensions.
+
+"With the ability to traverse different dimensions, we can definitely do a crossover. For example, have Ciri come to Lordran to participate in the grand task of Linking the Fire."
+
+"Ciri participated in dragon hunts in the New World, and some monsters from The Witcher: Wild Hunt could also make a cameo." Chen Xu looked at Qin Yi and said.
+
+Hearing Chen Xu's words, Qin Yi and the others nodded. Related IP crossovers, and then digging various pits and burying easter eggs, this wasn't the first time they had done it.
+
+………………
+
+While Nebula Games was quietly developing The Witcher: Wild Hunt, there was also various news about new games online, both domestically and internationally. After all, not all game developers were like NetDragon, bringing out their old IPs to rehash old content.
+
+Overseas, Zeus's FOW and Atari both announced news about their new titles, while domestic game developers like TengHua also made some new moves.
+
+A Swiss company named LS announced news of its latest game, a sequel to the popular game Undercover, which was a big hit on the Zeus platform.
+
+Multiple high-definition concept arts and corresponding backgrounds were released.
+
+This time, the timeline was set ten years after the previous story. The protagonist clearly looked much older and seemed more violent. By then, he had left the police force, even his hometown, and found a new job in the private security sector. The success of the prequel led to high expectations from players for this new title.
+
+Meanwhile, FOW under Zeus also announced a new project, even releasing a short demo animation and revealing parts of the game's combat system. This was an FPS game. In it, players could clearly see the protagonist possessed various conventional skills like shooting, stealth, and climbing, and the game's weapon system was also very rich.
+
+With numerous weapons such as chainsaws, heavy machine guns, and rocket launchers, the game appeared to be set in a wasteland worldview based on its background.
+
+As for Atari, it returned to its old adaptation business, acquiring a sci-fi themed game that was popular last year, mainly telling a story about the butterfly effect, though not much content was disclosed.
+
+Suddenly, news of multiple blockbusters emerged. Although some were still in the 'making grand promises' stage, they made players very excited.
+
+But at the same time, many players felt bewildered. Because during this period, Nebula Games had been completely silent. Many players found it strange, wondering if Chen Xu had no new game development plans.
+
+But that shouldn't be! Although Hades was released after the new year, it was a small-scale game that didn't take much effort compared to Nebula Games' overall size, and it had already launched. So why was Nebula Games still silent? Even game developers like FOW and Atari were curious about Nebula Games' silence. After all, it was quite uncharacteristic!
+
+However, as time progressed day by day, FOW, which had the fastest project development, had already begun its warm-up promotion.
+
+But Nebula Games still showed no signs of activity, which, while confusing to some loyal Nebula Games fans, also brought a sigh of relief to game developers like FOW. Logically, if Chen Xu had a new project, he should have already started releasing promotional materials. After all, there's no point in hiding it.
+
+But looking at it now, it seemed Nebula Games really had no plans? Or were they preparing a big move? Regardless, FOW would take the current buzz. With this mindset, FOW continuously released promotional materials and held online and offline press conferences. All that was left was the announcement of the release date, the final step.
+
+For Zeus, it was clear that they hoped this new title would achieve both high sales and critical acclaim. However, what surprised everyone was that right after Zeus concluded its online press conference, a new piece of news spread online.
+
+That is, within the Nebula World on the Nebula Games Platform, there was an easter egg crossover for Chen Xu's new game! Just like the previous Bloodborne, and the original Assassin's Creed and Uncharted.
+
+Along with this news, Zeus and FOW were instantly bewildered.
+
+They were waiting for them here?! Was this specifically aimed at them? Deliberately waiting until their game promotion was almost over, just before their launch date announcement, for Nebula Games to start its warm-up promotion. So that after they announced their promotional dates, Nebula Games could steal all the buzz by getting a head start?
+
+Thinking of the original Red Dead Redemption and Uncharted, Zeus couldn't help but feel a chill. For many players, however, it was incredibly exciting.
+
+They had previously thought Nebula Games had no new projects, but now it seemed Chen Xu was deliberately waiting for Zeus! And judging by the looks of this new game, with easter eggs already appearing, the game must be nearing completion. Is the official launch still far off?
+
+Players were filled with excitement, and some Huanyu VR users logged on to see what kind of new game Nebula Games had created.
+
+………………
+
+However, compared to players thinking the game was almost ready and the gaming industry lamenting Nebula Games' "tough" tactics, inside Nebula Games' office, Chen Xu was still discussing the review process for The Witcher: Wild Hunt with Yang Chen. After all, this game had a *tiny* bit of something special about it.
+
+Of course, it wouldn't fail the review. The final mode decided after discussions with the Game Department was this: The Witcher: Wild Hunt would be rated 17+. Of course, based on players' real-name age verification, some of the game's more adult-oriented settings could only be experienced after enabling verification.
+
+"Everyone needn't worry about the review; there are no issues. Corresponding scenes will not be cut." Chen Xu said with a smile to everyone.
+
+"Amazing, Mr. Chen! An honorary committee member is truly something!" Meng Zuo couldn't help but exclaim.
+
+"Don't talk nonsense," Chen Xu coughed lightly. "Isn't the rating system very strict? It requires age verification for players. And in The Witcher: Wild Hunt, these scenes aren't for the sake of being explicit, but rather a form of art."
+
+"Also, Teacher Meng, please handle the motion capture. I'll review the subsequent debugged movements." Chen Xu said to Meng Zuo.
+
+The narrative performances in The Witcher: Wild Hunt, like previous games, would fully utilize motion capture. Of course, don't misunderstand. The intimate scenes in the game, during motion capture, are far less exciting than players might imagine. Aside from games that rely entirely on facial capture, most such performances are actually carried out by two professional actors working together. And when it comes to capturing close-up actions, the professional actors are mostly male. Also, for some particularly alluring female character movements in games, do you think they're all posed by female motion capture artists?
+
+"However, Mr. Chen, the online comments are a bit off!" Qin Yi spoke up.
+
+Online, players were talking as if the game was already finished. In reality, the development work had only just begun. There was still a long time before the game's official launch.
+
+As for why the easter egg content appeared?
+
+"Isn't it for early warm-up?"
+
+"It's fine, we never said the game was almost done anyway." Chen Xu said, unconcerned. After a moment's thought, Chen Xu continued, "Besides, have we not taken enough blame?"
+
+Listening to Chen Xu's words, Qin Yi and Meng Zuo beside him were speechless.
+
+"Mr. Chen, are those 'scapegoats' you talk about really scapegoats?"
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

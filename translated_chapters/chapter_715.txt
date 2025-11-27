@@ -1,0 +1,90 @@
+Chapter 714: Game Launch Experience (Requesting Subscriptions, Monthly Passes)
+
+With the arrival of the New Year's Day holiday, many game developers also began promoting their new games.
+
+If it were in the past, many game developers would have taken it easy. After all, based on the information previously released by Nebula Games, this game called `DOTA` was expected to launch around this time.
+
+Although, from the perspective of a Warcraft RPG map, it felt like there was nothing particularly special about the game. However, being a Nebula Games product, coupled with the previous popularity of `Dragon's Blood` and various large-scale promotions, one could sense the importance Nebula Games placed on `DOTA`.
+
+But after more information was released, things changed. According to Nebula Games' announcement, the game would be free-to-play and launched exclusively on the PC platform.
+
+These two keywords immediately surprised many players and industry designers.
+
+Launching exclusively on the PC platform was understandable. From the game's operation, it seemed to be similar to `Warcraft`, but instead of controlling multiple units, it focused on a single hero unit. This control scheme and gameplay style were indeed more suited for the PC platform than a VR platform.
+
+The crucial point was the free-to-play aspect. Whether a game can survive obviously depends on whether it can make money. Although games are called the ninth art form, art also needs to generate income. This applies to movies, paintings, music, and any traditional art form. So, `DOTA` would clearly be a project that charges through value-added items.
+
+As for the specific monetization content, although Nebula Games hadn't revealed it yet, players and game industry designers alike had a pretty good idea. It definitely wouldn't involve any numerical balancing; it would likely be similar to games like `Call of Duty: Modern Warfare` and `Rainbow Six Siege`, adding cosmetic skins and similar value-added item systems.
+
+But the key question remained: could such a monetization model actually make money? After all, `DOTA`'s promotion was undeniably monumental.
+
+Regardless, it was a certainty, as the news came directly from Nebula Games' official channels. Some game developers who had initially planned to avoid the release, such as Atari and FOW, no longer had many concerns. Although deep down they didn't have high hopes for `DOTA`'s gameplay style, they would have previously adjusted their release schedules out of respect for Nebula Games and Chen Xu's reputation. But now, as a free-to-play game launching on a different platform, there clearly wouldn't be much direct competition.
+
+So, naturally, there was no need to worry. Thus, FOW and Atari also proceeded with their promotions.
+
+As for Nebula Games, it continued with its own promotional rhythm.
+
+`DOTA` successively released two new promotional CGs, featuring Sun Wukong and Techies respectively. In his previous life, one could say `DOTA`'s promotion was neglected, almost abandoned. Now, Chen Xu planned to create a simple CG animation short for each hero, much like the Operator videos in `Rainbow Six Siege`.
+
+Of course, considering the vast number of heroes in `DOTA`, it would be impossible to release them all at once. However, maintaining a rhythm of two per month, the current roster of heroes alone could keep them busy for several years.
+
+Unlike before, although this promotional CG was also meticulously produced, many Nebula Games players didn't pay too much attention to it. For some excited new players, they simply waved their hands dismissively, indicating: 'Basic move, no need to show off.' They wouldn't even be surprised if Nebula Games suddenly made a full-length CG animated movie one day.
+
+Compared to the CG animation shorts for Sun Wukong and Techies, what piqued players' curiosity more was `DOTA`'s gameplay mode. As more and more information was revealed, the gameplay of `DOTA` gradually became clearer.
+
+Players were all discussing the video footage that had circulated online.
+
+“Even though the promotion is intense, it feels like this new game just took the heroes from `Warcraft` and made them stand-alone?”
+
+“It looks like there are many heroes, so the focus has shifted from racial units to just heroes?”
+
+“Can’t quite tell, but Nebula Games seems to attach great importance to this game. The investment is no less than that of `World of Warcraft`, so it feels like it should be a core game.”
+
+“I’m not sure, but from the videos and information, the game seems quite simple, right? Especially the controls, you only need to control one hero unit, and it seems heroes only have four skills plus six item slots.”
+
+“Doesn’t that mean there’s not much skill involved then?”
+
+Soon, players online erupted into arguments. After all, judging from the content in the promotional videos, visualizing it in their minds didn't really convey how outstanding the game was, at least not compared to the massive promotional campaign.
+
+Of course, a considerable number of players expressed their anticipation for `DOTA`, as for many years, Nebula Games had been synonymous with quality games in their minds.
+
+Moreover, with such a huge investment in promotion this time, many players also believed that this game wouldn't be that simple.
+
+Amidst the players' various discussions, `DOTA` arrived at its open beta day, eagerly awaited by countless players.
+
+The 10-day non-wipe test temporarily kept the in-game store closed. This was mainly because Chen Xu wanted to collect more data to refine the game. After all, `DOTA` was different from single-player games, focusing on multiplayer versus combat.
+
+Basically, most multiplayer-focused games in the industry followed this model. This included collecting data on new players' habits, which Chen Xu and his team would use to make gradual, detailed adjustments. However, at its current stage, it was certainly much better than its previous life. One had to remember that in its previous life, `DOTA`'s tutorial was part of a purchasable Plus membership, recommending starting items like two last-hit axes, which was far from ideal.
+
+………………
+
+Inside a specially decorated gaming room, Zhang Yi and Wang Han sat side-by-side on the sofa.
+
+“It’s been a long time since I played a PC game!” Zhang Yi said with a hint of nostalgia.
+
+After all, with the development of VR and the VR games launched by major game developers in the past two years, they rarely spent time actually playing on PC, even though they updated their configurations whenever new graphics cards were released.
+
+Whenever they had free time, they would dive into the gaming pod. The better visual experience and the comfort of playing while lying down, compared to sitting on a chair, made it a much more pleasant experience.
+
+“But this really gives me that feeling. I just wonder if this game will be fun,” Wang Han nodded, also feeling nostalgic.
+
+“It’s a Nebula Games product, so I have confidence. Although Mr. Chen likes to pull some quirky ideas, sometimes tormenting players and sometimes just being cruel, the quality is always guaranteed,” Zhang Yi said cheerfully.
+
+“Oh, by the way, this game seems to be 5v5. Aren’t Old Song and the others coming?” Wang Han asked curiously.
+
+“Old Song and the others are busy during the day, we’ve arranged to play at 8 PM tonight. We’ll play a bit now and get a massive head start. It says in the information that there are different role allocations in the game; we can be the main carries then, and Old Song and the others can contribute resources,” Zhang Yi said with a sly chuckle.
+
+“Good idea!” Wang Han gave a thumbs-up.
+
+Wang Han didn’t know much about what roles `DOTA` had. But when it came to contributing resources, she had experience.
+
+Back when `Warcraft` was popular, they used to team up and play `Warcraft` together. They even developed a tactical system for it.
+
+It involved opening a custom room with transferable resources. The two most skilled players would prioritize developing barracks and tech, while the two weaker players would first prioritize building peasants to gather wood, then hand over all their wood and money to the two most skilled players.
+
+This allowed them to mass produce units and tech early on, rapidly forming up to begin their attack. Even if they didn't achieve an immediate victory and fell into a stalemate, the 'rich leading the poor' strategy would still eventually pay off.
+
+She figured that `DOTA`'s roles were probably something similar.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

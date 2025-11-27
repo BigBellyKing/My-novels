@@ -1,0 +1,124 @@
+## Chapter 723: Is This AI? This is Ridiculous! (Requesting Subscriptions, Monthly Passes)
+
+Yang Xin was a little bewildered. The creeps in the game all appeared at the same time, and although the map wasn't mirrored, logically, the creeps should appear in the very center of the river!
+
+Why were they now appearing on the opposite high ground? Had the game encountered a BUG?
+
+Looking at the creeps already fighting on the opposite high ground, and the Shadow Fiend, Nevermore, in his swaying Arcana, Yang Xin was a little bewildered. Subconsciously, she glanced at Chen Xu beside her.
+
+All she saw was a smile on Chen Xu's face, and Yang Xin inexplicably had a bad feeling.
+
+Concentrating, Yang Xin started to lane. It wasn't a big deal if the creeps were on the opponent's high ground.
+
+With this thought, Yang Xin controlled her hero, Monkey King, to auto-attack the creeps, planning to land the last hit for the deny.
+
+But just then, a dark red projectile attack came before her, directly denying the low-health creep.
+
+'Your last hitting is terrible!'
+
+A very conspicuous exclamation mark appeared above the creep's corpse, and then Nevermore let out a mocking laugh, making Yang Xin's face darken.
+
+However, she didn't pay too much attention and focused on last hitting and laning.
+
+But soon, this uneasy feeling grew stronger.
+
+"Something's wrong! This isn't right! Mr. Chen, this AI isn't right!" Yang Xin slapped her mouse, finally realizing something was off.
+
+Across two waves of creeps, she had only managed to last hit three, and one of those was with her Crushing Blow skill. The remaining half were denied by the Shadow Fiend in front of her.
+
+And with the bonus from souls, even though Shadow Fiend was a ranged hero, his attack power already far surpassed her Monkey King with a Quelling Blade.
+
+More critically, Yang Xin didn't know what magic this AI Shadow Fiend used, but the creep wave always stayed on the opposite high ground.
+
+Also, unlike typical AI behavior, this Shadow Fiend would not only last hit but also occasionally auto-attack her to chip away at her health. As his soul count slowly increased, Shadow Fiend's attacks became excruciatingly painful.
+
+And the Shadow Fiend's three Shadowraze skills were unleashed with incredible fluidity, hitting both the low-health creeps and her hero.
+
+After several consecutive rounds, her Monkey King could only hide far away with low health, soaking up the experience from Shadow Fiend's denies.
+
+The level gap was even more exaggerated, with Shadow Fiend at level five while she was only at level three.
+
+Seeing Yang Xin finally realize something was wrong, Chen Xu, sitting beside her, couldn't help but chuckle. He said with a smile, "What's wrong? It's just AI, isn't it?"
+
+"No, Mr. Chen, why is this AI so powerful!? I feel like it's even stronger than Qin Yi and Meng Zuo; the pressure is just too intense!" Yang Xin paused the game and said to Chen Xu.
+
+"No need to feel, it's definitely stronger than them," Chen Xu said with a smile.
+
+Yang Xin: ...............
+
+Hearing Chen Xu's words, Yang Xin's eyes widened. He actually shamelessly admitted it!?
+
+Since the game had just launched, and the core development team had basically played it for a month or two during development, along with understanding hero roles, gameplay, and item builds—things Chen Xu had mentioned during development—they were currently world-class players of Nebula Games' core team compared to new players.
+
+But now, this AI was definitely stronger than them?
+
+"Mr. Chen, DOTA is a multiplayer competitive game. Can it also have a 'Souls' element?" Yang Xin suddenly felt her teeth ache.
+
+She felt that these AI opponents were outrageously powerful. Yang Xin believed that many players would crash and burn if they tried to play against the 'Insane' difficulty AI now.
+
+But the AI she was playing against now, at least in her opinion, was simply outlandish!
+
+Watching the AI already congregating in the mid lane for a team fight, Yang Xin had only one feeling: a battle of immortals. It was a lively back-and-forth, but because her AI team had a real player like her, it inevitably led to defeat.
+
+"This isn't something we're releasing to players right now, after all, it's the latest AI technology," Chen Xu smiled.
+
+"Then why did you say it was AI, Mr. Chen!" Yang Xin's eyes widened.
+
+"To you, it's an Artificial Intelligence, but to me, it's AI, no problem! At this stage, it's just for testing game mechanics and tactics. The parameters will be adjusted later," Chen Xu said, shrugging.
+
+"To become harder?" Yang Xin wasn't sure.
+
+"A bit simpler. After all, besides testing, we also plan to let players challenge it later. As for this current version, it's just for my own entertainment," Chen Xu said with a smile.
+
+At Chen Xu's current skill level, playing DOTA would basically be described as mercilessly crushing noobs.
+
+Forget basic mechanics; just his understanding of the game's systems was enough to let him dominate.
+
+The different creep wave positions caused by aggro and creep blocking significantly impacted the laning phase.
+
+And consistently stacking jungle camps at specific times allowed him to farm gold more efficiently. Coupled with his understanding of items, heroes, and personal skill.
+
+For Chen Xu, playing DOTA against other players wasn't as satisfying as playing against AI.
+
+And the AI he had made wasn't just any ordinary AI; it utilized the latest AI technology.
+
+Of course, besides letting him experience the joy of DOTA, this AI also served a more important purpose: testing the numerical balance of various strategies in the game.
+
+After all, DOTA's biggest feature was its countless strategies. In the previous life's most iconic TI tournaments, various meta-strategies could be seen.
+
+But for current players, that was still a long way off. And balancing based on current player data collection would only lead to a 'flip-flopping' situation.
+
+Because players didn't understand the strategies and gameplay, they might perceive a certain strategy or hero item build as too powerful. At that point, the data might lead to a nerf. But soon, as players' understanding of the game deepened, the previously nerfed hero would become 'underpowered.'
+
+Of course, this isn't to say such a strategy is flawed. In reality, following player feedback is the most correct approach.
+
+Otherwise, it could easily turn into a situation where the development team dictates how players should play the game.
+
+However, this is based on players having a basic understanding of the game. Many current players don't even understand DOTA's mechanics, and DOTA itself isn't something that's easy to grasp completely.
+
+Even players who played DOTA for over a decade in the previous life, and some professional players, still exhibited what was called 'cloud player' behavior.
+
+So, for Chen Xu, this AI under testing primarily served to demonstrate to players, showing them that DOTA could be played in such ways, thereby inspiring new ideas.
+
+It also served as one of the events planned for the official version's launch.
+
+...............
+
+While Chen Xu was testing the new AI, many players were thoroughly enjoying themselves.
+
+After DOTA launched its open beta.
+
+More and more players flocked to the game.
+
+Initially, they were a bit confused, but after playing two AI matches and understanding the basics, they generally started to feel the fun of the game.
+
+And very rarely, owners of traditional PC internet cafes in some cities noticed a strange phenomenon.
+
+The business was inexplicably picking up. Many people in the cafe were playing DOTA in groups on linked machines. Coupled with the approaching Spring Festival holiday and Nebula Games' online and offline promotions, almost every PC internet cafe was filled with DOTA players.
+
+At the same time, online player reviews for DOTA, although not proclaiming it a masterpiece like previous games such as World of Warcraft, still gave it high ratings. Many players shared a common sentiment: the game was incredibly replayable.
+
+The most direct result of these phenomena was the steadily increasing popularity of DOTA.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>

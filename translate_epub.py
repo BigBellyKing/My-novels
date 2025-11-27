@@ -138,7 +138,7 @@ def check_refusal(text):
     """
     refusal_keywords = [
         "I cannot translate", "I can't translate", "I am unable to translate",
-        "I apologize, but", "I'm sorry, but", "As an AI language model",
+        "As an AI language model",
         "violate my safety guidelines", "against my content policy"
     ]
     lower_text = text.lower()

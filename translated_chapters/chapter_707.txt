@@ -1,0 +1,94 @@
+Chapter 706: Isn't the point of playing this game to suffer? (Requesting Subscriptions, Monthly Passes)
+
+Aside from the game's story and endings, for most players who had already completed the game, the most anticipated news was about the new gameplay mode to be updated for *Sekiro: Shadows Die Twice* after clearing it.
+
+That was Despair Mode.
+
+Unlike *Dark Souls* and *Bloodborne*, which feature PVP content, *Sekiro: Shadows Die Twice* does not have online multiplayer functionality. Players can basically only interact through mechanics like Remnants.
+
+So, for many players, *Sekiro: Shadows Die Twice* didn't have much content that required grinding. After all, there weren't many playstyles for players to cultivate their accounts.
+
+However, this didn't mean that there was nothing else to play after completing *Sekiro: Shadows Die Twice*.
+
+One could say that in *Dark Souls* and *Bloodborne*, after players finished their first playthrough, they were all driven by the RPG progression elements. And with the difficulty remaining consistent in the first playthrough, the second and third playthroughs weren't as difficult as imagined.
+
+After all, by the time players reached the first playthrough, most had already upgraded their weapons and levels. Compared to *Sekiro*, the RPG numerical elements of *Bloodborne* and *Dark Souls* had a very significant impact on the game's difficulty. Otherwise, it wouldn't have been said that in the prequel, if you got the Gravelord Sword early on or could fully utilize a Guandao once its scaling was effective, the game would turn into a Musou-like experience.
+
+But in *Sekiro: Shadows Die Twice*, the second playthrough was entirely different from what most players imagined.
+
+In *Sekiro*, there are two ways to increase the difficulty: one is to give away Kuro's Charm, and the other is to ring the Bell Demon in the Bell Demon Temple on Senpou Temple, Mt. Kongo.
+
+And these two modes can be stacked.
+
+Among them, the Gauntlet mode, where players can unlock consecutive boss challenges after completing the corresponding story, was already added to the game by Chen Xu. As for Despair Mode, it was not yet available to players but would be updated after some BUG fixes.
+
+Although in Chen Xu's VR version, exploits like Air Swimming and Glitching Underground from the previous life no longer existed, and things like Gyoubu Masataka Oniwa falling to his death to welcome the Corrupted Monk, who was then assassinated, were intentional backdoors he specifically left in.
+
+However, a game naturally cannot be completely devoid of BUGs. At most, some less severe BUGs are turned into inherent features of the game. But there are also numerical contents that require balancing, so patches, big and small, are unavoidable.
+
+This time, Despair Mode differs from the regular Gauntlet mode. It has stricter requirements for ordinary players: they need to complete a second playthrough with both difficulty modifiers active – that is, two stacked difficulty playthroughs – to unlock it.
+
+Regarding this Despair Mode, in its previous life, some players created corresponding Despair MODs that significantly altered Isshin and other BOSSes' moves and aggressive intent, raising the difficulty to multiple levels, even adding corresponding DEBUFFs.
+
+Chen Xu directly incorporated this into the game as a built-in mode. In addition to the mode itself, subsequent updates will also include a dedicated speedrun leaderboard for players to challenge, constantly breaking time records, which can be seen as an alternative PVP competitive mode.
+
+In the Despair Mode created by Chen Xu, besides strengthening the attack power and health of mobs and BOSSes – these basic attributes – he also made some modifications to the wind-up and recovery animations of their moves. For example, if Inner Genichiro's Sakura Dance originally took 1 second to execute, in Despair Mode, this time might be shortened by another third.
+
+Furthermore, the BOSSes' AI in the game has been fully enhanced. Previously, BOSSes would foolishly initiate attacks, allowing players to counter-attack and seek openings. But now, BOSSes might not always make the first move; they might instead enter a standoff and counter-exploit the player's openings. Just like how players stubbornly tried to use a Thrust Attack against the Great Shinobi Owl.
+
+Of course, there's another major enhancement: unblockable skills will no longer have the Perilous Attack warning. Whether to use a Mikiri Counter or dodge step jump to evade will entirely depend on the player's familiarity with the BOSS's moves.
+
+And that's not all, because this Despair Mode follows the same content progression as the normal game. That is, from leaving Ashina, to clearing the game, and then the subsequent Gauntlet.
+
+Despair Mode is integrated throughout, and in this mode, some Combat Art scrolls have also been altered. This means that players' previous experience, aside from their fundamentals, will need to be re-examined for Despair Mode. One could say that, apart from the monsters looking the same, it's absolutely two different games.
+
+Inside Nebula Games' office, Qin Yi climbed out of the Huanyu VR gaming pod, looking frustrated as he watched Chen Xu, who was checking numerical values nearby.
+
+“Mr. Chen, about this Despair Mode, is the difficulty perhaps just a *little* too high?”
+
+He had no idea why he volunteered to test it. After playing for half an hour, he still couldn't even defeat the Chained Ogre.
+
+“How could it be high? Although it's Despair Mode, you can think of it as a new game progression. And since it’s called Despair Mode, it definitely has to bring despair to players! Otherwise, could it live up to the expectations of players who crave higher and more difficult challenges?”
+
+“Just think, if players, eagerly anticipating stronger and more terrifying enemies, suddenly find these enemies to be ridiculously weak, how disappointed would they be?” Chen Xu said with a smile.
+
+So, to make players feel his sincerity, Chen Xu issued another directive for Despair Mode: intensify it.
+
+Too difficult? Will players suffer?
+
+What kind of joke is that? Isn't the point of players coming to play this game precisely to suffer?
+
+………………
+
+Whether Despair Mode would actually induce despair, players didn't yet know.
+
+But for some players who were eagerly anticipating Despair Mode and had already begun challenging the second playthrough with both difficulty modifiers active, they knew one thing for sure.
+
+That was, let alone the yet-to-be-updated Despair Mode, the difficulty of the second playthrough alone was already enough to drive them to despair.
+
+In the hidden room of Hirata Estate from three years ago, Song Ren, embarking on his re-challenge journey, looked at the familiar “YOU DIED” on the screen, and Lady Butterfly’s familiar line, “Just a pup,” before silently choosing to close the game.
+
+During his first playthrough, like most players, he had defeated Isshin and felt full of ambition. Then, after successfully striking down Inner Genichiro in the Gauntlet, he felt that Despair Mode was the only thing left to look forward to.
+
+Until he started the second playthrough. Previous *Bloodborne* and *Dark Souls* second playthroughs could only be described as relaxed and effortless.
+
+But *Sekiro*'s second playthrough completely exceeded his imagination.
+
+Prayer Beads and Combat Memory were inherited, and his health bar seemed long. But unlike *Dark Souls* and *Bloodborne*, where a long health bar was very effective in the second playthrough, in *Sekiro*, he found that monster attacks dealt percentage-based health loss. That is, if it took three hits to defeat him before, it still took three hits now.
+
+And while Combat Memory increased attack power, the BOSSes and mobs' health bars also increased!
+
+More critically, with the increased difficulty:
+
+Non-perfect parries, in addition to increasing the Posture Bar, now also reduced health!
+
+It was important to remember that in his first playthrough, he managed to clear the game thanks to a peerless martial art called Flickering Blade Technique, which helped him immensely. Facing Genichiro Ashina's Floating Passage, Lady Butterfly's charged shurikens followed by left-right aerial attacks, and the Great Shinobi Owl's relentless slashes, he relied on the Flickering Blade playstyle.
+
+But now? Non-perfect parries reduced health, which completely stunned him! He had lost count of how many times he died from non-perfect parries, succumbing to Lady Butterfly's phantom orbs.
+
+“You should probably return this Charm to me. After all, it’s Kuro’s keepsake, and it’s better for me, a shinobi, to keep it safe.”
+
+Watching the scene of Wolf resurrecting after death, Song Ren silently returned to the Sculptor and retrieved the Charm.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>
