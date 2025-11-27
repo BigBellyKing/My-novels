@@ -2,8 +2,10 @@ import os
 import markdown
 import shutil
 
-TRANSLATED_DIR = "translated_chapters"
-OUTPUT_DIR = "docs"
+import argparse
+
+DEFAULT_TRANSLATED_DIR = "translated_chapters"
+DEFAULT_OUTPUT_DIR = "docs"
 TEMPLATE_DIR = "templates"
 
 # Simple CSS for mobile-friendly reading with Dark Mode support
@@ -129,14 +131,18 @@ JS_SCRIPT = """
 </script>
 """
 
-def generate_site():
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+def generate_site(source_dir=DEFAULT_TRANSLATED_DIR, output_dir=DEFAULT_OUTPUT_DIR):
+    os.makedirs(output_dir, exist_ok=True)
     
     # Write CSS
-    with open(os.path.join(OUTPUT_DIR, "style.css"), "w", encoding="utf-8") as f:
+    with open(os.path.join(output_dir, "style.css"), "w", encoding="utf-8") as f:
         f.write(CSS)
 
-    chapters = sorted([f for f in os.listdir(TRANSLATED_DIR) if f.endswith(".txt")])
+    if not os.path.exists(source_dir):
+        print(f"Source directory '{source_dir}' not found.")
+        return
+
+    chapters = sorted([f for f in os.listdir(source_dir) if f.endswith(".txt")])
     
     # Generate Index
     index_html = f"""
@@ -168,7 +174,7 @@ def generate_site():
     </html>
     """
     
-    with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
+    with open(os.path.join(output_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_html)
         
     # Generate Chapter Pages
@@ -177,7 +183,7 @@ def generate_site():
         prev_link = f"chapter_{chapter_num-1:03}.html" if i > 0 else "#"
         next_link = f"chapter_{chapter_num+1:03}.html" if i < len(chapters) - 1 else "#"
         
-        with open(os.path.join(TRANSLATED_DIR, chapter_file), "r", encoding="utf-8") as f:
+        with open(os.path.join(source_dir, chapter_file), "r", encoding="utf-8") as f:
             md_content = f.read()
             
         html_content = markdown.markdown(md_content)
@@ -210,10 +216,15 @@ def generate_site():
         """
         
         output_filename = f"chapter_{chapter_num:03}.html"
-        with open(os.path.join(OUTPUT_DIR, output_filename), "w", encoding="utf-8") as f:
+        with open(os.path.join(output_dir, output_filename), "w", encoding="utf-8") as f:
             f.write(page_html)
             
-    print(f"Site generated in '{OUTPUT_DIR}' folder.")
+    print(f"Site generated in '{output_dir}' folder.")
 
 if __name__ == "__main__":
-    generate_site()
+    parser = argparse.ArgumentParser(description="Generate static site from translated chapters.")
+    parser.add_argument("--source", default=DEFAULT_TRANSLATED_DIR, help="Directory containing translated chapters")
+    parser.add_argument("--output", default=DEFAULT_OUTPUT_DIR, help="Directory to output the static site")
+    args = parser.parse_args()
+
+    generate_site(args.source, args.output)

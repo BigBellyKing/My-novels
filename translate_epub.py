@@ -23,9 +23,11 @@ except Exception as e:
 
 # Configuration
 MODEL_NAME = "gemini-2.5-flash" 
-RAW_DIR = "raw_chapters"
-TRANSLATED_DIR = "translated_chapters"
-GLOSSARY_FILE = "glossary.json"
+# Configuration
+MODEL_NAME = "gemini-2.5-flash" 
+DEFAULT_RAW_DIR = "raw_chapters"
+DEFAULT_TRANSLATED_DIR = "translated_chapters"
+DEFAULT_GLOSSARY_FILE = "glossary.json"
 
 # Thread synchronization (still good practice even if sequential, for future proofing)
 glossary_lock = threading.Lock()
@@ -147,14 +149,14 @@ def check_refusal(text):
             return True
     return False
 
-def load_glossary():
-    if os.path.exists(GLOSSARY_FILE):
-        with open(GLOSSARY_FILE, "r", encoding="utf-8") as f:
+def load_glossary(glossary_path):
+    if os.path.exists(glossary_path):
+        with open(glossary_path, "r", encoding="utf-8") as f:
             return json.load(f)
     return {}
 
-def save_glossary(glossary):
-    with open(GLOSSARY_FILE, "w", encoding="utf-8") as f:
+def save_glossary(glossary, glossary_path):
+    with open(glossary_path, "w", encoding="utf-8") as f:
         json.dump(glossary, f, ensure_ascii=False, indent=4)
 
 def validate_translation(filepath, source_text=None):
@@ -210,12 +212,12 @@ def validate_translation(filepath, source_text=None):
         print(f"Error validating {filepath}: {e}")
         return False
 
-def process_chapter(chapter_filename, glossary):
+def process_chapter(chapter_filename, glossary, raw_dir, translated_dir, glossary_path):
     """
     Handles the full process for a single chapter: Translate Full Text -> Save -> Update Glossary.
     """
-    raw_path = os.path.join(RAW_DIR, chapter_filename)
-    translated_path = os.path.join(TRANSLATED_DIR, chapter_filename)
+    raw_path = os.path.join(raw_dir, chapter_filename)
+    translated_path = os.path.join(translated_dir, chapter_filename)
     
     with open(raw_path, "r", encoding="utf-8") as f:
         text = f.read()
@@ -291,7 +293,7 @@ def process_chapter(chapter_filename, glossary):
                         print(f"[{chapter_filename}] Found {len(unique_terms)} new terms. Updating glossary...")
                         for original, english in unique_terms.items():
                             glossary[original] = english
-                        save_glossary(glossary)
+                        save_glossary(glossary, glossary_path)
                 
                 print(f"[{chapter_filename}] DONE and Saved.")
                 return # Exit function on success
@@ -313,24 +315,32 @@ def process_chapter(chapter_filename, glossary):
 
     print(f"[{chapter_filename}] Failed after {max_retries} retries.")
 
-def main():
-    parser = argparse.ArgumentParser(description="Translate novel chapters.")
-    parser.add_argument("--limit", type=int, help="Limit the number of chapters to translate")
-    parser.add_argument("--chapters", type=int, nargs="+", help="Specific chapter numbers to translate (e.g. 1 5 10)")
-    parser.add_argument("--force", action="store_true", help="Force re-translation even if file exists")
-    parser.add_argument("--fix-only", action="store_true", help="Only re-translate broken chapters, do not translate new ones")
-    args = parser.parse_args()
-
-    os.makedirs(TRANSLATED_DIR, exist_ok=True)
-    glossary = load_glossary()
+def process_book(book_dir, args):
+    """
+    Processes a single book directory.
+    """
+    print(f"\n--- Processing Book: {book_dir} ---")
     
+    raw_dir = os.path.join(book_dir, DEFAULT_RAW_DIR)
+    translated_dir = os.path.join(book_dir, DEFAULT_TRANSLATED_DIR)
+    glossary_path = os.path.join(book_dir, DEFAULT_GLOSSARY_FILE)
+    
+    # Fallback to global glossary if book-specific one doesn't exist
+    if not os.path.exists(glossary_path) and os.path.exists(DEFAULT_GLOSSARY_FILE):
+         # We might want to copy the global one or just use it read-only? 
+         # For now, let's just use the book specific path, creating it if needed.
+         pass
+
+    os.makedirs(translated_dir, exist_ok=True)
+    glossary = load_glossary(glossary_path)
+
     # Get list of chapters and sort them
-    if not os.path.exists(RAW_DIR):
-        print(f"Directory {RAW_DIR} not found.")
+    if not os.path.exists(raw_dir):
+        print(f"Directory {raw_dir} not found. Skipping.")
         return
 
-    chapters = sorted([f for f in os.listdir(RAW_DIR) if f.endswith(".txt")])
-    
+    chapters = sorted([f for f in os.listdir(raw_dir) if f.endswith(".txt")])
+
     # Filter chapters
     chapters_to_translate = []
     for chapter_file in chapters:
@@ -340,12 +350,12 @@ def main():
         except:
             continue
 
-        translated_path = os.path.join(TRANSLATED_DIR, chapter_file)
-        
+        translated_path = os.path.join(translated_dir, chapter_file)
+
         # Check if this chapter is selected
         if args.chapters and chapter_num not in args.chapters:
             continue
-            
+
         # Check if it already exists
         if os.path.exists(translated_path):
             if not args.force:
@@ -360,37 +370,76 @@ def main():
             # File does not exist
             if args.fix_only:
                 continue
-            
+
         chapters_to_translate.append(chapter_file)
 
     if args.limit and not args.chapters:
         chapters_to_translate = chapters_to_translate[:args.limit]
 
     if not chapters_to_translate:
-        print("No chapters to translate.")
-        return
+        print("No chapters to translate for this book.")
+        # Even if no chapters translated, we might want to regen site if files exist
+    else:
+        print(f"Starting translation for {book_dir}.")
+        print(f"Chapters to process: {len(chapters_to_translate)}")
 
-    print(f"Starting translation.")
-    print(f"Chapters to process: {len(chapters_to_translate)}")
+        try:
+            # SEQUENTIAL PROCESSING
+            for i, chapter_file in enumerate(chapters_to_translate):
+                print(f"\nProcessing {chapter_file} ({i+1}/{len(chapters_to_translate)})...")
+                process_chapter(chapter_file, glossary, raw_dir, translated_dir, glossary_path)
+        except Exception as e:
+            print(f"Error processing book {book_dir}: {e}")
+
+    # Automatically generate site for this book
+    print(f"\nTriggering site regeneration for {book_dir}...")
+    try:
+        output_dir = os.path.join(book_dir, "docs")
+        generate_site.generate_site(source_dir=translated_dir, output_dir=output_dir)
+    except Exception as e:
+        print(f"Error generating site: {e}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Translate novel chapters.")
+    parser.add_argument("--limit", type=int, help="Limit the number of chapters to translate")
+    parser.add_argument("--chapters", type=int, nargs="+", help="Specific chapter numbers to translate (e.g. 1 5 10)")
+    parser.add_argument("--force", action="store_true", help="Force re-translation even if file exists")
+    parser.add_argument("--fix-only", action="store_true", help="Only re-translate broken chapters, do not translate new ones")
     
+    # New arguments for multiple books
+    parser.add_argument("--book_dir", type=str, help="Path to a specific book directory")
+    parser.add_argument("--library_dir", type=str, help="Path to a directory containing multiple books")
+    
+    args = parser.parse_args()
+
     prevent_sleep()
     
     try:
-        # SEQUENTIAL PROCESSING
-        for i, chapter_file in enumerate(chapters_to_translate):
-            print(f"\nProcessing {chapter_file} ({i+1}/{len(chapters_to_translate)})...")
-            process_chapter(chapter_file, glossary)
+        if args.library_dir:
+            if not os.path.exists(args.library_dir):
+                print(f"Library directory {args.library_dir} not found.")
+                return
+            
+            subdirs = [os.path.join(args.library_dir, d) for d in os.listdir(args.library_dir) if os.path.isdir(os.path.join(args.library_dir, d))]
+            print(f"Found {len(subdirs)} books in library.")
+            
+            for book_dir in subdirs:
+                process_book(book_dir, args)
+                
+        elif args.book_dir:
+            if not os.path.exists(args.book_dir):
+                print(f"Book directory {args.book_dir} not found.")
+                return
+            process_book(args.book_dir, args)
+            
+        else:
+            # Default behavior: current directory
+            process_book(".", args)
             
     finally:
         allow_sleep()
         print("Translation session ended.")
-
-    # Automatically generate site
-    print("\nTriggering site regeneration...")
-    try:
-        generate_site.generate_site()
-    except Exception as e:
-        print(f"Error generating site: {e}")
 
 if __name__ == "__main__":
     main()
