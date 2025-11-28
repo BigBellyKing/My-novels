@@ -326,10 +326,9 @@ def process_book(book_dir, args):
     glossary_path = os.path.join(book_dir, DEFAULT_GLOSSARY_FILE)
     
     # Fallback to global glossary if book-specific one doesn't exist
-    if not os.path.exists(glossary_path) and os.path.exists(DEFAULT_GLOSSARY_FILE):
-         # We might want to copy the global one or just use it read-only? 
-         # For now, let's just use the book specific path, creating it if needed.
-         pass
+    # User requested NO global fallback to save tokens. 
+    # So we just let it be empty.
+    pass
 
     os.makedirs(translated_dir, exist_ok=True)
     glossary = load_glossary(glossary_path)
