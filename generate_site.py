@@ -221,6 +221,49 @@ def generate_site(source_dir=DEFAULT_TRANSLATED_DIR, output_dir=DEFAULT_OUTPUT_D
             
     print(f"Site generated in '{output_dir}' folder.")
 
+def generate_library_index(library_dir, book_dirs):
+    """
+    Generates a main index.html in the library_dir linking to all books.
+    """
+    # Write CSS to library root as well
+    with open(os.path.join(library_dir, "style.css"), "w", encoding="utf-8") as f:
+        f.write(CSS)
+
+    index_html = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Library</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <button id="theme-toggle" class="theme-toggle">🌙</button>
+        <div class="container">
+            <h1>Library</h1>
+            <ul class="chapter-list">
+    """
+    
+    for book_path in book_dirs:
+        book_name = os.path.basename(book_path)
+        # Assuming standard structure: BookName/docs/index.html
+        link = f"{book_name}/docs/index.html"
+        index_html += f'<li><a href="{link}">{book_name}</a></li>\n'
+        
+    index_html += f"""
+            </ul>
+        </div>
+        {JS_SCRIPT}
+    </body>
+    </html>
+    """
+    
+    with open(os.path.join(library_dir, "index.html"), "w", encoding="utf-8") as f:
+        f.write(index_html)
+    
+    print(f"Library index generated in '{library_dir}'.")
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate static site from translated chapters.")
     parser.add_argument("--source", default=DEFAULT_TRANSLATED_DIR, help="Directory containing translated chapters")

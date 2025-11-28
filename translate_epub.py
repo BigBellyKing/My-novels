@@ -426,6 +426,13 @@ def main():
             
             for book_dir in subdirs:
                 process_book(book_dir, args)
+            
+            # Generate Library Index
+            print("\nGenerating Library Index...")
+            try:
+                generate_site.generate_library_index(args.library_dir, subdirs)
+            except Exception as e:
+                print(f"Error generating library index: {e}")
                 
         elif args.book_dir:
             if not os.path.exists(args.book_dir):

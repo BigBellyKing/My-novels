@@ -1,0 +1,164 @@
+Chapter 4: Helper
+
+Hearing Ruan Ningxue's words, Chen Xu couldn't help but blush.
+
+However, in an instant, Chen Xu regained his composure, let out a light cough to dissolve the awkward atmosphere, and then started thinking of excuses.
+
+“Well, there are multiple reasons for this…”
+
+Ruan Ningxue, sitting across the table, couldn't help but curl her lips.
+
+Men's mouths, deceitful devils!
+
+“But I can accept all the conditions you mentioned, though I also have a requirement!”
+
+Ruan Ningxue said, looking at Chen Xu with a beaming smile.
+
+Hearing this, Chen Xu was taken aback.
+
+He was still wondering how to persuade her.
+
+When he first approached her, Chen Xu wasn't very confident; he just wanted to give it a try.
+
+After all, he knew his own situation. Paying money?
+
+He definitely couldn't do that now. If he did, there'd be no way to make the subsequent game.
+
+After all, some essential resources still needed to be purchased.
+
+Relying on their junior-senior relationship?
+
+But she wasn't anyone related to him, nor was she obligated to help. Besides, it looked suspiciously like making grand promises.
+
+But now, there's a chance?
+
+“What's your requirement, Senior Sister?” Chen Xu asked Ruan Ningxue.
+
+“One month’s time, and if your game’s sales are poor afterward, you’ll have to come work for me!”
+
+“At least sign two contracts! Of course, in terms of compensation, I definitely won't think of freeloading your labor like you, Junior Brother.”
+
+Ruan Ningxue said with a smile.
+
+Hearing Ruan Ningxue’s words, Chen Xu froze for a moment, then came back to his senses.
+
+Regarding doujinshi, Chen Xu didn't have too many thoughts. After all, in his previous life, there were quite a few female doujinshi artists.
+
+For example, 'Yuzuki N,' 'Nishizawa 5,' ahem... actually, Chen Xu didn't know any of these artists or their works, let alone seen them; he’d only heard about them from friends.
+
+“What kind of sales would be considered poor?” Chen Xu asked Ruan Ningxue, having regained his composure.
+
+If she were to say several million copies, Chen Xu really wouldn't have much confidence.
+
+After all, this was a Parallel World, vastly different from the gaming environment of his previous life.
+
+Even without the piracy factor, the market itself was different from his previous life.
+
+Without capital for promotion and operation, relying solely on spontaneous player recommendations would be incredibly difficult.
+
+Even highly praised Independent Games from his previous life, which sold millions or even tens of millions of copies, upon closer inspection, many only became popular half a year or a year later.
+
+They were obscure at first.
+
+Even strong titles like The Binding of Isaac were largely unknown in their early stages.
+
+After all, even good wine fears a deep alley.
+
+So, if Ruan Ningxue were to say one million sales, Chen Xu felt he'd rather go it alone.
+
+Because if he agreed, with the game he was currently planning to make, there was a high probability he would end up as a doujinshi artist.
+
+“Eh… 100,000, um, 50,000 is fine!”
+
+“If sales don't exceed 50,000 within one month after release, then you lose!”
+
+Ruan Ningxue took out her phone, seemingly sending a message.
+
+After about a minute, Ruan Ningxue looked up and stated a number.
+
+Hearing Ruan Ningxue’s words, Chen Xu couldn't help but flash a confident smile.
+
+50,000 sales in one month?
+
+Although the game environment was slightly different from his previous life, and he didn't have much startup capital at hand.
+
+Chen Xu could only say that this number was an absolute freebie.
+
+“No problem.” Chen Xu agreed straightforwardly.
+
+“Then, Senior Sister, let’s officially start tomorrow! I’ll go back to prepare first; see you tomorrow morning!”
+
+With that, he bid Ruan Ningxue farewell, not giving her time to react.
+
+Chen Xu turned and left the coffee shop.
+
+Leaving Ruan Ningxue a little stunned.
+
+Did I… say too little?
+
+Thinking this, Ruan Ningxue quickly opened her contacts, found a phone number, and dialed it.
+
+Two seconds later, the call connected.
+
+“Sister Xin, you didn’t lie to me just now, did you? Are 50,000 sales in one month really high sales?” Ruan Ningxue felt a little puzzled, recalling Chen Xu's confident demeanor.
+
+A clear female voice came from the phone: “Not high, no, but it’s relative. You asked how many sales would be considered high if someone was making a game for the first time with little money, right?”
+
+“No money, first time making a game, and hardly any engine resources available to a Game Designer—this is literally a hell-difficulty start. 50,000 sales is an S-tier difficulty; a few thousand sales in a month would barely be a pass.”
+
+“Really?” Ruan Ningxue was half-believing, half-doubting.
+
+“Of course it’s true, this is the judgment of a professional Gaming Industry Professional!”
+
+“By the way, Xiaoxue, are you planning to make a game? Have you thought it through? I told you, if you come help me with concept art design and character portraits, we can definitely achieve a great career!”
+
+Yang Xin on the other end of the phone sounded extremely excited.
+
+“Sister Xin, Sister Xin? What did you say? My signal is bad here; let’s talk later!”
+
+Hearing the excited voice on the other end, Ruan Ningxue's expression subtly changed. She held the phone further away, said a couple of sentences, hung up, and then let out a long breath.
+
+Then, thinking of what Yang Xin said on the phone, Ruan Ningxue couldn't help but smile.
+
+First time making a game, no money, hell-tier difficulty—Chen Xu had all the labels applied.
+
+So, her assistant problem was finally solved!
+
+The only regret was that this assistant wouldn't officially start work for another two months.
+
+After bidding farewell to Ruan Ningxue, Chen Xu returned to his apartment.
+
+After briefly tidying up the room, Chen Xu sat in front of his laptop.
+
+As a development machine, the computer's specifications were average, at least sufficient for the Mirror (Game) project.
+
+Of course, Chen Xu couldn't develop larger games at all right now.
+
+Because he simply had no money, and the resource permissions for the official engine were insufficient.
+
+As for resource permissions, there were essentially two ways to increase them.
+
+The first was to become an officially certified Game Designer and get promoted in terms of Job Title.
+
+As for how to get promoted?
+
+Game sales and awards received were all points that could be included in the evaluation.
+
+The second was much simpler and more direct: just use Money Power. How many resources you could use depended on how strong your Money Power was.
+
+However, these things were completely unimportant to Chen Xu at the moment.
+
+And a game like Mirror (Game) wouldn't require much.
+
+At least the resources Chen Xu could currently use were definitely sufficient.
+
+Sitting in front of the computer, Chen Xu worked on the initial draft for Mirror (Game), which was the Game Design Document.
+
+Although Chen Xu was the only developer, Ruan Ningxue was only doing illustrations.
+
+But that didn't mean design concept drafts weren't needed.
+
+Just like an outline for an essay, it could greatly improve efficiency.
+
+(End of Chapter)
+<<END_OF_CHAPTER>>
