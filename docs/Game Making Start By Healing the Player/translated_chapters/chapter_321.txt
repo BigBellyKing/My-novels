@@ -1,33 +1,159 @@
-Chapter 320: Rich and Reckless! (Requesting Subscriptions, Monthly Passes)
+Chapter 320: So Much Money, So Much Freedom! (Requesting Subscriptions, Monthly Passes)
 
-Inside Nebula Games' office, Chen Xu was still discussing a detailed development issue for Call of Duty: Modern Warfare with everyone.
+Chapter 320: So Much Money, So Much Freedom! (Requesting Subscriptions, Monthly Passes)
 
-Chen Xu hadn't yet elaborated on the overall framework. But when it came to details, a lot could still be done. Especially the decision to render a map with a large amount of resources, to give players a cinematic experience. What was pursued, naturally, was an ultimate visual effect. For competitive multiplayer modes, this visual effect might not be what most players seek. However, in single-player campaigns, an ultimate visual effect would definitely allow players to immerse themselves more deeply in the story. There was no doubt about this.
+Inside Nebula Games' office, Chen Xu was still discussing with everyone a detailed aspect of the development of *Call of Duty: Modern Warfare*.
 
-“Regarding the physics engine, the development prototype from the Game Department hasn't been delivered yet, but I've already gained some understanding of the relevant data.”
+The overall framework hadn't been thoroughly explained yet.
 
-“Although it's already very powerful compared to current VR performance, there are still many detailed areas that require our manual intervention.”
+But even in terms of details, a lot could already be achieved.
 
-“The shattered glass and walls of houses, all need to have a special effect created.”
+Especially the decision to dedicate massive resources to render a single map,
 
-As Chen Xu continued his explanations, everyone present was astonished. So many detailed elements! “But Mr. Chen, with the parameters of the new VR equipment, such complex and massive scenes might be difficult to achieve, right?” Qin Yi voiced his question. It wasn't that they couldn't do it, but rather that current equipment standards would struggle to handle it.
+providing players with a cinematic experience.
 
-“We'll utilize all the capabilities of the VR equipment on a single level,” Chen Xu said.
+The pursuit here was naturally an ultimate visual effect.
 
-“But in that case, the sense of discontinuity in the game would be quite severe, requiring players to endure a period of loading,” Qin Yi continued.
+For competitive multiplayer modes, such extreme visuals might not be what most players seek.
 
-“Play a CG,” Chen Xu glanced at Qin Yi and said simply and concisely.
+But in a single-player story, an ultimate visual experience would undoubtedly draw players deeper into the narrative.
 
-Hearing Chen Xu's words, Qin Yi also reacted. Good heavens, what a simple and crude method! How to make players unaware of loading, ensuring a silky-smooth experience? The answer was simple: turn the loading screen into a CG playback screen, and ensure the CG playback was longer than the loading time. This could be said to be a very simple and crude method. But very few game developers would do it. As for the reason? Because it didn't significantly improve the overall game quality. And it was expensive! But for Chen Xu, he clearly understood the value of Call of Duty: Modern Warfare. CG animation? Just a small matter, rich and reckless! And compared to Warcraft, an RTS game that wasn't easy to add subsequent revenue points to, Call of Duty: Modern Warfare, as an FPS game, could still incorporate many pay-to-win elements, just like Rainbow Six Siege. What remained was the firearm sound effects, which were also artificially created. For example, sounds like missiles were recorded using snowmobiles, then mixed and mastered. Real sound effects are very different from what players imagine. Just like war games, if the game depicted brutal scenes like a documentary, most players might not be interested. After all, many players only want what they imagine, not reality. Just like catgirls, players want the cute, adorable anime-style ones, like chocolate, vanilla, red bean, or coconut, not those from grotesque stories. As for the shooting feel and actions of firearms in VR, Nebula Games originally had no experience in this area, but now Chen Xu could only say: NetDragon, thank you.
+This was beyond doubt.
+
+"As for the physics engine, the Game Department hasn't delivered the development prototype yet, but I've already gathered most of the relevant data."
+
+"Although it's already extremely powerful compared to current VR performance, there are still many details that require manual intervention."
+
+"When glass or walls in a room get shattered by explosions, we need to create very special effects."
+
+With Chen Xu's various explanations, everyone present was stunned.
+
+So many details!
+
+"But Mr. Chen, considering the specifications of the new VR device, wouldn't such a complex and massive scene be difficult to achieve?" Qin Yi raised a question.
+
+It wasn't that they couldn't do it, but by current device standards, it would be hard to handle.
+
+"We're going to push the VR device's hardware capabilities to the limit within a single level," Chen Xu said.
+
+"But then the game might feel fragmented, requiring players to endure long loading times," Qin Yi continued.
+
+"Use CG," Chen Xu glanced at Qin Yi, replying succinctly.
+
+Hearing Chen Xu's words, Qin Yi immediately understood.
+
+Wow, truly a simple and crude method!
+
+How do you make players unaware of loading, ensuring a seamless, silky-smooth experience?
+
+The answer was simple: replace the loading screen with a CGI cutscene, and ensure the CG sequence is longer than the actual loading time.
+
+This was an extremely simple and crude approach.
+
+Yet very few game developers bothered to do it.
+
+Why?
+
+Because it didn't significantly enhance the overall game quality.
+
+And it was expensive!
+
+But for Chen Xu, he clearly understood the value of *Call of Duty: Modern Warfare*.
+
+CG animation?
+
+A minor expense. Money? No problem—so much money, so much freedom!
+
+Moreover, compared to *Warcraft*, an RTS game that offered limited opportunities for subsequent revenue, *Call of Duty: Modern Warfare*, as an FPS, could incorporate numerous monetization elements—just like *Rainbow Six Siege*.
+
+Next came the sound effects for firearms, which would also be manually crafted.
+
+For example, missile sounds would be recorded using snowmobiles, then processed and tuned.
+
+Real-life sound effects often differed greatly from players' imaginations.
+
+Just like war games—if the experience were as brutally tragic as a documentary, most players would lose interest.
+
+After all, what many players wanted was their imagined version, not reality.
+
+Like catgirls—players wanted the adorable, two-dimensional, sweet, vanilla, red bean, or coconut kind, not the grotesque versions from horror tales.
+
+As for the feel of shooting firearms and physical actions in VR, Nebula Games originally had no experience in this area. But now, Chen Xu could only say: NetDragon, thank you.
 
 ……………………
 
-After confirming some development details for Call of Duty: Modern Warfare with the team, Chen Xu returned to his office to refine some subsequent game content. In Chen Xu's view, the gameplay of Call of Duty: Modern Warfare was already quite mature. Moreover, compared to other FPS games currently on the market, many designs in Call of Duty: Modern Warfare were actually quite advanced. As for comparing it to Rainbow Six Siege, which had just launched, they were completely different types of games, and their player bases were also distinct. Firstly, the 'breathing to heal' mechanic was not originally pioneered by the Call of Duty series. The shield design in Halo was the embryonic form of 'breathing to heal,' but it was indeed popularized by Call of Duty. The greatest benefit of this setting was that it kept players' attention and focus on combat. After taking damage, depending on the severity of the injury, the screen would turn blood-red and black-and-white, but as long as they didn't die immediately, after a few seconds out of combat and not taking damage, they could recover health by taking deep breaths. This allowed players to immerse themselves more deeply in the game experience and also made the game's pace very fast. In typical FPS games, if a player was injured, the most likely action was to look for health packs. This would create a sense of discontinuity in the player's experience, as the tension and tight combat of the story and level design would be directly fragmented. But with 'breathing to heal,' players could remain fully engaged in combat throughout. Additionally, there were settings in multiplayer, such as various firearm modifications, including infrared, night vision, and other attachments. And Call of Duty's unique killstreak reward system, where players could use high-tech items after achieving killstreaks. Such as UAV drones that could detect other players' positions and essentially enable 'wallhacks,' targeted bombing via pagers, calling in supply drops from the air, RPGs, flamethrowers, and so on. In his previous life, Call of Duty: Modern Warfare became popular not only because most games at the time were still rooted in World War I and II settings, and the game's own story was excellent. The wide array of modern weapons was also a reason for its appeal to players. If the story propelled Modern Warfare to its peak, then the multiplayer mode was the capital that made it an annual Call of Duty title. High-intensity, fast-paced combat – this was the core philosophy of Call of Duty: Modern Warfare. Of course, some specific maps that led to everyone camping, searching for ages only to be blown up by a landmine, were exceptions.
+
+
+After finalizing certain development details of *Call of Duty: Modern Warfare* with the team, Chen Xu returned to his office to refine the game's subsequent content.
+
+In Chen Xu's view, the Gameplay of *Call of Duty: Modern Warfare* was already quite mature.
+
+Compared to current FPS games on the market, many of its designs were actually quite groundbreaking.
+
+And when compared to the recently launched *Rainbow Six Siege*, they were entirely different genres with distinct player audiences.
+
+First, the breath-to-heal mechanic—though not originally invented by the Call of Duty series.
+
+The shield mechanic in *Halo* was the Embryonic Form of regenerating health through breathing, but it was Call of Duty that truly popularized the mechanic.
+
+The biggest advantage of this system was keeping players' focus and rhythm constantly centered on combat.
+
+After taking damage, the screen would shift into red or black-and-white hues depending on injury severity. But as long as the player didn't die instantly, a few seconds of disengaging from combat would allow health regeneration through deep breathing.
+
+This kept players deeply immersed in the game experience while maintaining a fast-paced rhythm.
+
+In typical FPS games, when injured, players would likely search for health packs.
+
+This created a disconnect, breaking the tension and intensity of the story and Level Design.
+
+But with breath-to-heal, players remained fully engaged in combat.
+
+Additionally, there were multiplayer mode features, such as firearm customization—adding infrared sights, night vision goggles, and various attachments.
+
+And Call of Duty's unique killstreak reward system: after achieving a kill streak, players could deploy high-tech items.
+
+UAV drones that revealed enemy positions—essentially enabling wallhacks—pagers for targeted airstrikes, supply crates dropped from the sky, RPGs, flamethrowers, and more.
+
+The reason *Call of Duty: Modern Warfare* became so popular in Chen Xu's previous life wasn't just because other games were still rooted in World War settings, or because of its excellent story.
+
+The wide array of modern weapons also attracted many players.
+
+If the story elevated *Modern Warfare* to its peak, it was the multiplayer mode that turned it into an annual franchise.
+
+High-intensity, fast-paced combat—this was the core philosophy of *Call of Duty: Modern Warfare*.
+
+Of course, certain special maps where everyone crouched and hid, searched endlessly, and eventually got blown up by landmines, were exceptions.
 
 ………………
 
-Call of Duty: Modern Warfare quickly entered an intensive development phase, and as a VR game, its main difference from his previous life's version was the sense of immersion. Chen Xu also needed to personally debug the force feedback systems in the VR gaming pods. The VR feedback from firearm shooting, being hit by bullets, being caught in explosions, as well as climbing and jumping, etc., all had corresponding feedback. At the same time, the details were also meticulously captured. The physical feedback during explosions and shooting, and the depiction of environmental destruction, were all extremely important. Chen Xu's sole goal was for players, when playing the game, to truly become characters like Soap and Roach, experiencing the story of Task Force 141. Although the tasks were complex, the entire team had experience developing content for Rainbow Six Siege, so they possessed considerable relevant expertise. Chen Xu had also communicated with NetDragon. They would provide some technical support, and naturally, in exchange, Chen Xu would also provide some technical support later, for example, in the area of AI technology.
 
-“There’s no need to deliberately rush the progress on this; let NetDragon’s people do more of the work, and you should learn more from our Technology Department here.” Inside the office, Chen Xu called Qin Yi in to assign tasks. Qin Yi smiled and said, “Mr. Chen, I understand.” Hearing this, Chen Xu also nodded with a smile.
-(End of Chapter)
-<<END_OF_CHAPTER>>
+
+*Call of Duty: Modern Warfare* quickly entered an intensive development phase. As a VR game, its main difference from its previous life version was the sense of immersion.
+
+The force feedback system inside the VR pods also required Chen Xu to personally calibrate every detail.
+
+The VR feedback from gunfire, getting hit by bullets, explosions, climbing, jumping—each action had corresponding haptic feedback.
+
+At the same time, every minute detail was meticulously handled.
+
+Physical feedback from explosions and gunfire, destruction of environments—these were all critically important.
+
+Chen Xu's sole purpose was to ensure that when players played the game, they truly felt like they had become characters like Soap or Roach.
+
+Experiencing the story of Task Force 141.
+
+Though the task was tedious, the entire team had already gained significant experience from developing *Rainbow Six Siege*.
+
+Chen Xu had also communicated with NetDragon.
+
+They would provide technical support, and in return, Chen Xu would later offer them support in areas such as AI technology.
+
+"Don't rush the progress. Let the people from NetDragon do more of the work—you and the tech department should learn as much as possible."
+
+Inside the office, Chen Xu called Qin Yi in for work assignments.
+
+Qin Yi gave a smile: "I understand, Mr. Chen."
+
+Chen Xu nodded with a smile in return.
+
+(End of Chapter) <<END_OF_CHAPTER>>

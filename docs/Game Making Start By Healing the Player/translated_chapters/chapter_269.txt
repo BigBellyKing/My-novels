@@ -1,66 +1,147 @@
 Chapter 268: Map Editor and Optimization Improvements (Requesting Subscriptions, Monthly Passes)
 
-After the meeting, Chen Xu returned to his office to meticulously refine the game design document.
+Chapter 268: Map Editor and Optimization Improvements (Requesting Subscriptions, Monthly Passes)
 
-Unlike other RTS genres, the races, unit types, and even building attributes in Warcraft are all distinct. There are also corresponding detailed numerical values, which is a relatively complex area. These contents are precisely the core of Warcraft.
+After the meeting, Chen Xu returned to his office to meticulously refine the game design documents in greater detail.
 
-Different races each have their own characteristics and their own positioning. For example, for the Night Elves, buildings like the Ancient of War can not only produce units but also stand up, move, and attack. Therefore, Night Elves typically place their Ancient of War (barracks) next to neutral creeps, and after their starting hero emerges, they cooperate with the Ancient of War to quickly level up to level 2.
+Unlike other RTS titles, in *Warcraft*, the races, unit types, building attributes—all of these are entirely distinct.
 
-The Human race is similar; their main city can transform Peasants into Militia. In the early game, Humans can use Militia to quickly expand their bases and level up. Furthermore, with different starting hero characteristics, there are countless tactical playstyles.
+Each comes with its own detailed numerical design, making this aspect particularly complex.
 
-For instance, an Orc player starting with a Blademaster can use Wind Walk to harass enemy Peasants, tail online teams and steal creeps or dropped items when the opponent's monsters are at low health, and spend all early-game economy on purchasing attribute items from neutral shops to maximize the Blademaster's combat power.
+This complexity, however, is precisely what forms the core essence of *Warcraft*.
 
-When Humans face Orcs with a neutral tavern, they can abandon the advantage of expanding, focus entirely on leveling their starting Archmage, and at level three, go to the neutral tavern to buy a Beastmaster to harass with Quillbeasts. Meanwhile, they accumulate Priests and Sorceresses, and once they've formed a sufficient force, they purchase Mass Healing Scrolls and Mini Towers from the Human Shop. With a certain number of spellcasters, they bring Militia and Mini Towers to build Arrow Towers, directly taking out the Orcs.
+Each race possesses unique characteristics and specific strategic roles.
 
-Racial characteristics, building characteristics, and hero combinations are the core aspects that differentiate Warcraft from other RTS games. Furthermore, if broken down, it involves attack types, armor types, including the skills of various unit types, and related numerical values, all of which are very complex.
+For example, Night Elves' structures like the Ancient of War (Barracks) can not only produce units but also stand up, move, and attack.
 
-Just the attack types alone in Warcraft are divided into Regular, Piercing, Hero, Chaos, Siege, and Magic. Similarly, armor is divided into Light, Medium, Heavy, Fortified, Hero, and Unarmored. Chen Xu has already instructed Qin Yi to begin developing the damage model for these. First, they will establish these different types and damage calculation ratios; the classification of monsters will come later.
+Thus, Night Elves typically place their Ancient of War adjacent to neutral creeps, then use it alongside their starting hero to rapidly level up to tier 2.
 
-Ruan Ningxue and Yang Xin, on the other hand, are responsible for the art content production in Warcraft. The main characters in the game, such as Arthas, Illidan, Tyrande Whisperwind, Sylvanas Windrunner, and Jaina, will naturally be handled by Chen Xu himself. If one only looks at the in-game models of these characters, they are truly unsightly by current standards. However, if one only looks at the concept art, it is absolutely top-notch regardless of the era.
+Similarly, Humans can transform Peasants into Militia via their Town Hall, allowing them to quickly expand to an expansion base, creep, and develop during the early game.
 
-But the game doesn't just feature these main characters. Common unit types, such as Human soldiers, Orc warriors, and Undead Ghouls, all require art production. In addition, there's the game's controls and UI interaction. This area requires extensive modifications.
+Furthermore, depending on the starting hero's abilities, countless tactical variations emerge.
 
-Although Warcraft's game design philosophy is undoubtedly excellent, it was limited by the technology of his previous life. This part of the content could be described as quite user-unfriendly, even unscientific. Player interaction experience is one such point.
+For instance, when Orcs start with the Blademaster, using Wind Walk enables harassment of enemy Peasants, tailing online multiplayer groups to steal kills and loot from monsters at low health, or investing all early economy into purchasing stat-boosting items from the neutral shop to maximize the Blademaster’s combat prowess.
 
-In his previous life, Warcraft did not support custom keybinds for players. For example, items in the hero's inventory required the Numpad keys to use. This design was primarily because Warcraft had a unit grouping function, and the number keys on the Alphabet keys were reserved for unit grouping. Therefore, the item inventory could naturally only be used with the Numpad. However, for most ordinary players, this design was quite awkward, especially for rookie players.
+When Humans face Orcs with access to the neutral tavern, they may abandon their economic expansion advantage, instead focusing entirely on leveling their starting Arch-Mage. At level 3, they can purchase the Beastmaster from the neutral tavern to harass the opponent, while saving up for Paladins and Priests. Once the force is sufficiently developed, they buy the Mass Healing Scroll and Mini Tower from the Human Shop. Once they have a sufficient number of casters, they advance with Militia and Mini Towers to construct Arrow Towers, ultimately overwhelming the Orcs.
 
-Unit grouping? "Why would I need unit grouping? I just drag a box with my mouse, blindly A-move, and focus entirely on controlling one hero, and that's it."
+Race traits, building mechanics, and hero synergies—these elements constitute the core aspects that distinguish *Warcraft* from other RTS games.
 
-Besides, there were related font bugs. When a game had too many map resources and too much time passed, font errors would appear, turning into garbled characters. These were all limitations of the game development technology at the time. Now, Chen Xu naturally wants to be more diligent, correct these shortcomings, and make the entire game more perfect.
+Delving deeper, the game further differentiates units by Attack Types, Armor Types, individual unit Skills, and intricate numerical balances.
 
-As for the game's storyline, Chen Xu has not yet started working on it, as it is not urgent for now.
+Even Attack Types alone are divided into Regular, Piercing, Hero, Chaos, Siege, and Magic. Armor Types are similarly categorized into Light, Medium, Heavy, Fortified, Hero, and Unarmored.
 
-In addition, there is a very important direction, which is arguably the greatest design in Warcraft. It is also the design that allowed Warcraft to endure for so long in his previous life, with countless players still immersed in it even after more than ten years. That is Warcraft's Map Editor.
+Chen Xu had already tasked Qin Yi with developing the Damage Model.
 
-To describe it in one sentence, Warcraft is a culmination of RTS masterpieces. And Warcraft's Map Editor gave Warcraft even more possibilities. Many players didn't even get into Warcraft through its story, campaign, or RTS gameplay. Instead, they got hooked through various interesting RPG maps.
+The priority was to establish the various types and corresponding Damage Calculation Ratios. Classifying monsters would come later.
 
-Defend the Sword Pass, Defend Athena, Fantasy Cao Cao's Biography, Monopoly of the World, Pyramid Escape, Calamity of the Western World, Cops and Robbers, Trolls and Elves, Rabbit vs. Sheep War, Human Invincible, War of the Minions...
+Meanwhile, Ruan Ningxue and Yang Xin were handling the Art production for *Warcraft*.
 
-It even spawned classic games like DOTA. Especially DOTA, it can be said that the later MOBA era in his previous life was inseparable from this game.
+Main characters such as Arthas, Illidan, Tyrande, Sylvanas, and Jaina were naturally being personally overseen by Chen Xu.
 
-In his previous life, Blizzard Entertainment's creation of the Map Editor originally stemmed from an idea in StarCraft, but it wasn't very refined and was quite complex. It wasn't until Warcraft 3 that the Map Editor became relatively complete. However, it was actually just a small supplement to Warcraft's content, and Blizzard Entertainment didn't even realize how great a thing it was. This is why the DOTA copyright dispute with IceFrog happened later.
+Judging solely by in-game character models, by today’s standards, they were truly abysmal.
 
-Knowing these things, Chen Xu naturally wouldn't underestimate Warcraft's Map Editor. Instead, he wanted to dedicate himself to making it even more perfect. After all, in his previous life, with the development of the times, Warcraft's Map Editor was actually updated several times by master players in the community, adding more content.
+However, the concept art for these characters was, and always had been, top-tier.
 
-In addition to in-game elements like heroes, unit types, buildings, and their respective attributes, it also includes the shaping of game maps. Forests, water bodies, rocks, and beyond that, the game also has weather and time settings. The time factor also affects the state of neutral monsters, whether they are awake or asleep, including the game's visible field of view, which differs between day and night.
+But the game wasn’t limited to just these main characters.
 
-However, compared to the Map Editor of his previous life, Chen Xu felt it was still too complex. Because the Map Editor in his previous life, while powerful in functionality, still required a certain level of coding knowledge for map creation.
+Common units—Human soldiers, Orc soldiers, Undead Ghouls—also required dedicated Art production.
 
-For Chen Xu, with the technology of the Parallel World, a more open-ended design is entirely achievable. For those who want to create more complex and interesting maps, higher port permissions can be granted to community experts. And for ordinary players, they can also create simple defense maps and so on, based on the game's existing mechanisms, using Warcraft's Map Editor.
+Additionally, significant modifications were needed for gameplay operations and UI interactions.
 
-Just like the openness to MODs in Fall Guys, Overcooked, and Minecraft. Let more ordinary players, with a little thought, create various interesting maps. Why can't the Map Editor itself be a part of the game's gameplay?
+This area demanded extensive changes.
 
-For example, categorizing various maps within a single community, and allowing players to like the creators when they play their respective maps. Creating an open community similar to Minecraft.
+Although *Warcraft*’s game design philosophy was unquestionable, it was heavily constrained by the technological limitations of its time, resulting in a user experience that was often counterintuitive, even unreasonable.
 
-And not like the official platform in his previous life, after being managed by Pig Factory, where the quality of the remake was Blizzard Entertainment's fault, but why did the WAR3 official platform also become a tool for monetizing, with more and more RPG maps resembling web games?
+One major flaw was player interaction.
 
-Ultimately, it was due to the commercialization of the platform. While there were indeed many map players who chose to share for free or out of nostalgia, the WAR3 map community did not have as good an environment as MC. If your map didn't include an in-game store, the platform wouldn't display your custom game rooms, and if the platform deemed a map unprofitable, it wouldn't even pass censorship.
+In the previous life, *Warcraft* did not support Custom Keybinds.
 
-Therefore, creating a good community environment is essential. However, for Chen Xu, Nebula Games already has experience in this area. Of course, platform censorship must also be noted. Maps that excite Lewd Persons, such as "Seven Dwarfs and Snow White," "Defend Athena (Tough Guy Edition)," and "Princess Xiangxiang," should disappear in the Parallel World.
+For example, using items in the Hero’s Item inventory required the numeric keypad.
 
-Hmm... at least officially, players definitely won't find them.
+This design stemmed from the fact that *Warcraft* featured Unit Grouping, reserving the number keys on the main keyboard for that function.
 
-Sitting in his office, Chen Xu pondered the directions for optimization and improvement in Warcraft.
+Thus, the Item inventory had to default to the numpad.
 
-(End of Chapter)
-<<END_OF_CHAPTER>>
+For most casual players, this design was awkward.
+
+Especially for noobs.
+
+Unit Grouping?
+
+Why would I need that? Just box-select with the mouse and blind A-move—focus entirely on controlling one hero and be done with it.
+
+Additionally, there were persistent font bugs—when a map contained excessive resources or ran for extended durations, text would often turn into garbled characters.
+
+These were all limitations of past game development technology. Now, Chen Xu was determined to address these flaws seriously, correcting them to make the game more polished and enjoyable.
+
+As for the game’s story, Chen Xu had temporarily set it aside—it wasn’t urgent.
+
+Beyond these aspects, there was another critically important direction—one that could be considered the most brilliant design in *Warcraft*.
+
+It was this very feature that allowed *Warcraft* to endure for decades, keeping countless players immersed long after its release.
+
+That was the *Warcraft* Map Editor.
+
+Put simply, *Warcraft* was the magnum opus of the RTS genre.
+
+And the *Warcraft* Map Editor unlocked even greater possibilities for the game.
+
+Many players weren’t introduced to *Warcraft* through its story, campaigns, or RTS gameplay.
+
+Instead, they got into the game through fun and creative RPG maps.
+
+Defend the Sword Pass, Defend Athena, Fantasy Cao Cao's Biography, Monopoly of the World, Pyramid Escape, Calamity of the Western World, Cops and Robbers, Trolls and Elves, Rabbit vs. Sheep War, Human Invincible, War of the Minions…
+
+Even legendary games like *DOTA* emerged from this ecosystem. *DOTA*, in particular, was inseparable from the MOBA era that followed in the previous life.
+
+Blizzard Entertainment’s creation of the Map Editor originated from ideas in *StarCraft*, but it was incomplete and overly complex. It wasn’t until *Warcraft 3* that the Map Editor became relatively robust.
+
+Yet, even then, it was seen merely as a minor addition to *Warcraft*’s content. Blizzard themselves failed to recognize its monumental potential.
+
+This ignorance later led to the DOTA copyright dispute with IceFrog.
+
+Fully aware of this history, Chen Xu naturally wouldn’t underestimate the Map Editor.
+
+Instead, he was determined to perfect it.
+
+After all, in the previous life, as time progressed, legendary community players iterated on the *Warcraft* Map Editor multiple times, adding even more content.
+
+Beyond in-game heroes, units, buildings, and their attributes, the editor also allowed for shaping the game map itself.
+
+Forests, water surfaces, rocks—additionally, weather and time settings existed in the game. Time even influenced the state of neutral monsters, determining whether they were awake or asleep. Vision Radius also varied between day and night.
+
+However, compared to the previous life’s Map Editor, Chen Xu felt it was still overly complex.
+
+While the old Map Editor was powerful, map creation still required a certain level of coding knowledge.
+
+For Chen Xu, with the technology of the Parallel World, a far more open-ended design was entirely feasible.
+
+For veteran modders seeking to create intricate, fascinating maps, higher-level API access could be granted.
+
+For average players, the Map Editor could allow them to easily create simple defense maps based on the game’s existing mechanics.
+
+Just like *Overcooked*, *Fall Guys*, and *Minecraft* with their MOD support.
+
+Let more casual players tinker and create entertaining maps with minimal effort. Why couldn’t the Map Editor itself become a core gameplay feature?
+
+For example, categorize diverse maps within a shared community, allowing players to like maps they play and support their creators.
+
+Create an open community similar to *Minecraft*.
+
+Unlike the previous life’s official platform, which became a monetizing tool after being managed by a “raising them like livestock” company—while Blizzard’s remaster quality was to blame, why did the official WAR3 platform also devolve into a cash-grabbing machine, with RPG maps increasingly resembling web games?
+
+Ultimately, it came down to platform commercialization. True, many map creators chose to share their work for free or out of nostalgia.
+
+But WAR3’s map community never achieved the healthy environment of *Minecraft*. If your map didn’t include the in-game store platform, it wouldn’t even appear in room listings. Worse, if the platform deemed your map unprofitable, it wouldn’t even pass censorship.
+
+Therefore, building a positive community environment was essential.
+
+Fortunately, for Chen Xu, Nebula Games already had relevant experience in this area.
+
+Of course, platform censorship remained crucial. Maps like *Seven Dwarfs and Snow White*, *Defend Athena (Tough Guy Edition)*, or *Princess Xiangxiang*—ones that excited Lewd Persons—should simply vanish from the Parallel World.
+
+Hmm… at the very least, players wouldn’t find them through official channels.
+
+Sitting in his office, Chen Xu pondered various directions for optimizing and improving *Warcraft*.
+
+(End of Chapter) <<END_OF_CHAPTER>>

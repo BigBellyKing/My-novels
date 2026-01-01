@@ -1,72 +1,161 @@
-Chapter 434: Game Launch (Requesting Subscriptions and Monthly Passes)
+Chapter 434: Game Launch (Requesting Subscriptions, Monthly Passes)
 
-Looking at some of the information released by Nebula Games, many players and industry game designers were quite surprised.
+Chapter 434: Game Launch (Requesting Subscriptions, Monthly Passes)
 
-At first, both players and industry designers subconsciously believed that the game Uncharted would be an open-world action-adventure game. After all, in the entire gaming industry, if anyone could be said to best represent open-world games, all players and industry designers would undoubtedly mention Chen Xu.
+After viewing the information released by Nebula Games, many players and game designers in the industry were greatly surprised.
 
-But to everyone's surprise, it turned out to be a linear game. Although this explained why Uncharted's graphics were so phenomenal, the key question was whether players would accept it.
+Initially, both players and industry designers had instinctively assumed that *Uncharted* would be an open-world action-adventure game.
 
-Even Atari was surprised when they learned that Nebula Games' latest work, Uncharted, was a linear game.
+After all, within the gaming industry, if anyone could best represent open-world games, without a doubt, every player and designer would mention Chen Xu.
 
-After all, the trend in the gaming industry for the past two years has been open worlds, especially since it had only been less than half a year since The Legend of Zelda: Breath of the Wild launched. Many game designers felt that players should still be quite enthusiastic about open-world games. But under such circumstances, Nebula Games actually made a linear game?
+But who could have imagined that this was actually a linear game?
 
-One can only say, it truly lives up to Nebula Games' reputation!
+Although this did explain why the graphics in *Uncharted* were so explode-worthy, the real question remained: would players accept it?
 
-In Atari's Element World project team, the designer in charge of the project, Antorini, was filled with emotion. The year before last, although his Beautiful World lost to Red Dead Redemption, he felt that while the game lost, he himself did not. After all, Beautiful World actually received some positive feedback from players in terms of gameplay.
+Even NetDragon, upon learning that Nebula Games’ new work *Uncharted* was a linear game, was equally stunned.
 
-And he believed that if Atari had trusted him at the time, with the gimmick of cowboys battling robots, it might have been able to make a genre shift. Antorini felt that directly competing with Red Dead Redemption in pure Western and cowboy themes might not have been a match. But the key was that they didn't necessarily have to directly compete; by adding a multiplayer mode and subsequent DLC story content. Coupled with the game's inherent theme of robots versus cowboys, later, it might even lean towards sci-fi, adopting a sci-fi Western facade.
+After all, the prevailing trend in the gaming industry over the past two years had been open-world games—especially since it had only been a few months since the launch of *The Legend of Zelda: Breath of the Wild*.
 
-At the same time, Antorini also had a slight regret last year: Chen Xu hadn't developed any VR games, denying him a chance for a rematch, which left him quite disappointed. But he never expected that this time, by sheer coincidence, they would clash again! The only difference was that this time, the overall game genre was different.
+Many game designers believed players still had strong enthusiasm for open-world experiences.
 
-Antorini felt that his open-world theme gave him a significant advantage! Even if he won, it would feel a bit like an unfair victory!
+Yet under these circumstances, Nebula Games had gone ahead and developed a linear game?
+
+One could only say—truly worthy of Nebula Games!
+
+Inside Atari’s *Element World* project team, lead designer Antorini sighed with emotion.
+
+Two years ago, his project *Beautiful World* had lost out to *Red Dead Redemption*, but he felt that although the game had lost, he personally had not.
+
+After all, in terms of gameplay, *Beautiful World* had actually received praise from some players.
+
+He believed that if Atari had fully trusted him back then, leveraging the attention-grabbing concept of cowboys battling robots, he might have successfully pivoted the game’s direction.
+
+Why go head-to-head with *Red Dead Redemption* on pure cowboy and Western themes when Antorini felt he might not stand a chance?
+
+But the key was, you didn’t have to fight directly.
+
+Add a multiplayer mode, create DLC with subsequent story content,
+
+and lean into the core idea of robots versus cowboys.
+
+Later on, they could even drift toward science fiction—perhaps adopting a sci-fi Western aesthetic.
+
+Another regret Antorini had from last year was that Chen Xu hadn’t developed a VR game, leaving him without a chance to reclaim his pride. This had left him with considerable disappointment.
+
+But who would have thought—this time, fate had brought them face to face again!
+
+The only difference was that this time, the genre of the game was different.
+
+Antorini felt he held a significant advantage with his open-world theme!
+
+Even if he won, though, it would feel somewhat like an unfair victory!
 
 ………………
 
-Inside Nebula Games, Chen Xu was unaware of Antorini's positive mindset at Atari.
+At Nebula Games, Chen Xu remained unaware of Antorini’s confident mindset over at Atari.
 
-Uncharted was simply proceeding with its promotion and advertising as planned. Atari, on the other hand, was also relentlessly promoting their game. The top one or two hot topics in the entire gaming community were basically monopolized by Uncharted and Element World.
+*Uncharted* continued its steady promotional campaign.
 
-As for NetDragon's Shadow Operations: Communication Interrupted, it was fairly unremarkable, with some warm-up but not on a large scale, just maintaining a steady level of hype. It was clear they wanted to avoid Nebula Games' and Atari's new releases. The same applied to other game developers.
+Meanwhile, Atari’s marketing efforts didn’t let up either.
 
-After all, Nebula Games and Atari were old rivals.
+Across the gaming industry, the top two hot topics were completely dominated by *Uncharted* and *Element World*.
 
-Amidst the global attention of players, Uncharted was the first to announce its launch date. It would officially be released on May 1st.
+As for NetDragon’s *Shadow Operations: Communication Interrupted*, its promotion was moderate—some warm-up, but not large-scale—maintaining steady popularity.
 
-After Nebula Games announced this news, Atari, which had been aggressively promoting against Nebula Games, went silent for a long time.
+Clearly, they were trying to avoid going head-to-head with the new releases from Nebula Games and Atari.
+
+Other game developers adopted the same strategy.
+
+After all, Nebula Games and Atari had long been fierce rivals.
+
+Under the watchful eyes of global players, *Uncharted* was the first to announce its official launch date.
+
+It would be published on May 1st.
+
+After Nebula Games made this announcement,
+
+Atari, which had previously been aggressively competing in promotion, suddenly fell silent.
 
 Why?
 
-Because they couldn't keep up with the development schedule!
+Because their progress simply couldn’t keep up!
 
-Looking at Uncharted's release date, Antorini in Atari's Element World project office felt like he was punching cotton. At the current pace, Element World would need at least another half a month to complete its content development. And even after development was complete, it didn't mean it could launch; it still needed pre-release testing.
+ Looking at *Uncharted*’s release date, inside the *Element World* project office at Atari, Antorini felt like he had punched straight into cotton.
 
-Although Uncharted was a linear game, and indeed had much less workload compared to an open-world game, "But Nebula Games, your speed is just too fast, isn't it? Did you put rockets up your butts?"
+At the current pace, *Element World* would need at least another half a month to finish development.
 
-Antorini was filled with frustration.
+And even after development was complete, the game still couldn’t launch immediately—it would require pre-release testing.
 
-As for Element World's promotion? "Let's pause for now." After all, promoting it at this time would actually be helping Nebula Games.
+Although *Uncharted* was a linear game, which naturally involved much less workload than an open-world game,
 
-And with Element World's promotional silence, players online were also speechless. They had originally expected Element World to soon follow up with a game launch announcement, then go head-to-head with Nebula Games in a real fight. "But then you suddenly went silent?"
+how could Nebula Games be moving this fast?
 
-Judging by previous performances, Atari had clearly been very aggressive and shouldn't be afraid of Nebula Games. "But what's the reason for the sudden silence now? It's nothing more than the game not being finished. If you haven't finished development, why were you promoting it so fervently before, as if you wanted the whole world to focus on you? Were you just playing tricks? Making it seem so real!"
+Did you guys strap rockets to your backs?
 
-Many players online who had been looking forward to Element World were frustrated. Meanwhile, players anticipating Uncharted were celebrating with gongs, drums, and firecrackers.
+Antorini felt deeply depressed.
 
-Of course, it wasn't all anticipation; many players also felt a bit uneasy. Because during this period, Uncharted's promotion also revealed quite a few things to players. Content regarding technology and gameplay was secondary; what worried players more was the game's subtitle.
+As for promoting *Element World*?
 
-Just like Call of Duty: Modern Warfare, Red Dead Redemption, Super Mario Odyssey, and The Legend of Zelda: Breath of the Wild, Uncharted also had a subtitle, which was revealed during the promotion: A Thief's End. The moment this title was released, many players' hearts immediately trembled.
+Better take a break for now.
 
-And below Chen Xu's official Weibo account, many players were also commenting. But this time, Chen Xu showed no intention of replying at all. Instantly, many players became pessimistic. They all stated that Nathan Drake was "done for," and the only point of concern was exactly how Nathan Drake would meet his end in the game.
+Promoting at this point would only end up helping Nebula Games.
 
-…………
+With *Element World*’s marketing going quiet, online players were equally speechless.
 
-In Nebula Games' break room, Yang Xin and others watched Chen Xu, who was scrolling through his official Weibo, with surprise.
+Many had expected *Element World* to quickly follow up by announcing its own release date, setting the stage for a direct showdown with Nebula Games.
 
-"Mr. Chen, players online are misunderstanding you so much this time, aren't you going to reply?" Ruan Ningxue asked curiously. In the past, whenever players misunderstood him, Chen Xu would always reply immediately. Now the game hadn't even been released, players had already assumed the protagonist would die at the end, yet they all knew that Uncharted: A Thief's End was completely different from what players imagined – it was actually a rather cheerful story. How could Chen Xu not step forward in this situation?
+But now, suddenly—silence?
 
-"When players all think it's a game that will break their hearts, and then they discover it has a happy ending, that's when they'll truly feel a sufficient amount of surprise," Chen Xu said with a smile.
+Judging from Atari’s earlier behavior, they had clearly seemed bold and confident—surely not afraid of Nebula Games.
 
-Of course, there was one more thing he didn't say in his mind. That was: now players misunderstood him, but when the ending was revealed, that misunderstanding would turn into guilt, and his "giver of heartbreak" label among players would naturally become blurred. Everything was under control!
+So why had they suddenly gone silent?
 
-(End of Chapter)
-<<END_OF_CHAPTER>>
+The only possible explanation was that the game simply wasn’t finished yet.
+
+If that was the case, why had they promoted it so intensely before, as if the entire world should be focused on them?
+
+Were they just clowning around? Making everything seem so real!
+
+Many players who had eagerly awaited *Element World* now felt deeply disappointed.
+
+Meanwhile, fans of *Uncharted* were celebrating with drums and fireworks.
+
+Of course, not everyone was purely excited—some players felt a bit apprehensive.
+
+During the promotional period, *Uncharted* had revealed quite a bit of information to players.
+
+Technical and gameplay details were secondary; what worried players the most was the game’s subtitle.
+
+Like *Call of Duty: Modern Warfare*, *Red Dead Redemption*, *Super Mario Odyssey*, and *The Legend of Zelda: Breath of the Wild*,
+
+*Uncharted* also had a subtitle, which had been announced during promotion: *A Thief’s End*.
+
+The moment this title was revealed, many players felt a chill run through them.
+
+Under Chen Xu’s official Weibo account, numerous players left comments.
+
+But this time, Chen Xu showed absolutely no intention of replying.
+
+Instantly, many players fell into pessimistic emotions.
+
+They declared that ‘Nathan Drake’ was already doomed. The only thing left to wonder was how exactly Nathan Drake would meet his end in the game.
+
+………
+
+Inside Nebula Games’ lounge, Yang Xin and others looked at Chen Xu with astonishment as he casually browsed the official Weibo.
+
+“Mr. Chen, players online are misunderstanding you so badly this time—aren’t you going to reply?” Ruan Ningxue asked curiously.
+
+In the past, whenever players had wrongly accused him, Chen Xu would always respond immediately.
+
+Now, before the game had even launched, players had already assumed the protagonist would die—yet they all knew that *Uncharted: A Thief’s End* was completely different from what players imagined. It was actually a joyful story. Why wasn’t Chen Xu stepping in to clarify?
+
+“When players believe they’re about to play a game that will break their hearts,” Chen Xu smiled, “only to discover a happy ending, that’s when they’ll truly feel sufficient surprise.”
+
+Of course, there was another unspoken thought in his mind.
+
+Right now, players misunderstood him. But the moment the ending was revealed, that misunderstanding would turn into guilt. And the label of being a ‘heartbreaker’ in the eyes of players would naturally blur.
+
+Everything is under control!
+
+(End of Chapter) <<END_OF_CHAPTER>>

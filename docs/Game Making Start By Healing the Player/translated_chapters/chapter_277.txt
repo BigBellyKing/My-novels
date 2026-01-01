@@ -1,93 +1,187 @@
-Chapter 276: First Experience (Requesting Subscriptions and Monthly Passes)
-
-Sitting in front of his computer, Zhang Yi was also looking forward to the unlocking of the Warcraft demo experience.
-
-"Sigh, why did Nebula Games make an RTS game this time?" Wang Han, sitting next to Zhang Yi, was scrolling through information on her phone, chatting with Joey.
-
-As for RTS games, neither Wang Han nor Joey particularly liked them. They had played them but couldn't get into them.
-
-They felt the controls were too complicated. At most, they would play against AI opponents.
-
-"I feel that Warcraft might be different," Zhang Yi said.
-
-He occasionally played RTS games himself, but he wasn't very good; he was just an average player. He was the type to silently mass-produce units, then drag a box around them and A-move towards the enemy base. One push decided the victory: if all his units died, then his opponent won. If his units didn't die out, then, sorry, the opponent's base was gone.
-
-"Exactly, the multiplayer battles in Warcraft are hard to say, but I feel the Single-Player Mode should be pretty good," Song Ren and Wang Yifan said in the voice channel.
-
-"What kind of story can an RTS game have? The single-player story in that 'Human Wars' almost put me to sleep," Wang Han said.
-
-She had tried some RTS games before, thinking if she couldn't win multiplayer, and simple AI opponents were boring, she'd try the single-player story. The result was truly subpar, described in one sentence: The enemies are coming, what should we do? We defeated the enemies and won, but new enemies are coming again. It really almost made her fall asleep.
-
-"You can't compare other developers to Chen Xu. I still have a lot of faith in him, even though he always pulls some stunts," Zhang Yi was quite confident about Warcraft.
-
-Especially that CG animation really shocked Zhang Yi. He had never seen any game company invest so much in an RTS game before. And the short one-minute CG promotional animation for Warcraft at the time also made Zhang Yi very curious.
-
-Because he felt that, unlike typical RTS games that turned their so-called single-player stories directly into new player tutorial levels, this Warcraft seemed to genuinely have a complete single-player story. Connecting this to Chen Xu's earlier mention of 'subverting the RTS genre' and '700 million Yuan in development costs,'
-
-Zhang Yi had a bold guess: would Warcraft really put a lot of effort into its story? Like most players, he thought that Chen Xu, venturing into the RTS genre for the first time, might struggle with balance in multiplayer mode. But the single-player story was different. This tested level design, and considering Chen Xu's level design in Dark Souls and It Takes Two, was there any doubt? So he felt that for Warcraft, Chen Xu was very likely focusing on the single-player story. He was still quite confident in games produced by Nebula Games.
-
-He even secretly used his private stash of money to buy a Collector's Edition of Warcraft! Of course, Wang Han absolutely couldn't know about this, or else he might end up washing all the clothes himself in the future. After all, buying the Collector's Edition of Warcraft wasn't the crucial point; the crucial point was that he had a private stash of money.
-
-"Alright, alright, you play first and I'll watch. If it's fun, I'll go try it myself, the game isn't going anywhere anyway," Wang Han said to Zhang Yi.
-
-"It's time! Old Zhang, I'm muting my mic!" Song Ren's excited voice came from the voice channel.
-
-"O.J.B.K!" Zhang Yi replied and immediately clicked the Warcraft icon.
-
-Entering the game, accompanied by the Nebula Games Logo flashing past,
-
-The first thing to appear was a CG animation. It was the same CG promotional animation that Chen Xu had previously released on the official Weibo account. Zhang Yi had seen it more than once, but this time he still chose not to skip it.
-
-The CG content was relatively easy to understand. It meant that humans and orcs were not friends but opposing factions, but suddenly an evil enemy descended from the sky, forcing orcs and humans to unite. Soon the CG animation ended, and a game UI interface appeared.
-
-The background behind it was an iceberg-like scene, which should be one of the game's environments. Aside from the 'Exit Game' and 'Options Settings' buttons,
-
-Zhang Yi observed three different choices in the game: Story Campaign, LAN Local Multiplayer, and Online Multiplayer. However, both Online Multiplayer and LAN Local Multiplayer were currently grayed out, clearly not supported in the demo version. But this only made Zhang Yi even more excited, because from the content of this demo, Chen Xu clearly wanted players to experience the single-player story, which perfectly matched his guess!
-
-"Let me see how this single-player story is!" With an excited heart, Zhang Yi eagerly clicked the Story Campaign button.
-
-Story Campaign was no different from other games; before entering, one could choose the difficulty: Easy, Normal, and Hard. For this part, Zhang Yi thought seriously and chose the easiest difficulty.
-
-"You're so embarrassing," Wang Han muttered from beside him. Easiest is easiest, but what's the meaning of your mouse hovering over 'Hard' and 'Normal' for three or four seconds before not choosing either?
-
-"Ahem... This is Chen Xu's game, after all. Think about Dark Souls and It Takes Two. I'm just being proactive," Zhang Yi awkwardly coughed and explained.
-
-After selecting the difficulty, what appeared on Zhang Yi's screen was 'Chapter One'. Clearly, this single-player story was a linear game, requiring completion chapter by chapter.
-
-After clicking Chapter One, Zhang Yi was stunned. Because there were simply too many levels in this first chapter!
-
-He counted briefly, and there were a full twelve sub-chapters! However, only the first one was lit up, displaying the level name: 'Thrall's Vision - Seeking the Far Seer' (The original prologue and Chapter One were merged). The rest were still gray, their names unclear.
-
-"I just wonder how long each level will be," Zhang Yi became even more excited.
-
-He immediately clicked on the first prologue level.
+Chapter 276: First Experience (Requesting Subscriptions, Monthly Passes)
 
 
+Chapter 276: First Experience (Requesting Subscriptions, Monthly Passes)
 
-The screen gradually darkened, and a narration began to speak.
 
-'The sands of time have run out, Son of Durotan.'
+Sitting in front of the computer, Zhang Yi eagerly awaited the unlock of the *Warcraft* trial version.
 
-'The horns of war echo in the wind, specters of old poison the land, and the fierce flames of war once again scorch the world.'
+"Ah, why did Nebula Games decide to make an RTS this time?" Wang Han, sitting beside Zhang Yi, was scrolling through her phone, chatting with Joey.
 
-'Leading thousands of troops to bleed on the battlefield, mortals blindly rush towards their doom, unaware that the Burning Shadow is about to devour all things.'
+Wang Han and Joey weren’t particularly fond of RTS games.
 
-'You must rally the Horde, and lead them to their destiny!'
+They’d played a bit, but couldn’t really get into them.
 
-On the battlefield, human armies and orc armies were clashing, and then, just like the previous opening cutscene, countless fireballs burning with green flames fell from the sky. The next moment, the camera switched to a high ridge, where a disoriented orc, named Thrall, just awakened from a nightmare in his barracks.
+The operations felt too complicated.
 
-This CG segment supplemented the content from the previous promotional CG, but it also raised many questions and curiosities for Zhang Yi. Humans and orcs are at war, what exactly is that flaming figure descending from the sky? What is the Burning Shadow? And who is that mysterious sorcerer at the end?
+At most, they’d play against Easy AI.
 
-Controlling Thrall, the orc who just woke from a nightmare, Zhang Yi's heart was filled with curiosity. But curiosity aside, he quickly refocused on the game.
+"I think *Warcraft* might be different," Zhang Yi said.
 
-Thrall advanced under the guidance of the Far Seer. This was a basic game operation tutorial.
+He occasionally played RTS games himself, though he wasn’t particularly skilled—just an average player.
 
-However, what surprised him most was the overall quality of the game. Zooming in the camera, he could even clearly see the exquisite modeling of the characters in the game. Even the water on the ground and the grass textures were incredibly detailed.
+The type who would blindly produce units, then select them all with the mouse and A-move straight toward the enemy base.
 
-Is this really an RTS game? The quality is simply too high!
+All-in Push to decide the outcome: if all his units died, you won.
 
-He hadn't even played the actual game content yet. But just the modeling and graphics of Warcraft, combined with the earlier CG, already left Zhang Yi in awe. One could only say that Warcraft's current presentation completely exceeded his expectations.
+If his units survived, then sorry—your base was gone.
 
-There was indeed a noticeable difference compared to the CG animation. But compared to other RTS games, setting aside the content, the presentation alone was far superior!
+"Right. I can’t say much about the multiplayer versus, but the single-player mode feels like it could be pretty solid," Song Ren and Wang Yifan chimed in through the voice channel.
 
-(End of Chapter)
+"What kind of story can an RTS even have? The single-player story in that *Human Wars* game almost put me to sleep," Wang Han said.
+
+She’d tried a few RTS games before—since she couldn’t handle multiplayer, and got tired of Easy AI—so she thought she’d give the story campaign a shot.
+
+But the result was truly underwhelming. To describe it in one sentence:
+
+"The enemy attacks, and we must do this and that."
+
+"We defeat the enemy and win, but then a new enemy appears."
+
+It nearly bored her to sleep.
+
+"You can’t compare other developers to Chen Xu. I still have faith in him, even if he always pulls some stunts," Zhang Yi said confidently about *Warcraft*.
+
+Especially after seeing that CG animation—it had stunned him.
+
+He’d never seen a game company invest so much into an RTS before.
+
+And that brief one-minute CG video released by Chen Xu earlier had left a deep impression.
+
+Because he sensed this *Warcraft* would be different from typical RTS titles—where so-called single-player stories were just rebranded new player tutorial levels.
+
+He felt that *Warcraft* might actually have a complete single-player story.
+
+Combined with Chen Xu’s earlier mention of "revolutionizing the RTS genre" and "700 million development costs," Zhang Yi had a bold theory: maybe *Warcraft* would truly go all-in on its story.
+
+Like most players, he thought that Chen Xu, stepping into RTS for the first time, might struggle with balance in multiplayer modes.
+
+But a single-player story? That was a different matter.
+
+It tested Level Design—and Chen Xu’s Level Design? Just think of *Dark Souls* and *It Takes Two*. Was there any reason to doubt?
+
+So he believed it was highly likely Chen Xu was focusing his efforts on the single-player story.
+
+He had great confidence in any game released by Nebula Games.
+
+He’d even secretly used his Private Stash of Money to buy a Collector's Edition of *Warcraft*!
+
+Of course, he couldn’t let her find out—otherwise, he’d probably be doing laundry for life.
+
+The key wasn’t buying the Collector’s Edition; the real issue was that he had secret savings.
+
+"Alright, fine. You go ahead and play. If it’s good, I’ll try it myself later. It’s not like the game’s going anywhere," Wang Han said to Zhang Yi.
+
+"It’s time! Old Zhang, I’m muting my mic!" Song Ren’s excited voice came through the voice channel.
+
+"O.J.B.K!" Zhang Yi replied, quickly clicking the *Warcraft* icon.
+
+After the Nebula Games Logo flashed by,
+
+a CG animation played immediately.
+
+It was the same promotional CG animation Chen Xu had released on the official Weibo account.
+
+Zhang Yi had watched it multiple times, but this time, he didn’t skip it.
+
+The CG content was easy to understand:
+
+Humans and orcs weren’t friends—they were opposing factions. But suddenly, an evil enemy descended from the sky, forcing orcs and humans to join forces.
+
+Soon, the CG animation ended, and a game UI interface appeared.
+
+
+
+The background showed a scene resembling an iceberg—likely one of the game’s actual environments.
+
+Besides the Exit Game and Settings options,
+
+Zhang Yi noticed three main choices in the game:
+
+Story Campaign, Local LAN Versus, and Online Versus.
+
+However, both Online Versus and LAN were grayed out—clearly not supported in the demo version.
+
+But this only made Zhang Yi more excited. This demo clearly emphasized the single-player story—just as he’d predicted!
+
+"Let’s see just how good this single-player story really is!" Full of anticipation, Zhang Yi eagerly clicked the Story Campaign button.
+
+Like other games, the Story Campaign allowed difficulty selection before starting.
+
+Easy, Regular, and Hardened.
+
+Zhang Yi thought carefully and picked the easiest difficulty.
+
+"That’s so embarrassing," Wang Han muttered, speechless.
+
+Picking Easy is one thing, but hovering your mouse between Hardened and Regular for three or four seconds, then not selecting either? What was that?
+
+"Ahem… This is Mr. Chen’s game, after all. Remember *Dark Souls* and *Monster Hunter: World*? I’m just being cautious," Zhang Yi explained awkwardly, clearing his throat.
+
+After selecting the difficulty, a screen appeared showing "Chapter One." Clearly, the single-player story was a linear game, meant to be played chapter by chapter.
+
+When Zhang Yi clicked Chapter One, he was stunned.
+
+Because there were way too many levels in this chapter!
+
+He quickly counted—twelve sub-chapters in total!
+
+Only the first one was lit up, displaying the level name: "Thrall’s Vision—Finding the Far Seer" (a merge of the original Prologue and Chapter One).
+
+The rest remained grayed out, their names unreadable.
+
+"I wonder how long each level will actually take," Zhang Yi thought, growing even more excited.
+
+Without delay, he clicked the first Prologue level.
+
+The screen slowly faded to black as Narration began.
+
+"The sands of time have run out, son of Durotan."
+
+"The war drums echo on the wind. The remnants of the past poison the land. Once again, the world burns in flames."
+
+"Mortals charge blindly into their doom, staining the battlefield with blood, unaware that the Burning Shadow is about to consume all."
+
+"You must unite the Horde and lead them to their destiny!"
+
+On the battlefield, human and orc armies clashed. Then, just like in the opening cutscene, countless fireballs engulfed in green flames rained down from the sky.
+
+The scene shifted to a high ridge, where an orc named Thrall—just awakened from a nightmare—sat in his tent, dazed and disoriented.
+
+This CG segment completed the earlier promotional footage, yet raised many questions in Zhang Yi’s mind.
+
+What was that fiery figure falling from the sky during the human-orc battle?
+
+What exactly was the Burning Shadow?
+
+And who was that mysterious wizard at the end?
+
+Controlling Thrall, the orc who just woke from his nightmare, Zhang Yi was filled with curiosity.
+
+But curiosity aside, he quickly focused back on the gameplay.
+
+Under the Far Seer’s guidance, the character Thrall moved forward.
+
+This was a basic gameplay tutorial.
+
+But what amazed him most was the game’s overall quality.
+
+Zooming in, he could clearly see the exquisite modeling of the characters.
+
+Even the water on the ground and the grass textures were stunningly detailed.
+
+This was really an RTS game?
+
+The quality was just too high!
+
+He hadn’t even played the game yet.
+
+But just the modeling and graphics of *Warcraft*, combined with the earlier CG, had already left Zhang Yi stunned.
+
+The game’s presentation far exceeded his expectations.
+
+Sure, there was a noticeable gap compared to the CG animation.
+
+But compared to other RTS games? Forget content—just the visuals alone were leagues ahead!
+
+<<END_OF_CHAPTER>>

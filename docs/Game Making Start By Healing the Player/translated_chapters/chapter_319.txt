@@ -1,72 +1,177 @@
-Chapter 318: Level-Based Cinematic Game (Requesting Subscriptions, Monthly Passes)
+Chapter 318 Level-based Cinematic Game (Requesting Subscriptions, Monthly Passes)
 
-During the New Year, players were still discussing Nebula Games' massive losses.
+Chapter 318 Level-based Cinematic Game (Requesting Subscriptions, Monthly Passes)
 
-Although various little green bars made Chen Xu's hands almost too busy to keep up. After all, players had too much money to spend.
+On New Year's side, players were still discussing how Nebula Games had suffered an explosive loss.
 
-But since players were saying Nebula Games was losing a ton of money, then it had to lose a little, after all. After all, he was good at everything, except he was too honest and never lied.
+Although various little green bars meant Chen Xu's hands were barely keeping up.
 
-So, on the official Weibo account, Chen Xu also held a daily lottery event. *Rainbow Six Siege*, *Warcraft*, and some cash red envelopes, with frequent interaction with players. After all, these things were just a trifle for Chen Xu now. Moreover, the wool comes from the sheep itself, right?
+After all, players had far too many pockets.
 
-Opening the work group chat, Chen Xu also sent out some red envelopes, and chatted about some interesting things with Yang Xin and Ruan Ningxue. Just then, his phone rang. Picking up the phone, Chen Xu was slightly taken aback. It was Yang Chen, the Minister of the Game Department, on the other end of the line.
+Yet, even as players verbally claimed Nebula Games had suffered massive losses,
 
-"Happy New Year, Minister Yang," Chen Xu said with a smile as he answered the call.
+there still needed to be at least some actual losses.
 
-"Happy New Year, Mr. Chen," Yang Chen on the other end also cheerfully greeted him. After a few casual remarks, Yang Chen paused before saying, "Mr. Chen, do you still remember participating in the VR test the year before last?"
+After all, he was a man of integrity—everything about him was fine, except that he was extremely honest and never lied.
 
-"Of course. Does the Game Department have any new policies?" Chen Xu nodded in response.
+Thus, on the official Weibo account, Chen Xu launched a daily gacha pull event.
 
-"There's nothing new in that regard, it's just that the new version of VR will be launched globally after the New Year. Not only the domestic new VR, but also the latest generation of VR developed overseas will be launched," Yang Chen paused and continued.
+Rainbow Six Siege, Warcraft, and some cash red envelopes led to very frequent interaction with players.
 
-"So, Mr. Chen, if your post-New Year development plan hasn't been finalized, you might consider VR. *Rainbow Six Siege* has shown excellent results, and as one of the first games to support the new VR version, relevant departmental resources will also be made available," Yang Chen from the Game Department said to Chen Xu. "I've already sent the specific details to your game editor's backend. You can review them in detail yourself."
+After all, these things were merely trivial to Chen Xu now.
+
+Besides, the wool ultimately came from Hex himself.
+
+Opening the work group chat, Chen Xu sent a few red envelopes, casually chatting with Yang Xin and Ruan Ningxue about some amusing stories.
+
+At that moment, his phone rang.
+
+Picking it up, Chen Xu was slightly taken aback.
+
+The caller was Yang Chen, the Minister of the Game Department.
+
+"Happy New Year, Minister Yang," Chen Xu answered with a smile.
+
+"Happy New Year, Mr. Chen," Yang Chen replied cheerfully.
+
+After some small talk, Yang Chen paused slightly before continuing, "Mr. Chen, do you still remember participating in the VR testing two years ago?"
+
+"Of course. Is there a new policy from the Game Department?" Chen Xu responded with a nod.
+
+"Nothing specific there, but the new version VR will launch globally after the New Year—not only the domestic new version VR, but also the latest generation VR developed overseas will be released," Yang Chen paused and continued.
+
+"So, Mr. Chen, if your development plan after the New Year hasn't been finalized yet, you might want to consider VR. Rainbow Six Siege performed exceptionally well, and as one of the first games to support the new version VR, the relevant departments will open up resources for use," Yang Chen from the Game Department told Chen Xu.
+
+"I've already sent specific details to your game editor backend. You can review them in detail yourself."
 
 Chen Xu replied, "Alright, Minister Yang, I understand. I'll look into it."
 
-Then Chen Xu chatted with him a bit more before opening his computer to understand the situation. Regarding the new generation of VR technology, Chen Xu had already learned about it when he developed *Silent Hill PT*. The related experience, including the level of game support, was much stronger than the current stage. Especially when combined with the resources opened up by the Game Department, it could completely bring a more immersive experience.
+After chatting a bit more with the other party, Chen Xu opened his computer to learn more.
 
-Similarly, the launch of the new VR version also brought about a market grab. Overseas, the latest VR was also being launched, and with the domestic VR launch, both sides were essentially competing for market standard discourse power. And what determined this was, naturally, games.
+Regarding the new generation VR technology, Chen Xu had already learned about it while developing Silent Hill PT. The related experience and game support were significantly stronger than the current stage.
 
-As for whether the new VR version would fail to sell due to its small market share, there was no need to worry too much about that. After all, game compatibility in the Parallel World was much more convenient than in his previous life. Moreover, with a unified architecture, developing games for the new VR version could also support the old VR version, though the immersion might not be as strong. At the same time, most players who bought the new VR version would essentially buy games released on the new VR. After all, there was no choice. If you didn't buy games for the new VR, what would you buy the new VR for? Could it be to experience old games?
+Especially when combined with the resources opened by the Game Department, it could deliver a far more immersive experience.
 
-This time, it seemed like an escort for the new VR, but in reality, it was also an opportunity. Because in the future, the new VR would inevitably phase out the old VR step by step. Similarly, in terms of game editor engines, supporting new VR development technology could allow Nebula Games to be one step ahead of some game developers. This was clearly the benefit brought by participating in the new VR test and matters related to *Rainbow Six Siege*.
+Likewise, the launch of the new version VR also meant seizing market share.
 
-The day after the Game Department communicated with Chen Xu, Meng Zuo also called Chen Xu to discuss this matter. Of course, the other party represented NetDragon. According to NetDragon's intentions, they were not planning to develop new games but would focus on the *Rainbow Six Siege* project. Although the child was not their own and had no blood relation to them, NetDragon had half the custody. If treated well, it could also bring honor to NetDragon in the future. So, NetDragon and Chen Xu reached an agreement on this matter.
+Overseas, the latest VR was also being released, and domestically, the launch of VR meant both sides were essentially competing for market standard discourse power.
 
-For the PC version development and the new VR version development of *Rainbow Six Siege*, NetDragon would be responsible, and Nebula Games would just share the porting costs according to the development expenses. As for the new VR version, NetDragon would not be involved in the first quarter. Of course, Chen Xu hadn't intended to include NetDragon in this particular venture anyway.
+And what determined this was naturally games.
 
-…………
+As for whether the new version VR would fail to sell due to low device market share,
 
-Time advanced day by day, and the seventh day of the Lunar New Year was the first official workday. Most employees in various departments at Nebula Games had returned to their posts. During this period, news about the new VR version also began to surface online.
+this wasn't something to worry too much about.
 
-However, it first came from overseas, with the announcement that a new VR version named Zeus was about to launch. Meanwhile, domestic preparations were clearly complete, and less than a day later, the latest VR version, named Huanyu, was also announced. In the initial phase of the announcement, both sides mainly promoted the performance parameters and various effects of their new VR versions. Essentially, it was all about making grand promises.
+After all, game compatibility in this Parallel World was much more convenient than in his previous life.
 
-Until the overseas side made the first move: the renowned game developer Atrai announced its new title would be launching on Zeus. And Atrai also stated that the new game would be an IP game adapted from a movie, the popular 'Storm Action' that launched a few years ago. At that time, the movie 'Storm Action' was a huge hit globally, with a worldwide box office of 800 million USD.
+Moreover, with a unified structure, while developing for the new version VR, the old version VR could still be supported, though the sense of immersion might not be as strong.
 
-At the same time, the domestic Channel Alliance also announced that it had reached a strategic cooperation agreement with Atrai and would be acting as the publishing agent for this game. Clearly, the target was *Rainbow Six Siege*, developed by Nebula Games and NetDragon before the New Year. As for TengHua, they didn't get involved this time. After all, in the new era VR battle between Zeus and Huanyu, unless TengHua had their heads squeezed by a door, they would definitely stand with the Game Department.
+Players who purchased the new version VR would almost all buy games released for it.
 
-But for the Channel Alliance, it didn't matter. Except for channel providers like Hero Entertainment that had R&D departments, the other channels simply followed the publishing agency route. Huanyu and Zeus had absolutely nothing to do with them. As for ordinary players, they were the most straightforward group. Whichever platform had good games to play, that's the platform I'd support.
+After all, they had no other choice. If you weren't going to buy games for the new VR, why would you buy the new VR at all?
 
-For a time, players both domestically and internationally were discussing topics related to 'Storm Action' and Atrai. Similarly, within Nebula Games, everyone was also discussing it.
+Could it be just to replay old games?
 
-"Atrai is really rich and powerful! They directly bought such a huge IP!" Ruan Ningxue exclaimed, looking at the news.
+At first glance, this seemed like safeguarding the new version VR, but in reality, it was also an opportunity.
 
-"Yeah, I rewatched that movie a while ago. Although it didn't have much depth, it was so satisfying to watch!" Yang Xin agreed.
+Because eventually, the new version VR would inevitably phase out the old version VR. Likewise, in terms of the game editor engine, supporting new version VR development technology would allow Nebula Games to stay ahead of other game developers.
 
-"Adapted into a VR game, it's definitely going to be explosive!" Qin Yi also sighed with emotion.
+This was clearly the benefit derived from previously participating in the new version VR testing and projects like Rainbow Six Siege.
 
-Walking over to the group, Chen Xu, who had heard the entire conversation, smiled, "That's not necessarily true. In fact, whether it's a manga adaptation or a movie adaptation into a game, sometimes they can fall into an awkward situation." Chen Xu said with a smile, "Adapting an IP is nothing more than for the original fans, but movies and games are inherently two different mediums."
+The day after the Game Department communicated with Chen Xu, Meng Zuo also called, discussing this matter with Chen Xu.
 
-Movie adaptations into games, or game adaptations into movies, sounded very promising. But in his previous life, there were already many bloody examples. The only truly successful one was the Resident Evil series, but even that was changed so much that its own mother wouldn't recognize it. Following the movie's plot, how do you expand a two-hour film into a main storyline of over ten or twenty hours? Endless mobs, complex mazes, and quests like an old lady needing help crossing the road? If you really did that, players would mercilessly give negative reviews.
+Of course, the other party represented NetDragon.
 
-The same goes for game adaptations into movies: how do you compress a ten or twenty-hour game into a one or two-hour movie? Compared to film and television adaptations, novels, which lack visual comparison, are clearly more suitable. Or simply manga and anime-themed games that are purely fan-oriented and unchanged.
+According to NetDragon's intention, they didn't plan to develop a new game but instead focused their efforts on the project Rainbow Six Siege.
 
-"Besides, how can adapting an IP be as exciting as creating your own?" Chen Xu said with a smile. "Notify all departments to prepare for a meeting this afternoon. We're starting a new project."
+Although the child wasn't biologically theirs and had no blood relation, custody rights still belonged half to NetDragon—by treating it well, it could later support NetDragon.
 
-"New project!?" Hearing this, Qin Yi and the others immediately became excited.
+Thus, on this matter, NetDragon reached an agreement with Chen Xu.
 
-"What is it, Mr. Chen!?" Ruan Ningxue and Yang Xin looked at Chen Xu expectantly.
 
-"Didn't Atrai adapt a movie into a game? And it's a special forces theme. We'll do one too. A level-based cinematic game, and for the theme, modern warfare and special forces would be good," Chen Xu said, stretching.
 
-(End of Chapter)
-<<END_OF_CHAPTER>>
+They would take charge of the PC version development and the new version VR development of Rainbow Six Siege, while Nebula Games would simply split and cover the porting costs based on development expenses.
+
+As for the new version VR, NetDragon wouldn't enter this space in the first quarter.
+
+Of course, Chen Xu hadn't intended to bring NetDragon along in this venture anyway.
+
+………
+
+Time progressed day by day, and the seventh day of the Lunar New Year marked the first official workday.
+
+Most employees across various departments of Nebula Games had already returned to their posts.
+
+Meanwhile, online rumors about the new version VR had already begun to surface.
+
+Initially, news came from overseas—announcing that the new version VR named Zeus would soon launch.
+
+Domestically, preparations were clearly complete as well, and less than a day later, the latest VR named Huanyu was also announced.
+
+Initially, both sides mainly promoted the performance parameters and various features of the new version VR.
+
+Essentially, they were making grand promises.
+
+Until overseas made the first move—renowned game developer Atari announced its new work would launch on Zeus.
+
+Moreover, Atrai stated that the new work would be a film-adapted IP game based on the blockbuster 'Storm Action' that had gained immense popularity a few years prior.
+
+At that time, the film 'Storm Action' had become a global sensation, grossing a massive 800 million USD in worldwide box office.
+
+Meanwhile, the domestic Channel Alliance also announced it had reached a strategic cooperation goal with Atrai and would act as the publishing agent for this game.
+
+Clearly, the target was directly aimed at Rainbow Six Siege, developed by Nebula Games and NetDragon before the New Year.
+
+As for TengHua, they didn't get involved this time.
+
+After all, unless TengHua had their heads squeezed by a door, they would definitely stand with the Game Department in the battle between Zeus and Huanyu's New Era VR.
+
+But the Channel Alliance? They didn't care. Aside from channel providers like Hero Entertainment that had their own R&D departments, the rest were purely focused on publishing and distribution.
+
+Huanyu and Zeus had nothing to do with them.
+
+As for ordinary players, they were the most straightforward group.
+
+Whichever platform had good games, they would support that platform.
+
+For a time, players both overseas and domestically were discussing topics related to 'Storm Action' and Atrai.
+
+Likewise, within Nebula Games, everyone was also talking about it.
+
+"Atrai is truly wealthy and generous! They directly bought such a massive IP!" Ruan Ningxue sighed with emotion after reading the news.
+
+"Yeah, I rewatched that movie recently. It wasn't deep, but it was so thrilling to watch!" Yang Xin agreed.
+
+"Adapting it into a VR game would definitely be explosive!" Qin Yi also expressed some excitement.
+
+Chen Xu, walking over and hearing the entire conversation, smiled: "Not necessarily. Actually, whether it's manga-adapted games or film-adapted games, they sometimes fall into an awkward situation."
+
+"Adapting an IP is ultimately for the fanbase of the original work, but films and games are inherently two different mediums," Chen Xu said with a smile.
+
+Film adaptations into games, or games into films—sounded very plausible.
+
+Yet, in his previous life, there were already many bloody examples laid out.
+
+Only the Resident Evil series could be considered truly successful, but even that was changed so much that it was unrecognizable.
+
+Following the film's narrative, how could a two-hour movie be expanded into a main quest lasting over ten or even twenty hours?
+
+Endless mobs, complicated mazes, missions as tedious as helping Grandma cross the street?
+
+If done this way, players would mercilessly leave negative reviews.
+
+Similarly, adapting games into films faced the same issue—how to compress a ten- or twenty-hour gameplay into a one- or two-hour film?
+
+Compared to film adaptations, novels—which lacked visual comparison—were clearly more suitable.
+
+Or purely fan-service-oriented manga and anime-themed games that didn't change at all.
+
+"Moreover, how could adapting an existing IP ever be as exciting as creating your own IP?" Chen Xu smiled and said, "Notify all departments. Prepare for a meeting this afternoon. We're starting a new project."
+
+"A new project!?" Hearing this, Qin Yi and others instantly became excited.
+
+"What is it, Mr. Chen!?" Ruan Ningxue and Yang Xin looked at Chen Xu with eager anticipation.
+
+"Atrai is doing a film adaptation into a game, and it's a special forces theme. Let's make one too. A level-based cinematic game. The theme? Modern Warfare and special forces theme would be perfect," Chen Xu said, stretching lazily.
+
+(End of Chapter) <<END_OF_CHAPTER>>
