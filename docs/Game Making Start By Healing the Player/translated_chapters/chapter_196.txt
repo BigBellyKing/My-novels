@@ -1,113 +1,111 @@
-Chapter 195: Sandbox Games and Core Points (Requesting Subscriptions, Monthly Passes)
+Chapter 195: Sandbox Game and Core Aspects (Requesting Subscriptions, Monthly Pass)
 
-Chapter 195: Sandbox Games and Core Points (Requesting Subscriptions, Monthly Passes)
+Chapter 195: Sandbox Game and Core Aspects (Requesting Subscriptions, Monthly Pass)
 
-The content development for Don't Starve wasn't particularly difficult.
+The content development for *Don't Starve* wasn't particularly difficult.
 
-After all, it's a small-scale game.
+After all, it was a game with a very small scale.
 
-The art and music aspects were being produced in an orderly fashion.
+Art and Music were steadily progressing in output.
 
-The more tedious aspect, surprisingly, was creating better MOD development tools for players.
+The most tedious aspect, however, was actually creating better MOD Development Kit tools to enhance the player experience.
 
-For a game to have a large number of MODs, besides the game itself being fun,
+Whether a game can generate a large number of MODs depends not only on how enjoyable the gameplay itself is.
 
-the game's own support for MODs is also a very crucial factor.
+The game's inherent support for MODs is also a crucial factor.
 
-During Don't Starve's development, the popularity of Dark Souls: Age of the First Flame in the outside world was still steadily climbing.
+Meanwhile, during the development period of *Don't Starve*, the popularity of *Dark Souls: Age of the First Flame* continued to rise.
 
-After achieving nearly 5.5 million global sales in its first month, Dark Souls' performance in the second month remained very strong, with domestic sales dropping to 1.1 million copies and overseas sales to 1.3 million copies, but still cumulatively adding 2.4 million copies.
+After selling nearly 5.5 million copies worldwide in its first month, *Dark Souls* maintained strong performance in its second month, with domestic sales dropping to 1.1 million copies and overseas sales to 1.3 million, still contributing a cumulative total of 2.4 million copies.
 
-Meanwhile, during this period, the 'Death Mode' finally saw its first BOSS defeated by players.
+During this time, the first boss in the 'Death Mode' was finally conquered by players.
 
-It wasn't a BOSS from Dark Souls: Age of the First Flame, but rather 'Yhorm the Giant' from the previous game.
+It wasn't one of the bosses from *Dark Souls: Age of the First Flame*, but rather 'Yhorm the Giant' from the original game.
 
-It retained the characteristic where the Storm Ruler could inflict significant damage upon it.
+Retaining the characteristic of being highly vulnerable to Storm Ruler, most high-level Dark Souls players formed teams to tackle the boss.
 
-Most veteran Dark Souls players successively teamed up to defeat it.
+Finally, 19 days after the new mode launched, a team of three well-known overseas Dark Souls veterans completed the first kill. Interestingly, within less than 10 minutes of that achievement, a domestic Dark Souls攻略 group刷新ed the speedrun record, improving the time by nearly 15 seconds.
 
-Finally, 19 days after the new mode launched, three relatively well-known Dark Souls masters from overseas teamed up to achieve the first kill. Interestingly, less than 10 minutes after the first kill, the speedrun record for Yhorm the Giant was broken by a domestic Dark Souls strategy group, improving the time by about 15 seconds.
+This sparked much discussion among Dark Souls players, naturally leading to debates—was the team that achieved the first kill stronger, or was the攻略 group that slightly lagged but set the new speedrun record more skilled?
 
-This became a popular topic among many Dark Souls players, inevitably leading to a debate: was the team that achieved the first kill stronger, or was the strategy group that broke the speedrun record, even if they were a step behind, more impressive?
+However, it was clear that both攻略 teams were不服气 and believed themselves to be the strongest.
 
-However, it was clear that both strategy teams were somewhat unconvinced by the other, each believing themselves to be the strongest.
+The very next day, the overseas team that achieved the first kill刷新ed their own time.
 
-The next day, the overseas team that achieved the first kill once again broke their original time.
+Meanwhile, the domestic攻略 group反超ed after two days of attempts.
 
-And the domestic strategy group, after two days of attempts, also managed to overtake them.
+No other bosses had fallen—only Yhorm the Giant had been injured.
 
-No other BOSSes died; only Yhorm the Giant suffered.
+For games like *Dark Souls*, although the Numerical Design and content no longer required modifications, Lin Tao's separately established project team would continue slowly developing DLC content. However, due to online multiplayer features and the ability for players to leave in-game messages, just like *Fall Guys*, *Overcooked*, and *Sanguosha*, a dedicated operations team was responsible for ongoing maintenance.
 
-Regarding games like Dark Souls, although there was no need to modify the game's numerical design and content, the remaining task was for Lin Tao's independently established project team to slowly produce DLC content. However, it also involved online multiplayer and the feature allowing players to leave in-game messages.
+Of course, as player numbers gradually decreased, these operations would eventually merge with other games, allowing a single team to handle operations and maintenance.
 
-Therefore, just like games such as Fall Guys, Overcooked, and Sanguosha, there was a dedicated operations team continuously managing it.
+But Chen Xu's精力 had clearly shifted away from *Dark Souls*.
 
-Of course, as the player count gradually decreased, it would merge with other games, allowing a single team to handle its operation and maintenance.
+Inside the project office, Chen Xu was discussing certain aspects of *Don't Starve* with Ruan Ningxue and Qin Yi.
 
-But Chen Xu's focus had clearly shifted away from Dark Souls.
+"The entire game revolves around Survival—that's the overarching Core Aspect. But from this central theme, we can break it down into various smaller needs."
 
-Inside the project room, Chen Xu was discussing some content for Don't Starve with Ruan Ningxue and Qin Yi.
+"For example, the protagonist has Hunger, Health Value, and Sanity. Combined with environmental factors and encounters, these values will gradually decrease. If any one of them reaches zero, the player dies, meaning the survival requirement has failed."
 
-“The entire game revolves around survival; that's the big core. But through this big core, it can be divided into different small demands.”
+"Thus, under the broad survival objective, players naturally develop more specific goals from these branching mechanics."
 
-“For example, the protagonist in the game has settings for hunger value, health value, and sanity value. Combined with the surrounding environment and encounters, these values will decrease. Any value reaching zero will cause the player to die, which means failing the survival requirement.”
+Chen Xu explained *Don't Starve*'s core design to the team.
 
-“So, under the larger survival requirement, players will then begin to have more goals stemming from these branching settings.”
+These mechanics were precisely why Chen Xu had chosen *Don't Starve* as a Trial Run for sandbox games.
 
-Chen Xu explained Don't Starve's core settings to everyone.
 
-These settings were all the reasons why Chen Xu chose Don't Starve as a trial run for sandbox games.
 
-As for Don't Starve's story itself, let's not mention it for now.
+As for *Don't Starve*'s story, that could be set aside for now.
 
-All of its settings had very clear goals.
+Every one of its mechanics served a very clear purpose.
 
-Even for players completely unfamiliar with sandbox-type games, they wouldn't be bewildered after entering the game.
+Even players completely unfamiliar with the Sandbox genre would never look bewildered upon entering the game.
 
-At the very least, they would understand one thing: the game's character must survive; survival is the only core.
+At the very least, they would immediately understand one thing: keeping the character alive. Survival was the only core.
 
-Keep them well-fed and warmly clothed, and perhaps add some recreational activities to improve the character's morale.
+Eat, stay warm, and maybe throw in some entertainment to keep the character's Sanity stable.
 
-And centered around these, players would then actively explore, thus understanding what kind of gameplay sandbox-type games offered.
+Around these basic needs, players would naturally begin to explore, gradually understanding what sandbox gameplay truly meant.
 
-“It sounds really interesting!” Yang Xin said, nodding as she listened to Chen Xu dissect the game's core points.
+"This sounds really interesting!" Yang Xin nodded as she listened to Chen Xu dissect the game's Core Aspects.
 
-“Although it's just a small-scale game, it feels like there's a very high degree of freedom within it!” Qin Yi, who specialized in Numerical Design and Level Design, had the most direct feeling.
+"Even though it's a small-scale game, it feels like it offers tremendous freedom!" Qin Yi, responsible for Numerical Design and Level Design, had the most direct impression.
 
-“Indeed, I feel like playing online with friends would be a lot of fun,” Ruan Ningxue echoed.
+"Indeed. I think playing online with friends could bring a lot of fun," Ruan Ningxue agreed.
 
-“But the game is about letting players survive day by day. What if one day, the home base that players painstakingly built is suddenly burned to ashes by a big fire, or they just die? Then hours, dozens of hours, even hundreds of hours of effort...” At this point, Yang Xin thought of a possibility.
+"But the game is about surviving day by day. What if one day, the home base a player painstakingly built is suddenly burned to ashes in a large fire, or the character dies unexpectedly—then all the effort, whether it's several hours, dozens of hours, or even hundreds of hours of work..." Yang Xin suddenly raised a possibility.
 
-Hearing Yang Xin's words, everyone subconsciously looked at Chen Xu, who was sitting there.
+Hearing her words, everyone instinctively turned their gaze toward Chen Xu sitting nearby.
 
-Let alone experiencing it personally, just thinking about it sends shivers down one's spine!
+You didn't even need to experience it firsthand—just imagining it sent shivers down your spine!
 
-This feeling is like grinding in Dark Souls for countless hours without using a Trainer, genuinely building a super well-rounded character with all your items collected, but then a sudden misfortune strikes: your save file is gone!
+It was like grinding for countless hours in *Dark Souls*, without using a Trainer, finally obtaining an 802-level powerhouse character with all items collected—only to have your Saves vanish overnight.
 
-How desperate, how broken, how heartbroken would that player be then?
+How utterly devastated, broken, and heartbroken would the player feel?
 
-“Cough, cough... don't look at me like that. I already said this isn't a suffering game. It's not like 'Getting Over It,' where there's no save feature; players can save the game and back up their save files at any time,” Chen Xu said, lightly coughing as he saw everyone's expressions.
+"Ahem... Don't look at me like that. I've said it before—it's not a game meant for players to suffer. It's not like 'Hammer Swing Ascension' with no save system. Players can save anytime and back up their Saves," Chen Xu said, lightly coughing as he noticed their expressions.
 
-“Also, I have to criticize you all. It's one thing if players don't understand my original intention, but how can you think I make games just to watch players suffer?” Chen Xu said speechlessly.
+"Besides, I have to say, if players don't understand my original intention, fine. But how could you guys think I make games just to watch players suffer?" Chen Xu said, speechless.
 
-“Alright, next, according to my plan, after Don't Starve is completed, we still have another game to produce and launch before the new year. Don't Starve is more of a market probe, and after its completion, we'll also implement new content updates, and open up and guide players in creating Workshop content.”
+"Alright. Next, according to my plan, after completing *Don't Starve*, we'll develop and launch another game before the year ends. *Don't Starve* is more of a test for the market. After completion, we'll also roll out updates with new content and open up the Workshop (modding platform), guiding players in creating their own mods."
 
-“So, around mid-September, try to complete Don't Starve, and then launch it on the platform.”
+"So, try to finish *Don't Starve* by mid-September and launch it on the platform."
 
-“Understood.” Qin Yi nodded.
+"Understood," Qin Yi nodded.
 
-“A little over a month should be enough time to develop Don't Starve, but quality still comes first,” Chen Xu said, looking at Qin Yi.
+"Over a month should be sufficient time to develop *Don't Starve*. But remember—quality comes first," Chen Xu emphasized, looking at Qin Yi.
 
-...................
+………………
 
-After chatting with Qin Yi and his team for a while about the development approach for Don't Starve,
+After chatting with Qin Yi and the others for a while about the development style of *Don't Starve*,
 
-Chen Xu also called Zhang Yida into his office.
+Chen Xu called Zhang Yida into his office.
 
-It was different from previous games like Dark Souls: Age of the First Flame and It Takes Two.
+Unlike previous games such as *Dark Souls: Age of the First Flame* and *It Takes Two*,
 
-The launch and operation of Don't Starve would be different from before.
+the launch and operations strategy for *Don't Starve* would be different.
 
-Although it was a small game, Chen Xu was prepared to invest some promotional resources. For this, he needed Zhang Yida to create a plan according to his requirements.
+Although it was a mini-game, Chen Xu planned to invest some promotion resources. For this, he needed Zhang Yida to prepare a detailed plan according to his requirements.
 
-(End of Chapter)
+(End of Chapter) <<END_OF_CHAPTER>>

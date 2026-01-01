@@ -1,215 +1,219 @@
-Chapter 23: Undertale's Multiple Endings
+Chapter 23: The Multiple Endings of Undertale
 
-In reality, even setting aside its META elements, the story of *Undertale* itself is already quite excellent.
+Chapter 23: The Multiple Endings of Undertale
+
+Setting aside the META elements, the story of Undertale itself is actually already exceptionally well-crafted.
 
 The game is filled with many interesting and charming characters.
 
-For example, Sans, who shakes hands with the protagonist holding a whoopee cushion, and Papyrus, who is keen on blocking the protagonist with puzzles.
+For instance, Sans, who holds a fart cushion and shakes hands with the protagonist, and his brother Papyrus, who is obsessed with blocking the protagonist with puzzles.
 
-Sans, who appears very lazy, loves to tell skeleton-related puns to tease his brother Papyrus.
+Seemingly lazy and indifferent, Sans enjoys making puns related to skeletons, teasing his brother Papyrus.
 
-His brother Papyrus, on the other hand, is very enthusiastic about blocking the protagonist with puzzle mechanisms, yet he actively reveals the answers to the puzzles when the protagonist doesn't take the initiative or can't solve them.
+His brother Papyrus, on the other hand, enthusiastically sets up puzzle traps to stop the protagonist, yet when the protagonist fails to solve them or chooses not to, he deliberately reveals the answers himself.
 
-A scientist like an otaku girl.
+The scientist who acts like a shut-in girl.
 
-What shocked players was Sans's speech in the golden, magnificent corridor just before the final BOSS battle in the game.
+What shocks players the most is Sans’s speech in the magnificent corridor just before the final BOSS battle.
 
-Here, Sans begins to judge everything the player has done.
+Here, Sans begins judging everything the player has done.
 
-From Sans's words, players learn that EXP isn't "experience points" as commonly understood, but rather "execution points".
+From Sans’s words, EXP is not "experience points" as players assume, but "execution points"—the number of executions carried out.
 
-And LV isn't what players understand it to be, nor is it simply "LOVE", but rather an abbreviation for "Level of Violence".
+And LV is not what players think it is, nor is it simply LOVE. It stands for Level of Violence—the degree of violence.
 
-Every time a player kills a monster, execution points increase, and with the rise in execution points, the Level of Violence also increases.
+Every time the player kills a monster, the execution points increase, and as execution points rise, so does the Level of Violence.
 
-It's not experience points, and it's not a character level; it's the game's violence index.
+Not experience, not character level—this is the game’s violence index.
 
-This is where *Undertale* subverts traditional RPG settings.
+This is where Undertale overturns traditional RPG conventions.
 
-Killing monsters to level up should be a given for most RPG players.
+Killing monsters to level up—this is something most RPG players take for granted.
 
-But it's different in *Undertale*.
+But in Undertale, it’s different.
 
-Most players who experience the game for the first time will get the first Neutral Route, and upon encountering Flowey, they will be shocked by its content.
+For most players experiencing the game for the first time, they reach the first Regular Ending and are shocked by Flowey’s content.
 
-However, if players choose not to kill Flowey at the end of the Neutral Route, they will learn the method to achieve the Pacifist Ending from it.
+But if, at the end of the Regular Ending, the player chooses not to kill Flowey, they will learn from him how to achieve the Pacifist Ending.
 
-In the Pacifist Ending, players must not kill any monsters, but instead befriend each one through dialogue.
+In the Pacifist Ending, the player must not kill any monsters, instead befriending each one through dialogue.
 
-During this ending, players will discover that these monsters each have their own unique characteristics.
+Along the way, players discover that each monster has unique characteristics.
 
-Monsters that appear menacing often have a cute side; for example, Undyne is a textbook tsundere!
+Monsters that look terrifying actually have adorable sides—for example, Undyne is the textbook definition of a tsundere!
 
-"Listen, human. We're not just going to be friends.
+[Hear me, human. We're not just going to be friends.]
 
-We're going to be best friends.
+[We're going to be best friends!]
 
-I'm going to make you obsessed with me.
+[I'm gonna make you fall so hard for me, you won't be able to escape!]
 
-This is my perfect revenge!"
+[That's my perfect revenge.]
 
-Under Papyrus's 'goading', the legendary captain of the Royal Guard thus accepted the protagonist as a friend.
+Under Papyrus’s reverse psychology, the legendary captain of the Royal Guard accepts the protagonist as a friend.
 
-She even performed a cooking lesson for them, even though the cooking lesson burned down her house.
+She even gives him a cooking lesson—though the lesson ends up burning down her house.
 
-The two skeleton brothers (Sans and Papyrus), Toriel, Undyne...
+The skeleton brothers, Toriel, Undyne…
 
-Especially when finally facing the ultimate BOSS, King Asgore, and Toriel's son, Asriel, it brought countless players to tears.
+Especially when facing Asriel, the final BOSS and the son of Asgore and Toriel—the moment brings countless players to tears.
 
 In this battle,
 
-When you die, it doesn't show "Game Over."
+When death occurs, the game doesn’t display "Game Over."
 
-Instead, a line of text appears: Your DETERMINATION refused.
+Instead, a line of text appears: "Your determination refused to let you die."
 
-Finally, with the help of the DETERMINATION of countless friends, the player eventually defeated Asriel.
+Finally, with the collective determination of all the friends made, the player defeats Asriel.
 
-At the same time, they learned some of the game's backstory from Asriel.
+And from Asriel’s words, the player learns part of the game’s backstory.
 
-A long, long time ago, a human child fell into the Underground, was coincidentally rescued by Asriel, and then taken in by King Asgore and Toriel.
+Long, long ago, a human child fell into the underground and was accidentally rescued by Asriel. The child was then taken in by Asgore and Toriel.
 
-They became the best of friends, but then, for some reason, he lost this friend.
+They became the best of friends. But later, for some reason, Asriel lost this friend.
 
-So Asriel absorbed the soul of the first child, transformed into an incredibly powerful being, and gained the power to pass through the barrier. Asriel left the Underground and went to the surface to fulfill his friend's dying wish.
+So Asriel absorbed the first human’s soul, becoming an immensely powerful being with the ability to cross the barrier. Asriel left the underground to fulfill his friend’s final wish.
 
-But he was mistakenly attacked by humans who thought he had killed the first child. Finally, a wounded Asriel stumbled back home, then collapsed to the ground, turning into dust that scattered throughout the garden.
+But humans misunderstood him, believing he had killed the child, and attacked him. Injured and bleeding, Asriel staggered back home, collapsed, and dissolved into dust, scattering across the garden.
 
-His DETERMINATION then flowed into a golden flower—this is the origin of Flowey.
+His determination infused into a golden flower—this is how Flowey was born.
 
-In this final battle, Asriel finally found liberation and relief, letting go of the pain he had clung to.
+In this final battle, Asriel finally finds peace and release, letting go of the suffering he had clung to for so long.
 
-Both the Neutral and Pacifist Endings had been achieved.
+Both the Regular Ending and the Pacifist Ending have been achieved.
 
-It seemed players should have been satisfied with this, but curiosity is human nature.
+It seems players should be satisfied—yet curiosity is human nature.
 
-The violence points, execution points, and Flowey's evil side all seemed to drive players to explore another ending.
+Violence points, execution points, Flowey’s dark side—all seem to drive players toward another ending.
 
-And in this ending, players truly felt an indescribable shock, as well as a spiritual contemplation.
+And in this ending, players truly feel an indescribable shock and a profound mental reflection.
 
 ………………
 
-Sitting in front of his computer, Jiang Ping's expression was very serious at this moment.
+Sitting in front of the computer, Jiang Ping’s expression was very serious.
 
-'3 remaining in current area'
+‘3 monsters remaining in current scene.’
 
-A prompt appeared on the monitor.
+A notification appeared on the screen.
 
-In the Underground world's scenario, the monsters had been slaughtered. In this area, only three monsters yet to be found remained.
+In the underground world, monsters had been slaughtered to extinction. Only three remaining monsters were still unlocated in this area.
 
-The map was empty, and the once lively tavern was now deathly silent.
+The map was empty. The once-bustling tavern was now dead silent.
 
-At this moment, Jiang Ping felt an ineffable sensation.
+At this moment, Jiang Ping felt an indescribable sensation.
 
-Because of the Gentleman's Game *Mirror*, he was also very curious about Chen Xu's new work, *Undertale*.
+Because of the gentleman’s game Mirror (Game), he had also become deeply curious about Chen Xu’s new work, Undertale.
 
-His initial disdain upon entering the game, and the shock he felt upon completing it.
+From initial disdain upon entering the game, to being profoundly shaken upon completion.
 
-After achieving the Neutral and Pacifist Endings, he became curious about the so-called Genocide Ending.
+After achieving both the Regular and Pacifist Endings, he grew curious about the so-called Genocide Route.
 
-But now, he felt a bit of regret.
+But now, he felt a hint of regret.
 
-In the previous game, monsters who were his friends died one by one by his hand, simply to fulfill the conditions of the game's plot.
+In the previous game, monsters who had once been his friends were now killed one by one—just to satisfy the conditions of the game’s storyline.
 
-Including Papyrus, this skeleton who was like a little angel, who even in his dying moments still believed he could turn over a new leaf.
+Including Papyrus, that angelic little skeleton, who even in his final moments still believed the protagonist could redeem himself.
 
-"What a good excuse? You must understand better than anyone how relieving this method is!"
+[What a convenient excuse? You must understand better than anyone how relieving this method feels!]
 
-"But at least we're better than those hypocrites who stand by and watch evil deeds, those poor souls who want a quick look but are too cowardly to do it themselves!"
+[But at least we're better than those hypocrites who watch evil unfold with cold eyes—those pitiful creatures who crave to witness it all, yet are too cowardly to act themselves!]
 
-The game's narration was full of irony.
+The game’s narration was filled with irony.
 
-But he still didn't stop.
+Yet he didn’t stop.
 
-All monsters were instantly killed with a single blow.
+Every single monster was instantly killed in one blow.
 
-Until he encountered Undyne, the captain of the Royal Guard, again.
+Until he encountered Undyne, captain of the Royal Guard, once again.
 
-Next to a waterfall, Undyne appeared and blocked an attack for a small, bean-like monster.
+Beside a waterfall, Undyne appeared and took a fatal blow meant for a tiny yellow-bean-like monster.
 
-As the captain of the Royal Guard, she had always protected the monsters of the Underground, but now she said she had disappointed them.
+As captain of the Royal Guard, she had always protected the monsters of the underground. But now, she said she had let everyone down.
 
-But just as she was about to die, an impassioned BGM started playing.
+Just as she was about to die, an intense BGM began to play.
 
-The fierce wind howled, accompanied by a flash of white light.
+Wind roared, white light flashed.
 
 Undyne the Undying appeared.
 
-"This hero reshaped herself through her 'DETERMINATION' to save the world."
+[This hero reshaped herself through the 'determination' to save the world.]
 
-Listening to the impassioned BGM titled "Battle Against a True Hero," Jiang Ping felt immense irony.
+Listening to the stirring BGM titled "Battle Against a True Hero," Jiang Ping felt an immense sense of irony.
 
-The game's monster was crowned with the title of hero.
+The game’s monsters were hailed as heroes.
 
-Yet the protagonist he controlled was doing what monsters were supposed to do.
+Yet the protagonist he controlled was doing exactly what monsters should do.
 
-This was the most difficult battle he had fought in the game so far.
+This was the hardest battle he had faced so far in the game.
 
-After much effort and difficulty in defeating Undyne, he continued forward, finally arriving at a familiar place.
+After exhausting effort, he finally defeated Undyne and pressed forward.
 
-The Throne Room antechamber was magnificent and golden, and a familiar figure was waiting just ahead.
+Finally, he reached a familiar place.
 
-Before this, Sans would judge the player's actions.
+The throne room antechamber, magnificent and resplendent. Ahead, a familiar figure awaited.
 
-But now?
+Previously, Sans would judge the player’s actions.
 
-There was no more idle chatter.
+Now?
 
-It immediately entered the battle phase.
+No extra words.
 
-"It's a beautiful day outside.
+Straight into battle.
 
-Birds are singing, flowers are blooming...
+[What a beautiful day it is!]
 
-On days like these, kids like you...
+[The birds are singing, the flowers are blooming!]
 
-Should be burning in hell."
+[On a day like this, someone like you…]
 
-As the words fell, an attack like a surging tide swept over, instantly killing an unprepared Jiang Ping.
+[Should be burning… in hell!]
 
-Constant effort, constant attempts.
+As the words faded, a tide-like assault surged forward, instantly killing Jiang Ping, who had no defenses.
 
-Finally, just as he was about to defeat Sans.
+Repeated attempts, relentless effort.
 
-Sans in the game seemed to have come up with a strategy: to never move on his turn.
+Finally, just as victory over Sans seemed within reach,
 
-But unfortunately, Sans still failed.
+In-game Sans appeared to come up with a strategy—remaining motionless during his own turn.
 
-While Sans was resting, he quietly moved into attack position, ambushing and killing Sans.
+But sadly, Sans still failed.
 
-Then Flowey appeared, but unlike Flowey in the Neutral Route, this time Flowey was filled with fear towards the protagonist, begging not to be killed.
+Taking advantage of Sans’s pause, Jiang Ping quietly moved into attack range, launched a sneak attack, and killed Sans.
 
-The next moment, eight consecutive slashes cut it into pieces.
+Then Flowey appeared. Unlike the Flowey in the Regular Ending, this Flowey was filled with terror toward the protagonist, begging not to be killed.
 
-Everything seemed to be over, but at this moment, a person who bewildered Jiang Ping appeared.
+The next moment, eight consecutive slashes tore it into shreds.
 
-Chara, the first human to fall into the Underground, was awakened from death.
+Everything seemed to end—yet at that moment, a figure appeared that left Jiang Ping taken aback.
 
-Two choices appeared before him: to destroy this world, or not to destroy it.
+Chara—the first human to ever fall into the underground world—was awakened from death.
 
-Looking at the dead silence of darkness, and the eerie Chara.
+Two choices appeared before him: destroy the world, or do not destroy it.
 
-Jiang Ping only felt an immense sense of oppression.
+Facing the dead silence of darkness and the eerie presence of Chara,
 
-At first, he only wanted to know the plot of this ending.
+Jiang Ping felt overwhelming oppression.
 
-Midway, he had regretted it, but he didn't stop.
+At first, he only wanted to know the story of this ending.
 
-And now, this feeling of regret was even stronger.
+Midway, he regretted—but didn’t stop.
 
-So he chose "no."
+Now, that regret had grown even deeper.
 
-But the next moment, Chara's expression became sinister.
+So he chose "No."
 
-"You seem to have misunderstood something. When were you in control?"
+But the next moment, Chara’s expression turned sinister.
 
-As Chara's words appeared, a flash of a blade passed.
+[You seem to misunderstand something. Since when did you get to decide?]
 
-The game screen trembled, and a series of blood-red 9999 damage numbers filled the screen.
+As Chara’s words appeared, blade flashes cut through.
 
-Immediately, the entire game automatically shut down.
+The game graphics trembled. Blood-red damage numbers—strings of 9999—filled the screen.
 
-Was this the ending of the Genocide Route?
+Then the entire game shut down automatically.
 
-Jiang Ping, sitting in front of his computer, took a deep breath, his lips pressed together.
+Is this the ending of the Genocide Route?
 
-(End of chapter)
+Sitting in front of the computer, Jiang Ping took a deep breath and pressed his lips together.
+
+<<END_OF_CHAPTER>>

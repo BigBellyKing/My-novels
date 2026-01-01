@@ -5,7 +5,7 @@ import sys
 def migrate():
     # Define paths
     current_dir = os.getcwd()
-    library_dir = os.path.join(current_dir, "Library")
+    library_dir = os.path.join(current_dir, "docs")
     book_dir = os.path.join(library_dir, "Book1")
     
     # Folders to move

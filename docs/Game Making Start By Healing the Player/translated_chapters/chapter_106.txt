@@ -1,106 +1,149 @@
-Chapter 106: Game Reviews and Dark Souls Progress
+## Chapter 106 Game Reviews and Progress on Dark Souls
 
-More and more players online, as well as industry game media, were discussing the game Valiant Hearts: The Great War.
+An increasing number of players online, along with gaming media, were discussing the game *Valiant Hearts: The Great War*.
 
-In terms of sales, Valiant Hearts: The Great War obviously couldn't compare to a game like Fall Guys.
+In terms of sales, *Valiant Hearts: The Great War* clearly couldn't compare to games like *Fall Guys*.
 
-Launched for three days, priced at only 20 Yuan, it sold 310,000 copies.
-This was only 20,000 more than To the Moon last year.
+Launched at just 20 Yuan, it sold 310,000 copies in three days—only 20,000 more than last year's *To the Moon*.
 
-The price difference actually didn't have much impact; after all, it was only 5 Yuan more expensive.
-The main reason was that To the Moon's launch timing last year was excellent, coinciding with a period when players were paying close attention to Nebula Games.
+The price difference wasn't significant, after all, it was only 5 Yuan more expensive.
 
-However, during Valiant Hearts: The Great War's launch, not many players paid attention to it.
-Aside from Chen Xu mentioning it on the official Weibo account, it was basically just featured in Nebula Games' own platform recommendation slots.
+The main reason was that *To the Moon* had launched at a better time—right when players were paying close attention to Nebula Games.
 
-Achieving such sales also proved one point.
-That is, Nebula Games' influence was much greater than it was last year.
+During the launch of *Valiant Hearts: The Great War*, there wasn't nearly as much player attention.
 
-Some media outlets also reported on Valiant Hearts: The Great War, this unique anti-war themed game.
-After all, among other anti-war themed games released concurrently, it indeed fell a bit short.
-Only Valiant Hearts: The Great War was presentable.
+Aside from a brief mention by Chen Xu on the official Weibo account, the game was mostly promoted through Nebula Games' own platform recommendation slots.
 
-But for many ordinary designers dedicated to this game design competition, it was a completely different feeling.
+Still, achieving this level of sales proved one thing:
 
-In some industry designer forums, designers who had played the game were full of complaints.
-“I'm fed up! I finally made a game, and then Chen Xu actually participated!”
-“Exactly! You could've at least said something when the game design competition was announced! I was almost done with my game, and then this guy bursts onto the scene!”
-“Who would have thought? They've been hyping up Dark Souls, and then suddenly they participate and even make a game!”
-“This is so frustrating!”
-“The key is that Valiant Hearts: The Great War is top-notch, whether in terms of its depth or its story!”
-“And compared to last year's To the Moon, this game is also very rich in puzzle-solving gameplay.”
-“It feels like there's no suspense left for this game design competition!”
-“If it's about sales, I think there are still a few games that could compete with Valiant Hearts: The Great War, but for the awards… forget it, I won't say more.”
+Nebula Games' influence had grown significantly compared to last year.
 
-Two weeks after its launch, the game design competition's selection officially began, and Valiant Hearts: The Great War undoubtedly won first place in this competition.
-In the official game store, Valiant Hearts: The Great War also appeared in the homepage's recommendation slot, along with an award evaluation written by the Game Department about the game:
+Various media outlets reported on *Valiant Hearts: The Great War*, highlighting it as a unique anti-war themed game.
 
-‘As a game set during World War I, this title does not use grand scenes to reflect war, but rather through the experiences of ordinary people caught in the conflict to reflect on the pain that war brings to humanity.’
-‘By depicting the various hardships and joys and sorrows experienced by several ordinary individuals of different nationalities, ethnicities, and identities during the war, it profoundly portrays the tragic scenes of war and the immense suffering it inflicts.’
-‘Without pursuing graphical fidelity, the 2D side-scrolling cartoon graffiti style makes this game, much like the historical story it reflects: old but deeply resonant.’
-‘Although it is a war-themed game, its portrayal of bloody scenes is not gory. War scenes such as falling shells and charging soldiers falling one by one, when depicted in a cartoon style, instead appear somewhat comical. And isn't such an effect the greatest irony for a war that fundamentally has no ‘just side’?’
-‘This is a work that completely subverts traditional war themes; an ordinary person sacrificing themselves for an unjust war is the greatest indictment of war.’
+After all, among other anti-war themed games released around the same time, it truly stood out.
 
-It can be said that the evaluation was very high, but it primarily focused on the game's achievement in its plot core.
+*Valiant Hearts: The Great War* was essentially the only one worth mentioning.
 
-However, winning this game design competition award, apart from having a relatively large impact within niche groups like independent game enthusiasts and Chen Xu's fan base, did not actually cause much of a sensation among more ordinary players.
+For many ordinary designers participating in this year's Game Design Competition, the feeling was entirely different.
 
-The main reason was that, unlike last year, players were not experiencing a game drought during the period when the game design competition was held.
-Instead, there were many blockbusters on the market that they were looking forward to.
+On various designer forums within the gaming industry, designers who had played the game were filled with complaints.
 
-NetDragon and TengHua, two of the top domestic publishers, were heavily promoting their latest VR titles.
-Meanwhile, on the PC platform, Nebula Games, which stirred up a storm in the independent game scene last year, was also promoting its first true AAA PC blockbuster, Dark Souls, with two other game developers' works also being promoted concurrently.
-Unlike last year's game drought, this period of the year was quite lively.
+"I'm disgusted! I finally finished making a game, and then Chen Xu shows up!"
 
-So, for ordinary gamers, while Valiant Hearts: The Great War was excellent, it was clearly impossible for it to cause a huge sensation.
+"Exactly! At least say something when the Game Design Competition was announced. Now my game is nearly done, and this guy suddenly appears out of nowhere!"
 
-Just like last year, he received a trophy from the Game Department, and also met again with relevant leaders from the Modu Game Department. Chen Xu had already submitted his application for the game designer job title review, and basically, getting a senior job title wouldn't be a problem.
+"Who could've predicted this? He was constantly promoting *Dark Souls*, and then suddenly joins and actually releases a game!"
 
-The available resources for the official game engine had also increased by an additional 1GB compared to before.
+"This is so frustrating!"
 
-Inside Nebula Games.
-Ruan Ningxue, her face beaming with excitement, took the certificate and trophy from Chen Xu's hand and placed them in the wooden cabinet nearby: “Another certificate and trophy! I feel like in the future, we'll also be able to open a dedicated offline exhibition store, just like those big companies, to display all the honors the company has received.”
-“That day will definitely come!” Yang Xin also looked forward to it with some anticipation.
+"The worst part is, *Valiant Hearts: The Great War* is incredibly strong in both depth and story!"
 
-“Let's discuss these things later,” Chen Xu said with a smile.
+"And compared to last year's *To the Moon*, the puzzle gameplay in this game is also much richer."
 
-After chatting with Yang Xin and Ruan Ningxue for a little while, Chen Xu stood up, preparing to head to the project team to check on Dark Souls' development progress.
-At the same time, he also needed to determine the subsequent game promotion model and schedule with the marketing and operations department, based on the game's progress and content.
+"Feels like this year's Game Design Competition has no suspense at all!"
 
-For a game, especially an AAA-tier game, this was quite important.
+"If it were about sales, I think a few games might still compete with *Valiant Hearts: The Great War*, but for the awards... forget it, I won't say more."
 
-There were many examples in his previous life that could serve as models.
+Two weeks after launch, the Game Design Competition judging officially began, and *Valiant Hearts: The Great War* unquestionably won first place.
+
+On the official game store, *Valiant Hearts: The Great War* secured a top recommendation spot on the homepage, accompanied by an award review written by the Game Department:
+
+'As a game themed around World War I, this work doesn't use grand scenes to reflect war. Instead, it reflects on the pain war brings to people through the experiences of ordinary individuals caught in its grasp.'
+
+'By depicting the hardships, joys, and sorrows endured by several ordinary people of different nationalities, ethnicities, and identities during the war, it profoundly illustrates the tragic nature of war and the immense suffering it inflicts.'
+
+'Without chasing visual spectacle, the 2D side-scrolling cartoon graffiti style makes this game, like the historical stories it reflects, feel aged yet deeply moving.'
+
+'Although it's a war-themed game, its depiction of bloody scenes avoids gory realism. Scenes like artillery impacts and charging soldiers falling one by one are rendered in a cartoonish style, making them appear somewhat absurd and comical. Isn't this the greatest satire possible for a war that had no true 'just side' at all?'
+
+'This is a work that completely overturns traditional war-themed games. The sacrifice of an ordinary person for an unjust war is the strongest indictment against war itself.'
+
+The review was extremely high praise, focusing primarily on the game's achievements in story and thematic depth.
+
+However, aside from small circles such as the independent gaming community and Chen Xu's fanbase, winning this competition award didn't cause much of a sensation among the broader player base.
+
+The main reason was that, unlike last year, players weren't suffering from a game drought during the competition.
+
+Instead, the market was filled with many highly anticipated blockbusters.
+
+NetDragon and TengHua, two top domestic giants, were promoting their latest VR titles.
+
+Meanwhile, on the PC platform, Nebula Games—last year's sensation in the independent gaming community—was now teasing its first major AAA-tier PC game, *Dark Souls*, alongside new titles from two other game developers.
+
+Unlike last year's game drought, this period was incredibly lively.
+
+Therefore, while *Valiant Hearts: The Great War* was excellent, it was clearly impossible for it to generate a huge sensation among ordinary game players.
+
+Just like last year, Chen Xu received the trophy from the Game Department and met again with the relevant leaders from the Modu Game Department. He had already submitted his application for the Game Designer job title review, and obtaining the senior job title was practically guaranteed.
+
+The usable resources available from the Official Game Engine had also increased by another 1G.
+
+At Nebula Games,
+
+Ruan Ningxue took the certificate and trophy from Chen Xu and placed them into a wooden cabinet, her face glowing with excitement. "Another certificate and trophy! It feels like one day we could even open our own offline store, just like the big companies, and display all our company's honors inside."
+
+"That day will definitely come!" Yang Xin said, equally hopeful.
+
+"Let's talk about that later," Chen Xu smiled.
+
+After chatting briefly with Yang Xin and Ruan Ningxue, Chen Xu stood up and headed toward the project team to check on the development progress of *Dark Souls*.
+
+He also needed to finalize the promotional strategy and timeline with the marketing and operations team based on the game's current progress.
+
+For a game, especially a AAA-tier game,
+
+this was extremely important.
+
+There were already numerous exemplary cases from his previous life.
+
 Therefore, Chen Xu placed great importance on this aspect.
-He wouldn't let a situation arise where the marketing department hyped up the game, making grand promises to players, only for the project team to have a game that was still a half-finished product.
 
-Arriving at the Dark Souls project team, Qin Yi looked at Chen Xu, who was checking the game's content, and hesitated to speak.
-“Mr. Chen, are you really not going to lower the difficulty a bit, or add an optional setting for players?” Qin Yi watched Chen Xu designing the game map and finally couldn't help but speak.
+He wouldn't allow a situation where the Marketing Department hyped the game to the skies, promising players all kinds of grand features, while the project team hadn't even finished a playable prototype.
 
-Currently, Dark Souls' entire combat system and various related numerical designs were basically complete.
-All that remained was to integrate them into the game, such as the arrangement of various monsters.
+Arriving at the *Dark Souls* project team, Qin Yi watched Chen Xu reviewing the game content and hesitated, clearly wanting to speak.
 
-During this period, through the corresponding numerical designs and core gameplay philosophy, Qin Yi and some developers in the team had more or less understood the charm and characteristics of Dark Souls.
-Unlike typical ARPG games,
+"Mr. Chen, could we really not lower the difficulty just a bit, or at least add an optional setting for players?" Qin Yi finally couldn't hold back as he watched Chen Xu designing the game map.
 
-this game wouldn't let you systematically encounter very weak enemies and then grind monsters to level up.
-Instead, it was more realistic.
+Currently, the entire *Dark Souls* Combat System and various related numerical designs were basically complete.
 
-In traditional ARPGs, no matter how skilled a player was, they would still be restricted by numerical constraints; you could never use a level 1 character to defeat the final powerful BOSS.
-However, this was not the case in Dark Souls; although numerical values still existed.
-As long as you were skilled enough, even if you were only level 1 and had no equipment other than a small wooden stick resembling a chicken leg, you could still defeat the final BOSS.
-This was the charm of Dark Souls: there were no unbeatable monsters; if there were, it just meant your skills weren't up to par.
-Equipment and levels were merely aids.
+All that remained was integrating them into the game, such as placing monsters across the map.
 
-But charm aside, Qin Yi already felt the map design was quite malicious.
-Yet now, what did he see!?
+Through these values and core gameplay concepts, Qin Yi and some of the other developers on the team had already grasped the charm and characteristics of *Dark Souls*.
 
-In the early game, so many powerful monsters were added.
-And in the small room past the Wyvern Bridge on the High Wall of Lothric, the first treasure chest players encountered was actually a Mimic!
-Not to mention all the traps.
-Even the hints written on the ground for players were a mix of truth and falsehood.
+It was completely different from typical ARPGs.
 
-For example, next to the suspension bridge in the Catacombs, there was a hint.
-It said the suspension bridge would break, naturally leading players to think it would collapse if they walked to the middle.
-But in reality, players needed to manually cut it for it to break.
-And if players, worried the bridge would break, chose another path, countless Skeleton Blademasters would tell them that Lords of Cinder were all trash, and that they, the common soldiers, were the strongest!
-(End of Chapter)
+In this game, you weren't guided step-by-step from weak enemies to progressively stronger ones, fighting monsters and leveling up along the way.
+
+Instead, it felt more realistic.
+
+In traditional ARPGs, no matter how skilled the player, they were always constrained by numerical balances. You could never beat the final powerful boss with a level 1 character.
+
+But *Dark Souls* was different. Although numerical values still existed,
+
+if you were skilled enough, even at level 1 with no equipment—armed only with a small wooden stick resembling a chicken leg—you could still defeat the final boss.
+
+This was the charm of Dark Souls: there were no unbeatable monsters. If you couldn't win, it was simply because your skill wasn't good enough.
+
+Equipment and level were merely tools to assist you.
+
+But charm aside, Qin Yi already found the map design excessively hostile.
+
+And now, what was he seeing!?
+
+In the early game, so many powerful monsters had been placed.
+
+And in that small room before crossing the Wyvern Bridge at the High Wall of Lothric, the first treasure chest the player encountered turned out to be a monster!
+
+Not to mention all those trap mechanisms.
+
+Even the hints written on the ground were deliberately misleading.
+
+For example, next to the suspension bridge in the Catacombs, there was a message:
+
+'It says the bridge will break,' which naturally made players think the bridge would collapse when they walked to the middle.
+
+But in reality, the player had to actively cut the support rope to make it fall.
+
+And if the player, fearing the bridge might collapse, chose the alternate path instead, countless swarms of Skeleton Blademasters would teach them a lesson: 'All Lords of Cinder are trash—common soldiers like us are the strongest!'
+
+<<END_OF_CHAPTER>>

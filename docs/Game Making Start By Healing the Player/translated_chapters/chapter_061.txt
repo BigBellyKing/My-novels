@@ -1,17 +1,155 @@
-Chapter 61: Overcooked
+Chapter 61: Overcooked (Chinese title)
 
-Unlike films, which have New Year's and summer release seasons, the gaming industry is different.
 
-This is primarily because for movies, audiences need to go to cinemas. As for games, whether they are PC games or VR games, players only need to have the equipment.
+Chapter 61: Overcooked (Chinese title)
 
-The only thing to note is VR games, as their costs are high after all. Furthermore, for VR games that offer a good experience, like equipment such as gaming pods, individual users are still relatively few. More often, they are found in experience stores, similar to internet cafes. Therefore, this aspect of gaming is completely different from the so-called film release seasons.
 
-However, despite this, it's not as frantic as the film industry. In reality, there's still a lot of competition. Many game developers and designers still pay close attention to this period. After all, excluding professions like teachers and students who haven't entered society, for ordinary players, this can be said to be the biggest holiday after the National Day holiday. At the same time, during the New Year, most people's wallets can be said to be a bit fatter than usual. Naturally, this period is highly valued by game developers, leading to fierce competition. Major game platforms offer discounts, some online multiplayer games run events, and some developers and designers release new titles, including VR blockbusters.
+Unlike movies, which have distinct release seasons such as the New Year's release season or summer release season, the gaming industry operates differently.
 
-For Chen Xu, developing a large-scale game in the next two months would certainly be too late. But it's also impossible to do nothing. Although there were no internal projects after the completion of *Outlast*, in reality, the work for various departments was far from little. On the platform side, it goes without saying, there's various follow-ups and external information gathering, including feedback from platform users. Although the number of users is small, the corresponding data that should exist still does. While *Outlast* has been completed, it doesn't mean there's no work left. After development was complete, based on some experiences during *Outlast*'s development, such as various action parameters, the team was also conducting adjustments and tests on the Official Game Engine. Although it can be said that compared to the official game engine tools of his previous life, productivity has greatly increased, this thing isn't a panacea. It's like sculpting figures with modeling clay; some turn out beautifully, others are incredibly ugly. Therefore, Chen Xu would also develop a transitional project next, partly to allow the team to summarize and digest, and partly due to insufficient time. Moreover, judging from players' current online reviews, it seems there's some misunderstanding about him. Coupled with the fact that this year's Chinese New Year's Eve is much later than previous years, and there's a special holiday, 'Valentine's Day', falling right during the Spring Festival. According to current film schedules in the entertainment industry, many romance movies are lined up. However, there isn't a single one in the gaming sector. He would just fill this void. He needed to give those couples celebrating the Spring Festival a big surprise!
+The main reason is that movie audiences need to go to theaters.
 
-"A couple's game! And coincidentally, we can promote our own Nebula Games platform through player discount strategies. Kill two birds with one stone!" After chatting with Yang Xin and Ruan Ningxue for a while, Chen Xu leaned back in his office chair, looking at the keywords he had marked earlier, and an idea began to form in his mind. Coincidentally, he also had a great game for cultivating harmonious relationships between couples, which could serve as this transitional work, and perhaps even reap quite a few Emotion Points from players. Opening his computer, Chen Xu created a new folder, then pulled out a sheet of drawing paper and a pencil from a nearby drawer to do some simple sketching. Soon, simple character designs appeared on the paper. Cartoon-style characters: the Onion King, the Crocodile Chef, the Dog Chef, and the Bearded Chef, as well as a dog named Kevin with a bell. After simply outlining some of the main characters, Chen Xu began writing the concept drafts for the new game's design. *Overcooked* (also known as *Hu Nao Chu Fang* in Chinese, literally "Noisy Kitchen") was the casual simulation game Chen Xu planned to develop next. For Chen Xu and the Nebula Games team, the development difficulty of *Overcooked* was not great.
+Games, whether PC or VR, only require players to have the necessary equipment.
 
-It required far fewer resources than *Outlast*. However, the resources would obviously need to be remade. After all, the art style of *Overcooked* was different from the several games Chen Xu had made before. This was a cartoon-style game. It was also one of the best cooperative games. It was considered one of the typical representatives of this genre. Its cute and adorable art style gave the game a very wide audience; in terms of art style, whether people liked it or not, they probably wouldn't hate it. Moreover, the game's origin itself possessed significant characteristics of an Independent Game. Because the game was developed by only two people, and when the game was about to be released, the two of them only had enough money for a £13 lunch. Yet, after its release, the game quickly sold nearly 2 million copies in a short period. And it earned a nomination for Best Multiplayer Game at The Game Awards that year. Making it a unique series. As for the Parallel World, there were some related cooperative games, but they mostly lacked significant distinguishing features. Once the game genre was chosen, the next step was to decide which installment to make. *Overcooked 1*, as the series' debut, was a huge success, establishing the game's art and gameplay style. However, it still had quite a few flaws, such as no online multiplayer, fewer maps, and some operational issues. *Overcooked 2*, on the other hand, was a very successful title, fixing many problems based on the original and retaining its unique gameplay. As for *Overcooked! All You Can Eat*, apart from the graphics, there wasn't much innovation; it merely added some relatively appropriate new player tutorials and assistance. It could be said to be a collection, still containing content from 1 and 2. After a brief consideration, Chen Xu quickly made his decision. He would primarily base it on *Overcooked 2*, utilizing its fundamental settings, gameplay, and associated art style. With some adjustments to the UI and visual effects. At the same time, he would incorporate some excellent maps. As for the story, this part really wasn't crucial. After all, the story of the *Overcooked* series was essentially just a backdrop. Just like Nintendo's games in his previous life, whether it was Mario or Zelda, the goal was always to rescue the princess and defeat the Great Demon King. For these non-story-driven games, the levels were the main core. However, for now, the entire game framework still needed to be built first. At the same time, compared to the *Overcooked* of his previous life, Chen Xu was also preparing to make some new changes to the game's content. This could also be considered a test of the platform's features. *Undertale*, *Outlast*, and *To the Moon*—these three games had been launched on their own Nebula Games Platform. But there was one feature that hadn't been utilized yet. That was the Workshop feature within the platform. This was mainly because the characteristics of those three games were destined not to align with it. *Overcooked*, on the other hand, was an excellent experimental example. Because it was inherently a level-driven game. If it could be combined with the features of the Workshop, from the perspective of game content, it could be made even better than in his previous life. It just required a good deal of organization and planning in the interim.
+The only exception is VR games, which tend to be more expensive.
 
-(End of Chapter)
+Currently, high-quality VR game experiences, such as those provided by gaming pods, are still relatively rare among individual users.
+
+Most are found in experience stores, which are somewhat similar to internet cafes.
+
+Therefore, the gaming industry operates completely differently from movie release schedules.
+
+Although the gaming industry isn't as intense as the film industry in this regard, competition still exists.
+
+Many game developers and designers still pay close attention to this period.
+
+Aside from teachers and students who haven't entered society, for ordinary players, this is essentially the largest holiday after National Day.
+
+Moreover, during the Spring Festival, most people have fuller wallets than usual.
+
+Naturally, this makes it a prime target for game developers, resulting in fierce competition.
+
+Major game platforms offer discounts, online multiplayer games host special events, and many developers release new titles—some even launching VR blockbusters.
+
+For Chen Xu, developing a large-scale game in the next two months would be impossible.
+
+But that didn't mean he could do nothing.
+
+Although the team had no active projects after completing Outlast, work across departments was far from light.
+
+The platform side, for instance, was busy with follow-ups, gathering external information, and collecting feedback from platform users.
+
+Even though the user base was small, the necessary data was still being collected.
+
+Completing Outlast didn't mean the work was over.
+
+After its completion, the team used the experience gained—particularly from gameplay actions and parameters—to conduct adjustments and testing on the Official Game Engine.
+
+Although the engine significantly improved productivity compared to the one from Chen Xu's previous life, it wasn't flawless.
+
+It was like sculpting with clay—some creations turned out beautifully, while others were hideously ugly.
+
+Therefore, Chen Xu decided to develop a transitional project. It would allow the team to summarize and internalize their experiences, and given the limited time, it was a practical choice.
+
+Moreover, judging from current online player reviews, there seemed to be some misunderstanding about him.
+
+This year, Chinese New Year's Eve falls much later than usual, and Valentine's Day happens to fall right in the middle of the Spring Festival.
+
+Looking at film schedules in the entertainment industry, numerous romantic films are being released.
+
+Yet, there isn't a single romantic game.
+
+He might as well fill that gap.
+
+He could give couples celebrating the Spring Festival a big surprise!
+
+"A couple's game—plus, I can promote our Nebula Games Platform through player discounts. A win-win situation!"
+
+After discussing with Yang Xin and Ruan Ningxue, Chen Xu returned to his office, leaned back in his chair, and looked at the keywords he'd marked earlier. An idea began to form.
+
+Perfect—he already had a great game that could strengthen relationships between couples. It would serve as an excellent transitional project and might even earn him plenty of Emotion Points from players.
+
+He turned on his computer, created a new folder, then pulled out a sheet of paper and a pencil from his drawer to begin sketching.
+
+Soon, simple character designs appeared on the paper.
+
+Cartoon-style characters: the Onion King, the Crocodile Chef, the Dog Chef, the Bearded Chef, and a dog named Kevin wearing a bell.
+
+After roughly outlining the main characters, Chen Xu began drafting the design concept document for the new game.
+
+Overcooked (Chinese title), also known as Overcooked, was the casual simulation game Chen Xu planned to develop next.
+
+For Chen Xu and the Nebula Games team, developing Overcooked wouldn't be difficult.
+
+It required far fewer resources than Outlast.
+
+Still, all assets would need to be created from scratch.
+
+After all, Overcooked's art style was completely different from the previous games Chen Xu had made.
+
+This was a cartoon-style game.
+
+And a standout among cooperative games.
+
+One of the genre's iconic representatives.
+
+Its adorable, adorable art style gave the game incredibly broad appeal. Regardless of personal taste, few could truly dislike it.
+
+Moreover, the game itself had strong traits of an independent game.
+
+It was developed by only two people, and by the time of its release, they had just enough money left for a 13-pound lunch.
+
+Yet, shortly after launch, it sold nearly 2 million copies.
+
+It even earned a nomination for Best Multiplayer Game at The Game Awards that year.
+
+This turned it into a unique franchise.
+
+In this Parallel World, there were some cooperative games, but none stood out significantly.
+
+After confirming the game type, the next decision was which version to base it on.
+
+Overcooked 1, the series' debut, achieved great success and established the game's art style and gameplay.
+
+But it had many flaws—no online multiplayer, few maps, and various control issues.
+
+Overcooked 2, however, was a highly successful sequel. It fixed many of the original's problems while preserving the game's unique mechanics.
+
+Overcooked! All You Can Eat, on the other hand, offered little innovation beyond improved visuals. It added some helpful new player tutorials and support features, essentially making it a compilation edition featuring content from both 1 and 2.
+
+After brief consideration, Chen Xu quickly made his decision.
+
+He would base the game primarily on Overcooked 2, adopting its core setting, gameplay, and art style.
+
+He would make adjustments to the UI and visual effects.
+
+Additionally, he would include some particularly well-designed maps.
+
+As for the story, that wasn't particularly important.
+
+In the Overcooked series, the story is essentially just a backdrop.
+
+Much like Nintendo's games from Chen Xu's previous life—whether Mario or Zelda—the plot always revolved around rescuing a princess and defeating a final boss.
+
+For non-story-driven games like these, the levels are the true core.
+
+For now, though, the priority was to establish the game's basic framework.
+
+Furthermore, compared to the version from his previous life, Chen Xu planned to introduce some new changes to the game's content.
+
+It would also serve as a test for platform features.
+
+Undertale, Outlast, and To the Moon had all been released on their own Nebula Games Platform.
+
+But one feature hadn't been utilized yet—the Workshop (modding platform) on the platform.
+
+The nature of those three games simply didn't align with modding.
+
+But Overcooked was a perfect candidate for experimentation.
+
+After all, it was fundamentally a level-driven game.
+
+If combined with the Workshop's features, it could potentially surpass its previous-life counterpart in terms of content.
+
+But this would require careful planning and organization.
+
+<<END_OF_CHAPTER>>

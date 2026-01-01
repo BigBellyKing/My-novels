@@ -1,53 +1,143 @@
-### Chapter 95: If Players Can't Have an Immersive Experience, Is He Still Human?
+Chapter 95: If you don't give players an immersive experience, are you even human?
+
+Chapter 95: If you don't give players an immersive experience, are you even human?
 
 For now, let's set aside the story background.
 
-From a gameplay perspective alone, whether it's numerical attribute allocation, equipment, or combat system elements like rolling, parrying, and backstabs, these are generally not new concepts in other ACT and RPG games. However, the biggest characteristic of Dark Souls is its perfect fusion of these existing elements with map level design and boss creation, forming a distinct level-driven game. Everything serves to drive players to advance through levels, defeat powerful enemies, and gain a sense of accomplishment and pride.
+Focusing solely on gameplay.
 
-Combined with the Memory Capsule, the entire concept draft took Chen Xu over a full day. And it wasn't even a complete concept draft. It only briefly touched upon the game's core elements, with no mention of broader content, including detailed plot. After all, it was just a preliminary draft, and some detailed content needed to be refined before proceeding.
+Elements such as numerical design, equipment, rolling, Perfect Guard, backstabs, and other aspects of the Combat System—
 
-Everyone in the meeting room had arrived early, discussing softly in their seats. However, as Chen Xu pushed the door open and entered, everyone immediately quieted down.
+These aren't particularly novel concepts in other ACT and RPG games.
 
-"I believe everyone generally has a guess about today's meeting content. That's right, it's about a new game." "Without further ado, let me first introduce the game project. The theme is a Western fantasy story." "In terms of art style, it's quite different from the games we've made so far." "The overall aesthetic is based on deep, dark, realistic art, with the initial impression of the entire game rooted in Western European architecture. The game will also feature different areas like Farron Keep, Undead Burg, Irithyll of the Boreal Valley, etc., encompassing various cultural elements such as Baroque-style architecture and Romanesque cathedrals."
+However, the biggest characteristic of *Dark Souls* is how it perfectly blends these existing elements with map levels and boss designs, creating a distinct level-driven game.
 
-Chen Xu's hands were pressed on the table, while the projection screen behind him displayed various concept art pieces he had hand-drawn. If the story of Dark Souls was the skeleton and the gameplay the soul, then the game's art presentation was clearly its skin. This was also the first thing players would encounter, which is why Chen Xu made the CGI so exquisite and released it at the exhibition.
+Everything is designed to serve one purpose: pushing players forward through levels, overcoming powerful enemies, and achieving a sense of accomplishment and pride.
 
-Classic Western European architecture, coupled with a darker art style, and medieval-like melee weapon armor and weapon designs. Clearly, the art style revealed by Dark Souls at the exhibition had already struck a chord with players.
+Combined with the Memory Capsule, the entire concept draft took Chen Xu nearly a full day and a half to complete.
 
-Next, Chen Xu described some of the systems in Dark Souls. For example, the combat system. Aside from invincible rolling, parrying, backstabs, and durability, these settings are already present in most ACT games. Everyone was not unfamiliar with them; they basically had a concept in their minds, and only minor adjustments and changes to the actions would be needed later.
+And even then, it wasn't a complete draft.
 
-In addition, there will be some special settings. For example, various different weapons will have their unique weapon arts.
+It only briefly outlined the game's core elements. Broader content, including detailed storylines, was entirely omitted.
 
-At the same time, unlike his previous life, the technological capabilities of the Parallel World would allow Chen Xu to make the game's visual expressiveness even better. Of course, this wasn't the main core, but rather an experience in details.
+After all, this was just a preliminary draft. Some finer details still needed refinement before further progress could be made.
 
-"Furthermore, our main work in the early stage will focus on the output of art assets. And for you, Qin Yi, I need to make the game's actions more outstanding." Chen Xu said, looking at Qin Yi.
+Everyone had arrived early in the meeting room, quietly discussing among themselves while seated in their places.
 
-Hearing Chen Xu's words, Qin Yi and the others nodded. Although Dark Souls is not an ACT type game, but rather a level-driven game, this doesn't mean that action elements are unimportant in the game. On the contrary, action elements are also a core point in the Dark Souls experience.
+But as soon as Chen Xu pushed open the door and entered, the room instantly fell silent.
 
-Or rather, any game involving action has very stringent requirements for its effects. To be more direct about action feedback, it refers to the so-called sense of impact and fluidity.
+"I believe most of you already have an idea about today's meeting agenda. That's right—it's about our new game."
 
-For instance, in his previous life, the famous Elder Scrolls V, its sense of impact was basically equivalent to swinging at air. As an ARPG game, while it didn't hinder its excellence, in terms of combat experience, it really wasn't great, even becoming a deterrent for some players.
+"No need for extra words. Let me first introduce the project. The theme will be a Western fantasy setting."
 
-The most common way to create a sense of impact, besides sound effects, is the so-called freeze-frame impact. To put it simply, if a weapon takes 60 frames from its attack to its recovery when hitting a monster, then upon impact, it will pause for a few frames, creating the sensation of a blade sinking into flesh. This is the so-called sense of impact.
+"In terms of art style, it'll differ significantly from the games we've developed so far."
 
-For example, Monster Hunter, God of War, and Street Fighter from his previous life were among the best in this regard. But for Dark Souls, creating an appropriate sense of impact, rather than just swinging at air, would require debugging various parameters.
+"The overall tone will be a deep, dark realistic art style. The game's visual impression will be based on Western European architecture. Within the game, there will be various regions—Farron Keep, Undead Burg, Irithyll of the Boreal Valley, and more—encompassing diverse cultural elements such as Baroque-style structures and Romanesque churches."
 
-Freeze-frame impact isn't suitable for all games. For example, the fluid rhythm of Ninja Gaiden cutting tofu from his previous life, and the combo sequences of the Devil May Cry series, are basically not suited for the application of freeze-frame impact. These all require continuous modification by the team; if Chen Xu had to do everything himself, it would be a bit unrealistic. And he certainly wouldn't say he wouldn't develop action-oriented games in the future. So, the team still needed to constantly try to optimize. Chen Xu already had this intention when developing Outlast. At the same time, during the two months of developing Fall Guys and Sanguosha, Qin Yi and his team's main work was also continuously optimizing action feedback. The results so far could be considered acceptable, but there's still considerable room for improvement.
+Chen Xu pressed his hands on the table. Behind him, the projector screen displayed various hand-drawn concept art pieces.
 
-As for other game content, it would be relatively straightforward, mainly producing art assets through outsourcing. For example, in terms of map level design, the various areas of Dark Souls are interconnected, which is quite complex. This is because it's a standard interconnected design.
+If the story of *Dark Souls* was its skeleton and gameplay its soul, then its visual presentation was clearly its outer shell.
 
-For instance, a player in Area A goes to Area B, then discovers a small path in Area B that leads back to Area A. Finally, after going to Area C, they find another small path that also leads back to Area A. This is actually a standard Metroidvania-style map design technique. However, in Dark Souls, it transforms from a 2D side-scroller into a true 3D mode. It includes some puzzle-solving and exploration content, which is a unique feature of Dark Souls.
+And this was precisely the first thing players would experience. That's why Chen Xu had invested so much effort into making the CGI exceptionally polished, then unveiled it at the exhibition.
 
-In his previous life, Dark Souls 3 displeased many veteran players who had played Dark Souls 1, believing that DS3 was not as good as DS1, mainly due to the changes in map design. As for new players, this design could be considered a kindness.
+Classic European-style architecture, combined with a dark aesthetic, and armor and weapon designs reminiscent of medieval melee weapon armor.
 
-Even so, listening to Chen Xu explain the detailed game content, Ruan Ningxue, who was in charge of map levels, still looked bewildered. "The game won't have a mini-map design?" Ruan Ningxue asked, bewildered, noticing a core point Chen Xu mentioned.
+Clearly, the art style of *Dark Souls* revealed at the exhibition had already struck a deep chord with players.
 
-"Exactly. This way, players can truly feel the charm of the in-game maps. Why do more and more games minimize their UI, or even strive to eliminate UI from the game?" "It's all to increase players' sense of immersion. Think about the background of Dark Souls; it's a world of despair. The absence of a mini-map design is intended to intensify this sense of immersion for players, and the interconnected map design also allows players to feel the surprise of discovery," Chen Xu explained with a smile.
+Next, Chen Xu explained some of the systems in *Dark Souls*.
 
-Without mini-map guidance, this is also a major characteristic of Souls-like games. Even though the later Elden Ring has a map system, players still have to manually collect map fragments, just like in Hollow Knight. It can be said to be a quite classic design.
+For instance, the Combat System. Besides mechanics like invincible rolling, Perfect Guard, backstabs, and durability—all of which were already present in most ACT games—
 
-As for getting lost? Die a few times, run back and forth, and you'll get to know it, won't you? This is all for the players! If players spend money on a game, and you don't think about how to make them feel more immersive, is he still human?
+The team wasn't particularly unfamiliar with them. Everyone already had a general idea in mind. The remaining task was just fine-tuning and subtle adjustments to the actions.
 
-(Daily plea for recommendation votes and monthly passes! Also, tomorrow's update will be a bit late. The reason is that this book might go on sale tomorrow, but it might not~ If it does go on sale, then I can update freely, so you'll never be able to say 'you're so short' again.)
+Additionally, there would be some special mechanics.
 
-(End of chapter)
+For example, different weapons would each have unique weapon arts.
+
+Moreover, unlike in his previous life, the Technical capabilities of this Parallel World allowed Chen Xu to enhance the game's visual presentation even further.
+
+Of course, this wasn't the main core—it was more about refining the details of the experience.
+
+"Also, our primary focus at the beginning will be on producing art resources. Qin Yi, for your team, I need the game's actions to be even more outstanding."
+
+Chen Xu said, looking directly at Qin Yi.
+
+Upon hearing Chen Xu's words, Qin Yi and the others nodded in agreement.
+
+Although *Dark Souls* wasn't an ACT-type game but rather a level-driven game,
+
+This didn't mean Action Elements were unimportant. Quite the opposite—Action Elements were a Core Aspect of the *Dark Souls* experience.
+
+Or rather, any game involving action demands extremely strict requirements for its effects.
+
+Speaking more directly about action feedback, it boils down to the sense of impact and fluidity.
+
+For example, the renowned *Elder Scrolls V* from Chen Xu's previous life—its sense of impact was essentially equivalent to swinging at air.
+
+As an ARPG, while this didn't detract from its overall excellence, in terms of combat experience, it was genuinely lackluster—so much so that it became a turn-off for some players.
+
+The most common method to create a sense of impact, aside from sound effects, is the freeze-frame impact technique.
+
+Put simply: if a weapon swing from initiation to retraction takes 60 frames, when it lands on a monster, the animation pauses for a few frames, creating the sensation of a blade cutting into flesh. This is what's known as the sense of impact.
+
+Games like *Monster Hunter (informal)*, *God of War*, and *Street Fighter* from Chen Xu's previous life were prime examples of this.
+
+However, for *Dark Souls*, creating the right sense of impact—avoiding the feeling of cutting air—would require meticulous parameter tuning.
+
+Freeze-frame impact isn't suitable for every game. For instance, the fluid rhythm of *Ninja Gaiden*'s cutting tofu or the combo attacks in the *Devil May Cry* series generally don't benefit from freeze-frame impact.
+
+These were aspects that required continuous team iteration. Relying solely on Chen Xu to personally handle everything wasn't realistic.
+
+Moreover, in the future, he definitely wouldn't stop developing games involving action mechanics.
+
+Therefore, the team needed to keep experimenting and optimizing. During the development of *Outlast*, Chen Xu had already had such intentions.
+
+Meanwhile, over the past two months while developing *Fall Guys* and *Sanguosha*, Qin Yi's team had primarily focused on optimizing action feedback.
+
+The current effectiveness was barely satisfactory, but there was still considerable room for improvement.
+
+As for other game content, it was relatively straightforward—mainly outsourcing art resource production.
+
+Regarding map level design, the interconnected nature of *Dark Souls*' regions made it quite complex.
+
+This was a standard interconnected design.
+
+For example, a player in Area A travels to Area B, only to discover a hidden path leading back to Area A.
+
+Later, upon reaching Area C, they find yet another hidden path that also loops back to Area A.
+
+This was a classic Metroidvania-style map design technique.
+
+However, in *Dark Souls*, it evolved from 2D side-scrolling into a true 3D立体 mode.
+
+With some puzzle-solving and exploration elements, this became one of *Dark Souls*' distinctive features.
+
+In Chen Xu's previous life, many veteran players who had experienced *Dark Souls 1* were dissatisfied with *Dark Souls 3*, believing *DS3* wasn't as good as *DS1*, primarily due to changes in map design.
+
+For new players, however, this design could be seen as an act of mercy.
+
+Even so, as Chen Xu detailed the game's content, Ruan Ningxue, responsible for map levels, looked bewildered.
+
+"You're not including a mini-map in the game?" Ruan Ningxue noticed a Core Aspect Chen Xu mentioned and asked, looking bewildered.
+
+"Exactly. This way, players can truly appreciate the charm of the game's map. Why are more and more games minimizing their UI, or even striving to hide it entirely?"
+
+"It's to enhance the player's sense of immersion. Think about *Dark Souls*' setting—a world of despair. Removing the mini-map strengthens this immersion. Combined with the interconnected map design, it also gives players a sense of delightful discovery."
+
+Chen Xu explained with a smile.
+
+The absence of a mini-map was indeed a hallmark of Souls-like games.
+
+Even in subsequent titles like *Elden Ring*, which featured a map system, players still had to manually collect map fragments—just like in *Hollow Knight*—a design considered truly classic.
+
+As for getting lost?
+
+Just die a few more times and run back and forth—eventually, you'll memorize it!
+
+All of this was for the players!
+
+If a developer takes players' money but doesn't strive to give them a more immersive experience, are they even human?
+
+(Daily request for recommendation votes and Monthly Pass! Also, tomorrow's update will be a bit later. The reason is that the book might go on sale tomorrow—or it might not. If it does go on sale, I'll be able to release updates freely, and you'll never be able to say those three words—'you're too short'—again.)
+
+(End of Chapter) <<END_OF_CHAPTER>>

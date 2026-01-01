@@ -1,137 +1,141 @@
 Chapter 28: To the Moon
 
-"But the event is only in half a month or so! Can we make it in time?" Yang Xin expressed her doubts.
+Chapter 28: To the Moon
 
-Although the registration deadline was early September.
+"But the event is less than half a month away! Can we even make it in time?" Yang Xin expressed doubt.
 
-However, the announcement had been released as early as June.
+Although the registration period started in early September,
 
-In other words, game publishers and producers targeting this Sci-Fi Game Design Competition had already begun developing their games two or three months ago.
+the announcement for the event had actually been released six months earlier.
 
-"That's right, and for a sci-fi themed game, our current manpower should be far from enough, shouldn't it?" Ruan Ningxue also interjected.
+This meant that game developers and producers aiming for this game competition had already begun development two or three months ago.
 
-After the development of Mirror (Game) and Undertale, Ruan Ningxue was no longer as ignorant as she once was.
+"Yeah, and for a sci-fi themed game, our current team size is definitely insufficient, right?" Ruan Ningxue chimed in.
 
-Although a sci-fi game certainly wouldn't be a big production, with only three developers in the company and such a tight schedule, it would definitely be too late, right?
+After working on both *Mirror (Game)* and *Undertale*, Ruan Ningxue was no longer the clueless beginner she once was.
 
-"Half a month is enough. This is a game with an even smaller scope than Undertale," Chen Xu said with a smile.
+A sci-fi themed game, even if it wasn't going to be a Major Production, would still be impossible to complete in such a short time with only three developers on the team, wouldn't it?
 
-"A game with an even smaller scope than Undertale!?" Yang Xin and Ruan Ningxue looked at Chen Xu, a little dumbfounded.
+"Half a month is more than enough. This game will be even smaller in scale than *Undertale*," Chen Xu said with a smile.
 
-Is Undertale excellent?
+"Even smaller in scale than *Undertale*!?" Yang Xin and Ruan Ningxue stared at Chen Xu, dumbfounded.
 
-Naturally, it is.
+Was *Undertale* excellent?
 
-Is Undertale's scope large?
+Naturally, it was excellent.
+
+Was *Undertale*'s scale large?
 
 Not at all.
 
-But now, according to Chen Xu, this new game has an even smaller scope compared to Undertale?
+But now, according to Chen Xu, the new game would be even smaller in scale than *Undertale*?
 
-What kind of game is it then?
+What kind of game was this going to be?
 
-"Even smaller than Undertale, can it still win a prize in the competition?" Yang Xin expressed her doubts.
+"If it's even smaller than *Undertale*, can it really win a ranking in the competition?" Yang Xin remained skeptical.
 
-Ruan Ningxue didn't speak, but looked at Chen Xu, waiting for his explanation.
+Ruan Ningxue stayed silent, gazing at Chen Xu, waiting for his explanation.
 
-"It's about participation, and winning a prize has nothing to do with scope. What truly matters is whether it can move players and judges," Chen Xu said with a smile.
+"It's the participation that matters. And whether we win an award has nothing to do with scale. What truly matters is whether the game can move players and impress the judges," Chen Xu said with a smile.
 
-Hearing Chen Xu's words, Yang Xin was speechless.
+Hearing this, Yang Xin was speechless.
 
-"So the new game is similar to Undertale, but non-META?" Yang Xin guessed, asking Chen Xu.
+"So is the new work similar to *Undertale*, but not a META-style game?" Yang Xin guessed, turning to Chen Xu for confirmation.
 
-Half a month, and only three people in their development team.
+Half a month, with only three people on the development team.
 
-In terms of genre, it could pretty much be guessed.
+In terms of genre, it was almost possible to predict what kind of game it would be.
 
-In such a short time, to develop a game, even by independent game standards, it would basically be a type like Undertale.
+With such a short development window, even by independent game standards, it would essentially have to be a game like *Undertale*.
 
-"Pretty much," Chen Xu nodded with a smile.
+"Pretty much," Chen Xu said, nodding with a smile.
 
-Regarding ideas for new games, there were actually many directions to choose from.
+In reality, there were still many directions Chen Xu could have chosen for the new game.
 
-However, considering the current development and the corresponding points, an idea had already formed in Chen Xu's mind when he saw this event.
+But considering the current situation and the accumulation of Emotion Points, the moment he saw the competition announcement, an idea had already formed in his mind.
 
-Looking at the curious Ruan Ningxue and Yang Xin, Chen Xu, seated, smiled and gave a simple description.
+Facing the curious gazes of Ruan Ningxue and Yang Xin, Chen Xu, seated at his desk, began to describe it simply with a smile.
 
-"In a future world, there exists a company that can, with the aid of special machines, enter people's memories and alter them."
+"In a Future Era, there exists a company that uses special machines to enter people's memories and alter them."
 
-"However, this artificial memory is not temporary but permanent, meaning that when the person who had the memory implanted wakes up, it will conflict with their true memories, leading to memory confusion."
+"But these artificial memories aren't temporary—they're permanent. This means that when the person wakes up, their implanted memories will clash with their real ones, causing memory confusion."
 
-"Therefore, this technology can only be applied to the dying, allowing those with regrets in life to fulfill their wishes by altering their memories, creating new lives and memories so that the patient dies without any regrets."
+"Therefore, this technology can only be applied to people on the verge of death—those who lived with regrets and wish to fulfill their final desires by rewriting their memories, allowing them to pass away without any regrets."
 
-"The game's story begins with two employees of the company providing this service, Dr. Eva and Dr. Neil, working to fulfill the dying Johnny's lifelong dream: to go to the moon."
+"The entire story begins with two employees from this company, Dr. Eva and Dr. Neil, fulfilling the lifelong dream of a dying man named Johnny: to go to the moon."
 
-The game Chen Xu decided to make was called To the Moon.
+The game Chen Xu had decided to make was called *To the Moon*.
 
-Of course, it sounds very much like a sci-fi game.
+Of course, it sounded like a proper sci-fi game at first glance.
 
-But in reality, this game is a storytelling game, narrating the tale of a pair of lovers.
+But in reality, it was a narrative-driven game telling the love story of a couple.
 
-This is a game with a super small scope. In its previous life, this game was even made with a game engine tool called RPG Maker.
+It was an extremely small-scale game. In his previous life, this game had even been made using a tool called RPG Maker.
 
-And the entire game has no combat content; its gameplay consists of story dialogue and puzzles.
+The entire game featured no combat at all. Its Gameplay consisted solely of story dialogues and puzzle-solving.
 
-Yet, such a simple game has moved countless players, truly a game that makes even tough guys cry.
+Yet, despite its simplicity, this game moved countless players to tears—truly a game that makes even tough guys cry.
 
-And To the Moon has won countless accolades.
+Moreover, *To the Moon* had won numerous awards.
 
-In GameSpot's Game of the Year awards in 2011, it surpassed major titles like Catherine and Portal 2, winning the Best Story award.
+In 2011, it won GameSpot's Best Writing award, beating out blockbusters like *Catherine* and *Portal 2*.
 
-It also won multiple awards in the same year, including Metacritic Best Game and WIRED Best Game.
+It also claimed multiple awards, including Metacritic's Best Game and WIRED's Best Game that same year.
 
-Additionally, it was highly nominated for Steam's "I Didn't Cry, There Was Just Something In My Eye" award in 2017.
+Additionally, in Steam's 2017 award category "I Didn't Cry, There Was Just Something In My Eye," it was nominated and ranked highly.
 
-Its producer, Kan Gao, even appeared on CCVT's program 'World, Listen to Me'.
+Its producer, Kan Gao, even appeared on CCVT's program *World, Listen to Me*.
 
-For Chen Xu, choosing this game was, on one hand, because it had some sci-fi elements, making it suitable for participating in this event.
+For Chen Xu, choosing this game served a dual purpose. On one hand, it had a slight sci-fi element, making it suitable for the competition.
 
 On the other hand, Chen Xu wanted to use this game to harvest a wave of Emotion Points from players.
 
-After all, relying solely on Undertale and Mirror (Game) was a bit insufficient.
+After all, relying solely on *Undertale* and *Mirror (Game)* was becoming insufficient.
 
-As for winning awards, Chen Xu could only say it was up to fate, as classifying To the Moon as a sci-fi title was still too far-fetched.
+As for winning an award, Chen Xu could only say it was up to fate. Strictly speaking, classifying *To the Moon* as a sci-fi themed game felt quite forced.
 
-Its modest scope and unique ability to heal countless players were all reasons why Chen Xu decided to choose this game.
+Its small scale and its unique, healing nature for players were exactly why Chen Xu decided on this game.
 
-Of course, before this, Chen Xu had also considered notoriously difficult games like Jump King and Getting Over It.
+Of course, prior to this, Chen Xu had also considered other frustrating games like *Jump King* and *Getting Over It*.
 
-But after some thought, he decided to give up on them.
+But after some thought, he decided to abandon the idea.
 
-Although these games were quite effective in terms of "shearing Emotion Points from players."
+From the perspective of harvesting Emotion Points from players, those games were indeed intense.
 
-But the crucial point was the system's judgment: it only counted if players had made a purchase.
+But the key issue was the system's judgment criteria—it only counted if players had spent money.
 
-If one didn't have money, choosing these types of games was essentially a gamble.
+If players didn't spend, choosing such games would essentially be gambling.
 
-Win, and get a luxurious spa treatment; lose, and carry heavy bags at the dock.
+Win, and you get luxury hotel treatment; lose, and you're stuck carrying heavy cargo at the docks.
 
-Of course, that's if you don't have money. If you do have money, with a little guidance and good marketing, these types of games can also become popular, phenomenal titles, especially since the live streaming industry in the Parallel World is very developed.
+That was the situation if you had no money. But if you did have money, with proper marketing and guidance, these games could become wildly popular phenomenon-level hits—especially in this Parallel World where the live-streaming industry was highly developed.
 
-And these games could be considered standard live-streamable games.
+These games were practically the standard for live-streaming content.
 
-But even if they were popular, if not many players played them, Chen Xu wouldn't be able to harvest Emotion Points.
+But popularity aside, if players didn't actually play much, Chen Xu wouldn't be able to harvest Emotion Points.
 
-Moreover, these games were truly a bit infuriating, and for the current Chen Xu, a good reputation was still very important.
+Moreover, these games were genuinely frustrating. For Chen Xu's current situation, maintaining a good reputation was still very important.
 
-So, after just a thought, he ruled out those games and chose To the Moon instead.
+So after just a moment of consideration, he ruled them out and settled on *To the Moon*.
 
-Good reputation and harvesting Emotion Points from players – it was truly killing two birds with one stone!
+Good reputation and harvesting Emotion Points—truly killing two birds with one stone!
 
-After briefly explaining the game to Ruan Ningxue and Yang Xin.
+………………
 
-Chen Xu also returned to his office to write the concept drafts for To the Moon.
+After briefly explaining the game to Ruan Ningxue and Yang Xin,
 
-Although called concept drafts, it was essentially the writing of the core plot.
+Chen Xu returned to his office to begin drafting the design concept drafts for *To the Moon*.
 
-For this, Chen Xu also used a Memory Capsule to explore the deep memories in his mind.
+Well, calling it a design concept draft was a bit generous—it was mainly about writing the core story.
 
-As for the classic piano pieces from To the Moon, Chen Xu also wrote down the sheet music. With references, his current musical ability wouldn't have much trouble.
+For this, Chen Xu used a Memory Capsule to explore the depths of his memory.
 
-The rest were improvements, making the game's controls and visual presentation even better.
+He also wrote down the sheet music for several of *To the Moon*'s iconic piano pieces. With references available, his current music ability was more than sufficient.
 
-After all, the original To the Moon, being a pixel game made with RPG Maker, had its visual presentation and awkward controls as its biggest flaws.
+The rest would be minor improvements—enhancing the game's feel (gaming) and visual presentation.
 
-And with the technology of the Parallel World, half a month was entirely sufficient for developing To the Moon.
+After all, the original *To the Moon*, as a pixel game made with RPG Maker, had significant flaws in its graphics and awkward control mechanics.
 
-(End of chapter)
+But with the technology available in this Parallel World, half a month was more than enough time to develop *To the Moon*.
+
+<<END_OF_CHAPTER>>

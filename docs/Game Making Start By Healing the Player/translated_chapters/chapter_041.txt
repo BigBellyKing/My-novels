@@ -1,155 +1,143 @@
-Chapter 41: Final Verdict
+Chapter 41: One Hammer, One Decision
 
-As time progressed, the sales of *To the Moon* gradually increased.
+As time passed, the sales of *To the Moon* continued to rise steadily.
 
-At the same time, numerous domestic media outlets that had been following this event also published articles.
+At the same time, numerous domestic media outlets that had been closely following this event began releasing articles.
 
-*An Unforgettable Love, 'To the Moon' - A Game That Will Bring You To Tears!*
+*An Unforgettable Love Story: 'To the Moon,' a Game That Will Make You Cry!* 
 
-*Game Review: A Game That Touches Your Soul!*
+*Game Review: A Game That Strikes Straight to Your Heart!* 
 
-*Sci-Fi Game Design Competition Favorite, Can 'To the Moon' Really Be Considered a Sci-Fi Game?*
+*Top Contender in the Game Design Competition: Can 'To the Moon' Even Be Considered a Sci-Fi Game?* 
 
-*A Game That Makes Countless Tough Guys Cry*
+*A Game That Makes Countless Tough Guys Shed Tears*
 
-A week after the Sci-Fi Game Design Competition began, it was already very clear which games could contend for awards and which could not.
+Ever since the Game Design Competition began a week ago, it had already become quite clear which games stood a chance at winning awards, and which ones didn’t.
 
-Some games that were merely there to participate and make an appearance didn't really make much of a splash.
+Some entries were merely participating for show, and naturally failed to generate much buzz.
 
-As for the games aspiring to win awards, by now, many players, including game designers in the industry, are well aware of them.
+As for those serious contenders, both players and game designers within the gaming industry already had a clear idea.
 
-The first prize was essentially a contest between *To the Moon* and *Galaxy Heroes* from NetDragon's Jianhuolei Studio.
+The top prize was essentially down to a final showdown between *To the Moon* and *Galaxy Heroes*, developed by Jianhuolei Studio under NetDragon.
 
-In the player voting section, *To the Moon* significantly surpassed Jianhuolei Studio's *Galaxy Heroes*.
+In the player voting category, *To the Moon* had pulled significantly ahead of *Galaxy Heroes*.
 
-However, this wasn't solely based on player evaluations; the official review by the Game Department was also quite important.
+However, the final result wasn’t determined by player votes alone—the official evaluation from the Game Department carried considerable weight.
 
-Although *To the Moon* held some advantages,
+While *To the Moon* held a certain advantage, it wasn’t overwhelming.
 
-It hadn't reached a crushing victory yet.
+So everything still hinged on the official scoring.
 
-So, it still depended on the official scores.
+During this time, players online were fiercely debating the two games.
 
-Players had also been endlessly debating these two games online during this period.
+'The winner will definitely be *Galaxy Heroes*. I admit *To the Moon* has a great story, but is it even a game? It has zero gameplay. Can it even be called a sci-fi game?'
 
-'The final winner will definitely be *Galaxy Heroes*. I admit *To the Moon* has a good story, but it has no gameplay at all, so can it even be considered a game? Or a sci-fi game?'
+'Seconding the previous comment—*Galaxy Heroes* winning would truly be well-deserved!'
 
-'I second the comment above! *Galaxy Heroes* truly deserves to win!'
+'Oh, come on. What exactly do you mean by “gameplay”? Care to translate that for me? Isn’t storytelling a form of gameplay? Isn’t music a form of gameplay? Does it only count as gameplay if you’re fighting monsters or solving puzzles?'
 
-'Oh, come on, what do you mean by gameplay? Translate that for me, dammit! Isn't story a form of gameplay? Isn't music a form of gameplay? Does it only count as gameplay if you're fighting monsters and solving puzzles?'
+'Exactly. If *To the Moon* doesn’t qualify as a sci-fi game, then most of the other entries shouldn’t either. Why don’t you ask the Game Department to disqualify them all?'
 
-'Exactly! If *To the Moon* isn't considered a sci-fi game, then a huge number of entries shouldn't be either. So, tell the Game Department to remove them all then.'
+'La-la-la, not listening, not listening. Anyway, my vote goes to *To the Moon*.'
 
-'La la la, I'm not listening! My vote went to *To the Moon* anyway!'
+'Hehe, victory will surely belong to *Galaxy Heroes*!'
 
-'Hehe, victory surely belongs to *Galaxy Heroes*!'
+'Right, *Galaxy Heroes* will definitely claim ultimate victory!'
 
-'That's right, *Galaxy Heroes* will definitely clinch the final victory!'
+'Hmph, what’s all this about *Galaxy Heroes*? Look at the game designer’s name—Meng Zuo. That’s basically “Dreaming.” Winning first prize? They’ll only achieve that in their dreams!'
 
-'Hmph, what *Galaxy Heroes*? Look at the game designer's name, 'Meng Zuo' – isn't that just dreaming? If he wants to win first prize, he'll probably only get it in his dreams!'
+'Whoa, bro, that’s a seriously sharp interpretation!'
 
-'Damn, bro, your angle of interpretation is incredibly sharp!'
+'Hey, are you guys so sure it’s just between *To the Moon* and *Galaxy Heroes*? Don’t underestimate *Beast of Darkness*, produced by the Great Demon King!'
 
-'By the way, are you all so sure that *To the Moon* and *Galaxy Heroes* are the only contenders? Are you looking down on *Beast of Darkness* made by my Great Demon King?'
+'Hehe, don’t be fooled by the current player votes. *To the Moon* and *Galaxy Heroes* may be far ahead now, but I have a feeling the real winner will be *Ashaji* by Black Lily Studio.'
 
-'Hehe, don't look at how *To the Moon* and *Galaxy Heroes*' player votes far exceed other games right now. I have a hunch that the final winner will be *Ashaji* from Black Lily Studio!'
+'You two upstairs—night hasn’t fallen yet. Stop daydreaming. Just leave cleanly and gracefully, okay?'
 
-'The two above, it's not night yet, please stop daydreaming. Could you cleanly and smoothly exit, please?'
+'+1. Please exit gracefully, you two upstairs!'
 
-'+1, those two above, please exit smoothly!'
+Every player had their personal favorite, and with the final results still unannounced, naturally everyone wanted to claim the moral high ground in various online communities.
 
-Every player had their own favorite, and with the true results not yet revealed,
+But overall, it was a classic case of everyone having their own valid points.
 
-Naturally, everyone wanted to gain an advantage in the various communities.
+Compared to the heated online discussions and debates, Chen Xu remained remarkably calm.
 
-However, it was mostly a case of 'both sides have a point.'
+………………
 
-Compared to all the discussions and heated debates online among players,
+The office at Nebula Games.
 
-Chen Xu, at this moment, was much calmer.
+Chen Xu sat in his office, making a phone call to inform a candidate of their interview result.
 
-...
+The hires for Art and Music had already been finalized.
 
-Nebula Games' office.
+But for Numerical Design and Level Design, several candidates had been interviewed, none of whom particularly satisfied Chen Xu.
 
-Chen Xu sat in the office, calling to inform candidates of the interview results.
+"Chen Xu, how can you not be anxious at all?" Yang Xin asked, watching him hang up the phone, then standing up and pacing around the office twice.
 
-Candidates for art and music had already been found.
-
-However, for numerical and level design, several people had been interviewed, but none had particularly satisfied Chen Xu.
-
-"Chen Xu, why aren't you worried at all?" Yang Xin, next to him, watched Chen Xu finish his call, then stood up from her chair and walked around the office twice.
-
-"Yeah, I think the winners are being announced today, right?" Ruan Ningxue was also a little excited at this moment.
+"Yeah, isn’t the award list supposed to be announced today?" Ruan Ningxue was also a bit excited.
 
 This was the third game she had participated in developing.
 
-Regarding the gaming industry, she was no longer the clueless person she once was.
+She was no longer the clueless newcomer she once was in the gaming industry.
 
-As for her plan to become a doujinshi queen and then a cartoonist, that had also been put aside.
+As for her earlier idea of becoming a doujinshi king and switching careers to become a cartoonist, she had long since shelved that thought.
 
-On one hand, it was because she had experienced the joy that games brought.
+Partly because she had discovered the joy of game development.
 
-On the other hand, Nebula Games was developing so well, what manga would she still be thinking about?
+And partly because Nebula Games was doing so well—why would she even think about manga now?
 
-"Even if I were anxious, it wouldn't help! The final outcome isn't something I can control," Chen Xu said, feeling a bit speechless after hearing Yang Xin and Ruan Ningxue.
+"Even if I’m anxious, it won’t change anything," Chen Xu replied, exasperated. "The final result isn’t something I can control."
 
-Of course, he hoped to win an award, but the key was that it wasn't up to him, right?
+Of course he hoped to win an award, but seriously—wasn’t that out of his hands?
 
-"Oh, right, let's release the mobile version of *Undertale* once the winners are announced today," Chen Xu said, remembering something. "Based on current trends, a top-two finish is pretty much guaranteed. Whether we get first prize or not, there'll definitely be a buzz, so we'll capitalize on our own momentum then."
+"By the way, let’s release the mobile version of *Undertale* right after today’s award announcement," Chen Xu added, as if remembering something. "Given the current trend, we’re almost guaranteed a top-two spot. Whether we win first or not, we’ll definitely have some popularity. Let’s ride our own wave while it’s hot."
 
-During the period *To the Moon* was entered into the competition, Nebula Games' main internal work focused on two areas.
+During the time *To the Moon* was competing, Nebula Games had been focused on two main internal tasks.
 
-The mobile port of *Undertale* didn't take much effort; it had already been completed a while ago.
+One was porting *Undertale* to mobile. That hadn’t taken much effort and had actually been completed long ago.
 
-It was just held back until now to piggyback on their own buzz.
+It was only being delayed now to better capitalize on their current momentum.
 
-The other aspect was the formation of the Nebula Games team.
+The other task was team expansion.
 
-Apart from the R&D team, Chen Xu was preparing to expand.
+Beyond the development team, Chen Xu planned to scale up.
 
-Other departments throughout the company were also expanding during this period.
-
-Operations, finance, HR – the basic structure was already in place.
+Other departments—operations, finance, HR—were also being expanded. The foundation was essentially in place.
 
 Additionally, there was the platform development team.
 
-Although currently, Nebula Games was seen as a small workshop by most players and within the gaming industry.
+Currently, in the eyes of most players and the gaming industry, Nebula Games was still just a tiny indie studio.
 
-From *Mirror (Game)* to *Undertale* and then to *To the Moon*, they hadn't produced any blockbusters, mostly small-scale independent games.
+From *Mirror (Game)* to *Undertale*, and now *To the Moon*, they had never produced a blockbuster—just small-scale independent games.
 
-But for Chen Xu, his ambitions clearly didn't stop there.
+But Chen Xu’s ambitions clearly went far beyond that.
 
-In the future, Nebula Games was bound to venture into a broader world.
+In the Future Era, Nebula Games would inevitably venture into much broader territories.
 
-Building their own platform now was a step towards solidifying their own foundation.
+The current effort to build their own platform was the first step toward solidifying their foundation.
 
-As for whether it would attract attention from the industry.
+Would this draw attention from the industry?
 
-To put it bluntly, Nebula Games was nothing right now.
+To be blunt, right now Nebula Games was a Hammer.
 
-Even if *To the Moon* took first place in this competition, it would at most create a ripple in the independent game scene.
+Even if *To the Moon* won first place in this competition, it would only stir up a wave in the independent gaming community and briefly put them on the map within the wider gaming industry.
 
-And then make an appearance in the broader gaming circle.
+As for triggering wariness or hostility from industry giants?
 
-As for provoking caution or animosity from giants,
+That was just wishful thinking.
 
-One could only say that was overthinking it.
+Besides, self-operated platforms weren’t uncommon.
 
-Moreover, such self-operated platforms were quite common.
+After all, launching a platform didn’t automatically mean creating a channel.
 
-After all, establishing a platform didn't automatically mean establishing a distribution channel.
+You needed partners, a solid user base, and sufficient popularity.
 
-You still needed people to build it with you and to have enough popularity.
+Many mid-tier developers, independent game producers, and studios with established series and loyal fanbases already operated their own platforms—because launching on third-party platforms meant paying fees.
 
-For some second and third-tier developers, and many independent game producers and companies, especially those with series and solid fan bases,
+With a self-operated platform, every purchase made by players went directly to the studio.
 
-They all had self-operated platforms, because launching on third-party platforms meant paying others.
+After taxes, it was pure profit.
 
-Whereas with a self-operated platform, if players bought from their own platform,
+Meanwhile, as online discussions continued to swirl, the Game Design Competition reached its conclusion—decided in one decisive blow by an official announcement from the Game Department.
 
-Besides taxes, it was pure profit.
-
-At the same time, amidst all the online discussions among players, this Sci-Fi Game Design Competition reached its final verdict with an official announcement from the Game Department.
-
-(End of Chapter)
+<<END_OF_CHAPTER>>

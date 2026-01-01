@@ -1,153 +1,165 @@
-Chapter 175: The Qualities a Conscientious Designer Should Possess (Requesting Subscriptions, Monthly Passes)
+Chapter 175: The Qualities of a Conscientious Designer (Requesting Subscriptions, Monthly Pass)
 
-Days passed, and the online buzz surrounding the game 'Hammer Swing Ascension' had subsided.
+Chapter 175: The Qualities of a Conscientious Designer (Requesting Subscriptions, Monthly Pass)
 
-Unlike the previous 'It Takes Two' and 'Dark Souls,' this simple game didn't possess much depth.
+Days passed one after another, and online buzz surrounding the game 'Hammer Swing Ascension' had already died down.
 
-The main points of discussion weren't actually about the game's content itself, but rather the various breakdowns players experienced after playing it.
+Unlike previous titles such as *It Takes Two* and *Dark Souls*, this simple game simply lacked substantial depth.
 
-It could be said to be a fleeting trend.
+The main discussion wasn't even about the game's content itself, but rather the various ways players emotionally broke down after playing it.
 
-However, despite its fleeting popularity, it attracted countless independent game designers, who rushed to emulate it.
+It was nothing more than a fleeting wave of popularity.
 
-After all, the popularity at that time was truly astounding.
+Yet, even as a passing trend, it attracted countless independent game designers eager to imitate its success.
 
-Moreover, games of this type aren't inherently high in cost.
+After all, the game’s popularity at its peak had been truly astonishing.
 
-But none of this concerned Chen Xu anymore.
+Moreover, games of this type didn't require a high development cost.
 
-At this moment, Chen Xu was in the research lab of Galaxy Smart Tech.
+But all of this was irrelevant to Chen Xu.
 
-“The AI technology has achieved some results?” Chen Xu listened to the researcher's report, a little surprised.
+At this moment, Chen Xu was inside the research lab at Galaxy Smart Tech.
 
-Chen Xu subtly glanced at the system's UI interface.
+"Has the AI technology shown any results?" Chen Xu asked, slightly surprised as he listened to the researcher's report.
 
-The countdown on the golden item's progress bar he had used earlier was still running.
+He subtly glanced at the system's UI interface.
 
-There are already results?
+The countdown on the progress bar from the golden item he'd previously used was still running.
 
-Like playing a game while it downloads, is there an incomplete version halfway through?
+Already had results?
 
-“Yes, Mr. Chen,” Zhong Yue explained to Chen Xu, “based on big data collection and its application in the gaming field, we have made some optimizations and improvements…”
+Just like playing a game while it's being developed—was there already a partially completed version?
 
-Although Chen Xu didn't understand many of the technical terms, he grasped the general meaning of Zhong Yue's explanation.
+"Yes, Mr. Chen. Based on big data collection and targeted applications in the gaming field, we've implemented several optimizations and improvements..." Zhong Yue explained beside him.
 
-That is, for AI technology applied in the gaming field, they have successfully applied for patent copyrights in various countries around the world, achieving significant breakthroughs in this area. However, it's still some distance from true perfect performance, and they need more time for testing and optimization.
+Although Chen Xu didn't understand many of the technical terms, he grasped the general meaning.
 
-But currently, an embryonic form has been created, and it can already be commercialized.
+The AI technology applied to gaming had already secured patent rights in countries worldwide—a significant breakthrough. However, it was still not perfect. More time would be needed for further testing and optimizations.
 
-“Let me take a look.”
+Nonetheless, they had already created an embryonic form that was ready for commercial use.
 
-Chen Xu followed Zhong Yue to the laboratory, where tests were being conducted on a large screen.
+"Let me see."
 
-The subject of the test was an internal DEMO of the in-development 'Dark Souls: Age of the First Flame,' primarily used for various numerical tests.
+Chen Xu followed Zhong Yue to the lab and began testing on the large screen.
 
-Since it was a test version, many monsters would randomly appear.
+The test subject was an internal testing DEMO of *Dark Souls: Age of the First Flame*, currently under development, primarily used for testing various numerical design elements.
 
-For example, Gundyr the Ash had run off into the ancient Northern Undead Asylum.
+Because it was a test version, many monsters were appearing in unintended locations.
 
-After debugging by Zhong Yue and the surrounding staff, Chen Xu quickly saw a practical demonstration.
+For example, Gundyr the Ash had ended up inside the ancient Undead Asylum.
 
-In an empty courtyard, code was directly entered to summon Gundyr the Ash and place him in the center, followed by a regular Hollow wielding a short sword.
+After adjustments by Zhong Yue and the staff nearby, Chen Xu quickly witnessed a practical demonstration.
 
-However, for the Hollow, new actions like rolling and running were added.
+In an open courtyard, code was input to extract Gundyr the Ash and place him in the center. Then, a regular Hollow wielding a short sword was summoned.
 
-Gundyr the Ash still used his original AI behavior, while the Hollow utilized the AI with the new technology.
+However, the Hollow was given new actions—rolling and running.
 
-The official demonstration then began, and Chen Xu watched as the in-game Hollow, after gaining rolling and running actions, moved like a battle-hardened Undead.
+Gundyr the Ash retained his original AI behavior, while the Hollow used the new AI technology.
 
-It rolled to evade, stabbed from behind, and performed a flawless combo slash during Gundyr the Ash's attack intervals.
+The demonstration began.
 
-Gundyr the Ash's health plummeted. Unlike the fragile Undead who could only take two hits, the Hollow before him could only take one.
+Chen Xu watched as the Hollow, now equipped with rolling and sprinting, moved like a battle-hardened Undead.
 
-Yet, from start to finish, Gundyr the Ash didn't land a single hit on it. Like a precise robot, it perfectly dodged all of Gundyr the Ash's attacks.
+Dodging with rolls, stabbing from behind, and perfectly timing relentless sword combos during Gundyr’s attack gaps.
 
-The only thing was that it didn't have a shield. Otherwise, Chen Xu had no doubt that with the appropriate actions added, this fellow could perfectly parry and execute Gudako.
+Gundyr’s health plummeted rapidly.
 
-“If this AI is implemented in the game, I feel players won't be able to Link the Fire,” Chen Xu said after a moment of silence, looking at the AI's performance.
+Unlike fragile Undead who could barely survive two hits, this Hollow could only take one.
 
-The original 'Dark Souls' was a memorization game, as BOSS attacks were predictable.
+Yet from start to finish, Gundyr failed to land a single blow.
 
-But with this AI, although the monsters' stats haven't changed, the key is that they've become more intelligent.
+The Hollow avoided every attack with robotic precision.
 
-Not only would players need a proficient understanding of monster skills, but also on-the-spot reactions. Coupled with the monsters' extremely high attack and low-tolerance for errors in 'Dark Souls,' how could anyone Link the Fire?
+If only it had a shield—Chen Xu had no doubt that, with the right actions, this creature could perform a perfect Perfect Guard and then execute Gudako.
 
-“Ahem, Mr. Chen, this is an advanced mode,” Zhong Yue explained from the side. “In reality, our optimization direction is more about the AI's performance in the game, and the difficulty can also be reduced.”
+"With this AI implemented into the game, I doubt players will be able to pass the bonfire," Chen Xu said after a moment of silence, observing the AI’s performance.
 
-“Alright, continue debugging it. Also, regarding the new AI technology, we can first incorporate it into special game modes for some trials,” Chen Xu said after some thought.
+The original *Dark Souls* was essentially a pattern-memorization game, as boss attacks followed predictable patterns.
 
-It certainly couldn't be added directly to the game. However, once the 'Dark Souls' prequel is developed, a completely new mode could be created based on this AI technology.
+But with this new AI, while monster stats remained unchanged, their behavior became far more intelligent.
 
-After all, Chen Xu had previously introduced a random mode in the predecessor. The new game shouldn't show favoritism, should it?
+Players would no longer just need to memorize skills—they’d need quick reflexes and real-time responses.
 
-The random mode from the previous game would definitely still be included.
+Combined with *Dark Souls*' notoriously high enemy damage and low margin for error, how could players possibly progress?
 
-But later, a brand new 'Punishing Difficulty Mode!' could also be added.
+"Ahem, Mr. Chen, this is actually an advanced mode. Our primary optimization focus is on improving general AI behavior in games, and we can also lower the difficulty," Zhong Yue explained beside him.
 
-In his previous life, Dark Souls 1 also had a version called the 'Prepare to Die Edition'.
+"Hmm. Continue tuning it. Also, regarding the new AI technology, let’s first implement it into a special mode within the game for testing," Chen Xu said after some thought.
 
-However, that version was essentially just a Game of the Year edition.
+Directly integrating it into the main game wasn’t feasible.
 
-The 'Prepare to Die Edition' was merely a name, adding some content and patch fixes.
+But after the *Dark Souls* prequel finished development, they could use this AI technology to create an entirely new mode.
 
-Therefore, Chen Xu also planned to give players an even greater surprise.
+After all, in the previous game, Chen Xu had introduced a random mode in the late game.
 
-High Lord Wolnir, having idled for too long, had become frail and was no match for the summoned skeleton mobs.
+This new work shouldn’t be treated unfairly.
 
-Artorias was corrupted by the Abyss, lost his Greatshield, and his arm rotted—how could that be allowed?
+The prequel’s random mode would definitely be included.
 
-The legendary Lord Gwyn, after Linking the Fire once, was burned down to just a husk. With parrying learned, he was comparable to one of the weakest BOSSes, and he even forgot his signature Sunlight Spear. Does that seem right?
+But later, they could also add a brand-new 'Death Mode'!
 
-And many BOSSes, when players faced them, were far from their peak combat prowess.
+In his previous life, *Dark Souls 1* had a version called 'Prepare to Die'.
 
-How could this be acceptable?
+But that version was essentially just an annual edition—'Prepare to Die' was merely a name, adding some content and patch fixes.
 
-If players couldn't defeat these powerful enemies in their prime, how much regret would they have?
+Chen Xu, however, wanted to give players a much bigger surprise.
 
-Even though players now held a slight bias against his 'love'.
+Gravelord Nito, cooped up for too long, had grown weak—so weak he couldn’t even summon skeletons stronger than himself.
 
-But as a conscientious designer who constantly cared about players' most perfect gaming experience, he absolutely could not tolerate players having such regrets.
+Artorias, corrupted by the Abyss, had lost his Greatshield and had a mangled arm. How could that be acceptable?
 
-Of course, if this new mode were to be released, it would also need to come out some time after the game's official launch.
+Legendary Sun King Gwyn, having passed the First Flame once, was reduced to a hollow shell. Even when players mastered Parry, he became one of the weakest bosses—forgetting his signature Sunlight Spear. Was that really fitting?
+
+Many bosses players fought were far weaker than their prime combat prowess.
+
+How could that be acceptable?
+
+If players couldn’t defeat these powerful enemies in their prime, wouldn’t that leave a lasting regret?
+
+Even if players now held slightly biased opinions toward him, Chen Xu, as a conscientious designer who always prioritized the perfect player experience, absolutely could not tolerate such regrets.
+
+Of course, this new mode would need to be released some time after the game’s official version launched.
 
 ………………
 
-Returning from Galaxy Smart Tech, Chen Xu reviewed the development progress of 'Dark Souls: Age of the First Flame'.
+Returning from Galaxy Tech, Chen Xu reviewed the development progress of *Dark Souls: Age of the First Flame*.
 
-With the combat system of the predecessor already perfected, other parts weren't particularly difficult.
+With the combat system from the previous game already refined, the rest of the development wasn’t particularly difficult.
 
-Moreover, most of the scenes were almost complete.
+Most of the scenes were nearly complete.
 
-Regarding the map, Qin Yi, Ruan Ningxue, and Yang Xin were all amazed.
+When Qin Yi, Ruan Ningxue, and Yang Xin saw the map, they were all astonished.
 
-It was a massive seamless map, yet the players' game progression was perfectly compartmentalized.
+A massive seamless map, yet the player’s journey was perfectly segmented.
 
-Maps of different scenes were interconnected, and players needed to explore to discover their ingenious design.
+Different areas were intricately connected, and players would need to explore to discover the brilliance of its design.
 
-In the game, players still maintained the good experience of the predecessor, finding themselves saying: 'Hey, I'm back again!'
+Players would continue playing, only to suddenly realize—"Hey, I’m back here again!"
 
-So, they tried another path, only to exclaim: 'Oh no! I'm back here again!'
+Then they’d take another path, play for a while, and go—"Ah! I’m back here again!"
 
-After all, it's well-known that Undead cannot climb walls, open doors, or jump.
+After all, as everyone knows, Undead can’t climb walls, pull doors, or jump.
 
-However, as ingenious as the map was, what truly sent shivers down Qin Yi's spine was the monster distribution after the map's completion.
+The map was brilliant, no doubt.
 
-“Mr. Chen, this Firelink Shrine still connects to late-game areas! Shouldn't we leave a message or put a lock on it?” Qin Yi said, feeling a chill run down his spine as he looked at the various monsters he had placed according to Chen Xu's instructions.
+But what chilled Qin Yi and the others the most was the monster distribution after the map was finalized.
 
-Forget about the high-level maps next to Firelink Shrine; even the Undead Settlement outside the newbie village was hard to describe!
+"Mr. Chen, the Firelink Shrine leads directly into late-game areas! Shouldn't we leave an in-game message or lock it somehow?" Qin Yi asked, placing monsters as instructed by Chen Xu, visibly shaken.
 
-“No need. You say that as if players would listen to in-game messages. And locking it? How could we lock it?”
+It wasn’t just the advanced areas near Firelink Shrine—the newbie village, Undead Burg Outskirts, was already a nightmare!
 
-“Not to mention, the game's plot is arranged this way. And if we lock it, what does that signify? It means teaching players how to play the game! Stripping them of their freedom of choice!”
+"No need. It's not like players would listen even if we left a message. And lock it? How could we possibly lock it?"
 
-“As a designer with a great conscience and sense of responsibility, how could I possibly do such a thing?”
+"Not only is the story designed this way, but locking it would imply what? Teaching players how to play? Depriving them of their freedom to choose?"
 
-Chen Xu spoke righteously, watching Qin Yi from his chair while sipping tea.
+"As a highly conscientious and responsible game designer, how could I possibly do something like that?"
 
-Qin Yi silently glanced at the development content on the monitor, and after a long while, couldn't utter a single word.
+Chen Xu spoke righteously indignant, sipping tea as he sat in his chair.
 
-Because, it actually made so much sense!
+Qin Yi silently stared at the development content on the monitor, holding back for a long time before uttering not a single word.
 
-First two chapters, then two more before evening. The rest will continue tonight.
+Because… it really made perfect sense!
 
-(End of Chapter)
+Two updates for now, two more before evening, and the rest tonight.
+
+(End of Chapter) <<END_OF_CHAPTER>>

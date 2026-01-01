@@ -1,147 +1,144 @@
-Chapter 143: It Takes Two (Sixth update, requesting subscriptions and monthly passes)
+Chapter 143: It Takes Two (Sixth Update—Please Subscribe and Vote for Monthly Pass)
 
-After explaining the relevant content of It Takes Two to everyone, they each went back to their respective tasks.
 
-The New Year's holiday was approaching soon, so during this period, Chen Xu primarily focused on explaining the core gameplay ideas of It Takes Two to Qin Yi and the others.
+After explaining the relevant content of *It Takes Two* to everyone, they all returned to their respective tasks.
 
-At the same time, he had Ruan Ningxue's Art Team produce the necessary assets.
+The New Year's Holiday was approaching soon, so during this period, Chen Xu mainly focused on explaining to Qin Yi and the others the core gameplay concepts of *It Takes Two*.
 
-The actual game development would wait until after the New Year.
+Meanwhile, he instructed Ruan Ningxue's Art Team to begin producing assets.
 
-Choosing this game was also mainly to give players a change of pace.
+Actual game development would commence after the holiday.
 
-After all, Dark Souls had just harvested a massive wave of Resentment Points from players.
+The decision to develop this game was primarily to offer players a change of pace.
 
-Making a relatively wholesome and loving game to let them feel the warmth of the sun was still necessary.
+After all, *Dark Souls* had just accumulated a massive amount of player怨念 points.
 
-It also happened to enrich the game types available on the Nebula Games Platform.
+Creating a more harmonious and heartwarming game to let players feel the warmth of sunshine was necessary.
 
-Furthermore, releasing another couple-focused cooperative game a year after Overcooked would also be quite a topic of discussion.
+Moreover, it would naturally enrich the variety of game types available on the Nebula Games Platform.
 
-As she entered work mode, Ruan Ningxue, who was in charge of art, clearly felt the difference in It Takes Two.
+And following *Overcooked*, releasing another couple's cooperation game after a year would undoubtedly generate considerable discussion.
 
-“This game feels a bit like an animated movie!” Ruan Ningxue exclaimed, looking at the storyboard drafts in front of her.
+Once work began, Ruan Ningxue, who was in charge of art, immediately noticed the distinct characteristics of *It Takes Two*.
 
-“To some extent, that's indeed the case,” Chen Xu said with a smile, nodding.
+"This game feels a bit like an animated film!" Ruan Ningxue exclaimed, looking at the storyboard drafts in front of her.
 
-The previous Overcooked had a cartoon art style, but Overcooked's cartoon art style was different from It Takes Two.
+"In a way, that's true," Chen Xu smiled and nodded.
 
-In It Takes Two, the contrast between various scenes, as well as the comparison between characters and themes, could create a style of exaggerated performance.
+*Overcooked* had a cartoon art style, but the cartoon style of *Overcooked* was different from that of *It Takes Two*.
 
-Including composition and color, it was also primarily focused on a cinematic feel.
+In *It Takes Two*, the contrast between various scenes and the relationship between characters and themes created an exaggerated theatrical style.
 
-This style was more commonly applied in animated movies.
+Even the composition and color choices emphasized a strong sense of cinematography.
 
-While It Takes Two was under development.
+This style was more commonly seen in animated films.
 
-Outside, the impact of the recently concluded Game of the Year event was still fermenting.
+While development was underway internally,
 
-Thanks to the influence of this Game of the Year event, sales of many games under Nebula Games saw a significant increase.
+externally, the impact of the recently concluded Game of the Year event was still unfolding.
 
-Especially Dark Souls, which won Best Role-Playing Game, welcomed another large batch of new Firelinkers.
+Thanks to the event's influence, sales of numerous games under Nebula Games saw a noticeable surge.
 
-Of course, after entering the game, these new Firelinkers experienced Chen Xu's omnipresent 'love' and 'enthusiasm' for players in the Souls world.
+Especially *Dark Souls*, which had won Best Role-Playing Game, welcomed a new wave of kindling souls.
 
-'Dark Souls', 'Nebula Games', 'Chen Xu' were all keywords during this period.
+Of course, once these new kindling souls entered the game, they immediately felt Chen Xu's ever-present 'love' and 'passion' for players in the world of souls.
 
-While these related topics were hotly debated, the annual Spring Festival travel rush also swept across the country.
+'Dark Souls,' 'Nebula Games,' 'Chen Xu'—these were the key terms of the moment.
 
-But for the gaming industry, the Spring Festival travel rush clearly didn't have much impact.
+While these topics were being widely discussed, the nation also entered its annual Spring Festival travel rush.
 
-More players, as well as industry designers and media, were eagerly anticipating what Nebula Games' next title would be after the great success of Dark Souls.
+But for the gaming industry, the travel rush had little impact.
+
+More players, designers, and media professionals were eagerly anticipating what Nebula Games' next project would be after the massive success of *Dark Souls*.
 
 ………………
 
-On the eighth day of the Lunar New Year, employees successively reported for duty.
+On the eighth day of the new year, employees gradually returned to work.
 
-Chen Xu also called Qin Yi and the others into the meeting room.
+Chen Xu gathered Qin Yi and the others in the meeting room.
 
-During the New Year period, Chen Xu had already completed the design concept document for It Takes Two.
+During the New Year holiday, Chen Xu had already completed the design concept drafts for *It Takes Two*.
 
-Compared to his previous life, he had made some modifications to certain aspects of the game's content.
+Compared to his previous life, he had made some modifications to certain game content.
 
-For example, in the original version of It Takes Two, there was also a game easter egg from a game called A Way Out.
+For example, in the original version of *It Takes Two*, there was an Easter egg referencing another game, *A Way Out*, by the same game designer.
 
-This was also the work of that game designer.
+Chen Xu left this unchanged, as it had minimal impact.
 
-Chen Xu did not make any changes regarding this part, as the impact was not significant.
+Additionally, the game contained numerous movie homage lines.
 
-Besides this, there were also numerous movie homage lines.
+For instance, the line Cody says after being captured by the space ape: "In space, no one can hear you scream."
 
-For example, a line Cody says after being captured by a space ape: 'In space, no one can hear you scream.'
+This was a classic line from the movie *Alien* in Chen Xu's previous life.
 
-This was a classic line from the movie Alien in his previous life.
+There was also the audio Easter egg of the game designer saying "Fuck the Oscars" at The Game Awards.
 
-And the audio easter egg of this game designer saying “Fuck the Oscars” at TGA.
-
-This part of the content needed to be modified.
+These parts required modification.
 
 There were also some relatively dark scenes in the game.
 
-Although It Takes Two was a game with a cartoon art style.
+Although *It Takes Two* featured a cartoon art style,
 
-But just like the original Grimm's Fairy Tales, which were a collection of European folk tales from the 17th and 18th centuries, a period when Europe was under the shadow of wars brought by Napoleon.
+similar to how Grimm's Fairy Tales were originally collections of European folk tales from the 17th and 18th centuries—written during the war-torn era brought by Napoleon—it was a fairy tale meant for adults.
 
-Although they were fairy tales, they were written for adults, naturally possessing some dark and profound core themes.
+Thus, it naturally carried some dark and profound core themes.
 
-These stories were more like Strange Stories from a Chinese Studio.
+These stories were much like *Strange Stories from a Chinese Studio*—
 
-They appeared to be fairy tales, but contained numerous metaphors.
+appearing as fairy tales but filled with numerous metaphors.
 
-The same was true for It Takes Two; although it was cartoon-like, it wasn't meant for children to play.
+*It Takes Two* was the same: although cartoonish, it was not meant for children.
 
-Especially many scenes within it were quite disturbing.
+Especially since many of its visuals leaned toward the disturbing.
 
 The vacuum cleaner in the first level, and the pink elephant later on.
 
-In terms of content, there weren't many major issues.
+In terms of content, there wasn't much of an issue.
 
-However, the way it was presented in his previous life drew some criticism from many.
+But in terms of presentation, in Chen Xu's previous life, many people criticized it.
 
-So, Chen Xu also made some optimizations in this area, at least in terms of visual presentation, to avoid it being as disturbing as in his previous life.
+Therefore, Chen Xu made some optimizations here—ensuring that, at the very least in visual presentation, it wouldn't be as disturbing as in his previous life.
 
-Art style, cinematic camera features, unique two-player split-screen camera usage, the story's plot and core ideas, level pacing control, the characteristics of different scenes, and the special abilities and gameplay corresponding to each scene.
+Art style, cinematic camera features, the unique two-player split-screen camera usage, the story's plot and core ideas, level pacing control, scene characteristics, and each scene's corresponding special abilities and gameplay.
 
-Chen Xu basically laid out all the core elements of It Takes Two.
+Chen Xu essentially laid out all the core elements of *It Takes Two*.
 
-Compared to the simple recollection before the New Year, Ruan Ningxue, Yang Xin, Qin Yi, and the others all understood the game's core.
+Compared to the simple explanation before the holiday, Ruan Ningxue, Yang Xin, Qin Yi, and the others now fully understood the game's core.
 
-They also understood why Chen Xu had said earlier that there might not be enough time.
+They also understood why Chen Xu had previously said time might not be enough.
 
-Because although this game sounded like an independent game, its actual content was substantial.
+Because although this game sounded like an Independent Game, its actual content was far from minimal.
 
-It could even be said that among the games currently developed by Nebula Games, it was second only to Dark Souls in game scale.
+In fact, it could be said that among all the games Nebula Games had developed so far, only *Dark Souls* surpassed it in scale.
 
-Even the previous Outlast was still a bit behind.
+Even the earlier *Outlast* fell slightly short.
 
-After Chen Xu finished explaining, they moved on to the Q&A session.
+After Chen Xu finished his explanation, the Q&A session began.
 
-“Mr. Chen, will the complexity of this game's levels be a bit too high?” Qin Yi asked.
+"Mr. Chen, will the level complexity of this game be a bit too high?" Qin Yi asked.
 
-Qin Yi could only describe the levels corresponding to various game themes and the special abilities as stunning.
+The levels corresponding to each major theme, along with their special abilities, left Qin Yi utterly amazed.
 
-But there was also one point that made him quite worried, and that was he noticed some levels, especially those involving platforming.
+But one thing concerned him: he noticed that certain levels, especially those involving platforming, seemed to require extremely high player coordination.
 
-Seemed to require players to have very tacit cooperation.
+If players coordinated well, there would be no issue. But if they didn't...
 
-If the cooperation was good, then naturally it would be fine, but if it wasn't.
+For some reason, Qin Yi's mind flashed back to *Overcooked*, and the countless arguments he'd seen in videos and on live streaming platforms.
 
-For some reason, Overcooked flashed in Qin Yi's mind, with the arguing scenes seen on video and live streaming platforms back then.
+How did the nickname 'Breakup Kitchen' come about?
 
-How did Breakup Kitchen get its reputation?
+Exactly like this!
 
-It came from exactly this!
+"During BOSS battles, as long as one player is alive, the other can respawn infinitely. Plus, the game uses real-time save progress, so players won't have to return to a previous checkpoint due to a single failure."
 
-“When players face a BOSS battle, as long as one person is alive, the other can revive indefinitely. Moreover, the game saves progress in real-time, so there won't be a situation where you've already passed something but are forced to return due to a single failure.”
+"The game's difficulty is actually quite reasonable. Furthermore, we'll add a dynamic difficulty setting later—if players are stuck on a level for a certain amount of time, the game will provide corresponding prompts," Chen Xu explained, noting these as modifications from his previous life.
 
-“The game's difficulty is actually quite reasonable, and later we will also add a dynamic difficulty setting. If a player gets stuck on a level for a certain amount of time, the game will provide corresponding prompts,” Chen Xu explained, noting that these were some changes he made compared to his previous life.
+After hearing Chen Xu's explanation, Qin Yi nodded in understanding.
 
-After hearing Chen Xu's words, Qin Yi also nodded in understanding.
+Next, Zhang Yida, responsible for game operation and promotion, took the floor: "Mr. Chen, what's the plan for promoting *It Takes Two*?"
 
-Next, Zhang Yida, who was in charge of game operation and promotion, took over the conversation: “Mr. Chen, regarding the promotion of It Takes Two, what plan will we adopt?”
+"Follow the same model as last year's *Overcooked*. I'll edit a promotional video for you before Valentine's Day. The game's promotional slogan will be 'couple's game,' and the promotional direction will focus on 'passion,' 'cooperation,' and 'friendship.'"
 
-“We'll follow the same model as Overcooked last year. I'll edit a promotional video for you before Valentine's Day. At that time, the game's slogan will be set as 'Couple's Game', and the promotional direction will be 'passion', 'cooperation', and 'friendship'.”
+"As for the game operation strategy, we don't need to repeat last year's buy-one-get-one-free offer. Instead, any player who owns the base game on the Nebula Games Platform can invite another player to join them. Let's push the platform promotion again," Chen Xu said after some thought.
 
-“As for the game's operation strategy, there's no need for a buy-one-get-one-free deal like last year. As long as a player purchases the game on the Nebula Games Platform, one player who owns the base game can invite another player to play, continuing to promote the platform,” Chen Xu said to Zhang Yida after a moment's thought.
-
-(End of chapter)
+(End of Chapter) <<END_OF_CHAPTER>>

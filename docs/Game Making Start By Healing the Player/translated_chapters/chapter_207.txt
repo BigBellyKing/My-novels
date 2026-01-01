@@ -1,109 +1,121 @@
-Chapter 206: Basic Settings and Partial Changes (Fifth update, requesting subscriptions, monthly passes)
+Chapter 206: Basic Settings and Partial Modifications (Fifth Update, Requesting Subscriptions, Monthly Pass)
 
-After Chen Xu finished explaining the initial concept draft of Minecraft, everyone began to actively prepare for their respective tasks.
+After Chen Xu finished explaining the initial concept draft of Minecraft, everyone began swiftly preparing for their respective tasks.
 
-Some people were responsible for the subsequent operations of Don't Starve and the release of DLC content.
+One group focused on the subsequent operations of Don't Starve, as well as releasing new DLC content.
 
-As for Minecraft, the reserved development cycle was a little over half a year.
+As for Minecraft, the reserved development cycle was set at over half a year.
 
-For Chen Xu, currently, it was just about letting Qin Yi and the others understand some of the gameplay philosophies of Minecraft, and then starting to produce the art assets for the game.
+For Chen Xu, the current priority was to help Qin Yi and the team understand the core gameplay concepts of Minecraft, and begin producing the game's art assets.
 
-For the entire game, Chen Xu still needed to meticulously complete the basic rule document for Minecraft.
+Meanwhile, Chen Xu still needed to refine the foundational rules documentation for Minecraft in greater detail.
 
-Moreover, unlike the Minecraft of his previous life, Chen Xu needed to optimize its development in many aspects.
+Moreover, unlike the version from his previous life, Chen Xu's development of Minecraft required comprehensive optimizations across multiple aspects.
 
-First and foremost were the game modes.
+First was the game modes.
 
-In Chen Xu's plan, the initial version of Minecraft released to players would temporarily feature three different modes.
+According to Chen Xu's plan, the initial version of Minecraft at launch would feature three distinct modes.
 
-The purely single-player mode, needless to say, would encompass both Creative and Survival. Players would create a world, and the entire world would be randomly generated with corresponding terrain. As players explored, the world would infinitely expand, with no so-called boundaries. Theoretically, the map of Minecraft would be as large as the player's hard drive allowed.
+The first was purely solo mode—no explanation needed, encompassing both Creative and Survival.
 
-Next was the multiplayer mode, using local servers created by players' machines, or servers specifically set up by players themselves. In these servers, players could establish various corresponding rules, and server hosts could also add all kinds of MOD modules. Simply put, the power to set rules would be in the hands of the players.
+Players would create a world, and the terrain would generate procedurally. As players explored, the world would expand infinitely, with no defined boundaries. Theoretically, the size of the map was limited only by the player's hard drive capacity.
 
-Finally, there would be the official servers, which are essentially vanilla servers. These would be divided into Creative and Survival, with each server using a fixed world, segmented into different regions, accommodating a maximum of 2,000 players, spread across a giant map.
+Next came multiplayer online multiplayer, which included local servers hosted on player machines or dedicated servers set up by players themselves.
 
-Of course, later, as more MOD modules are developed, specialized official mini-game mode servers will be launched. For example, Bed Wars, Hide and Seek, Master Builder, and so on…
+Within these servers, players could formulate corresponding rules, and server administrators (admins) could add various MOD modules.
 
-There were also some issues related to personal player experience, such as the most headache-inducing problem for Minecraft players in his previous life.
+In short, rule-setting would be placed directly in the hands of the players.
 
-That was, after opening a server, all the painstaking constructions and large-scale projects built by players would be destroyed by invading 'troublemaking players'.
+Finally, there would be official servers—essentially pure, vanilla servers.
 
-Watching Trinitrotoluene (TNT) explode, many players' hearts would simply shatter.
+These would be divided into Creative and Survival modes, each running on a fixed world map, segmented into different regional servers, each supporting up to 2,000 players across a massive shared map.
 
-Therefore, in his previous life, many server hosts would set up plugins to prevent explosions, prohibit high-altitude fluids, prevent lava flow, and claim territories, to prevent troublemaking players from destroying their hard work.
+Later, as more MODs became available, specialized official servers for mini-games would be introduced.
 
-Chen Xu would specifically make a corresponding setting for this: players' own servers could designate special constructions as indestructible, or restrict others' permissions, thereby preventing the appearance of troublemaking players.
+Examples include Bed Wars, Hide and Seek, Master Builder, and more.
 
-Of course, this part of player experience content would await the completion of the game's initial version, and then the testing team would gradually experiment with it, making changes based on actual experience.
+There were also issues related to individual player experiences—such as the most frustrating problem players faced in the previous life’s Minecraft.
 
-What remained was the basic materials of the entire world, following the pattern of Minecraft in his previous life.
+After opening a server, the elaborate structures and massive projects painstakingly built by players would often be destroyed by incoming troublemaking players/griefers.
 
-Dirt, sand, stone, water, lava, trees, and various minerals, etc.; in terms of creatures, such as pigs, cows, sheep, and so on.
+Watching Trinitrotoluene (TNT) explode and obliterate their creations, many players’ hearts would shatter.
 
-According to different materials, other materials could also be synthesized through tools like the crafting table.
+As a result, in the previous life, many server admins would install anti-explosion plugins, disable falling fluids, prevent lava flow, and allow territory claiming to protect their hard work.
 
-Inside Nebula Games' office, Chen Xu was gradually refining the initial concept draft of Minecraft.
+Chen Xu intended to implement a dedicated system allowing players on their own servers to set specific structures as indestructible or restrict others' permissions, thus preventing griefers.
 
-Compared to the original content from his previous life, Chen Xu also considered integrating some excellent MOD settings into Minecraft's system.
+However, these player experience-related features would be tested incrementally by the testing team after the initial version of the game was completed, with adjustments made based on real-world feedback.
 
-After all, the core philosophy of Minecraft itself is openness.
+The remaining task involved defining the basic materials of the world, following the model of the previous life’s Minecraft.
 
-What it becomes depends entirely on the players themselves. Allowing players to directly create more things within the game, and providing clearer, richer crafting recipe books, would at least spare them from having to constantly search for recipes online while playing, as they did in his previous life without a crafting recipe MOD.
+Dirt, Sand, Shelter Stone, water, lava, trees, various minerals, and creatures such as pigs, cows, and Hex.
 
-It's no exaggeration to say that without crafting recipes, most players might not even be able to be self-sufficient in Minecraft.
+Using different materials and tools like the crafting table, players could synthesize new items.
 
-After all, there are too many things that can be crafted and created; even many veteran players might not truly remember all the content.
+Inside Nebula Games' office, Chen Xu meticulously refined the basic concept draft of Minecraft.
 
-At the same time, Chen Xu also had an idea for Minecraft: to incorporate some 'heavily modded' content.
+In addition to the original content from his previous life, Chen Xu also considered integrating settings from some excellent MODs into Minecraft’s core system.
 
-For instance, richer tech crafting content, giving the game a relatively complete tech development path.
+After all, Minecraft’s core philosophy was openness.
 
-In reality, many MODs in Minecraft from his previous life already formed similar structures.
+What players created depended entirely on themselves. By providing clearer and more comprehensive crafting rule charts, players could directly produce more in-game content without having to constantly search for crafting recipes on a Search Engine, as was often necessary in the previous life when lacking a crafting recipe book MOD.
 
-For example, initially in Minecraft, players built cars and firearms using various materials.
+It wasn’t an exaggeration to say that without a crafting guide, most players wouldn’t be able to survive independently in Minecraft.
 
-However, these items were static in the game and completely immobile.
+The number of craftable items and systems was simply too vast—even many veteran players couldn’t claim to fully remember every detail.
 
-To compensate for these shortcomings, many MOD masters created corresponding MODs. These allowed cars to drive and firearms to shoot, enabling FPS and racing games within Minecraft, and if desired, you could even pilot a Gundam.
+Additionally, Chen Xu had another idea: introducing heavily modded content into the base game.
 
-Chen Xu, on the other hand, considered adding these contents directly into the game itself, defining them as part of the game's intrinsic features.
+For instance, enriching the tech tree to establish a more complete Technology development path.
 
-If a player meets the conditions to build a car, why shouldn't that car be able to move?
+In the previous life, many such MODs already existed for Minecraft.
 
-If players meet the requirements to build airplanes and rockets, why can't they fly?
+Initially, players used various materials to build cars and firearms, but these were merely static props with no functionality.
 
-Moreover, from a technical perspective, Chen Xu had carefully considered it, and it wasn't overly difficult.
+To address this limitation, numerous veteran MOD authors created MODs enabling cars to drive and firearms to fire, allowing players to enjoy FPS and Racing games within Minecraft. With enough creativity, players could even pilot mechs.
 
-As for whether players would understand it, like advanced Redstone technology?
+Chen Xu planned to integrate such features directly into the base game as official content.
 
-It's as if all players in his previous life understood it.
+Why shouldn’t a car move if the player fulfilled the construction requirements?
 
-It's well-known that Minecraft players are divided into several different stages of civilization.
+If players built an airplane or a rocket, why shouldn’t they be able to fly?
 
-First stage: cave-dwelling primitives, drinking blood and eating raw meat; second stage: entering primitive society, realizing the importance of animal husbandry and such; third stage: the emergence of the Industrial Age, finally grasping some basic concepts of Redstone technology.
+From a technical standpoint, Chen Xu had carefully considered this—it wasn’t particularly difficult.
 
-After that, it's the domain of the masters, with various high-end Redstone technology, even building entire computers within the game capable of simple calculations, as well as Chinese character input, Snake (Game), and Minesweeper (Game).
+As for whether players could understand advanced mechanics like Redstone technology, it wasn’t as if all players in the previous life had mastered it anyway.
 
-Of course, for more ordinary players, the situation would likely be this: while they were still using command blocks, other masters would have already achieved industrialization.
+It was well known that Minecraft players evolved through distinct Civilization stages:
 
-Besides these changes, there was another challenging task for Chen Xu.
+The first stage: primitive cave dwellers living in barbarism.
 
-That was the specialized optimization of Minecraft's MODs.
+The second stage: entering primitive society, understanding the importance of domesticating animals.
 
-Similar to how Overcooked and Fall Guys were made modular for players to design maps and levels, using existing assets for assembly and splicing, Minecraft clearly wouldn't work that way.
+The third stage: the dawn of the industrial era, finally grasping the basic concepts of Redstone technology.
 
-In his previous life, Minecraft had many versions.
+Beyond that lay the realm of veteran players—masters of advanced Redstone technology, capable of building in-game computers that could not only perform calculations but also input Chinese characters, run Snake (Game), and even Minesweeper (Game).
 
-Initially, there was the Java Edition, developed in the Java language. Its main characteristic was its openness, but with poor optimization.
+Meanwhile, for most ordinary players, the situation was this: while they were still struggling with command blocks, the veteran players had already achieved full industrialization.
 
-It was precisely thanks to Java that early Minecraft had so much MOD content, enriching its game ecosystem.
+Besides these changes, another challenging task for Chen Xu was the specialized optimization for Minecraft’s MOD support.
 
-And it has always been the preferred version for many players and MOD authors.
+For games like *Overcooked* and Fall Guys, map level design was made accessible by using modular, pre-existing materials that players could assemble.
 
-Later, there was the Bedrock Edition, with better optimization but significantly reduced openness. For MOD creators, it offered less freedom, and its MOD content was far less rich than the Java Edition.
+But Minecraft clearly couldn’t follow that approach.
 
-For Chen Xu, Minecraft would directly use the official game engine, naturally eliminating the version issue.
+In the previous life, Minecraft had multiple versions.
 
-This presented a challenging task: Chen Xu needed to specifically create various open ports and corresponding creation tools for Minecraft, to provide players with more convenient creation capabilities.
+The original Java Edition, developed in Java language, was highly open but poorly optimized.
 
-(End of chapter)
+Precisely because of Java, early Minecraft had an abundance of MODs, greatly enriching its game ecosystem.
+
+It remained the favorite version among many players and MOD authors.
+
+Later came the Bedrock Edition, which offered better optimization but significantly reduced openness. MOD makers found it far more restrictive, and the MOD content was nowhere near as rich as in the Java Edition.
+
+For Chen Xu, however, Minecraft would run directly on the Official Game Engine, eliminating version fragmentation entirely.
+
+This brought a significant challenge.
+
+Chen Xu needed to create dedicated open ports and specialized tools specifically for Minecraft, enabling players to create MODs more easily and conveniently.
+
+<<END_OF_CHAPTER>>

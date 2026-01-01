@@ -1,83 +1,173 @@
-Chapter 158: Thoughts on a DEMO Game (Wishing Happy Mid-Autumn Festival in advance, 8 updates, requesting subscriptions, monthly passes)
+Chapter 158: Ideas for the DEMO Game (Early Mid-Autumn Festival Wishes, 8 Updates, Requesting Subscriptions, Monthly Passes)
 
-Upon answering the phone, Chen Xu was even more surprised to find that it was the Minister of the Modu Game Department, with whom he had met a few times before.
+Chapter 158: Ideas for the DEMO Game (Early Mid-Autumn Festival Wishes, 8 Updates, Requesting Subscriptions, Monthly Passes)
 
-“Minister Yang, is there something I can help you with?” Chen Xu asked, getting straight to the point with some curiosity.
+After answering the call, Chen Xu was even more surprised to find that the person on the other end was Minister Yang, head of Modu's Game Department, someone he had met a few times before.
 
-“Indeed, there’s quite a significant matter. Did you see the news earlier? Weigu Tech overseas announced a major breakthrough in their new generation VR gaming pod equipment, allowing players to have a more immersive experience,” Yang Chen said over the phone.
+"Minister Yang, what's up?" Chen Xu asked directly, curiosity evident in his voice.
 
-“I saw it,” Chen Xu replied.
+"Well, there's actually something quite important. Have you seen the news recently? Weigu Tech overseas has announced a major breakthrough in their next-generation VR gaming pods, allowing players a far more immersive experience," Yang Chen said through the phone.
 
-Regarding this, Chen Xu had seen the industry news Lin Rou collected daily. However, he hadn't paid much attention to it at the time.
+"I saw it," Chen Xu replied.
 
-The reason was simple: this immersive mode, according to current data, requires players to be completely immersed in the game and maintain a high level of concentration. This also means players are receiving a massive amount of information, leading to greater mental energy consumption compared to regular PC games. As for black technology like the subconscious mind found in SAO from his previous life, which allows players to enter a mental network for deep sleep, it clearly hadn’t been achieved in this Parallel World. Moreover, although the price of VR gaming pods had dropped since their initial release, they were still beyond the reach of most players. Mainstream VR gaming pods generally cost around 50,000 Yuan, which was much more expensive than a PC capable of smoothly running mainstream blockbusters. As for higher-tier VR equipment, there was no need to even mention it. Therefore, most players still played games in VR experience stores, similar to internet cafes. These factors combined meant that VR's market share had not actually surpassed that of PC platforms. Furthermore, the cost of game development for VR was generally higher than for PC. Apart from top-tier developers annually launching dedicated VR games, even second-tier game developers, when releasing VR games, usually tested the waters on the PC platform first, and only after achieving excellent results would they port a VR version. It was precisely for these reasons that Chen Xu had Nebula Games primarily focus on PC platforms for now.
+Regarding this, Chen Xu had already seen the industry news collected daily by Lin Rou.
 
-“Domestically, our new generation VR gaming pod equipment has also entered a testing phase.”
+But at the time, Chen Xu hadn't paid much attention.
 
-“However, we lack games for testing. Additionally, because the new generation VR gaming pod will provide players with a stronger sense of immersion, it also requires multi-faceted safety testing. After all, some games might be fine on PC platforms, but on VR platforms, under an immersive experience, they could give players a special kind of thrill.”
+The reason was simple. According to current data, this immersive mode requires players to be fully immersed in the game with intense focus, subjecting them to massive amounts of information. Compared to regular PC games, VR games consume significantly more stamina.
 
-“Of course, some things can’t be explained in a few words over the phone. Please log into the Game Department's official website backend and check the sent mail. If you’re interested, you can come to the Game Department tomorrow afternoon,” Yang Chen told Chen Xu.
+As for technologies like the subconscious network from Chen Xu's previous life—where players entered deep sleep—such black technology clearly hadn't been achieved in this Parallel World yet.
 
-Although he wasn't entirely clear on the specifics, after hearing Yang Chen's words, Chen Xu generally had a grasp of the situation. This was clearly a competition in the realm of cutting-edge platform technology. For the Game Department, VR equipment held a different significance, much like consoles in his previous life. In its early years, Nintendo rose to dominance after the Atari crash, and all professionals in the gaming industry had to bow to Nintendo’s will; the royalty system was a product of that era.
+Moreover, although the price of VR gaming pods had decreased since their initial release, it was still beyond what most players could afford.
 
-After hanging up, Chen Xu logged into the Game Department's official website and quickly understood the situation. It was basically as he had thought.
+Mainstream VR gaming pods cost around 50,000 Yuan, far more expensive than PCs capable of smoothly running mainstream blockbusters.
 
-The next day, in the conference hall of the Game Department building, Chen Xu was a little surprised because quite a number of designers were present. TengHua, NetDragon, and other prominent domestic game developers all had representatives. Among them, Chen Xu also saw some familiar faces, such as the good Teacher Meng.
+As for higher-tier VR equipment, the cost was even more prohibitive.
 
-“Teacher Meng, you’re here too?” Chen Xu went over to greet him.
+Therefore, most players still played in VR experience stores, places similar to internet cafes.
 
-Meng Zuo, who was chatting with someone, heard the voice and turned to see Chen Xu approaching with a smile. The scene of him holding someone else's trophy that night flashed through his mind again, and he showed an embarrassed but polite smile: “Mr. Chen, you’re here too.”
+These factors meant that VR's market share had not yet surpassed the PC platform.
 
-However, before Chen Xu had time to catch up, Yang Chen from the Game Department stepped onto the stage in the conference room.
+Then there was the cost of game development—VR development costs were generally higher than on PC.
 
-“You are all leading figures in the gaming industry, and the purpose of gathering you here this time is actually very simple.”
+Besides top-tier developers releasing dedicated VR titles annually, most second-tier game developers would first test the waters on the PC platform. Only after achieving excellent results would they proceed to port the game to VR.
 
-“The new generation VR gaming equipment has entered a testing phase.”
+Precisely because of this, Chen Xu had decided to focus Nebula Games' primary efforts on the PC platform for now.
 
-“At the same time, for this new generation VR equipment, the game engine on the development machine has also undergone special adaptation, opening up a new physics engine architecture.”
+"Domestically, our next-generation VR gaming pod has also entered the testing phase."
 
-As Yang Chen spoke, the designers, including Chen Xu, basically understood the Game Department's intention in convening them. In short, there had been new progress in VR equipment and engine integration. However, it was still some distance from being launched to the market. But overseas, their progress was similar, and they had already started promoting. Naturally, the domestic side couldn’t fall behind, but there was a lack of relevant game content for testing. Of course, it wouldn't be a full game, but more like a game experience DEMO, and it wasn't without benefits. Firstly, there would be special subsidies from the Game Department, and the intellectual property produced would belong to the designers and developers. Simply put, the Game Department would pay for you to create it, and the subsidy amount was substantial. Of course, the quality had to be up to par, and the Game Department would also track the progress in real-time. Naturally, the designers invited were generally above the mid-tier in the domestic industry, and no one would be foolish enough to try to scam subsidies. Secondly, participating in the testing offered another benefit: new technologies would certainly not be immediately promoted to all designers for free. Designers participating in this initiative would receive priority access to relevant permissions. As for designers who did not participate, they would have to spend money for extra resources or permissions, just like before.
+"However, we're lacking testable games. Also, since the new VR gaming pods will offer players a stronger sense of immersion, we need comprehensive safety testing. Some games might be harmless on PC, but under full immersion on VR, they could deliver intense, even harmful, stimuli to players."
 
-After Yang Chen's brief introduction.
+"Of course, some details are hard to explain over the phone. Check your inbox on the Game Department official website's backend. If you're interested, come to the Game Department tomorrow afternoon," Yang Chen told Chen Xu.
 
-The designers were then led by the Game Department staff to the Game Department's research and development park. Under the guidance of the staff, they personally experienced the corresponding effects. Soon, it was Chen Xu's turn.
+Though still unclear about the specifics, after hearing Yang Chen's words, Chen Xu already had a rough idea.
 
-Upon entering the gaming pod, the scene was an environment resembling a bare shell apartment. Chen Xu also understood the meaning of Yang Chen's earlier words. He had experienced VR gaming pods in this Parallel World before, and while the sense of immersion was strong, there were still some flaws. However, the overall feedback from the new generation VR gaming pod was perfectly flawless. Wearing the haptic feedback suit and gloves, lying in the gaming pod, every action he made received incredibly realistic feedback. Walking, jumping, punching—Chen Xu tried a few movements, and although he felt a certain difference from reality, the feedback he received was almost indistinguishable from it.
+Clearly, this was part of the high-stakes competition in cutting-edge platform technology.
 
-“The immersion brought by VR equipment interaction in this world has reached such a level!” Chen Xu exclaimed, exiting the gaming pod with a look of awe.
+For the Game Department, VR equipment held special significance.
 
-However, he was also aware of the problems that needed to be addressed. The most direct issue was the negative effects caused by overly strong immersion. Taking *Dark Souls* as an example, if it were made into a VR game with the level of immersion Chen Xu had just experienced, players would likely not be able to play it, not deterred by the difficulty, but by the immersion itself. Just imagine the rats in the sewers, the eerie scenes in the Irithyll Dungeon, let alone some horror games!
+Much like consoles in Chen Xu's previous life.
 
-After all the designers present had experienced it, Yang Chen explained the relevant matters to everyone. In short, if the designers present were interested, they could create a DEMO game for the Game Department to test, and then based on the feedback, modifications would be made to the gaming pod's sense of immersion. Because the immersion was too strong, it needed to be toned down in certain areas. It sounded a bit comical and contradictory, but after the actual experience, Chen Xu could understand the meaning of these words.
+Back then, after the Atari crash, Nintendo rose to dominance. Everyone in the gaming industry had to follow Nintendo's lead—the Power Glove certification system was born from that era.
 
-When it came to the subsequent registration process, besides some game designers who genuinely had ongoing projects and couldn't spare the time, thirteen senior job title designers, including Chen Xu, remained. Meng Zuo was also among them.
+After hanging up, Chen Xu logged into the Game Department's official website and reviewed the message. He now had a clearer picture.
 
-“Mr. Chen, are you planning to participate in the Game Department’s DEMO production this time?” Meng Zuo asked, looking at Chen Xu, who was queuing with him, with some curiosity.
+Just as he'd suspected.
 
-After all, news about a *Dark Souls* sequel had been rampant online. Shouldn't Chen Xu be busy developing *Dark Souls*? How could he also take on this task from the Game Department? Could it be that *Dark Souls*' development progress was too fast and no longer required Chen Xu's oversight? Thinking about it, it didn't seem impossible. After all, with it being a sequel, the foundation was already there, and it was almost an unwritten rule in the gaming industry that sequels could reuse many art assets, greatly saving development time.
+The next day, in the meeting hall of the Game Department building.
 
-Completely unaware that Meng Zuo was once again visualizing things, Chen Xu smiled: “I’m curious, and this is also my first time developing a VR game. Plus, I have some interesting ideas.”
+Chen Xu was somewhat surprised—there were quite a few designers present.
 
-This was indeed true; given such an opportunity, Chen Xu really wanted to give it a try.
+TengHua, NetDragon, and other notable domestic game developers—all the major players had sent representatives.
 
-Upon hearing Chen Xu’s words, Meng Zuo’s eyes lit up, and he immediately became enthusiastic: “Actually, the design of VR games isn't much different from PC games. The main differences lie in the control modes and the varied perspectives offered by the cameras. While most VR games are first-person, for some specific games and segments, third-person is more suitable, such as action-oriented games focusing on visual effects.”
+Chen Xu also spotted some old acquaintances, including the ever-amiable Teacher Meng.
 
-“Then, Teacher Meng, we can exchange ideas later,” Chen Xu said, looking at the enthusiastic Meng Zuo. He couldn’t help but sigh, Teacher Meng really is a good person!
+"Teacher Meng, you're here too?" Chen Xu greeted him.
 
-“Of course.” Meng Zuo smiled happily. His first defeat in the Game Design Competition, his second time being overshadowed at the gameplay Expo, and his third time at Game of the Year, he received no awards, forming a stark contrast with a certain someone who took home trophies. This time, he was finally going to reclaim his glory. Since Chen Xu called him Teacher Meng, this time he would truly act as a teacher!
+Meng Zuo, who had been chatting with someone nearby, turned around upon hearing the voice. Seeing Chen Xu approaching with a friendly smile, Meng Zuo's mind flashed back to that night when he held someone else's trophy, and he offered a slightly awkward yet polite smile. "Mr. Chen, you're here too."
 
-“Oh right, Mr. Chen, do you have any ideas for a new game?” Meng Zuo asked, remembering something.
+But before Chen Xu could engage in further small talk, Yang Chen from the Game Department took the stage.
 
-“I have an idea for the new game's name: PT,” Chen Xu nodded with a smile.
+"Ladies and gentlemen, all of you are leaders in the gaming industry. The reason we've gathered you today is quite simple."
 
-“PT? What does that mean? It sounds a bit strange,” Meng Zuo asked curiously.
+"The next-generation VR gaming device has now entered its testing phase."
 
-“It’s an acronym for Playable Teaser. After all, this demo can be considered a playable teaser. We can also add a prefix and call it ‘Silent Hill PT’,” Chen Xu said with a smile.
+"Additionally, the game engine on the development machines has been specially adapted for this new VR hardware, unlocking a new physics engine architecture."
 
-“Silent Hill PT, that sounds quite profound! Then, Mr. Chen, we’ll talk in more detail when the time comes!” Meng Zuo said with a laugh.
+As Yang Chen spoke, designers like Chen Xu quickly grasped the purpose of this gathering.
 
-“Absolutely,” Chen Xu replied, nodding.
+In short, the engine powering VR devices had made significant progress.
 
-*Ahem*, the chapter title indicated one more update than there actually was; please forgive me, readers, the author doesn't have permission to edit titles. Also, I wish everyone a Happy Mid-Autumn Festival in advance. Tomorrow's update time will be somewhat unstable due to the holiday, but it shouldn't be less than 5 chapters. I’ll try to finish writing about this transitional game, PT. It's mainly because this game is truly a pity; those interested can search for it on Bilibili. It's especially interesting and very heartwarming, and it even offers little pecks of love… Trust me (sincere face).
+But it wasn't quite ready for market release. Overseas competitors, roughly at the same stage, had already begun promotional campaigns.
 
-(End of Chapter) 
+Domestically, they couldn't afford to fall behind. However, they lacked suitable game materials for testing.
+
+Of course, they didn't need full games—just experience DEMOs.
+
+And there were benefits.
+
+First, the Game Department offered special subsidies. Intellectual property rights would remain with the designers and developers. Simply put, the Game Department was funding the development, with substantial subsidies—provided the quality met standards. They would also provide real-time follow-up on progress.
+
+Naturally, only designers of at least mid-tier standing in the domestic industry had been invited. No one would be foolish enough to try scamming the subsidies.
+
+Second, participating in the testing came with another advantage: when the new technology launched, it wouldn't be immediately available to all designers for free. Those who participated would gain priority access to the relevant permissions.
+
+Designers who didn't participate would have to pay to access additional resources or permissions, just as before.
+
+After Yang Chen finished his brief introduction, the group of designers followed Game Department staff onto vehicles, heading to their research and development park.
+
+Under the guidance of staff members, they personally experienced the effects.
+
+Soon, it was Chen Xu's turn.
+
+Entering the gaming pod, he found himself in a scene resembling a bare shell apartment.
+
+At once, Chen Xu understood what Yang Chen had meant earlier.
+
+He had experienced VR gaming pods in this Parallel World before—while the immersion was strong, there were still flaws.
+
+But the feedback from this new-generation VR pod was nearly flawless.
+
+Wearing the haptic feedback suit and gloves, lying in the pod, every movement he made received extremely realistic feedback.
+
+Walking, jumping, punching—Chen Xu tried several actions. Though there was still a slight difference from real life, the feedback was almost indistinguishable from reality.
+
+"The level of immersion achieved by interactive VR devices in this Parallel World has reached such a degree!" Chen Xu exclaimed in amazement upon exiting the pod.
+
+Yet he also clearly understood the issues that came with it.
+
+The most direct problem was the negative effects of overly intense immersion.
+
+Take Dark Souls, for example. If adapted into a VR game with the immersion level Chen Xu had just experienced, most players probably couldn't handle it—not because of the difficulty, but because the immersion would be too terrifying.
+
+Imagine rats in the sewers, eerie scenes in the Irithyll Dungeon, not to mention full horror games!
+
+After all the designers had completed their trials, Yang Chen explained the next steps.
+
+In short, any designer interested could create a DEMO game for the Game Department to test. Based on feedback, adjustments would be made to the immersion levels of the gaming pod.
+
+Because immersion was too strong, certain areas would need to have their feedback toned down.
+
+It sounded paradoxical and a bit absurd, but after firsthand experience, Chen Xu understood exactly what was meant.
+
+During the subsequent registration phase, aside from a few designers who were already occupied with existing projects, thirteen senior job title designers—including Chen Xu and Meng Zuo—remained.
+
+"Mr. Chen, you're planning to participate in this Game Department DEMO project?" Meng Zuo asked curiously, standing beside Chen Xu in line.
+
+After all, online rumors about the sequel to Dark Souls had been swirling—shouldn't Chen Xu be deeply immersed in developing Dark Souls right now?
+
+How could he find time for this Game Department task?
+
+Could it be that the development progress of Dark Souls was so fast that Chen Xu no longer needed to oversee it personally?
+
+Now that he thought about it, it didn't seem impossible.
+
+After all, sequels could reuse many art resources, greatly accelerating development. It was almost an unwritten rule in the gaming industry.
+
+Completely unaware that Meng Zuo was already deep in mental visualization, Chen Xu smiled. "I'm curious. And this is my first time developing a VR game. I also have a few interesting ideas."
+
+This was true. Given such an opportunity, Chen Xu was genuinely eager to try.
+
+Hearing this, Meng Zuo's eyes lit up. "Actually, VR game design isn't that different from PC games. The main differences lie in control schemes and camera perspectives. While most VR games are first-person, third-person can be better for specific games or segments—especially action-focused titles where visual impact matters."
+
+"Then Teacher Meng, we should definitely exchange insights later," Chen Xu said, watching Meng Zuo's enthusiasm with a sigh of emotion. Teacher Meng really was a great person!
+
+"Of course," Meng Zuo replied with a happy smile. After losing the first competition, being overshadowed at the gameplay Expo, and winning nothing at the Game of the Year awards—while someone else swept the trophies—this time, he was finally going to reclaim his pride.
+
+Since Chen Xu called him Teacher Meng, he'd truly step up and be a teacher this time!
+
+"By the way, Mr. Chen, do you already have an idea for your new game?" Meng Zuo asked, suddenly remembering.
+
+"Yes, I do. The name is PT," Chen Xu said with a smile, nodding.
+
+"PT? What does that mean? Sounds a bit strange," Meng Zuo asked curiously.
+
+"Short for Playable Teaser. Since this demo is essentially a playable trailer, we can also add a prefix—call it 'Silent Hill PT' for now," Chen Xu explained with a smile.
+
+"Silent Hill PT—has a certain depth to it. Then Mr. Chen, we'll definitely discuss this in detail later!" Meng Zuo laughed.
+
+"Absolutely," Chen Xu nodded in agreement.
+
+Ahem, the chapter count in the title was mistakenly increased by one—my apologies, authors can't edit titles. Also, early Mid-Autumn Festival wishes to everyone! Tomorrow's update schedule may be unstable due to the holiday, but there will definitely be no fewer than 5 updates. I'll strive to finish writing this transitional game, PT. The reason is mainly that this game is truly a pity—anyone interested can search for it on Bilibili. It's especially interesting and heartwarming, and even gives you loving pats... Trust me (sincere face).
+
+(End of Chapter)<<END_OF_CHAPTER>>

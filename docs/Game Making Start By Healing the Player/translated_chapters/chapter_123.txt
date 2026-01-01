@@ -1,114 +1,171 @@
-Chapter 123: As Expected
+Chapter 123: Expected
 
-Online players held differing opinions, and the debate quickly escalated from text to video.
-Player videos of "Dark Souls" began to circulate, including live streams from streamers who started playing "Dark Souls" immediately.
+Online players were divided in their opinions, and the debate quickly escalated from text arguments to video arguments.
 
-Some players released battle videos of the first BOSS, Gundyr the Ash, which differed from the actual gameplay demonstration video shown at the online promotional launch event.
-In these videos, Gundyr the Ash appeared utterly formidable.
-His halberd spun and twirled, and with a player's scream, directly emptied their health bar.
-It perfectly demonstrated what "horrible to behold" truly meant.
+Videos from players of *Dark Souls* began circulating, including live streams from streamers who had played *Dark Souls* immediately after its release.
 
-Besides these, there were also videos of players being flattened by Crystal Lizards, and the Uchigatana Guy instantly killing them with an Iai combo slash.
-However, before these types of videos could fully ferment, other players began uploading new ones.
+One player uploaded a battle video against the first boss, Ash Judgment Gundyr. Unlike the actual gameplay demonstration video shown during the online promotional launch, in this video, Ash Judgment Gundyr appeared overwhelmingly powerful.
 
-Again, it was a confrontation with Gundyr the Ash.
-But the performance was completely different from before.
-A character in the game, clad in Knight's armor, wielding a shield in one hand and a sword in the other.
-Facing Gundyr the Ash's slash, the left hand holding the shield lightly flicked up.
-It directly parried Gundyr the Ash's weapon, followed by an immediate execution.
-Throughout the entire process, including the second phase, Gundyr the Ash didn't manage to land a single hit.
-He was, in effect, completely toyed with.
+With his halberd spinning and maneuvering, he landed a fatal blow, emptying the player’s health bar amid a blood-curdling scream.
 
-The same BOSS, yet completely different results.
+It fully showcased what true horror looked like.
+
+There were also videos of players being flattened by Crystal Lizards, or instantly killed by the Uchigatana Guy’s Iai combo slash.
+
+However, before these videos could go viral, other players uploaded new ones.
+
+These featured the same boss, Ash Judgment Gundyr, but the outcome was completely different.
+
+In the game, a knight in armor stood with a shield in one hand and a sword in the other. As Ash Gundyr swung down, the player lightly raised his left hand holding the shield, parrying the attack, then lunged forward and performed an execution.
+
+Throughout the entire fight—including the boss’s second phase—Ash Gundyr didn’t even land a single hit.
+
+He was utterly toyed with.
+
+Same boss, completely different results.
+
 This instantly left players bewildered.
-What was going on? Was this game difficult or not?
 
-It was the same on live streaming platforms; some streamers cried and screamed as they died.
-But there were also streamers who, having just left Cemetery of Ash, were toying with Gundyr the Ash, the Uchigatana Guy, and the Lothric Knight.
+What was going on? Was this game hard or not?
 
-Of course, what rookie players didn't realize was that whether it was videos or streamers, while some truly were gifted players,
-a considerable portion had actually practiced for a long time beforehand, or had died countless times and gained experience.
-These numerous examples, coupled with the game having just launched, created an information gap for many players, preventing a unified understanding. This, in turn, made even more players curious.
-What kind of game was this, after all?
+The same situation occurred on live streaming platforms. Some streamers died repeatedly, crying out in despair.
 
-Some players indeed drew parallels to the earlier "Outlast."
-They felt that someone was trying to pull off something big.
-However, this only made them more curious.
-After all, people are naturally curious about the unknown, and this was just a game.
-Moreover, "Dark Souls" didn't seem to be a horror game like "Outlast."
-One might be afraid to step through the asylum gates in "Outlast," but could one really be afraid to Link the Fire in "Dark Souls"?
-With this thought in mind,
-countless players eagerly jumped into the "Dark Souls" trap.
+Yet others calmly strolled from the Cemetery of Ash, effortlessly defeating Ash Gundyr, the Uchigatana Guy, and even the Ro Rider.
 
-Subsequently, these players who entered the game a second wave were completely dumbfounded.
-Just like the initial batch of players,
-these new players encountering "Dark Souls" for the second time immediately felt the game's deep malice.
-Despite the in-game messages and death footage left by veteran players,
-countless players still experienced during their gameplay how this was a game where they could die so thoroughly and satisfyingly.
+Of course, new players didn’t realize that whether it was videos or streamers, while some truly possessed exceptional talent, a significant number had actually practiced extensively in advance—or died countless times to gain experience.
 
-Looking at the tall, burly Gundyr the Ash, and recalling the cool scene in the video demonstration where Gundyr was effortlessly defeated in a few punches and kicks,
-only when it was their turn did they discover they were cut down like chopping vegetables.
+With the game having just launched, this created an information gap. Players lacked a unified understanding, which only fueled greater curiosity.
 
-As for the Fire Keeper, who had made their hearts itch with anticipation from online videos, there was even less to say.
-To meet her, they had to defeat Gundyr the Ash!
-Otherwise, they wouldn't even be able to touch the bronze gate of Firelink Shrine.
+What kind of game was this, exactly?
 
-High difficulty, no mini-map, insidious and malicious level design.
-Many players who were initially attracted instantly joined the ranks of those complaining bitterly.
-"I'm done! This game is too hard!"
-"Why are there no difficulty options? Why no mini-map?"
-"Those who said this game was easy, don't your consciences hurt?!"
-"Died 10 times in 1 hour, heaven knows how I managed it!"
-"I eagerly expected a hack-and-slash game, but now you're telling me I'm the grass being cut?"
+Some players even recalled *Outlast* from earlier.
 
-In Nebula Games' office.
-Although it was the National Day holiday, the core development members of the entire project largely stayed in the company voluntarily to work overtime.
-After all, "Dark Souls" was Nebula Games' first major project, and everyone was very concerned about its trajectory.
-Of course, another reason was the very high overtime pay and benefits, which made everyone willing to work extra hours.
+They suspected someone was trying to stir up a big drama.
 
-"Mr. Chen, in the game community, the company's official Weibo, and your official Weibo, many players are discussing the difficulty of Dark Souls!" Qin Yi from the project team expressed some concern.
-"Yes, will the game be updated with a difficulty selection system later?"
-"And a mini-map,"
-Ruan Ningxue and Yang Xin also added in the office.
+But that only made them more curious.
 
-"The game's systems and difficulty don't need to be changed, and it's too early to draw conclusions now," Chen Xu said with a smile, then turned to the Customer Service Department and asked, "What about the relevant data?"
+After all, humans are naturally drawn to the unknown—and this was just a game.
 
-"Data from third-party platforms cannot be compiled yet, but on the Nebula Games Platform, as of now, the game has sold 495,721 copies within 24 hours of launch. Only 24,916 copies have been refunded; four percent of players cited the game being too difficult as the reason, while the other six percent had various other reasons."
+Besides, *Dark Souls* didn’t seem to be a horror game like *Outlast*.
 
-After all, it was Nebula Games' first major production, and it had been continuously promoted and warmed up for some time.
-Coupled with Nebula Games' previous reputation, a first-day sales volume of nearly 500,000 copies was not particularly surprising.
-At the same time, due to discount coupons, most players chose to make their purchases on the Nebula Games Platform.
-Regarding refunds, "Dark Souls" indeed had a higher number compared to typical games.
-However, this was also within Chen Xu's expectations; in fact, the refund rate for "Dark Souls" was even lower than that of "Outlast" back then.
+They couldn’t bring themselves to enter the asylum in *Outlast*, but how could they not dare to link the fire in *Dark Souls*?
 
-Is "Dark Souls" a game suitable for everyone?
+With such thoughts in mind,
+
+countless players leapt headfirst into the huge trap that was *Dark Souls*.
+
+Then, these players who entered the game shortly after launch were utterly stunned.
+
+Just like the first batch of players,
+
+these newcomers immediately felt the deep malice embedded in this game.
+
+Despite the in-game messages and death footage left behind by veteran players,
+
+innumerable players still discovered through firsthand experience that there actually existed a game capable of making them die so gloriously.
+
+They recalled the towering, imposing figure of Uncle Ash Gundyr, and the cool, flashy scenes in the demo video where players took him down in just a few hits.
+
+But when it came to their own turn, they realized they were the ones being chopped like vegetables.
+
+As for the lovely Fire Keeper, whom they had seen in videos and whose image made their hearts race—forget about meeting her.
+
+To see her, they first had to defeat Ash Gundyr!
+
+Otherwise, they couldn’t even touch the bronze gate of Firelink Shrine!
+
+High difficulty, no mini-map, treacherous and malicious level design.
+
+Many players who had initially been drawn in quickly joined the chorus of complaints.
+
+"I'm disgusted! This game is way too hard!"
+
+"Why no difficulty options? Why no mini-map?"
+
+"Those who say this game is easy—don’t your consciences hurt?!"
+
+"Died 10 times in one hour—how on earth did I manage that?!"
+
+"I was full of excitement, thinking it’d be a hack-and-slash game, but now you're telling me I'm the grass being cut down?!"
+
+………………
+
+In the office of Nebula Games,
+
+despite it being National Day holiday, nearly all core members of the project team voluntarily stayed behind to work overtime.
+
+After all, *Dark Souls* was Nebula Games’ first big project, and everyone was closely watching its progress.
+
+Of course, the generous overtime pay and benefits also played a role—everyone was happy to work extra hours.
+
+"Mr. Chen, the game community, our official Weibo account, and even your personal Weibo are flooded with players discussing *Dark Souls*' difficulty!" Qin Yi from the project team sounded slightly worried.
+
+"Yeah, are we planning to add a difficulty selection system in future updates?"
+
+"And what about the mini-map?" Ruan Ningxue and Yang Xin added from across the office.
+
+"No need to change the game systems or difficulty. It’s far too early to draw conclusions," Chen Xu smiled. He then turned toward the Customer Service Department and asked, "How are the data looking?"
+
+"We can't gather data from third-party platforms yet, but on the Nebula Games Platform, as of now, 495,721 copies have been sold within 24 hours of launch. Only 24,916 have been refunded. Forty percent of refunders cited the game being too difficult, while the remaining sixty percent gave various other reasons."
+
+As Nebula Games’ first blockbuster title, and after a sustained promotional warm-up period,
+
+combined with the company’s prior reputation, a first-day sales figure of nearly 500,000 copies wasn’t particularly surprising.
+
+Moreover, due to discount coupons, most players chose to purchase directly on the Nebula Games Platform.
+
+As for refunds, compared to typical games, *Dark Souls* did have a higher number.
+
+Yet this was still within Chen Xu’s expectations—and in fact, the refund rate for *Dark Souls* was even lower than that of *Outlast*.
+
+Was *Dark Souls* a game suitable for everyone?
+
 Clearly not.
-Or rather, no game is truly "suitable for everyone."
-Because gaming is a very personal experience.
-Some people find AAA-tier games fun, some prefer mobile games, and others enjoy web games.
-So, what game one likes ultimately depends on the player's personal preference.
 
-Yet, "Dark Souls" is definitely a game that, as long as players calm down and immerse themselves, they can feel its charm.
-The game's overall high difficulty is intimately connected to everything else.
-The design of BOSS levels, the map design, the combat system within the game, and even the art design.
-All of these are tightly linked.
-If the game's difficulty were to be lowered, it would be akin to breaking a link in a chain, causing the entire chain to snap.
-This would be counterproductive.
+Or rather, no game could ever be suitable for everyone.
 
-Furthermore, compared to the comments from players online,
-as the game's developer, Chen Xu could understand the true situation of "Dark Souls" more clearly through the backend server data.
-Currently, it was much better than Chen Xu had previously imagined.
-And besides those complaining, there were also many players speaking up for the game.
-It was currently in a 40-60 split mode, and more crucially, the players' online duration had not continuously declined.
-In fact, seventy percent of the first batch of players had already played beyond the 2-hour refund period.
-This was quite unexpected for Chen Xu.
-Clearly, the M attribute of players in this Parallel World was higher than he had predicted during his previous market research!
+Because gaming was an intensely personal experience.
 
-These data also completely reassured Chen Xu.
-All that remained was time, allowing the fragrance of "Dark Souls" – this fine wine – to slowly spread.
-Thus enabling more players to savor the aroma of this exquisite game.
-Of course, during this period, some appropriate guidance would also be necessary.
-Otherwise, it would still affect "Dark Souls'" performance.
+Some found AAA blockbusters enjoyable, others preferred mobile games, while some even liked web games.
 
-(5555555, first time I've run into such a tough opponent while robbing, my underwear even got taken in a double-cross. Kind souls, please give some Monthly Passes, recommendation votes, let me go home!)
-(End of Chapter)
+So what kind of game one liked ultimately came down to personal preference.
+
+Yet *Dark Souls* was undoubtedly a game that, once players settled in and immersed themselves, they would begin to feel its deep attraction.
+
+The game’s high difficulty was, in fact, closely related to this.
+
+The design of boss levels, map design, the construction of the combat system, and even the game’s art—all were tightly interconnected.
+
+Lowering the difficulty would be like cutting a link in a chain, causing the entire structure to collapse.
+
+That would be counterproductive.
+
+Moreover, compared to players’ online comments,
+
+as the game’s developer, Chen Xu could see a clearer picture of *Dark Souls*' actual situation through the backend server data.
+
+So far, the situation was far better than he had anticipated.
+
+And aside from the critics, there were also many players defending the game.
+
+Currently, the balance was roughly 40-60, but more importantly, player online duration wasn’t steadily declining.
+
+In fact, among the first wave of players, seventy percent had already surpassed the two-hour refund period.
+
+That surprised Chen Xu.
+
+Apparently, the M attribute of players in this Parallel World was higher than he had predicted during his earlier market research!
+
+These data points were more than enough to keep Chen Xu calm.
+
+All that remained was time—to let the rich aroma of this fine wine called *Dark Souls* slowly spread.
+
+So that more and more players could catch a whiff of its fragrance.
+
+Of course, some appropriate guidance would still be needed during this time.
+
+Otherwise, it might still affect *Dark Souls*' final results.
+
+(5555555, First time trying to rob someone, but ran into a tough opponent—my underwear got stolen in a dog-eat-dog robbery. Kind souls, please give some Monthly Pass and recommendation votes so I can go home)
+
+(End of Chapter) <<END_OF_CHAPTER>>

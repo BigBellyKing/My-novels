@@ -1,76 +1,171 @@
-Chapter 16: Marketing Stunt
+# Chapter 16: Run-In
 
-In the meeting room, Chen Xu was explaining the relevant content of Undertale to Yang Xin and Ruan Ningxue.
+Meeting room.
 
-There weren't many issues with Mirror (Game); following the previous template, it was just a matter of adding the corresponding character portraits and text-based story. The primary focus for the next period would still be on developing the content for Undertale.
+Chen Xu was explaining the content of *Undertale* to Yang Xin and Ruan Ningxue.
 
-Undertale was a work created by an independent game designer in his previous life. Yet, it moved countless players worldwide, arguably making it a very classic META game.
+The part regarding *Mirror (Game)* wasn't too problematic—just needed to follow previous templates, adding corresponding character portraits and written storylines, and it'd be done.
 
-However, unlike other META games like Pony Island, ICEY, or The Stanley Parable, Undertale seamlessly integrated META elements with RPG elements, even subverting players' perception of traditional RPG settings.
+The main focus going forward would be on developing *Undertale*.
 
-Its core design philosophy was quite clear. The main essence of Undertale was its story, coupled with the META-specific twists, while the gameplay itself was merely a seasoning for the game. Of course, Chen Xu also planned to improve some aspects.
+*Undertale* was a work created by an Independent Game Designer in Chen Xu's previous life.
 
-For example, compared to its previous life, Undertale's art style would definitely be better. The simple pixel style and hand-drawn lines of the original Undertale weren't chosen because they were intrinsically good for the game. It was simply due to a lack of funds, as it was an individual independent game. As for the so-called connoisseurs and media claiming its art style was unique after Undertale became a hit, that was all nonsense.
+Yet it touched countless players worldwide and could be considered a classic META game. However, unlike other META games such as *Pony Island*, *ICEY*, and *The Stanley Parable*, *Undertale* successfully integrated META elements with RPG mechanics, even reshaping players' perceptions of traditional RPG settings.
 
-Indeed, pixel games aren't necessarily made due to a lack of money; for instance, Octopath Traveler in his previous life aimed to use pixels to create a modern yet nostalgic aesthetic, and some retro-themed games deliberately use pixels. However, for a META game primarily driven by its story, superior visual presentation would clearly only enhance the game, not detract from it. For example, Minecraft's pixel style was chosen because its block-building gameplay matched the pixelated aesthetic. But Undertale's art style was clearly not a compromise made for gameplay.
+The game's core concept was very clear.
 
-Of course, setting aside the visual presentation, the story and music of Undertale were undeniably classic. Sans's 'Megalovania' and Undyne's 'Battle Against a True Hero' were both iconic.
+*Undertale*'s main strength lay in its story, combined with META-style twists. Gameplay elements were merely seasoning.
 
-After a brief introduction to Undertale's core content, Chen Xu also showed Ruan Ningxue the character designs for the main cast: the kind and gentle Toriel; the King, who appeared benevolent before battle but became imposing and god-like with his trident in combat; the two skeleton brothers, one tall and one short; and Flowey, seemingly kind but an expression meme lord. Chen Xu would personally oversee the character designs for the main cast.
+Of course, Chen Xu did plan to improve certain aspects.
 
-As for the common mobs, those would be outsourced, and they would simply be approved if they met the requirements. Next was the story: Neutral Route, Pacifist Route, Genocide Route, Soulless Pacifist Route. Chen Xu had already outlined the related plots for each route using the Memory Capsules he had drawn from the system earlier. The rest would mainly be filled in by Yang Xin.
+For instance, compared to its previous life version, the Art of *Undertale* would definitely be enhanced.
 
-After assigning their responsibilities, Chen Xu sat back at his desk and entered the official game engine's backend to begin building Undertale's basic framework.
+In its original form, *Undertale*'s primitive pixel style and hand-drawn lines weren't chosen for artistic reasons.
 
-“Ningxue, is this how you developed games when you were working on Mirror (Game)?” Yang Xin was still a bit dazed, holding the incredibly detailed draft in her hand. Ruan Ningxue, who was already working on designs based on the character requirement sheet, looked at her strangely. “Yes, Sister Xin, why? Is there something wrong with developing games this way?”
+It was simply due to lack of funds—after all, it was a solo independent project.
 
-“Something is very wrong! It’s too smooth! The ideas are too clear!” Yang Xin’s eyes widened, but her voice was hushed. Although in terms of scale, Undertale felt like a small-scale game, its development was just too fluid, giving Yang Xin the illusion that even a dog could handle it. Thinking back to the chaos of developing games at her previous company, Yang Xin suddenly wondered if the employees she had hired before were just putting on an act. While sighing with emotion, Yang Xin meticulously reviewed Undertale's story, trying to figure out how to fill in the details.
+After *Undertale* became wildly popular, some so-called connoisseurs and media outlets claimed its art style was uniquely distinctive—but that was all nonsense.
 
-………………
+Indeed, not all pixel games stem from financial constraints. For example, in Chen Xu's previous life, *Octopath Traveler* used pixel art to blend contemporary and nostalgic visual presentation, and some retro-themed games deliberately adopted the pixel aesthetic.
 
-Chen Xu, sitting at his seat, wasn't thinking about anything irrelevant. At this very moment, he was testing the official engine. The available computational resources were about twenty times more than before. In the backend, the currently available resources were 0/1024MB.
+However, for a story-driven META game like *Undertale*, superior graphics would clearly enhance the experience rather than detract from it.
 
-According to the units of his previous life, that was roughly 1GB, but Chen Xu consulted the tutorial and related new content. In this Parallel World, these resources were completely sufficient. As for desiring more, one either had to improve their job title level as a designer, or spend money.
+Take *Minecraft*: it used pixel-style visuals because its block-based gameplay naturally matched that aesthetic.
 
-To improve one's job title, one either had to slowly accumulate seniority, or earn some prestigious awards, or make a positive impact on the gaming industry. To some extent, the birth of Mirror (Game) could be considered an advancement in the Gentleman's Game industry.
+But *Undertale*'s art style was clearly not a compromise made for the sake of gameplay.
 
-After understanding this much, Chen Xu gently shook his head, no longer dwelling on such thoughts. Instead, he proceeded with Undertale's development. This independent game presented little difficulty for Chen Xu. With the technology of the Parallel World, developing such a game would not take much effort. The truly time-consuming and labor-intensive aspects were primarily the story text, character portraits, and music.
+Leaving aside visual presentation, *Undertale*'s story and Music were undeniably classic.
 
-It's worth noting that the music in Undertale was exceptionally outstanding. This was also a common feature in many other independent game titles. Story, music, and gameplay creativity have always been the three-pronged approach for independent games.
+In particular, Sans's "Megalovania" and Undyne's "Battle Against a True Hero" were iconic.
 
-“Sister Xin, who is this, coming out to bite us?”
+After briefly introducing the core elements of *Undertale* to the two, Chen Xu showed Ruan Ningxue some concept art of key characters.
 
-“It’s an opportunistic critic, probably jealous of Mirror (Game)'s sales performance, and since his new game is about to be released, he’s deliberately staging a marketing stunt to gain popularity. He's a habitual offender.” Noticing the commotion from Yang Xin and Ruan Ningxue, Chen Xu was curious. “What’s going on?”
+Toriel, the kind and gentle motherly figure; Asgore, the king who appeared benevolent before battle but transformed into a war god wielding a trident once combat began; the two skeleton brothers (Sans and Papyrus), one tall and one short; and Flowey, the seemingly innocent flower who was actually an expression meme lord...
 
-Seeing Chen Xu, Yang Xin picked up Ruan Ningxue's phone. “It’s this, a guy who specializes in opportunistic criticism.” Chen Xu took the phone. On it was a video reposted by a media outlet called Game Timespace. After clicking it open, a middle-aged man was seen in the video commenting on a game. The game image was Mirror (Game), of course, with clothed character portraits.
+Chen Xu would personally handle quality control for the main characters' designs.
 
-‘To catch players’ eyes, game designers nowadays will do anything.’
+As for regular mobs, those would be outsourced—just needed to meet requirements and pass final inspection.
 
-‘Vulgar, utterly vulgar!’
+Next came the storylines: Neutral Route, Pacifist Route, Genocide Route, and Soulless Pacifist Route.
 
-‘Gaming is a highly artistic industry. To call such a work a game, I feel it’s a defilement of games.’
+Chen Xu had used Memory Capsules obtained from the system to outline the key plot points for each path.
 
-‘Can such a game designer advance the gaming industry?’
+The rest would be filled in by Yang Xin.
 
-‘He cannot!’
+After assigning their responsibilities, Chen Xu sat down at his desk and entered the official engine's backend, preparing to establish the foundational framework for *Undertale*.
 
-‘If such content were in my upcoming game, Blooming (Game), I would be ashamed to show my face.’
+"Ningxue, was *Mirror (Game)* developed like this when you worked on it before?"
 
-‘So, I hope that all game designers can focus less on gimmicks and more on researching how to make truly good games, instead of resorting to vulgar content to boost sales.’
+Staring at the manuscript—so detailed it couldn't possibly be more thorough—Yang Xin was still slightly dazed.
 
-The video, lasting about two minutes, featured the man speaking with a righteously indignant tone. However, when Chen Xu scrolled through the comments, he found something quite interesting. Besides a group of players cheering him on, there was a large number of sarcastic comments.
+Beside her, Ruan Ningxue, already sketching with a reference sheet in hand, looked puzzled. "Yes, why? Is there something wrong with developing a game this way, Sister Xin?"
 
-‘Zhong ‘Big Cannon’, you’re here again?’
+"Wrong? It's too smooth! Too clear-headed!" Yang Xin widened her eyes, though she lowered her voice.
 
-‘Vulgar? Well then, I must go critique it!’
+In terms of scale, *Undertale* felt like a small project.
 
-‘Other people’s games are vulgar! My games are art!’
+Yet the development process was so streamlined it gave Yang Xin the illusion that even a dog could do it.
 
-‘Tell us, when are you promoting your new game?’
+Contrasting this with the chaotic development processes at her previous company, Yang Xin momentarily wondered if all the employees she'd hired before had just been pretending to work.
 
-‘The user above, you weren’t paying attention to Zhong ‘Big Cannon’s’ bombastic performance, were you? It’s already inserted, the game is called Blooming (Game).’
+While sighing with emotion, she began carefully reviewing *Undertale*'s story, thinking about how best to flesh it out.
 
-After watching the entire video, reading some comments, and getting Yang Xin’s explanation, Chen Xu understood the situation. The person was named Zhong Mei, a designer under Hapai Culture & Sports. He was also the owner of this company. His reputation in the gaming community was mixed. The 'praise' part came from the fact that Zhong Mei indeed had some commendable works in the past. Even in recent years, though his games hadn't been huge hits, their quality wasn't too bad. The 'criticism' part, however, was about Zhong Mei's character. He often deliberately targeted popular and controversial games to denigrate them, using it to promote and elevate his own games. Not just Chen Xu, but many other game designers had been 'bitten' by him in this manner.
+...
 
-(End of Chapter)
+Chen Xu, seated at his desk, didn't dwell on such random thoughts.
+
+Right now, he was testing the official engine.
+
+The available Computational Resources had increased by roughly twenty times compared to before.
+
+In the backend, the current available resource was 0/1024MB.
+
+Judged by previous life standards, that was about 1GB. But Chen Xu checked the tutorials and new features.
+
+In this Parallel World, these resources were more than sufficient.
+
+If he wanted more?
+
+Either increase the Game Designer's Job Title level, or spend money.
+
+How to level up? Either grind slowly—what people called gaining experience.
+
+Alternatively, win prestigious awards or make positive contributions to the gaming industry.
+
+In a way, the creation of *Mirror (Game)* had indeed advanced the gentleman's game industry.
+
+After getting a rough understanding, Chen Xu gently shook his head and stopped thinking about it.
+
+He turned his focus to developing *Undertale*.
+
+For Chen Xu, this Independent Game wasn't particularly difficult.
+
+With Parallel World technology, creating such a game wouldn't take much effort.
+
+The truly time-consuming and labor-intensive parts were the story text, character portraits, and Music.
+
+After all, *Undertale* was renowned for its exceptional soundtrack.
+
+This was also common among many other standout independent titles.
+
+Story, Music, and Gameplay creativity had always been the three-pronged approach of independent games.
+
+"Sister Xin, who the hell is this guy? Come out and bite us!"
+
+"A hit-and-run dog. Probably jealous of *Mirror*'s sales results, and since his new game is about to launch, he's deliberately staging a run-in to grab popularity. This guy's a habitual offender."
+
+Noticing the commotion from Yang Xin and Ruan Ningxue, Chen Xu grew curious. "What's going on?"
+
+Seeing Chen Xu approach, Yang Xin picked up Ruan Ningxue's phone. "Look at this—another hit-and-run artist."
+
+Chen Xu took the phone. On screen was a video reposted by a media outlet called *Game Timespace*.
+
+After tapping to play, a middle-aged man appeared, reviewing a game. The game's image shown was *Mirror (Game)*—specifically, a clothed character portrait.
+
+"To capture players' attention, today's game designers will do anything."
+
+"Vulgar! Utterly vulgar!"
+
+"Game development is an artistic field. Calling such works 'games' feels like a desecration of gaming itself."
+
+"Can such a game designer advance the gaming industry?"
+
+"He cannot!"
+
+"If my upcoming game *Blooming (Game)* contained such content, I'd be too ashamed to show my face."
+
+"So I urge all fellow game designers: reduce gimmicks, and instead focus on creating truly great games. Stop resorting to vulgar content just to boost sales."
+
+The roughly two-minute video was delivered with righteous indignation.
+
+Yet when Chen Xu scrolled through the comments, something interesting emerged.
+
+Alongside a group of supportive players, a large number of sarcastic ones appeared.
+
+"Zhong 'Big Cannon', you're back again?"
+
+"Vulgar? Then I must criticize it too!"
+
+"Others' games? Vulgar! My game? Art!"
+
+"Just say when you're advertising your new game already."
+
+"Bro upstairs, you're not paying attention to Zhong 'Big Cannon's' bombastic performance. Didn't you see? It's already inserted—the game's called *Blooming*."
+
+After watching the entire video, reading the comment section, and hearing Yang Xin's explanation, Chen Xu got the full picture.
+
+The man's name was Zhong Mei, a designer under Hapai Culture & Sports—and also the company's owner.
+
+His reputation in the gaming industry was mixed.
+
+The praise stemmed from Zhong Mei actually having some solid past works.
+
+Even in recent years, while his games hadn't exploded in popularity, their quality wasn't bad.
+
+The criticism, however, was about Zhong Mei's character.
+
+He frequently targeted games that were currently popular and somewhat controversial, disparaging them to promote and elevate his own upcoming titles.
+
+It wasn't just Chen Xu—many other game designers had been attacked this way before.
+
 <<END_OF_CHAPTER>>

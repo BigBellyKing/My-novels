@@ -1,141 +1,145 @@
-Chapter 60: Players Always Misunderstand Me!
+## Chapter 60: Players Always Misunderstand Me!
 
-Online discussions about *Outlast* continued.
+The online discussion surrounding *Outlast* was still ongoing.
 
-How long this fire surrounding *Outlast* could burn ultimately depended on how long it could sustain itself on live streaming platforms.
+How long this wave of popularity for *Outlast* would last primarily depended on how long it could remain trending on live streaming platforms.
 
-Because relying solely on the game's inherent horror quality, expecting *Outlast* to maintain its massive popularity was unrealistic.
+Relying solely on the game’s inherent horror quality to keep *Outlast* popular was unrealistic.
 
-At the same time, some game developers and designers online had rumored plans to develop similar horror games.
+Meanwhile, some game developers and designers online had reportedly begun developing their own horror games, clearly aiming to ride the wave of horror fever sparked by *Outlast*.
 
-Clearly, they were preparing to piggyback on the wave of horror enthusiasm *Outlast* had brought.
+As for the genre, it didn’t even need thinking—most would undoubtedly be uniformly escape-based gameplay without combat systems.
 
-As for the genre, there was no need to even think about it; most would uniformly be escape-style gameplay with no combat system.
+Chen Xu didn’t pay much attention to this.
 
-Chen Xu didn't pay too much attention to this.
+After all, developing *Outlast* hadn’t originally been part of Chen Xu’s plan.
 
-Because the development of *Outlast* was not originally in Chen Xu's plans before this.
+If it hadn’t been for that lucky draw of an item that converted points, he wouldn’t have developed this game at all.
 
-Had he not happened to draw an item that could convert Emotion Points at the time, Chen Xu wouldn't have planned to develop this game.
+"Time-wise, two months is a bit too rushed," Chen Xu mused, checking the date.
 
-“In terms of time, two months is a bit too rushed.” Chen Xu checked the date, calculating in his mind.
+Truly large-scale games, as well as VR games, were still temporarily off the table, just like before.
 
-Truly large-scale games and VR games, as before, were temporarily not being considered.
+Capital was still lacking.
 
-There was still a lack of capital.
+Additionally, with the Lunar New Year approaching, even if he wanted to develop a medium-sized game, it wouldn’t be able to launch until after the holiday.
 
-Additionally, due to the approaching New Year, even if he wanted to develop a medium-sized game, it would have to wait until after the New Year to launch.
+During this period, Chen Xu also planned to hire, through a headhunter, some talent capable of handling areas beyond game development.
 
-During this period, Chen Xu also planned to recruit some talents from headhunters who could be responsible for aspects other than game development.
+Aside from that, there was also Nebula Games Platform.
 
-Besides that, there was the Nebula Games Platform.
+From a functional standpoint, the Nebula Games Store already had a fairly comprehensive suite of features.
 
-From a functional perspective, the Nebula Game Store's various features were actually quite comprehensive at present.
+Shop, inventory, community, friends, comments, and even the Workshop (modding platform)—all features present on the Steam Platform from his previous life—were fully implemented.
 
-Store, Inventory, Community, Friends, and Comments, including the Creative Workshop found on the Steam Platform in his previous life, were all available.
+Of course, some interface UI elements related to recommendations hadn’t been developed yet, since there were only three games on the platform at the moment.
 
-Of course, some interfaces, such as recommendation-related UI, hadn't been implemented yet, as there were only three games in total: *Outlast*, *To the Moon*, and *Undertale*.
+*Outlast*, *To the Moon*, and *Undertale*.
 
-The platform was already mature; the key was the lack of a player user base.
+The platform itself was already mature; the key issue was the lack of a player user base.
 
-Currently, Nebula Games Platform had only sold a total of 15,000 copies of its games.
+So far, the Nebula Games Platform had sold only 15,000 copies of games in total.
 
-As for daily active users, it was less than 1,000 people.
+As for daily active users, it was less than 1,000.
 
-However, despite the dismal numbers, Chen Xu still held high hopes for the platform.
+Although the numbers were dismal, Chen Xu still held high hopes for the platform.
 
-“Funds are not a problem for now; it's almost time to start focusing on the platform.” Chen Xu mused.
+"Funds aren’t tight for now. It’s about time to start focusing on the platform," Chen Xu thought.
 
-To accumulate platform users most quickly, an exclusive strategy was clearly the most effective.
+To accumulate users for the platform as quickly as possible, an exclusive strategy was clearly the most effective.
 
-Major game developers and channels both domestically and internationally actually had related exclusive strategies.
+Major game developers and channels, both domestic and international, all employed similar exclusive strategies.
 
-However, this method certainly didn't suit the current Nebula Games.
+However, this approach clearly didn’t belong to Nebula Games at this stage.
 
-He had some money, but the capital gap with major game developers was still significant.
+They had some money, but the capital gap compared to major game developers was still enormous.
 
-If he were to truly employ an exclusive strategy, he would inevitably have to launch games that were sufficiently attractive.
+To truly implement an exclusive strategy, they’d need to release a game attractive enough.
 
-But the key issue was that launching such types of games at this time would definitely be benefiting other game developers.
+But the key issue was, releasing this type of game now would only be making profits for others.
 
-After all, gameplay wasn't protected, and the many multiplayer online games from his previous life that focused on gameplay creativity were Chen Xu's ultimate weapons.
+After all, gameplay couldn’t be protected, and many multiplayer online games from his previous life that were centered on innovative gameplay were Chen Xu’s trump cards.
 
-Using them now wouldn't be attacking others, but rather attacking himself.
+Using them now wouldn’t blow up others—it would blow up himself.
 
-'Multi-channel, buy-to-play, discounted price, pass binding, multiplayer online.'
+‘Multi-channel, buy-to-play, discounted pricing, pass bundling, online multiplayer.’
 
-Sitting in front of the computer, Chen Xu pondered for a long time, then picked up a signature pen beside him and wrote a few keywords in his notebook.
+Sitting in front of his computer, Chen Xu pondered deeply, then picked up a pen and wrote down several keywords on his notepad.
 
-This was the definition he gave to the new game he was planning to develop.
+This was the definition he set for the next new game to be developed.
 
-Channels, needless to say, Nebula Games was not suitable for an exclusive approach at the moment.
+Multi-channel didn’t need much explanation—Nebula Games wasn’t suited for exclusivity at this stage.
 
-Buy-to-play was to complement the discounted price, better enticing players to visit the Nebula Games Platform for purchases.
+The buy-to-play model was intended to work with discounted pricing, better attracting players to spend on the Nebula Games Platform.
 
-As for pass binding, it meant that if players purchased the upcoming new game on other platforms, they would have to register a Nebula Games pass account for authentication.
+As for pass bundling, players who bought the upcoming new game on other platforms would have to register a Nebula Games pass account for authentication.
 
-This might indeed lose a group of players who found it troublesome, and some channels even prohibited this account linking model.
+This might indeed lose a batch of players who found it troublesome, and some channels even prohibited this type of account linking.
 
-However, it was still very important for the early user accumulation of Nebula Games.
+But for Nebula Games’ early user accumulation, it was still crucial.
 
-Regardless of whether they made a purchase, or even if players only registered without downloading the platform, at least they would be tricked into registering a pass first.
+Regardless of whether they spent money or not, and even if players only registered without downloading the platform,
 
-Multiplayer online was to better ensure this mode, allowing players to engage in cross-platform multiplayer.
+At the very least, trick them into registering a pass account first.
 
-As for project selection, this game would also not be very large in scale.
+Online multiplayer would better ensure this model, allowing players to cross-platform play together.
 
-After all, it was an exploratory game.
+As for project selection, this game also wouldn’t be too large in scale.
 
-Coupled with the fact that this year's Spring Festival was relatively late, with New Year's Eve falling on February 11th.
+After all, it was a test game.
 
-Two months was enough time to develop a small-budget game.
+Added to that, this year’s Spring Festival came later—Chinese New Year’s Eve was on February 11.
+
+Two months was enough time to develop a low-budget game.
 
 ………………
 
-Sitting in front of the computer, having set a plan for the broad development direction, Chen Xu came out of the office to get some fresh air and also to consider which game to choose for the next new project.
+Sitting at his computer, Chen Xu had set a general development direction for the near future.
 
-After all, there was a relatively wide range of options.
+He stepped out of his office to get some fresh air and, at the same time, consider which game to choose for the next new project.
 
-It was already after working hours, and some employees who hadn't gone home for lunch greeted Chen Xu.
+After all, the range of options was still relatively broad.
 
-Chen Xu nodded in response to each of them. Looking at the office area, Chen Xu also wondered if it was time to expand.
+It was already past work hours. Some employees who hadn’t gone home for lunch greeted Chen Xu as they saw him.
 
-He hadn't felt it when there were fewer people, but now with the R&D department and other departments together, the office space was a bit crowded, with each workstation simply separated by partition boards.
+Chen Xu nodded in response to each one. Looking at the office space, he also considered whether it was time to expand.
 
-However, this thought had just arisen and before he could think further, he was interrupted by Yang Xin and Ruan Ningxue, who came over.
+When there were fewer people, he hadn’t felt it, but now with the R&D department and other departments sharing the space, the workplace was a bit cramped—workstations separated only by simple partitions.
 
-“Mr. Chen, you've been made into a meme,” Ruan Ningxue said with a smile.
+However, just as this thought arose, before he could dwell on it, Yang Xin and Ruan Ningxue approached and interrupted him.
 
-“No, more accurately, what our Mr. Chen said has been made into a meme,” Yang Xin said, holding up her phone.
+"Mr. Chen, you’ve been turned into a meme!" Ruan Ningxue said with a smile.
 
-Chen Xu glanced at it, a little speechless.
+"No, it’s not just you—our Mr. Chen’s words have become a meme," Yang Xin said, holding up her phone.
 
-Yang Xin's phone showed a screenshot that had been Photoshopped.
+Chen Xu glanced at it and was slightly speechless.
 
-The content of the image was a screenshot of *Outlast*'s protagonist doing 'abdominal exercises' for the Scissors Doctor, with a line written next to it: “I am the Warrior of Love!”
+On Yang Xin’s phone was a photoshopped screenshot.
 
-Yang Xin slid the screen, and a new meme appeared: a screenshot of the Fat Security Guard Uncle losing his head.
+The image showed the protagonist from *Outlast* doing abdominal exercises for the Scissors Doctor who cut fingers, with a caption beside it: "I am a Warrior of Love!"
 
-Of course, the image had a mosaic blur, and a line of text accompanied it: “I am also the Warrior of Love!”
+Yang Xin swiped the screen, and a new meme appeared—a screenshot of the Fat Security Guard Uncle’s decapitation.
 
-“That meme hasn't died down yet?” Chen Xu was a little speechless, but also slightly amused.
+Of course, the image was censored with a mosaic, but it still had a line of text beside it: "I am also a Warrior of Love!"
 
-“Of course not! If any *Outlast* player doesn't know this meme, they'd be shaming their own terrifying experience!” Ruan Ningxue said, grinning.
+"This meme hasn’t died down yet?" Chen Xu was both speechless and slightly amused.
 
-“Exactly!” Yang Xin echoed.
+"Of course not! In the *Outlast* player community, anyone who doesn’t know this meme is truly unworthy of their scare experience!" Ruan Ningxue said cheerfully.
 
-“Who told you to give such a definitive explanation back then, Mr. Chen!” Ruan Ningxue pulled up Chen Xu's previous official Weibo post.
+"Exactly!" Yang Xin agreed.
 
-The likes had already exceeded 500,000, and there were over 70,000 comments.
+"Who could blame Mr. Chen? Your explanation back then was just too perfect!" Ruan Ningxue pulled up the post Chen Xu had made on the official Weibo account.
 
-“Players always misunderstand me!” He said, but Chen Xu's face still held a cheerful expression, and a thought flashed through his mind.
+The like count had already surpassed 500,000, with over 70,000 comments.
 
-“Hmm, I've decided! I need to prove my 'Warrior of Love' label. The next game will be a truly wholesome game.” Chen Xu said with a smile.
+"Players always misunderstand me!" He said it jokingly, but a smile still played on his face, and an idea flashed through his mind.
 
-Ruan Ningxue looked surprised: “Mr. Chen, a new project so soon? What type of game is it!?”
+"Hmm, I’ve decided! I need to prove my ‘Warrior of Love’ label. The next game will definitely be a wholesome one," Chen Xu said with a smile.
 
-“A truly wholesome game? Mr. Chen, you're not going to use that *Outlast*-style rhetoric again, are you?” Yang Xin expressed suspicion.
+Ruan Ningxue looked surprised: "Mr. Chen, you’ve already decided on a new project this quickly? What kind of game is it!?"
 
-“Don't rush, I'll ponder it for a couple of days and tell you once the game content is finalized. But the scope won't be very large. It just so happens that this year's Spring Festival and Valentine's Day fall together, so I'll present players with a very suitable game for the occasion.” Chen Xu said with a smile.
+"A wholesome game? Mr. Chen, you’re not pulling the same stunt as with *Outlast*, are you?" Yang Xin expressed doubt.
 
-(End of Chapter)
+"Don’t rush me. I’ll think it over for a couple of days. Once I’ve confirmed the game’s content, I’ll tell you. But the scale won’t be large. This year, Spring Festival and Valentine’s Day fall together—perfect timing to present players with a very fitting game," Chen Xu said with a smile.
+
+<<END_OF_CHAPTER>>

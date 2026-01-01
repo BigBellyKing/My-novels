@@ -1,53 +1,147 @@
-Chapter 207: The First Test DEMO (Sixth update, requesting subscriptions and monthly passes)
+Chapter 207: The First Test DEMO (Sixth Update, Requesting Subscriptions, Monthly Pass)
 
-As time progressed, Chen Xu also held several meetings with Qin Yi and others. He further elaborated on the gameplay and core concepts of Minecraft. A mobile version and a subsequent VR version are planned for release, but for now, the PC version remains the main focus. After finalizing all aspects of Minecraft, the entire R&D department inevitably entered an overtime work state, as time was indeed quite pressing.
+As time progressed, Chen Xu held several meetings with Qin Yi and others.
 
-However, compared to Minecraft, what was completed first in half a month were two DLCs for Don't Starve. The Reign of Giants and Shipwrecked versions introduced some brand-new creatures and gameplay. The content of these two versions wasn't actually that extensive. With the existing game framework and Chen Xu's detailed Design concept document, it didn't take much effort.
+Further elaborating on the gameplay and core concepts of Minecraft.
 
-The new maps, monsters, and other added content rekindled players' enthusiasm for Don't Starve. In the gaming industry, besides Don't Starve players who were happy about the DLC, some game developers and teams successively announced new developments for Sandbox genre games. This included TengHua and NetDragon, both of whom had studios participating.
+Plans included releasing a mobile version, as well as a subsequent VR version.
 
-They didn't reveal much content, but from the disclosed information, it could only be said that the themes were diverse. Chen Xu took some time to observe this, and many of the actions by game developers and game designers left him speechless. For instance, some directly copied Don't Starve's model, also featuring a survival theme, but changed the art style and camera perspective from a God's-eye view to third-person over-the-shoulder and first-person perspective, yet still marketed it as a sandbox game.
+But for now, the focus remained on the PC version.
 
-This also left Chen Xu quite speechless. It wasn't that he thought they were terrible games just by looking; it was just that from their promotional content, they leaned more towards pure survival mixed with a bit of open-world philosophy, yet they directly labeled themselves as sandbox games because sandbox games were currently booming. There were quite a few games of this type; some didn't follow Don't Starve's path but instead introduced minor innovations.
+After finalizing every aspect of Minecraft, the entire R&D department inevitably entered a period of overtime work.
 
-For example, some set the background at sea, allowing players to act as pirates, build their own pirate ships, and drift across the ocean searching for various legendary creatures, engaging in battles with pirates, and seeking legendary treasure-filled islands. Others set the background in a post-apocalyptic world, also focusing on survival but with Zombie and mutated creatures as the targets. Some turned it into an RPG, where players took on the role of demigods, went on quests to slay various legendary monsters, and ultimately aimed to defeat the Olympian gods.
+After all, time was extremely tight.
 
-Clearly, Don't Starve's performance in the sandbox game genre had given many game designers in the gaming industry significant inspiration. However, many of these games, which Chen Xu felt had nothing to do with sandbox, were uniformly marketed as sandbox games. It was quite reminiscent of his previous life, after Rockstar Games made GTA a benchmark for open-world games, a large number of games on the market, regardless of whether they were previously action-adventure, FPS, or RPG games, all started calling themselves open-world games, eager to associate themselves with the open-world label.
+However, compared to the development of Minecraft, the two DLCs for Don't Starve were completed first after half a month.
 
-In major player community forums, many players were engaging in various discussions.
+The Reign of Giants and Shipwrecked versions introduced some brand-new creatures and gameplay mechanics.
 
-'What the heck! I'm sick of it, how many games have been advertised this month? Another sandbox game?'
+In terms of content volume, these two versions weren't particularly extensive.
 
-'My goodness, Don't Starve started the sandbox game trend, how many companies are making them now?'
+Combined with the existing game framework and the detailed design concept drafts provided by Chen Xu,
 
-'But honestly, for someone who cares about graphics, these seem a bit easier to accept than Don't Starve.'
+it didn't take much effort to complete.
 
-'The graphics are indeed good, but I wonder about the gameplay.'
+New maps, monsters, and additional content
 
-On the community forums, players were complaining one after another.
+reignited players' passion for playing Don't Starve.
 
-Complaints aside, many of the announced sandbox games, apart from those that looked rather crude from their project documentation, attracted significant player attention and garnered considerable popularity. Clearly, the sandbox game, as a completely new genre, felt very fresh to many players. They might verbally complain about 'too many, I don't want any more, I can't take it,' but their bodies reacted honestly, even actively embracing them.
+Meanwhile, in the gaming industry, apart from Don't Starve players delighted by the DLCs,
 
-However, one thing was certain: with so many sandbox game projects being launched, this wave of sandbox hype would definitely see some projects die on the beach.
+various developers and teams successively announced new projects involving sandbox games.
 
-……………………
+Including TengHua and NetDragon, studios under their banners also joined in.
 
-Chen Xu paid attention to the topic of the sandbox craze in the gaming industry for a bit, then dismissed it. The current main task was still to complete Minecraft.
+They hadn't revealed much content, but judging from the materials released, the themes were incredibly diverse.
 
-The full version of Minecraft was clearly not progressing that quickly. However, a PC DEMO for phased testing had already been produced. Many features in the current DEMO hadn't been implemented yet. Not to mention the game's technology content, even crafting and other related content were missing. Simply put, this version was basically a heavily stripped-down Creative Mode.
+Chen Xu took some time to follow these developments, and many operations by these game developers and designers left him speechless.
 
-The entire game was very rudimentary. There were currently no art assets, and the UI, naturally, hadn't been made, so it was a complete hodgepodge. Don't Starve and Dark Souls, elements from both could be found, making it seem very incongruous. However, Chen Xu didn't pay much attention to it; it could be replaced later. After all, most initial game DEMOs were like this.
+For example, some teams directly copied the model of Don't Starve—same survival theme, only changing the art style and camera perspective, switching from a God's-eye view to third-person over-the-shoulder or first-person perspective, and then marketing it as a sandbox game.
 
-After entering the game, Chen Xu began to experience it. He quickly got into the game, and the Steve in the game wasn't Steve yet; it was just a block. Yes, a plain white block, without any facial features drawn in pixels, looking very eerie.
+This made Chen Xu speechless—not necessarily because they looked like terrible games at first glance, but because judging from their promotional content, these games leaned more toward pure survival with a slight hint of open-world elements. Yet, due to the current popularity of sandbox games, they simply labeled themselves as sandbox titles.
 
-Controlling the in-game character, Chen Xu flew into the sky and looked around. Basic terrain generation, including rivers, mountains, forests, and grasslands, was randomly generated. Of course, while called random, there was actually a self-consistent procedural generation logic. It couldn't be truly random; there were various formulas for resource calculation. Because if it were completely random, a world might generate without water, or be entirely ocean without any land. Although the probability was extremely small, it was still possible.
+There were quite a few games like this. Others didn't follow Don't Starve's path but made minor innovations instead.
 
-He exited, then re-entered. After repeating this several times and observing carefully, Chen Xu nodded slightly. For now, no major problems were found. Of course, more sample tests would be needed later.
+For instance, setting the game in the middle of the ocean, letting players play as pirates building their own ships, drifting across the sea, hunting legendary creatures, battling other pirates, and searching for treasure-filled islands from myths.
 
-As for the art assets, the mainstream configuration for players in the Parallel World was significantly higher than in his previous life. There was no need to worry about the configuration aspect; it could be greatly improved. After all, good graphics quality was also part of the game experience. While retaining the gameplay features, it was impossible for players to say 'I don't need trash 4K, I only like the very handsome 360P resolution and jagged graphics.'
+Others set the backdrop in a post-apocalyptic world, still focusing on survival but pitting players against zombies and mutated creatures.
 
-“Regarding the art, make the blocks more tactile, and ensure the textures for different materials are well-done.” “Also, ensure unique materials like lava and seawater have a consistent art style with regular blocks. Lighting is also a key focus; the effects of light from flames, the sun, and so on, should allow some in-game materials to provide more realistic feedback, such as glass and seawater.” Chen Xu said to Ruan Ningxue.
+Some turned it into an RPG, letting players take on the role of demigods, hunting down legendary monsters and ultimately aiming to defeat the Olympian gods.
 
-Without a reply, Ruan Ningxue nodded, jotting down the key points. “Alright, you all go busy yourselves. Qin Yi, stay for a moment. I'll explain the game's subsequent crafting system and tech system in detail; we'll make a DEMO prototype for that first.” Chen Xu turned to Qin Yi.
+Clearly, Don't Starve's success in showcasing the sandbox genre had inspired and sparked ideas for many designers in the gaming industry.
 
-(End of this chapter)
+However, in Chen Xu's opinion, many of these games had absolutely nothing to do with the sandbox genre, yet all labeled themselves as such in their promotions.
+
+It reminded him of the time in his previous life when Rockstar Games made GTA the benchmark for open-world games, leading to a flood of games—regardless of whether they were originally action-adventure, FPS, or RPGs—all branding themselves as open-world games, desperately trying to associate themselves with the open-world trend.
+
+In various player community forums, many players were actively discussing.
+
+'What the hell? I'm disgusted. How many of these have been announced this month? Another sandbox game?'
+
+'My god, how many studios are working on sandbox games because Don't Starve popularized the genre?'
+
+'But honestly, as someone who cares about graphics, I find these a bit more acceptable than Don't Starve.'
+
+'The graphics do look nice, but we still don't know about the gameplay.'
+
+Players grumbled on the forums.
+
+But despite their complaints, aside from a few sandbox games that looked obviously poor from the initial project documents,
+
+many of the announced projects attracted significant player attention and generated notable popularity.
+
+Clearly, the sandbox game genre, being something entirely new, felt incredibly fresh to many players.
+
+They might verbally complain about there being too many, saying 'I don't want this, I can't take it anymore,' but their actions told a different story—they were actively embracing it.
+
+However, one thing was certain: among the numerous sandbox game projects riding this wave, some would inevitably fail and end up abandoned.
+
+………………
+
+Chen Xu glanced at the ongoing discussions about the sandbox game trend in the gaming industry but didn't pay much attention.
+
+His current main task remained completing Minecraft.
+
+The full version of Minecraft clearly wouldn't be finished quickly.
+
+However, a PC demo, intended for phased testing, had already been created.
+
+This current DEMO lacked many features.
+
+Not only were the tech elements in the game not implemented, but even the crafting system and similar components hadn't been added.
+
+Simply put, this version was essentially a severely cut-down Creative Mode.
+
+The game was extremely primitive. Currently, no art assets had been produced, and the UI hadn't been developed, so the entire game was a complete patchwork.
+
+Elements from Don't Starve and Dark Souls (informal) could be spotted, making it look incredibly incongruous.
+
+But Chen Xu didn't care much—these would be replaced later anyway.
+
+After all, the initial DEMO of any game usually looked like this.
+
+Entering the game, Chen Xu began testing.
+
+He quickly loaded into the game. The character Steve wasn't Steve yet—he was just a block.
+
+Well, a plain white block, without any pixel-defined facial features, looking rather eerie.
+
+Controlling the in-game character, Chen Xu flew into the sky and took a brief tour.
+
+Basic terrain like rivers, mountains, forests, and grasslands were generated using a randomized procedural generation logic.
+
+Of course, 'random' didn't mean completely arbitrary—there was a coherent procedural generation logic in place.
+
+True randomness could lead to generating a world with no water or one entirely covered by ocean with no land.
+
+Although the probability was extremely, extremely low, it was still possible.
+
+He exited and re-entered the game.
+
+After repeating this process several times and observing carefully, Chen Xu gave a slight nod.
+
+So far, he hadn't spotted any major issues.
+
+Still, more sample testing would be required later.
+
+As for the art assets:
+
+The mainstream PC specifications among players in this Parallel World were significantly higher than in his previous life.
+
+There was no need to worry about hardware requirements, so graphical fidelity could be pushed much higher.
+
+After all, good visuals were an essential part of the player experience.
+
+While preserving the game's core gameplay and characteristics, no player would say, 'I don't need garbage 4K—I prefer a very handsome 360P resolution with jagged graphics.'
+
+'For the Art, make the blocks feel more textured, and ensure the textures for different materials are well done.'
+
+'Also, unify the art style for special materials like lava, seawater, and regular blocks. Lighting is crucial too—consider how light sources like flames and the sun affect in-game materials, making them react more realistically, such as Glass and seawater.'
+
+Chen Xu said to Ruan Ningxue.
+
+No response—Ruan Ningxue simply nodded and noted down the key points.
+
+'Alright, you all go ahead and get back to work. Qin Yi, stay behind. I'll explain the subsequent crafting system and technology system in detail. Then, we'll make a prototype DEMO for those parts.' Chen Xu turned to Qin Yi.
+
+(End of Chapter) <<END_OF_CHAPTER>>

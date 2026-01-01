@@ -149,6 +149,21 @@ def check_refusal(text):
             return True
     return False
 
+def filter_glossary(text, full_glossary):
+    """
+    Returns a subset of the glossary containing only terms found in the text.
+    """
+    relevant_glossary = {}
+    
+    # Iterate through the glossary
+    for term, translation in full_glossary.items():
+        # Check if the original term exists in the text
+        # simple 'in' check is fast and handles most CJK/English cases
+        if term in text:
+            relevant_glossary[term] = translation
+            
+    return relevant_glossary
+
 def load_glossary(glossary_path):
     if os.path.exists(glossary_path):
         with open(glossary_path, "r", encoding="utf-8") as f:
@@ -161,53 +176,61 @@ def save_glossary(glossary, glossary_path):
 
 def validate_translation(filepath, source_text=None):
     """
-    Checks if the translation file seems complete and valid.
+    Robustly checks if the translation is valid, complete, and not a summary.
     """
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
             
             if not content.strip():
-                print(f"Validation Failed: Empty content in {filepath}")
+                print(f"❌ Validation Failed: Empty content in {filepath}")
                 return False
             
             # 1. Refusal Check
             if check_refusal(content):
-                print(f"Validation Failed: AI Refusal detected in {filepath}")
+                print(f"❌ Validation Failed: AI Refusal detected in {filepath}")
                 return False
 
             # 2. Hallucination Check
             if check_hallucination(content):
-                print(f"Validation Failed: Hallucination detected in {filepath}")
+                print(f"❌ Validation Failed: Hallucination detected in {filepath}")
                 return False
 
-            # 3. Length Ratio Check (if source provided)
             if source_text:
                 len_source = len(source_text)
                 len_trans = len(content)
-                if len_source > 0:
-                    ratio = len_trans / len_source
-                    if ratio < 0.2: # Too short
-                        print(f"Validation Failed: Translation too short ({ratio:.2f}) in {filepath}")
-                        return False
-                    if ratio > 5.0: # Too long (suspicious)
-                        print(f"Validation Failed: Translation too long ({ratio:.2f}) in {filepath}")
-                        return False
+                
+                # 3. Strict Length Ratio Check
+                # English text is usually 1.2x - 2.0x longer than Chinese/CJK.
+                # If it's less than 0.6x, it's almost certainly a summary or truncation.
+                ratio = len_trans / len_source
+                if ratio < 0.6: 
+                    print(f"❌ Validation Failed: Suspiciously short ({ratio:.2f}x source). Likely a summary.")
+                    return False
+                
+                # 4. Paragraph/Line Count Check (Crucial for 'Middle Skip' detection)
+                # Count non-empty lines
+                source_lines = len([x for x in source_text.split('\n') if x.strip()])
+                trans_lines = len([x for x in content.split('\n') if x.strip()])
+                
+                # If translation has fewer than 50% of the source lines, it skipped content.
+                # (English dialogue sometimes combines lines, but 50% is a safe floor)
+                if source_lines > 10 and trans_lines < (source_lines * 0.5):
+                    print(f"❌ Validation Failed: Paragraph mismatch. Source: {source_lines}, Trans: {trans_lines}. Content likely skipped.")
+                    return False
 
-            # 4. End Marker Check
-            # Primary check: <<END_OF_CHAPTER>>
+            # 5. End Marker Check
             if "<<END_OF_CHAPTER>>" in content:
                 return True
-                
-            # Secondary checks
+            
+            # Fallback markers
             content_lower = content.lower()
-            if "(end of chapter)" in content_lower or "(end of this chapter)" in content_lower:
-                return True
-            if "(本章完)" in content:
+            if "(end of chapter)" in content_lower or "end of chapter" in content_lower:
                 return True
             
-            print(f"Validation Failed: Missing End Marker in {filepath}")
+            print(f"❌ Validation Failed: Missing End Marker in {filepath}. Likely truncated due to token limit.")
             return False
+
     except Exception as e:
         print(f"Error validating {filepath}: {e}")
         return False
@@ -221,35 +244,49 @@ def process_chapter(chapter_filename, glossary, raw_dir, translated_dir, glossar
     
     with open(raw_path, "r", encoding="utf-8") as f:
         text = f.read()
+        
+        # --- NEW STEP: Filter Glossary ---
+    current_chapter_glossary = filter_glossary(text, glossary)
 
+        # Calculate stats for logging
+    total_terms = len(glossary)
+    filtered_terms = len(current_chapter_glossary)
+    if filtered_terms < total_terms:
+        print(f"[{chapter_filename}] Glossary optimization: Using {filtered_terms}/{total_terms} terms.")
+        
     model = genai.GenerativeModel(MODEL_NAME)
 
+# Update the Prompt in process_chapter
     prompt = f"""
     Translate the following novel chapter into English. 
-    Maintain the nuance, tone, and style of the original.
     
-    IMPORTANT: The output "translated_text" MUST be in Markdown format.
-    - Use double newlines (\\n\\n) to separate paragraphs.
-    - Do NOT collapse the text into a single block.
-    - Preserve the dialogue structure.
-    - Translate "(本章完)" as "(End of Chapter)".
-    - At the very end of translated_text, append the literal string <<END_OF_CHAPTER>> on its own line.
+    CRITICAL INSTRUCTIONS:
+    1. **NO SUMMARIZATION:** You must translate every single sentence. Do not skip scenes, dialogue, or internal monologues.
+    2. **FORMAT:** Output strict Markdown. Use double newlines for paragraphs.
+    3. **GLOSSARY:** Strictly follow: {json.dumps(current_chapter_glossary, ensure_ascii=False)}
+    4. **NEW TERMS:** Identify NEW proper nouns not in the glossary.
     
-    You MUST strictly follow this glossary of names/terms:
-    {json.dumps(glossary, ensure_ascii=False)}
+    Structure your JSON response exactly like this:
+    {{
+        "translated_text": "The full markdown translation...",
+        "new_terms": [
+             {{"original_term": "Name", "english_translation": "Name"}}
+        ]
+    }}
     
-    If you encounter NEW proper nouns (names, places, specific terminology) that are NOT in the glossary:
-    1. Translate them consistently within this chapter.
-    2. Add them to the 'new_terms' list in your output.
-    
-    Return the result in JSON format with three fields:
-    - "thought": A brief reasoning about the translation approach for this chapter.
-    - "translated_text": The full English translation in Markdown format.
-    - "new_terms": A list of objects, each with "original_term" and "english_translation".
+    (Note: Do not include a 'thought' field. Go straight to translation.)
+
+    End the "translated_text" string with: <<END_OF_CHAPTER>>
     
     Original Text:
     {text}
     """
+    
+    # Update schema to remove thought
+    class TranslationOutput(typing.TypedDict):
+        translated_text: str
+        new_terms: list[TermEntry]
+        # thought: str  <-- REMOVED to save tokens
 
     max_retries = 2
     base_delay = 10

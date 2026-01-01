@@ -1,159 +1,158 @@
-Chapter 29: Player Discussions
+## Chapter 29: Player Discussions
 
-The next day, in Nebula Games' office, Chen Xu handed over the completed Concept Drafts, along with the character design requirements for main characters like Johnny, Liva, Eva, and Neil, to Yang Xin and Ruan Ningxue.
+## Chapter 29: Player Discussions
 
-Looking at the design concept drafts and the script within, Yang Xin and Ruan Ningxue were both somewhat moved.
+The next day, in Nebula Games' office, Chen Xu handed over the completed concept drafts, along with the character design requirements for key figures such as Johnny, Liva, Eva, and Neil, to Yang Xin and Ruan Ningxue.
 
-However, this was clearly not the time to immerse themselves in the game's story, so both raised the questions they had.
+Looking at the concept drafts and the included script in their hands, both Yang Xin and Ruan Ningxue were somewhat moved.
 
-“Isn’t it a sci-fi game? Mr. Chen, the core theme is clearly love!” Ruan Ningxue was full of questions, even changing her way of addressing him.
+However, this clearly wasn't the time to get lost in the game's story. The two raised their concerns.
 
-“Yeah, what happened to the sci-fi part?” Yang Xin echoed.
+"Wasn't this supposed to be a sci-fi game? Mr. Chen, the core theme here is clearly romance!" Ruan Ningxue was utterly baffled, even changing her usual form of address.
 
-In the meeting room yesterday, Chen Xu had described the background to them.
+"Yeah, what happened to the sci-fi?" Yang Xin chimed in.
 
-It involved going to the moon, and memory modification technology.
+In yesterday's meeting, Chen Xu had described the game's background to them—going to the moon, memory modification technology.
 
-The two of them had even discussed it privately, touching upon topics like 'brain in a vat,' dystopia, cyberpunk, and so on.
+Privately, the two had discussed it, throwing around terms like brain in a vat, dystopia, and cyberpunk.
 
-And now, after receiving the design concept drafts, they finally realized.
+Yet now, after receiving the design concept drafts, they realized:
 
-Good heavens, they had been completely misled!
+Goodness, they'd been completely misled!
 
-This was actually a romance film disguised as sci-fi!
+This was actually a romance film wrapped in a sci-fi shell!
 
-“How is it not sci-fi? Look at this memory modification technology, isn't that sci-fi enough?”
+"How is it not sci-fi? Look at the memory modification technology—doesn't that count as sci-fi?"
 
-“Later, we can add some sci-fi elements to the background, for example, the car the two doctors drive to Johnny's house, we can make it more sci-fi.”
+"Later, we'll add more sci-fi elements to the background. For example, the car the two doctors drive to Johnny's house—we'll make it more futuristic."
 
-“And that's not important. What's important is that the game's content can move players' hearts.”
+"But that's not the point. What matters is whether the game's content can touch the players' hearts."
 
-“Alright, alright, everyone get into it! Our time is limited!” Chen Xu lightly coughed twice.
-
-……………………
-
-At the same time, discussions online about this event were gradually heating up.
-
-After all, the deadline was approaching.
-
-For an officially organized event, there was naturally corresponding official promotion.
-
-Meanwhile, some Game Designers participating in the event also promoted it on their own official Weibo accounts.
-
-However, most of them were for PC and mobile games.
-
-Mainly because their development cycles were relatively short.
-
-Some well-known domestic game developers, such as NetDragon, also participated.
-
-Of course, these were not their core studios.
-
-After all, these major publishers owned quite a few studios.
-
-Under these circumstances, many player communities received the news and discussed it enthusiastically.
-
-‘By the way, the [Sci-Fi Game Design Competition] is about to begin!’
-
-‘Sci-Fi Game Design Competition? What's that?’
-
-‘It’s that competition the Game Department took the lead in organizing before.’
-
-‘Oh, that one. I completely forgot about it. Let's forget about this game design competition, what kind of awful games do they even pick?’
-
-‘Exactly! We don't demand something like *Undertale*, but at least something decent, right?’
-
-‘This time it's a bit different from before; players can also participate in the selection. Previously, the main evaluators were the leaders of the Game Department, so games aiming for awards would definitely cater to them.’
-
-‘So this time it's about sharing joy with the people?’
-
-‘Pretty much, that's the general idea. This time it will definitely lean towards the general player base.’
-
-‘I'll remain skeptical, thanks.’
-
-‘But do you think there will be a lot of META games entering this time? META elements have been really popular recently.’
-
-‘Probably not. After all, *Undertale* hadn't even launched when the competition started.’
-
-‘Do you think Chen Xu will participate?’
-
-‘Are you dreaming? Look at the time! If Chen Xu participates, I’ll chop off my privates!’
-
-‘Bro, that's a fierce pledge!’
-
-‘Nonsense! Anyone with half a brain knows it’s impossible! During the period this competition was launched, Chen Xu made *Mirror (Game)* and *Undertale*. Where would he find the time to develop a new game for this event?’
-
-‘Holy crap, bro, your privates are in danger! Quick, check Chen Xu's official Weibo account, he really did participate!’
-
-‘??? What’s going on? You must be joking, right!?’
-
-‘My condolences to the bro above’s privates for a second.’
-
-‘Holy crap, it’s actually true!?’
+"Alright, alright, let's all get into work mode. Our time is limited!" Chen Xu cleared his throat lightly.
 
 ……………………
 
-*Undertale*, as an Independent Game, exhibited a level of popularity completely unlike a typical independent title.
+Meanwhile, online discussions about this event were gradually heating up.
 
-The main reason was that this game demonstrated what a META element truly was.
+After all, the deadline was drawing near.
 
-Coupled with its impressive sales performance, it directly became a prime example of art and commerce combined.
+Since it was an officially hosted event, the organizers naturally launched their own promotion.
 
-Naturally, it attracted the attention of countless gaming industry designers.
+Additionally, some participating game designers were also publicizing the event on their official Weibo accounts.
 
-As for the media, that went without saying.
+However, most of them were focused on PC and mobile games.
 
-A regular Game Designer creating such a game — what did that signify?
+Mainly because the development cycle was shorter.
 
-It signified traffic and hot topics!
+Some well-known domestic game developers, such as NetDragon, were also participating.
 
-Regarding what projects Nebula Games and Chen Xu would develop next.
+Of course, not their core studios.
 
-The opinions of the gaming industry and players were largely consistent.
+After all, these big companies had numerous studios under their umbrella.
 
-That it would most likely be a sequel to *Undertale*, or another META game.
+Under these circumstances, many player communities caught wind of the news and began discussing it.
 
-But who could have imagined that Chen Xu would publicly state on his official Weibo account that Nebula Games was developing a special game to participate in this event?
+'Hey, the Sci-Fi Game Design Competition is about to start!'
 
-As for what kind of special game it was, Chen Xu did not reveal it on the official Weibo account.
+'Sci-Fi Game Design Competition? What the heck is this?'
 
-However, players, industry designers, and the media weren't too concerned about that.
+'It's that contest organized by the Game Department earlier. '
 
-After all, no matter how special, wasn't it still just a game?
+'Oh, that one. I completely forgot. The Game Design Competition? Please Give It A Rest. The games they picked last time were all garbage. '
 
-The crucial thing was time!
+'Exactly. I don't expect them to be as good as Undertale, but at least give us something decent. '
 
-From the announcement to the game registration deadline, it was only half a month. Could Nebula Games make it in time?
+'This time it's a bit different. Players can vote this time. Before, the judging panel was mainly made up of Game Department officials. Naturally, games aiming for awards would cater to the leadership. '
 
-It was clear that, judging by Nebula Games' previous project schedules, the game participating in the competition was definitely not prepared in advance.
+'So this time it's about sharing the joy with the people?'
 
-After receiving this news, many Game Designers in the industry felt that Nebula Games was treating this competition like child's play.
+'Basically, yeah. This time it'll definitely lean more toward the general player base. '
 
-Zhong Mei, who had been holding back his comments due to *Undertale*'s success, seemed to be constantly watching Chen Xu.
+'I'll remain skeptical. '
 
-Less than four minutes after this Weibo post went live, he reposted and commented.
+'But do you think there'll be a bunch of META games this time? META elements have been really popular lately. '
 
-‘Temporary success does not equate to lifelong success. Unfortunately, some Game Designers fail to understand this, even treating the official game design competition like child's play. I doubt such a designer's entry would even pass review, would it?’
+'Probably not. After all, when the competition started, Undertale hadn't even launched yet. '
 
-Clearly, Zhong Mei was being maliciously cunning; after seeing Chen Xu's official Weibo post, he immediately jumped out, wanting to shift the focus away from himself.
+'Do you think Chen Xu might participate?'
 
-While the comments section still featured various sarcastic and snide bullet comments, this time, his statement also garnered some support.
+ 
+ 'Are you dreaming? Don't you know the timeline? If Chen Xu actually participates, I'll cut off my whatever!'
+
+'Bro, you're that confident?'
+
+'Of course! Use your brain—it's impossible! During the time the competition was announced, Chen Xu was busy developing Mirror (Game) and Undertale. Where would he find time to make a new game for this event?'
+
+'Damn it! Bro, your whatever is in danger—check Chen Xu's official Weibo now! He actually joined!'
+
+'??? What's going on? Are you kidding!?'
+
+'One second of sympathy for the bro upstairs. '
+
+'Damn it! Is this actually true!?'
+
+……………………
+
+Undertale, as an Independent Game, had a popularity level that was completely unlike a typical indie title.
+
+The main reason was that this game perfectly showcased what a META element truly meant.
+
+Coupled with its impressive sales performance, it had become a classic example of art meeting commerce.
+
+Naturally, it attracted massive attention from countless Gaming Industry Designers.
+
+As for the media, the interest was even greater.
+
+An ordinary game designer created such a game—what did that represent?
+
+It represented traffic and hot topics!
+
+Regarding what project Nebula Games and Chen Xu would develop next, the opinions from both the gaming industry and players were largely consistent:
+
+It would most likely be a Sequel to Undertale, or perhaps another META game.
+
+But who could have imagined that Chen Xu would publicly announce on his official Weibo account that Nebula Games was developing a special game to participate in this event?
+
+As for what kind of special game it was, Chen Xu didn't specify on Weibo.
+
+Still, players, industry designers, and media didn't pay much attention.
+
+After all, no matter how special it was, it was still just a game, right?
+
+The real issue was the timeline!
+
+From the announcement to the game submission deadline—only half a month. Could Nebula Games possibly make it?
+
+After all, judging from Nebula Games' previous project schedules, it was clear that the competition entry wasn't something prepared in advance.
+
+Upon hearing this news, many industry game designers felt that Nebula Games was treating this competition like a joke.
+
+Zhong Mei, who had stayed silent after Undertale's success, apparently had been keeping a close eye on Chen Xu.
+
+Within four minutes of the Weibo post going live, he reposted and commented:
+
+"One moment of success doesn't guarantee lifelong success. Unfortunately, some game designers fail to understand this, treating the official Game Design Competition like a joke. I suspect such a designer's entry won't even pass the censorship review."
+
+Clearly, Zhong Mei had malicious intentions. Seeing Chen Xu's post, he immediately jumped out, hoping to divert some of the attention and criticism away from himself.
+
+Although the comment section still had plenty of sarcastic bullet comments, this time, he actually received some support.
 
 After all, developing a sci-fi game for a competition in just over ten days?
 
-That was simply unreliable!
+That was simply irresponsible!
 
-As for Chen Xu's response to Zhong Mei, it was quite simple.
+In response to Zhong Mei's comment, Chen Xu's reply was simple.
 
-He posted a screenshot of Zhong Mei deleting his official Weibo account, alongside a ratings and sales chart for *Undertale*, and finally, a meme.
+He posted a screenshot of Zhong Mei's previously deleted Weibo post, overlaid with a chart showing Undertale's ratings and sales, and finally added a meme.
 
-The meme featured a disgusted-looking Bugs Bunny, a recently popular image, staring at a clown. Next to it, Chen Xu added a line of text: 'Don't bother me, I don't want to talk to clowns.'
+The meme featured the recently popular Bugs Bunny character giving a look of utter disdain at a clown, with Chen Xu adding a caption beside it: "Don't talk to me. I don't want to speak with clowns."
 
-Seeing Chen Xu's meme response, countless players immediately burst into laughter.
+Seeing Chen Xu's meme response, countless players instantly burst into laughter.
 
-Good heavens, that's truly killing someone's spirit!
+Damn, that was a hit to the heart!
 
-No wonder Zhong Mei had such a poor reputation in the gaming world, among both players and industry insiders.
+No wonder Zhong Mei had such terrible reputation in the gaming industry, disliked by both players and insiders alike.
 
-Below this meme, joyful replies from players flooded in.
+Under this meme, the comment section was flooded with joyful player replies.
 
-(End of Chapter)
+(End of Chapter) <<END_OF_CHAPTER>>

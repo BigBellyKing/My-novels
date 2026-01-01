@@ -1,119 +1,149 @@
-Chapter 136: New Mode Launched (Sixth Update, Requesting Subscriptions)
+Chapter 136: New Mode Launched (Sixth Update, Please Subscribe)
 
-Chapter 136: New Mode Launched (Sixth Update, Requesting Subscriptions)
+Chapter 136: New Mode Launched (Sixth Update, Please Subscribe)
 
-Chen Xu had not announced the overseas sales of Dark Souls.
-However, Target Software, in order to better conduct subsequent promotional efforts for Dark Souls, proactively announced the game's first-week sales as a celebration after communicating with Chen Xu.
-This news, naturally, also caused a stir domestically.
+Chen Xu hadn't announced the overseas sales figures for *Dark Souls*.
 
-On the gaming industry forums.
+However, to better promote the subsequent marketing and publicity of *Dark Souls*, Target Software, after communicating with Chen Xu, proactively announced the game's first-week sales as a celebratory gesture.
 
-“Dark Souls is selling really well overseas! Its momentum seems even stronger than domestically!”
+This news naturally stirred up the domestic scene.
 
-“That's to be expected, isn't it? After all, media like GameSpot have already given it such high ratings.”
+On the gaming industry forum:
 
-“Yeah, I never would have thought Dark Souls, a game that goes against the norm, could achieve such great results!”
+"*Dark Souls* is selling extremely well overseas too! Its momentum might even be stronger than in the domestic market!"
 
-“Indeed, this should be one of the best-performing domestic games overseas this year, right?”
+"Well, that's to be expected—after all, media outlets like GameSpot have already given it such high scores."
 
-“Not necessarily, TengHua and NetDragon's blockbusters are also about to launch soon.”
+"Yeah, who could've imagined that a game like *Dark Souls*, which breaks all conventions, would achieve such outstanding results!"
 
-“Although Dark Souls' mode hasn't broken out of the ARPG framework, its gameplay settings and game philosophy are actually completely different from half of the ARPGs out there. Do you think Dark Souls' success is replicable?”
+"Indeed, this is probably the best performance a domestic game has achieved overseas this year, right?"
 
-“It doesn't seem impossible. Players with masochistic tendencies don't seem to be few. If it's not just simply difficult, but difficult in a reasonable and structured way, I think even if it doesn't reach Dark Souls' achievements, it won't be too bad.”
+"Not necessarily—TengHua and NetDragon's blockbusters are launching soon too."
 
-“That makes sense. Plus, currently, besides Dark Souls, there are no other games of this type on the market. It feels like it has great potential!”
+"Although *Dark Souls*'s mode doesn't step outside the ARPG framework, its gameplay mechanics and design philosophy are fundamentally different from half of existing ARPGs. Do you think its success is replicable?"
 
-“While you're still discussing, smart people have already started researching and preparing to launch projects!”
+"Seems possible. Players with masochistic tendencies aren't exactly rare. If the difficulty isn't just arbitrary but instead fair and well-designed, I think even if a game doesn't match *Dark Souls*'s results, it still wouldn't perform poorly."
 
-Compared to industry designers who focus on whether Souls-like games can become a permanent genre, ordinary players are much simpler. They are purely happy that their favorite game has achieved excellent results.
+"That's a fair point. And currently, apart from *Dark Souls*, there's no other game of this type on the market. This feels like a real opportunity!"
 
-More importantly, with such great results, isn't a sequel a sure thing?
-From the few hints in Dark Souls, it's clear that a sequel has great potential!
+"While you're still discussing, the smart ones have already studied it and started preparing their projects!"
 
-“Have you heard? Dark Souls sold well overseas!”
+Compared to industry designers pondering whether Souls-like games could become a permanent genre category,
 
-“Yeah, and the ratings are very high, especially popular in Europe and America!”
+ordinary players were much simpler—purely happy that a game they loved had achieved excellent results.
 
-“Haha, go to Pornhub and watch, there are many videos of foreign streamers being driven crazy by the game, they're really interesting.”
+Even more importantly, with such great results,
 
-“Not only is it interesting, but it's like I found that feeling of playing Dark Souls for the first time again. Too bad my well-rounded build completely steamrolled the second and third playthroughs, and I can't find that feeling of death anymore.”
+wasn't a sequel practically guaranteed?
 
-“Hey bro upstairs, don't be so quick to act like a lonely master. Clear a few more playthroughs, then let a monster take a swing at you and see.”
+Given the hints in *Dark Souls*, it was clear the sequel had huge potential!
 
-“But what I'm more concerned about is when the sequel will arrive. With such good sales, why isn't Chen Xu quickly getting the sequel out?”
+"Did you hear? *Dark Souls* is selling really well overseas!"
 
-“I'm not worried at all. Dark Souls' global sales of tens of millions should be secure. The key is when it will be released.”
+"Yeah, and it's getting high review scores, especially popular in Europe and America!"
 
-“Do you even need to think about it? Maybe Chen Xu has already completed the design concept drafts for the Dark Souls sequel and is leading all employees to work overtime developing the new game!”
+"Haha, go check P-site—there are tons of hilarious videos of overseas streamers getting tormented."
 
-“Hehehe Fire Keeper... hehehe... my Fire Keeper...”
+"It's not just funny—it's like reliving my own *Dark Souls* experience. Too bad on my second and third playthroughs, my overpowered character completely overshadowed the challenge. I can't feel that sense of death anymore."
 
-“Bro upstairs, your taste is too strong!”
+"Bro upstairs, don't act all lonely-at-the-top just yet. Try clearing a few more playthroughs, then let a monster land a hit on you."
 
-......................
+"But I'm more interested in when the sequel will come. With such great sales, why isn't Chen Xu rushing to make the sequel?"
 
-At this moment, Chen Xu was clearly not actively preparing a sequel as players imagined. Instead, he was currently slacking off.
+"I'm not worried at all. *Dark Souls* hitting ten million sales globally is practically guaranteed. The only question is when it'll be released."
 
-Regarding Dark Souls' random mode, after Chen Xu communicated with Qin Yi, it was primarily Qin Yi and his team who were responsible.
-Developing the new mode didn't take too long, basically less than a week.
+"What's there to think about? Chen Xu might already have finished the design concept drafts for the *Dark Souls* sequel and is leading all employees in overtime development right now!"
 
-The main workload was concentrated on testing, specifically the consequences of various BOSSes randomly appearing in different scenarios, and whether this would prevent players from continuing the game.
-If it were a MOD from the Workshop, it naturally wouldn't need to be so detailed. If progress got stuck, players could simply exit the game, abandon that save file, and start a new one.
-However, this mode was officially launched by Nebula Games, which meant it was part of the game's official content.
-Therefore, if situations arose where players couldn't play smoothly, that would clearly be Nebula Games' responsibility.
+"Hehehe... Fire Keeper... hehehe... my Fire Keeper..."
 
-So, this part had to be thoroughly tested before going online.
+"Bro upstairs, your vibes are way too strong!"
+
+…………………………
+
+At this very moment, Chen Xu was clearly not actively preparing the sequel as players imagined.
+
+Instead, he was in a state of slacking off.
+
+After discussing with Qin Yi, Chen Xu had handed over the development of *Dark Souls*'s random mode to Qin Yi and his team.
+
+Developing the new mode didn't take long—less than a week to complete.
+
+The main workload lay in testing—specifically, the consequences of bosses randomly appearing in different scenes, and whether this would prevent players from progressing in the game.
+
+If this were a mod on the Workshop (modding platform), such meticulousness wouldn't be necessary.
+
+If progress got stuck, players could simply exit the game, abandon the save, and start a new one.
+
+But since this mode was being officially released by Nebula Games, it became part of the official game content.
+
+Thus, any situation that prevented smooth gameplay would clearly be Nebula Games' responsibility.
+
+Therefore, thorough testing was required before launch.
 
 As for the new mode, players could customize it.
-For example, they could choose to only randomize item drops, meaning the game's progression would remain the same as before.
-Monsters and BOSSes would be identical, with no changes except for the items dropped after being defeated.
 
-Players could also choose to only randomize enemy spawns, excluding some specific BOSSes, such as the Soul of Cinder at the Kiln of the First Flame and High Lord Wolnir in the Catacombs. All other enemies and BOSSes in the game would appear randomly.
-It's possible that when you crawl out of the Cemetery of Ash, you might not face a group of Hollows, but instead a group of Black Knights, Outrider Knights, and Lothric Knights.
+For example, they could choose to randomize only item drops—meaning the game's overall progression remained the same.
 
-Of course, both options could be enabled for a thoroughly exciting game.
-Players could then test whether they were playing "European Soul" or "African Soul."
+Monsters and bosses stayed unchanged. Only the items dropped after kills were randomized. Everything else remained identical.
 
-......................
+Alternatively, players could choose to randomize only the appearance of enemies. Except for certain specific bosses—like the Soul of Cinder at the Kiln of the First Flame, or High Lord Wolnir in the Catacombs—all enemies and bosses in the game would appear randomly.
 
-Without much fanfare, as if it were just a routine small update, Chen Xu announced the launch of Dark Souls' new mode on his official Weibo account.
+It might happen that when you climb out of the Cemetery of Ash, instead of facing a group of Hollows, you're confronted by Black Knights, Outrider Knights, and Lothric Knights.
 
-As for the overseas version, it had already been handed over to Target Software.
-After passing reviews in various countries, it could also go online.
-Factoring in time differences, the latest it would be available was an interval of about three to four days.
+Of course, players could also choose to enable both options for a truly intense experience.
 
-Below Chen Xu's and Nebula Games' official Weibo accounts, the text content of this update was released.
-Initially, players didn't pay much attention, thinking it was just simple adjustments to some numerical values and multiplayer modes.
-But after seeing the update text, many players were a bit taken aback.
+Testing whether they truly possessed the European Soul or were cursed with the African Soul.
 
-This update actually added a brand new mode to Dark Souls?
+………………
 
-“Random Mode? What kind of update is this?”
+There wasn't much fanfare—just like a routine minor update.
 
-“Uh, it randomizes all BOSSes, monsters, drops, and picked-up items in the game!”
+Chen Xu announced on his official Weibo account that the new mode for *Dark Souls* had launched.
 
-“Does that mean the items on the game map and the items picked up won't be fixed, but random? So I might find a Dragonslayer Greataxe in the coffin in the Cemetery of Ash right at the start?”
+The overseas version had already been delivered to Target Software.
 
-“That sounds kind of interesting! Getting late-game equipment right at the start, wouldn't that make you invincible?”
+After passing reviews in various countries, it would launch as well.
 
-“Invincible my foot! If your stats aren't high enough, getting that equipment is worse than not having it. Stamina drains super fast, and enemies' defense makes your weapon bounce easily.”
+Accounting for time differences, the gap would be at most three or four days.
 
-“What's there to be afraid of! Didn't you see the description? You'll be given souls at the start, and you won't need to level up at the Fire Keeper; you can upgrade directly at the bonfire. Clearly, it's prepared for 'European Emperors' like us!”
+Under Chen Xu and Nebula Games' official Weibo posts, the patch notes for this update were released.
 
-“This feels really interesting!”
+Initially, players didn't pay much attention, assuming it was just a simple adjustment to certain Numerical Design values and multiplayer mode.
 
-With the update of the new mode, many players eagerly opened the update text, ready to see what this version had in store.
-But after reading it, many Dark Souls players were quite excited.
+But after reading the patch notes, many players were Taken Aback.
 
-During this time, many Dark Souls players had already started grinding high New Game+ cycles.
-Especially some hardcore players, most of their weapons, equipment, and items had already been collected.
-Apart from those high-level players who tirelessly continued to explore the world of Dark Souls,
+This update had added a completely new mode to *Dark Souls*?
 
-some ordinary players who had cleared several playthroughs mostly just replayed a cycle occasionally, or engaged in PvP and "friendly fencing" with like-minded players.
-Alternatively, they acted as Righteous Sun Knights, helping rookies who genuinely couldn't defeat certain BOSSes, fighting BOSSes together.
+"Random Mode? What kind of update is this?"
 
-And this update clearly brought a new spark of interest to many players who had begun to feel a bit bored.
-The content was still the same, but with this randomization, the variables in gameplay became much greater.
+"Uh, it randomizes all bosses, monsters, drops, and collectible items in the game!"
 
-(End of chapter)
+"So the items on the map and those you pick up aren't fixed—they're randomized? Does that mean I might find a Dragonslayer Greataxe in the coffin at the Cemetery of Ash right at the start?"
+
+"This sounds kinda interesting! Starting with endgame gear—wouldn't that make me Invincible?"
+
+"Invincible my hammer! Without sufficient stats, having such gear is worse than not having it—your stamina drains instantly, and you'll easily Deflect when attacking high-defense enemies."
+
+"What's there to fear? Didn't you read the description? It gives you starting souls, and you can level up directly at bonfires instead of needing to go to the Fire Keeper. Clearly designed for us Lucky Kings!"
+
+"This sounds super interesting!"
+
+With the launch of the new mode, many players eagerly opened the patch notes to see exactly what this update brought.
+
+After reading, many Dark Souls players felt a surge of excitement.
+
+Recently, many *Dark Souls* players had been grinding high New Game+.
+
+Especially hardcore players—most weapons, equipment, and items had already been collected.
+
+Except for those high-level players still tirelessly exploring the world of *Dark Souls*,
+
+many ordinary players who had cleared multiple playthroughs mostly replayed occasionally, or engaged in PvP for some friendly sword duels.
+
+Or acted as Righteous Sun Knights, helping struggling rookies defeat tough bosses.
+
+This update clearly reinvigorated many players who had started feeling bored.
+
+The content remained the same, but the randomness introduced far more variables into gameplay.
+
+<<END_OF_CHAPTER>>

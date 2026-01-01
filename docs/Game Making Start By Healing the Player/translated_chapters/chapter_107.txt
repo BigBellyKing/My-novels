@@ -1,143 +1,151 @@
-Chapter 107: This is a truly satisfying game!
+Chapter 107: This Is a True Satisfying Game!
+
+Chapter 107: This Is a True Satisfying Game!
 
 Hearing Qin Yi's words, Chen Xu revealed a meaningful smile.
 
-Without speaking, he just silently added a Black Knight wielding a Greatsword into the Road of Sacrifices map.
+Without saying anything, he silently added a Black Knight wielding a Greatsword into the map of Road of Sacrifices.
 
 Is the game too difficult?
 
-Chen Xu had actually carefully considered this question, having conducted market research before development.
+This was actually a question Chen Xu had carefully considered—he had conducted thorough market research even before development began.
 
-Why didn't they make Dark Souls 1 first, following the game's story order, but instead chose Dark Souls 3?
+Why did they choose to develop Dark Souls 3 instead of Dark Souls 1, following the chronological order of the story?
 
-It was precisely because, in terms of difficulty, Dark Souls 3 could be said to be much more friendly to new players.
+Simply because, in terms of difficulty, Dark Souls 3 was significantly more beginner-friendly than its predecessor.
 
-Moreover, Dark Souls isn't the kind of game that deliberately makes players suffer.
+Moreover, Dark Souls was not a game designed to deliberately torment players.
 
-Only after getting the hang of Dark Souls and playing it once or twice, then overcoming enemies through one's own efforts, would one discover that this game is absolutely exhilarating, truly a satisfying game through and through.
+Only after players picked it up, played through it once or twice, and overcame enemies through their own efforts, would they realize how explosively satisfying the game truly was—a genuine Satisfying Game.
 
-It's just that the cost of that satisfaction is a little high.
+The only downside? The price of that satisfaction was just a bit steep.
 
-However, Qin Yi was clearly unaware of these things.
+However, Qin Yi clearly didn't understand this.
 
-Looking at Chen Xu's expression and actions, Qin Yi knew that Chen Xu had no intention of changing anything.
+Seeing Chen Xu’s expression and actions, Qin Yi realized Chen had no intention of making any changes.
 
-Faced with this, he could only mourn silently for the future players in his heart.
+With that, he could only silently mourn for the future players.
 
-Players, I tried my best!
+Players, I've done my best!
 
-At worst, when designing the game over screen, he would tell the Art Team to make the "death" character look a bit nicer.
+At the very least, when designing the death screen, he’d ask the Art Team to make the word "death" look more aesthetically pleasing.
 
-And for each monster, BOSS, and trap that kills a character, add a few more death close-ups.
+And for the various monsters, bosses, and traps that killed the character, they could add more death close-ups.
 
-Strive to make players' deaths distinctive and novel.
+Let players die with flair, die with creativity.
 
 …………
 
-Dark Souls, the entire game, after such a long period of development, most of its content was basically complete.
+After such a long period of development, most of Dark Souls was already complete.
 
-What remained was primarily the wrapping up and testing phase.
+What remained now was mainly polishing and testing.
 
-The main focus was on the various levels in the game, and the battles between player-controlled characters using different weapons and BOSSes – these were all things that needed to be tested after game development was complete.
+This included testing all the levels in the game and the combat between the player-controlled character and bosses using various weapons—elements that needed to be tested after the game’s core development was finished.
 
-Then, based on the test results, they would decide whether to make detailed adjustments or simply launch it as is.
+Based on the test results, they would decide whether minor adjustments were needed or if the game could launch as-is.
 
-During this period, besides the development of Dark Souls and Valiant Hearts: The Great War participating in the Game Design Competition, Sanguosha and Fall Guys were also constantly active.
+During this time, while Dark Souls continued development and Valiant Hearts: The Great War participated in the Game Design Competition,
 
-For Fall Guys, the subsequent work mainly involved the Operations team carrying out various collaborations, such as for cosmetics and skins.
+Sanguosha and Fall Guys were also seeing significant activity.
 
-As for maps, besides the official themed maps, the Workshop could be said to have played a crucial role in maintaining Fall Guys' popularity. Furthermore, compared to its previous life, Fall Guys had also launched several new modes.
+For Fall Guys, the subsequent focus was on the Operations team managing various collaborations, such as accessory skins.
 
-Team (mode), Individual Speedrun (mode), pure Level Entertainment Mode, and rooms correspondingly open for players to customize rules.
+As for maps, aside from the official themed maps, the Workshop (modding platform) played a crucial role in maintaining Fall Guys’ popularity. Additionally, compared to its previous life, Fall Guys introduced several new modes:
 
-However, compared to its peak, Fall Guys' popularity had already declined significantly, with the highest concurrent daily online players dropping to around 150,000.
+Team mode, Individual Speedrun (mode), Level Entertainment Mode, and custom rule rooms open to players.
 
-In contrast, Sanguosha maintained a remarkably high player stickiness, with its player count steadily increasing compared to its launch period data.
+However, unlike its peak, Fall Guys’ popularity had significantly declined. Its highest daily concurrent player count had dropped to around 150,000.
 
-Besides newly released content, simultaneously, modes like the Duel Arena, 2V2 Dragon-Tiger Four-Player Arena, and activities for new skins were also launched.
+On the other hand, Sanguosha maintained exceptionally high player retention. Compared to its launch period, player numbers were steadily increasing.
 
-Nebula Games did not engage in corresponding pay-to-win activities for revenue.
+Alongside new releases, the game simultaneously launched new modes such as Duel Arena, 2V2 Dragon-Tiger Four-Player Arena, and special events featuring new skins.
 
-However, the expansion of the player base naturally led to an increase in revenue.
+Nebula Games didn’t run any special pay-to-win events to boost gross revenue.
 
-Monthly gross revenue stabilized at 11 million Yuan, making it evident that for a long time to come, Sanguosha would be a sustainable cash cow.
+Yet, as the player base expanded, revenue naturally increased.
 
-As for Fall Guys, if it was well-operated and the community remained vibrant, its popularity wouldn't be as high as when it first launched, but it would maintain a long lifespan.
+Monthly gross revenue stabilized at 11 million yuan. It was evident that Sanguosha would serve as a sustainable cash cow for a long time to come.
 
-The same went for Sanguosha; as a card board game, its lifespan would definitely remain long.
+As for Fall Guys, with proper operation and an active community, its popularity might not reach the heights of its initial launch, but it would certainly enjoy a long lifespan.
 
-Meanwhile, at the Nebula Games Experience Store, Chen Xu and the team were also preparing for the next phase of promotional warm-up for Dark Souls.
+Sanguosha was no different—being a card-based board game, its longevity was guaranteed to last for years.
 
-In the project office, all employees participating in the development of Dark Souls were gathered.
+Meanwhile, at the Nebula Games experience store, Chen Xu and his team were preparing the next stage of promotional warm-up for Dark Souls.
 
-Qin Yi was reporting on the game's completeness, current test pros and cons, and areas for improvement.
+In the project office, all employees involved in the Dark Souls development had gathered.
 
-During the meeting, Qin Yi once again brought up the difficulty issue he had mentioned before.
+Qin Yi was reporting on the game’s completion rate, current testing results, its strengths and weaknesses, and potential areas for improvement.
 
-With a very complex expression, he looked at Chen Xu and hesitated for a long time before finally speaking: "Mr. Chen, are the BOSS numerical designs for Dark Souls really not going to be adjusted?"
+During the meeting, Qin Yi once again brought up the previously mentioned issue of difficulty.
 
-As his words fell, not only Qin Yi, but also the employees from the combat system and numerical levels departments unconsciously nodded in unison.
+With a complicated expression, he looked at Chen Xu, hesitated for a long while, and finally spoke: "Mr. Chen, are we really not adjusting the boss stats for Dark Souls?"
 
-They truly felt it deeply.
+As soon as the words left his mouth, not only Qin Yi, but the employees from the Combat System and Numerical Levels teams instinctively nodded simultaneously.
 
-After the numerical parameters for each BOSS in the game were completed, and various monsters and BOSSes were inserted according to Chen Xu's requirements, they also served as the first batch of game testers.
+They had strong feelings about this.
 
-Each of them had experienced the game from the start.
+After the numerical parameters for each boss were finalized and, per Chen Xu’s instructions, the monsters and bosses were inserted into the game,
 
-Everyone was mentally prepared for the game's difficulty.
+They had become the first batch of testers.
 
-After all, the numerical values, monster layouts, and various traps and mechanisms on the maps were all set.
+Each of them had played through the game from the beginning.
 
-But when they actually started playing, they realized they were still too naive and too young.
+Everyone had mentally prepared themselves for the game’s difficulty.
 
-The difficulty they imagined was completely different from what they actually experienced!
+After all, the stats, monster placement, and various traps and mechanisms in the map were all clearly evident.
 
-The result was that just the first BOSS, 'Gundyr the Ash', stumped most of them for a long time.
+But when they actually played, they realized they had been too naive, too inexperienced.
 
-Only a few more talented individuals in the team managed to defeat 'Gundyr the Ash' after several attempts.
+What they had imagined as "hard" was completely different from the actual experience!
+
+The result? Even the first boss, Ash Judgment Gundyr, had stalled most of them for a long time.
+
+Only a few exceptionally talented team members managed to defeat Ash Judgment Gundyr after multiple attempts.
 
 And this was just the beginning.
 
-Not only BOSSes, but even small enemies like Crystal Lizard and Uchigatana Guy, most of the team died on their first encounter.
+It wasn't just the bosses—even regular mobs like the Crystal Lizard and Uchigatana Guy caused first-time deaths for most of the team.
 
-Even the Crestfallen Warrior in the Firelink Shrine, after attacking him three times in a row and triggering hostility, gave them a thorough beating.
+Even Crestfallen Warrior in the Firelink Shrine, after three consecutive attacks triggered hostility, brutally beat them up.
 
-This directly made them question their lives.
+This made them seriously doubt life itself.
 
-As for the Lothric Knights on the High Wall of Lothric later, whether they wielded swords or spears, or that Mimic and the plump Winged Knight, and Pus of Man, all felt like BOSSes, except for those Hollow Skeleton Soldiers!
+As for the Lothric Knights on the High Wall of Lothric—whether wielding swords or spears—or the Mimic, Fatty Winged Knight, and Pus of Man?
 
-Even those Skeleton Soldiers, unless it was a one-on-one fight, if two or three ganged up, especially with some Hollow Hounds, death was highly probable.
+Except for the Hollow Skeleton soldiers, every single one felt like a boss!
 
-Hearing Qin Yi's words, Ruan Ningxue, Yang Xin, and other employees responsible for music, scene construction, and other content, all showed surprised expressions.
+Even those Skeleton Soldiers—if not fighting one-on-one, and instead surrounded by two or three, especially when accompanied by Hollow Hounds—would likely end in death.
 
-Is this game's difficulty really that high?
+Hearing Qin Yi’s words, Ruan Ningxue, Yang Xin, and other employees responsible for Music, Scene Construction, and related areas all wore expressions of surprise.
 
-Is everyone questioning Mr. Chen's numerical values?
+Was the game really that difficult?
 
-After all, Mr. Chen's image in everyone's minds was quite formidable, and what was being questioned wasn't some minor detail, but the core of a game: its data.
+Were they questioning Mr. Chen’s numerical design?
 
-"I'll go test it later," Chen Xu said with a smile to Qin Yi.
+After all, in everyone’s minds, Mr. Chen’s image was extremely lofty. Moreover, they weren’t questioning a minor detail, but the core of a game—its data.
 
-Hearing Chen Xu's words, Qin Yi scratched his head and then continued to report on the relevant content.
+"I’ll test it later," Chen Xu smiled and said to Qin Yi.
 
-Zhang Yida from the Marketing Department recorded everything one by one in his notebook.
+Hearing this, Qin Yi scratched his head and continued reporting the remaining content.
 
-After about twenty minutes or so.
+Zhang Yida from the Marketing Department took careful notes.
 
-Chen Xu, along with Yang Xin, Ruan Ningxue, and Zhang Yida's group who needed to determine the promotional plan based on actual game content, arrived at Qin Yi's project team.
+About twenty minutes later,
 
-As soon as they arrived, they saw three large characters 'YOU DIED' displayed on a large screen mounted on the wall for demonstration.
+Chen Xu, Yang Xin, Ruan Ningxue, and Zhang Yida—who needed to finalize the promotional plan based on actual gameplay—arrived at Qin Yi’s project team.
 
-Clearly, someone had died during testing and hadn't exited the game yet.
+As soon as they entered, they saw three large words displayed on a demonstration screen hanging on the wall: "YOU DIED."
 
-Looking at these familiar three characters, and the grayscale UI interface mixed with dark red, Chen Xu also smiled.
+Clearly, someone had died during testing and hadn’t exited the game yet.
+
+Seeing those familiar words, along with the grayish-white UI interface tinged with dark red, Chen Xu couldn’t help but smile.
 
 "Let me take a look."
 
-Pulling up a chair, Chen Xu sat in front of the computer, exited the game, and then re-entered.
+He pulled up a chair, sat in front of the computer, exited the game, and re-entered.
 
-Qin Yi and the others beside him watched Chen Xu with expectant eyes, wanting to see the scene they hoped for.
+Beside him, Qin Yi and the others watched Chen Xu with eager eyes, hoping to see the scene they were anticipating.
 
-(Wuwuwu, please give recommendation votes, monthly passes)
+(Wuwuwu, please give recommendation votes and Monthly Pass!)
 
-(End of this chapter)
+(End of Chapter) <<END_OF_CHAPTER>>

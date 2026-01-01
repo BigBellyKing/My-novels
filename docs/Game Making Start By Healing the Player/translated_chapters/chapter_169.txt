@@ -1,147 +1,149 @@
-Chapter 168: Demanding Completion Conditions (Requesting Subscriptions, Monthly Passes)
+## Chapter 168: Strict Clear Conditions (Requesting Subscriptions, Monthly Passes)
 
-As a simple DEMO, many players initially thought it was nothing much and would be easy to clear.
+## Chapter 168: Strict Clear Conditions (Requesting Subscriptions, Monthly Passes)
 
-However, the reality exceeded everyone's expectations.
+As a simple DEMO, most players initially thought it was nothing special and could be cleared easily before even trying it.
 
-Before the Gameplay Expo, there wasn't much major news in the gaming industry, as many developers were holding back their announcements for the expo itself.
+But reality surprised everyone.
 
-And *Silent Hill PT*, the DEMO used for the new version VR testing, became the focus of much media attention.
+Before the Gameplay exhibition, there weren't many big news stories in the gaming industry, as some developers, despite having activity, were saving their announcements for the exhibition itself.
 
-'Test Version DEMO *Silent Hill PT* Launched for One Day, Completion Rate is 1.76%'
+And thus, 'Silent Hill PT,' the Test DEMO for the new version VR, became a focal point for many media outlets.
 
-However, when many media outlets compiled statistics based on Nebula Games Platform's trophy records and released the news, they themselves were stunned.
+'Test DEMO "Silent Hill PT" launched for one day, clear rate at 1.76%'
 
-It had already been online for a day!
+When numerous media outlets published news based on trophy records from the Nebula Games Platform, even they were stunned.
 
-And judging from the discussions among players online, quite a few people must have played it!
+It's already been a full day!
 
-Not even 2% completion rate achieved?
+And judging from online player discussions, quite a few people should have played it!
 
-Was it too difficult?
+Not even 2% clear rate achieved?
 
-Or too scary?
+Could it be too difficult?
 
-Many media outlets developed a certain curiosity about it.
+Or too terrifying?
 
-Wu Tian from Game Timespace was also surprised after seeing this data.
+Many media outlets grew curious.
+
+Wu Tian, inside the Game Timespace, was also stunned upon seeing this data.
 
 Because it was just a test DEMO, not many media outlets had reviewed it.
 
-But now, seeing this completion data, he was genuinely curious.
+But now, seeing this clearance data, he genuinely felt curious.
 
 So, driven by curiosity, he opened the Nebula Games Platform, downloaded the DEMO, and entered the game.
 
-Ten minutes later, Wu Tian, holding his heart, stood up from his chair, took a few deep breaths, pulled open the curtains with a slightly trembling hand, and basked in the outdoor sun.
+Ten minutes later, Wu Tian stood up from his chair, hand clutching his chest, taking several deep breaths. With slightly trembling hands, he pulled open the curtains and let sunlight flood in.
 
 Now he understood why the game's completion rate was so low!
 
-Damn it, which average player could withstand that?!
+How could an average player possibly endure this?!
 
-Of course, while it was scary, there were still quite a few players who could clear it.
+Of course, if it were only about horror, quite a few players could still clear it.
 
-After all, this wasn't the highly immersive VR version; PC players had many tricks up their sleeves to reduce their fear.
+After all, this wasn't the high-immersion VR version. PC players had plenty of tricks up their sleeve to reduce fear.
 
-Replacing the character models of the female ghost, for example, goes without saying.
+Replacing models of ghost characters like Lisa—well, that goes without saying.
 
-After all, if not handled well, a horror game could easily turn into a 'shooting' game.
+After all, one wrong move, and a horror game turns into a 'shooting' game.
 
-But what about adjusting the brightness, turning off the sound and playing crosstalk or cheerful songs, or having three to five guys sitting in a row, holding hands and playing the game together? Aren't these all methods?
+But adjusting brightness, turning off the sound and playing crosstalk or cheerful songs, or gathering a few brave guys to sit in rows, holding hands while playing—that's all valid strategies, right?
 
-A more crucial point was that *Silent Hill PT*'s completion conditions were quite demanding.
+The key point, however, is that the clear conditions for 'Silent Hill PT' are quite strict.
 
-It wasn't until the next day that some hardcore players, through various research into the game and discussions on forums, finally figured out the completion conditions for *Silent Hill PT*.
+It wasn't until the next day that hardcore players, through extensive research into the game and exchanges on forums, finally figured out the clear conditions for 'Silent Hill PT'.
 
-What surprised many players was that *Silent Hill PT*, despite being just a test DEMO, actually told a simple story.
+What surprised many players was that although 'Silent Hill PT' was only a test DEMO, it genuinely told a simple story.
 
-In the game's infinitely looping corridor, there were a total of fourteen loops, each triggering new plot content.
+In the game's infinite loop corridor, there are a total of fourteen cycles. Each traversal triggers new story content.
 
-In the second loop of the corridor, players would be guided back to see a photo of the wife on the ground. After approaching and picking it up, three lines of text would appear: 'Can you hear my voice? Can you decipher this message? If you come looking for me, I'll wait for you forever.'
+In the second loop of the corridor, players are guided back to see a photograph of their wife on the ground. Approaching and picking it up reveals three lines of text: *Can you hear my voice? Can you interpret this message? If you come looking for me, I'll wait for you forever.*
 
-This was the game's first hint.
+This is the game's first hint.
 
-In various corners of the room, there would be photo fragments, a total of 8, but containing ten sentences. Each time one was collected, a sentence written in a different language would randomly appear, and these ten sentences were crucial clues for completing the game.
+In various corners of the room, there are photograph shreds—eight in total, but with ten sentences. Each collected shred randomly reveals a phrase written in a different language. These ten sentences are crucial clues to clearing the game.
 
-Pieced together, they were:
+When connected, they read:
 
-'I stood still while waiting, I whispered his name, his fingertips brushed my hand, the hand was cold, my body was trembling, waiting for it all to end, I didn't move an inch, his outstretched hand gradually disappeared into the mist, I believe I heard a phone call.'
+*In waiting I remain still. I whisper his name softly. His fingertips brush across my hand, that hand is cold. My body trembles. Waiting for the end of this. I do not move. The hand reaching toward me gradually vanishes into the mist. I believe I heard a phone call.*
 
-Each time the player was killed by the female ghost Lisa, it meant game over, causing the game to crash and exit. However, this screen revealed a key piece of information: the protagonist's name in the game was J.
+Every time the player is killed by the ghost Lisa, it signifies game over, causing the game to crash and exit. However, this screen reveals a crucial piece of information: the protagonist's name in the game: J.
 
-The further into the game, the more oppressive and eerie the atmosphere became.
+As the game progresses, the atmosphere becomes increasingly oppressive and eerie.
 
-And as the story unfolded, players could learn how Lisa died.
+And through the story, players can learn how Lisa died.
 
-In yet another loop, players could hear sounds from the toilet through a peephole in the corridor.
+During another loop, players can use the peephole in the corridor to hear sounds from the bathroom.
 
-Based on the sound effects, it could be deduced that Lisa had her eyes gouged out, her throat cut, and finally, her abdomen ripped open to remove the fetus, leading to her death.
+Based on the sound effects, one can speculate that Lisa had her eyes gouged out, her throat slit, and was ultimately disemboweled to remove the fetus and killed.
 
-Lisa's previous gurgling sounds were also due to choking on blood foam in her throat.
+Previously, Lisa's bubbly vocalizations were also due to blood foam choking her throat.
 
-The reason Lisa was killed was also revealed through a mysterious, low narration: 'You were fired, so you drowned your sorrows in alcohol. She had to find a part-time job as a cashier in a convenience store. The only reason she earned money there was because the manager liked her. You haven't forgotten, have you? Just ten months ago.'
+The reason Lisa was killed can be learned through a mysterious, low-voiced narration: *You were fired, so you drowned your sorrows in alcohol. She had to take a part-time job as a cashier at the convenience store. The only reason she earned money there was because the manager liked her. You haven't forgotten, have you? Ten months ago.*
 
-From this, it could also be inferred why the protagonist killed Lisa: he believed Lisa had cheated and that the child in her belly was not his.
+From this, one can speculate why the protagonist killed Lisa—he believed she had an affair and that the child in her womb wasn't his.
 
-After all information was collected, up to the final loop, completing three steps would lead to successful completion of the game.
+After collecting all the information, during the final loop, completing three steps leads to a successful clear.
 
-The first step was to do nothing and wait for one minute in front of the digital clock for the time to reach midnight.
+The first step: Do nothing. Wait one minute in front of the digital clock, allowing the time to reach zero.
 
-This confirmed a sentence collected earlier from the photos: 'I stood still while waiting.'
+This confirms a previous sentence collected with the photograph: *In waiting I remain still.*
 
-Then, walking ten steps forward, the first laugh of a baby would be heard.
+Then, walk forward ten steps. The baby's first laugh will sound.
 
-At this point, the sound of Lisa's high heels would appear. Following the sound to find Lisa, maintaining a certain distance, and then speaking the protagonist's name 'J' (collected earlier) into the microphone.
+At this point, the sound of Lisa's high heels will appear. Follow the sound to find Lisa, maintain a certain distance, then use the microphone to speak the protagonist's name collected earlier: J.
 
-This confirmed the sentence from the photos: 'I whispered his name.'
+This confirms the photograph clue: *I whisper his name softly.*
 
-Afterward, Lisa would pounce towards the player, directly possessing them.
+Lisa will then lunge at the player and possess them.
 
-At the same time, the screen would gently shake. In the VR experience, players could feel the motor vibrations transmitted from the gaming pod.
+Simultaneously, the screen gently shakes. In VR, players can feel motor vibrations transmitted through the gaming pod.
 
-For the PC version, controller users would feel vibrations, while mouse and keyboard users would instead experience screen vibrations.
+For the PC version, using a controller allows players to feel controller vibrations. For those using only mouse and keyboard, the screen will vibrate instead.
 
-This confirmed a passage from the collected photos: 'His fingertips brushed my hand, the hand was cold, my body was trembling.'
+This confirms another photograph clue: *His fingertips brush across my hand, that hand is cold. My body trembles.*
 
-Then eerie music would play, but one must still remain motionless, confirming the later words: 'I didn't move an inch, his outstretched hand gradually disappeared into the mist.'
+Then, eerie music begins to play. But the player must remain still, confirming the next clue: *I do not move. The hand reaching toward me gradually vanishes into the mist.*
 
-Once the music completely faded, the baby's second laugh would appear, and the phone in the corridor ringing also confirmed the last sentence: 'I believe I heard a phone call.'
+Once the music completely fades, the baby's second laugh appears, and the phone in the corridor rings, confirming the final clue: *I believe I heard a phone call.*
 
-Walking to the phone, a voice from it said: 'You have been chosen.'
+Walk up to the phone. A voice comes from it: *You have been chosen.*
 
-The next moment, the door lock opened, and the completion achievement trophy immediately popped up.
+In the next moment, the door lock clicks open, and the clear achievement trophy pops up.
 
-After reading the guides summarized by the masters, countless players were all shocked.
+After reading through the guides compiled by high-level players, countless players were stunned.
 
-Because this was simply too demanding!
+Because this was simply too strict!
 
-Especially the final completion conditions; without any single clue, there was no way to deduce these steps.
+Especially the final clear conditions—missing even one clue makes it impossible to deduce these steps.
 
-As the high-level players created the completion guide, countless players online began discussing it.
+As high-level players published clear guides, countless online players began discussing.
 
-“I'm utterly convinced! With these demanding completion conditions, if I played it, I couldn't clear it even in a year!”
+'I'm convinced! These strict clear conditions—if I tried, I wouldn't clear it even after playing for a year!'
 
-“Brother upstairs, be more confident. You couldn't clear it in a lifetime. Your damn time record is 0.1 hours; how the hell could you clear it?!”
+'Bro upstairs, be more confident. You'll never clear it in your entire life. You've got 0.1 hours on record—how the hell are you clearing anything?'
 
-“Heh heh, 0.1 hours? You think too highly of him. That's Nebula Games Platform's default minimum record time. He definitely went in, took two glances, and exited! What, you ask me how I know? Because that's exactly what I did!”
+'Hehe, 0.1 hours? You're giving him too much credit. That's the Nebula Games Platform's default minimum recorded time. He definitely just entered, took a quick look, and quit! What, you ask how I know? Because that's exactly what I did!'
 
-“I strongly suggest a certain company sponsor this game; I think it could totally rival extreme sports!”
+'Strongly suggest some big sponsor support this game—I think it's on par with extreme sports!'
 
-“The way you'll die is beyond your imagination!”
+'Your death will exceed your imagination!'
 
-Although the DEMO guide had been released, players' discussions about *Silent Hill PT* did not cease.
+Although DEMO walkthroughs have been released, player discussions about 'Silent Hill PT' haven't stopped.
 
-And on live streaming platforms, even with a guide, some streamers still got scared just as expected.
+And on live streaming platforms, even with guides available, streamers still get scared as much as anyone.
 
-A simple DEMO brought indescribable psychological trauma to countless players.
+A simple DEMO has brought countless players indescribable psychological trauma.
 
-Some players even jokingly claimed they had developed PTSD symptoms, not daring to walk alone down the corridor to the toilet at night, afraid that opening the toilet door would reveal just another corridor in their own home.
+Some players even joked they developed PTSD symptoms, afraid to walk alone down the corridor to the toilet at night, terrified that opening the bathroom door would reveal yet another endless corridor of their own home.
 
-If there was any news that could help players relax and turn their mood happy, it would be this.
+If there's any news that could help players relax and turn their mood joyful...
 
-That would probably be the fact that this year's Gameplay Expo was finally about to begin.
+It's probably that this year's Gameplay is finally about to begin.
 
-They could finally get more news about the eagerly awaited *Dark Souls* Prequel!
+The prequel to 'Dark Souls' they've been anticipating will finally reveal more information!
 
-Continue tonight~
+More tonight~
 
-(End of this chapter)
+(End of Chapter) <<END_OF_CHAPTER>>

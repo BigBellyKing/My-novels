@@ -1,185 +1,179 @@
-Chapter 161: Testing Silent Hill PT (Requesting Subscriptions, Monthly Passes)
+## Chapter 161: Testing Silent Hill PT (Requesting Subscriptions, Monthly Passes)
 
-The development of Silent Hill PT was smooth, despite it being the first time developing for a VR platform.
+The development progress of Silent Hill PT is going smoothly, despite it being the first time developing for a VR platform.
 
-But after all, Silent Hill PT itself wasn't a complete game, just a DEMO, not large in scale.
+After all, Silent Hill PT itself isn't a complete game—it's merely a DEMO, so its scale isn't large.
 
-The game content was basically puzzles, not involving a combat system.
+The game's content mainly revolves around puzzles, without involving a combat system.
 
-Even the original DEMO didn't involve much of an action system, at most just interactive actions like opening doors or picking up items.
+Even the original version's DEMO didn't feature much of an action system, with interactions limited to simple actions like opening doors or picking up objects.
 
-For this, Chen Xu even added some detailed actions to the VR version to make the experience more immersive.
+For this reason, Chen Xu added some extra details to enhance the sense of immersion in the VR experience.
 
-Of course, jumping, running, and climbing were still not included.
+However, actions like jumping, running, or climbing weren't included, as they would disrupt the DEMO's content.
 
-Because it would have some impact on the DEMO's content.
+Aside from these omissions, the game is naturally in first-person perspective, sparing Chen Xu the headache of VR visual presentation.
 
-Besides these, the game itself was first-person, which meant Chen Xu didn't have to worry much about the VR visual representation.
+Still, compared to most first-person perspectives on the PC platform, which default to a 90-degree field of view, the VR platform requires a wider field of vision.
 
-However, compared to most first-person perspectives on PC platforms, which typically use a default 90-degree field of view, transferring to a VR platform required a much wider field of view.
+Additionally, even though it's the same first-person viewpoint, its presentation differs under VR's immersive mode compared to PC games.
 
-In addition, although it was still a first-person perspective, its presentation in VR immersive mode was different from PC games.
+In many PC games, the first-person perspective makes players feel as if their eyes are positioned on their chest, because different actions appear completely different between third-person and first-person views.
 
-In many PC games with a first-person perspective, players might feel like their eyes are on their chest; this is because actions are completely different between third-person and first-person.
+An action that seems perfectly normal in first-person might appear shocking in third-person, and vice versa.
 
-Actions that are perfectly normal in first-person would be shocking and outrageous in third-person.
+That's why some games allow players to switch between first-person and third-person modes. To prevent character movements from appearing odd, they often prepare two sets of animation modules—one for first-person and one for third-person.
 
-And vice-versa.
+But this inevitably increases development costs.
 
-Therefore, some games allow players to switch between first-person and third-person, and to prevent character movements from appearing strange, they often prepare two sets of animation modules: one for first-person and one for third-person.
+On the VR platform, however, the limited field of view design solves this issue well.
 
-But this consequently increases costs.
+"Hmm... The scene where Lisa first appears is too bright. Players should be able to see her silhouette, but not clearly make out her face."
 
-On VR platforms, however, the restricted field of view design resolves this issue well.
+"It should give off a 'half-hidden, half-revealed' feeling, creating a sense of mystery. That way, when players suddenly realize Lisa is lunging at them, they'll truly feel that heart-pounding sensation, as if a little deer has burst into their chest and is wildly ramming around."
 
-“Hmm... the scene where Lisa just appeared is too bright. Players need to be able to see her silhouette, but not clearly her face.”
+In the project office, Chen Xu was instructing Ruan Ningxue on modifying certain scene lighting and color settings.
 
-“It needs to have that feeling of subtle allure, a sense of mystery, like a pipa player covering half her face with her instrument. That way, when players turn around and are startled by Lisa lunging at them, they can truly feel that thump-thump, like a little deer crashing around wildly in their heart.”
+Hearing Chen Xu's words, Ruan Ningxue hesitated, wanting to speak but holding back.
 
-In the project room, Chen Xu was guiding Ruan Ningxue through some modifications to the scene lighting and colors.
+This wasn't just a little deer running amok—it was as if a mad elephant had charged into her chest!
 
-Hearing Chen Xu's words, Ruan Ningxue hesitated to speak.
+Qin Yi and the others nearby silently lowered their heads.
 
-This wasn't a little deer crashing around; this was a crazed elephant charging into one's heart!
+During this time, the promotional trailer development for the Dark Souls Prequel was also progressing smoothly, and the gameplay Expo was drawing near.
 
-Qin Yi and the others beside them also silently lowered their heads.
+The company had already begun preparations for the exhibition, while the Dark Souls Prequel trailer was nearing completion.
 
-During this period, the development of Dark Souls Prequel's promotional trailer was also very smooth, as the gameplay Expo drew closer.
+Currently, Qin Yi and his team had started building the scenes. They had also taken a look at the so-called VR DEMO Chen Xu was working on.
 
-The company had already begun preparations for the exhibition, and the Dark Souls Prequel trailer was almost complete.
+The more they learned about it, the more their little hearts struggled to bear it.
 
-Currently, Qin Yi and his team had already begun scene construction, and they also learned a bit about what Chen Xu called the VR demo.
+Because the DEMO prepared by Chen Xu for testing the new era VR equipment was delivered in a sealed state by the Game Department, making actual gameplay experience impossible.
 
-And the more they learned, the more their little hearts couldn't quite handle it.
+Honestly speaking, Qin Yi's team didn't particularly want to experience it anyway—just watching was enough to make their insides tremble.
 
-Because Silent Hill PT was a DEMO prepared for a new type of VR test, the VR prototype machine sent over by the Game Department was in a locked state and could not actually be experienced or played.
+There was another crucial point: this DEMO, with a playtime of only about 30 minutes, featured puzzles that could only be described as terrifying.
 
-Of course, to be honest, none of Qin Yi's team actually wanted to try it out, as just watching it was enough to make their hearts tremble.
+It even utilized the game crash mechanism previously seen in Undertale.
 
-There was also a more crucial point: this DEMO, which only lasted about 30 minutes in length...
+Clues required to solve puzzles and clear the game were hidden within collectible photo fragments in the game and error text prompts that appeared during crashes.
 
-Its puzzles could only be described as terrifying, even utilizing the game crash mechanism seen in Undertale.
+Without access to this information, players would be trapped in an endless loop within the eerie room corridor.
 
-The clues for solving the puzzles and clearing the DEMO were buried in collectible photo fragments within the game, as well as in error text prompts that appeared during crashes.
-
-If players couldn't figure out this information, they would be trapped in an endless loop within this eerie room and corridor.
-
-Coupled with the horror tag, Qin Yi and his team, who had previously felt Dark Souls Prequel was full of malicious design, suddenly had a feeling at this moment: Dark Souls Prequel was actually so wholesome!
+Combined with its horror theme, Qin Yi and his team, who previously felt the Dark Souls Prequel was excessively malicious, suddenly had a new realization—Dark Souls Prequel was practically sunshine compared to this!
 
 ………………
 
-Days quickly passed, and the gameplay Expo was approaching. The company had already begun planning for this exhibition.
+Time quickly passed, and the gameplay Expo drew near. The company had already begun planning for this exhibition.
 
-Of course, calling it planning was a bit of an exaggeration; in reality, there wasn't much to plan.
+Well, to be honest, there wasn't much planning needed.
 
-It would be similar to last year, except two unique themed areas would be added this time.
+Just like last year, except this time two unique themed areas would be added.
 
-The two themed areas for It Takes Two and Dark Souls. Unlike last year, when the promotional trailer was released as the grand finale on the last day, this year would be different.
+The themes for "It Takes Two" and "Dark Souls." Unlike last year, when they saved the promotional trailer for the final day as a grand finale,
 
-There was no need for suspense this year, as there was only one promotional video.
+this year they wouldn't leave in suspense. After all, there was only one trailer.
 
-It would simply be presented to all players on the first day, and that would be that.
+They would release it boldly on the first day, giving players the full experience right away.
 
-After it was shown, players could do whatever they wanted, as the only major highlight would have already been revealed.
+After the release, players could do whatever they wanted, since the only major highlight had already been revealed.
 
-While the company was preparing, Chen Xu also took the finished Silent Hill PT to the Game Department to hand it over.
+While the company was preparing, Chen Xu brought the completed version of Silent Hill PT to the Game Department to deliver the project.
 
-“It's only been less than 20 days, and you've already finished!?”
+"You've already finished it in less than 20 days!?"
 
-Yang Chen, the head of the Game Department, looked astonished when he heard Chen Xu's report.
+Yang Chen, the Game Department's director, looked genuinely surprised upon hearing Chen Xu's report.
 
-“It's mainly because the content volume of the Silent Hill PT DEMO isn't much,” Chen Xu said with a smile, handing over some relevant materials to Yang Chen.
+"Mainly because the content scale of the Silent Hill PT DEMO isn't very large," Chen Xu smiled, handing over the relevant materials to Yang Chen.
 
-Picking up Chen Xu's documents, Yang Chen glanced at them.
+Yang Chen took the documents and glanced through them.
 
-As the head of the Game Department, Yang Chen wasn't completely ignorant. After looking through the relevant bills and project content in the subsidy application documents, he understood.
+As the Game Department's director, Yang Chen wasn't clueless. After reviewing the subsidy application materials and related invoices, as well as the project content, he understood the situation.
 
-Because Chen Xu had provided too few project categories, and the entire DEMO basically revolved around a single scene.
+Chen Xu had listed very few project categories, with the entire DEMO essentially centered around a single scene.
 
-“Chen Xu, although the subsidy here is based on content volume, the main purpose this time is to better test the immersive feedback of the new version VR. Funds shouldn't be wasted, but don't try to save money for the Game Department either,” Yang Chen said with a wry smile, shaking his head. He had a guess in mind: Chen Xu was probably young and inexperienced, so he tried to save money wherever possible.
+"Chen Xu, although the subsidy is tied to content volume, the main purpose this time is to better test the feedback of immersion in the new version VR. Don't waste funds, but don't skimp on expenses for the Game Department either," Yang Chen said with a苦 smile, suspecting that Chen Xu, being young, might have tried to save money wherever possible.
 
-“Minister, don't worry! This game looks simple, but it's quite special and will definitely serve as an excellent test,” Chen Xu said with a smile.
+"Don't worry, Director! This game may look simple, but it's quite special. It will definitely serve its testing purpose well," Chen Xu replied with a smile.
 
-“Alright, as long as you're confident. If the results aren't good later, you can rework and revise it. Just remember not to save funds for us then.”
+"Alright then, as long as you're confident. If the results aren't satisfactory later, just revise it. And remember, don't hold back on expenses when you do."
 
-“I'll have Xiao Zhang accompany you to the park. There are quite a few designers there right now learning about the relevant parameters. Your DEMO can serve as a showcase then, and you designers can also exchange experiences developing on the new version VR equipment. For the new version VR equipment, not only the testers but also your developers' experiences are very important,” Yang Chen said to Chen Xu.
+"I'll have Xiao Zhang accompany you to the Research Park. Right now, many designers are over there learning about the relevant parameters. Your DEMO can also serve as a showcase. Take the opportunity to exchange experiences with these designers about developing on the new version VR equipment. For the new VR equipment, not only the users' experiences matter, but also the developers' experience is crucial," Yang Chen told Chen Xu.
 
 ………………
 
-After leaving the Game Department building, Chen Xu drove with Xiao Zhang to the research park.
+After leaving the Game Department building, Chen Xu followed Xiao Zhang in his car to the Research Park.
 
-Many designers were listening to the explanations of various VR equipment parameters at the research park.
+Many designers were gathered, listening to explanations about various parameters of the VR equipment.
 
-Among them were some new faces, clearly senior designers who had joined the Game Department later and were reporting in.
+Among them were some new faces—clearly senior designers who had recently joined the Game Department.
 
-There were also some they had met before, such as the enthusiastic Teacher Meng.
+There were also familiar ones, such as the enthusiastic Teacher Meng.
 
-“Mr. Chen, your DEMO is finished!?”
+"Mr. Chen, you've finished your DEMO!?"
 
-Meng Zuo was dumbfounded, just like Yang Chen earlier, when he heard Chen Xu state his purpose.
+Upon hearing Chen Xu explain his purpose for coming, Meng Zuo was stunned, just like Yang Chen earlier.
 
-During this time, he had also conversed with Chen Xu a few times.
+Recently, he had exchanged some ideas with Chen Xu.
 
-However, he was also working on his own design, so regarding Chen Xu's DEMO, he knew nothing beyond it being a horror theme.
+But since he was also working on his own designs, apart from knowing it was a horror-themed game, he had no other information about Chen Xu's DEMO.
 
-His main reason for coming today was to better understand the relevant parameters of the VR equipment, to facilitate content adjustments.
+He had come today mainly to better understand the VR equipment's parameters, to help adjust his own content.
 
-And now Chen Xu appeared and told him the DEMO was already finished?
+Yet now Chen Xu had appeared, telling him the DEMO was already complete?
 
-“Mainly because the game is quite unique, and its scale isn't very large,” Chen Xu said with a smile, nodding.
+"It's mainly because the game is quite special, and the scale isn't very large," Chen Xu nodded with a smile.
 
-The staff at the research park also looked surprised; clearly, they hadn't expected testing material to be ready so quickly.
+The staff at the Research Park also looked surprised, clearly not expecting test materials to be ready this quickly.
 
-While Chen Xu was chatting, the staff there also informed them that all the test preparations were complete.
+While Chen Xu was chatting, the staff announced that the test preparations were complete.
 
-“It's a shame that besides the testers who have passed physical examinations and reviews, we designers can't experience it. Otherwise, I would really like to personally try out your game, Mr. Chen,” Meng Zuo said with some regret.
+"It's a pity we designers can't experience it ourselves, except for the testers who've passed the medical check-up and censorship. Otherwise, I'd really want to personally try out your game, Mr. Chen," Meng Zuo said with some regret.
 
-Some designers, both known and unknown to Chen Xu, were also chatting, clearly looking forward to the DEMO Chen Xu was about to test.
+Other designers, both those Chen Xu knew and didn't know, were chatting as well, clearly full of anticipation for Chen Xu's DEMO about to undergo testing.
 
-After all, this was the first officially playable DEMO on the new version VR equipment, and given that Chen Xu's works over the past two years had been very distinctive, they felt that this game called Silent Hill PT might provide them with considerable inspiration.
+After all, this was the first officially playable DEMO on the new version VR equipment. Combined with Chen Xu's distinctive works over the past two years, they felt this game titled Silent Hill PT might offer them significant inspiration.
 
-The only regrettable thing was that they couldn't experience it themselves; otherwise, they could better understand the game designer's intentions.
+The only regret was that they couldn't personally experience it. Otherwise, they could better grasp the game designer's intentions.
 
-“Hmm... I think, Teacher Meng, you might change your mind later,” Chen Xu chuckled.
+"Hmm... I think, Teacher Meng, you'll probably change your mind about that later," Chen Xu chuckled.
 
-Hearing Chen Xu's words, the surrounding designers didn't speak, merely smiled.
+Hearing Chen Xu's words, the surrounding designers didn't respond, just smiled faintly.
 
-After all, they were all colleagues, and they had to show each other some respect.
+After all, they were all colleagues—some mutual respect was necessary.
 
-A horror theme? How big of a deal could that be?
+Horror theme? How big a deal could that be?
 
-As game designers, what kind of major difficulties hadn't they seen?
+As game designers, what hadn't they seen?
 
-It's just a horror game! They had all played Chen Xu's Outlast before.
+It's just a horror game! They'd even played Chen Xu's Outlast before.
 
-Sharing the same mindset were the testers who were preparing for the experience.
+The same mindset was shared by the testers preparing for the experience.
 
-Only one device was prepared, but three testers were on duty today.
+Only one unit was prepared, but three testers were on duty today.
 
 The three decided who would go first by playing rock-paper-scissors.
 
-“I concede, I'll take the first experience,” a young man with a buzz cut, 1.85 meters tall, chuckled at his two disappointed colleagues. His work badge bore his name: Li Yue.
+"My apologies, I'll take the first turn," said a young man, 1.85 meters tall with a crew cut, grinning as his two companions looked disappointed. His name tag read: Li Yue.
 
-His two colleagues were named Tao Fa and Ye Xun. Both looked quite strong in build, as the work of testing experiences was rather specialized, and personnel were carefully selected.
+The other two colleagues were named Tao Fa and Ye Xun. Both appeared sturdy in build, as the testing role was special, and personnel were carefully selected.
 
-“What a shame, I've always really liked Chen Xu's games,” Tao Fa said regretfully.
+"Too bad. I've always been a big fan of Chen Xu's games," Tao Fa lamented.
 
-“Exactly, but don't get scared stiff later, okay?” Ye Xun said.
+"Yeah, but don't end up pissing yourself later," Ye Xun teased.
 
-“Heh heh, it's not like I haven't experienced various materials on the new VR equipment before, right? All sorts of bloody and terrifying scenes have been tested. Why would I be scared?” Li Yue scoffed.
+"Pfft, I've experienced various materials on the new VR equipment before. Tested all kinds of bloody and terrifying scenes. Do you think I'd be scared?" Li Yue scoffed with a laugh.
 
-While the three were chatting, Chen Xu and his group had entered a room. Directly in front of them was a large LCD screen, which, according to the staff nearby...
+As the three chatted, Chen Xu and the others entered a room. Directly ahead was a large LCD screen. According to the staff nearby, this screen would broadcast the tester's gameplay footage.
 
-...would display the player's game screen.
+Soon, after being checked by the staff and confirmed ready, Li Yue entered the gaming pod with anticipation.
 
-Soon, after Li Yue was checked by the staff and confirmed to be fine, he entered the gaming pod with anticipation.
+As a young man, Li Yue naturally enjoyed playing games and was quite familiar with Chen Xu.
 
-As a young man, Li Yue naturally enjoyed playing games, and he was certainly no stranger to Chen Xu.
+Now, having the chance to experience the first DEMO created by Chen Xu for the new era VR equipment, he felt extremely excited and thrilled.
 
-Now, having the opportunity to experience the first game DEMO created by the other party for the new era VR equipment, still made him extremely excited, even thrilled.
+Filled with this excitement and anticipation, Li Yue inside the gaming pod officially launched the test DEMO titled Silent Hill PT.
 
-Carrying this excitement and anticipation, he officially launched the test DEMO, Silent Hill PT, from within the gaming pod.
+First update of three; more tonight—but it might be a bit late.
 
-First three updates, will continue tonight~ but it might be a bit late.
-
-(End of chapter)
+(End of Chapter) <<END_OF_CHAPTER>>

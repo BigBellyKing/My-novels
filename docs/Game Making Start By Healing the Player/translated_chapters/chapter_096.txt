@@ -1,112 +1,153 @@
-Chapter 96: A Suitable Game
+Chapter 96: The Right Game
 
-Nebula Games' Office
+Nebula Games Office
 
-Compared to its initial small team, Nebula Games now has a certain scale.
+Compared to its early days as a small team, Nebula Games had now grown into a company of considerable scale.
 
-The main development team, led by Chen Xu, includes Ruan Ningxue, Yang Xin, Qin Yi, and others.
-In addition, for *Overcooked*, *Sanguosha*, and *Fall Guys*, a corresponding operations team has also been formed.
-They are responsible for the ongoing operations and content updates of these games.
+Chen Xu led the core development team, including Ruan Ningxue, Yang Xin, and Qin Yi.
 
-Furthermore, the Nebula Games Platform has established a separate department specifically for maintaining its community and Workshop.
-Currently, the moderation of Workshop MODs is primarily handled by Nebula Games' internal staff and customer service as guest roles.
-However, as more games gain support in the future, it will definitely need to be outsourced.
-The company's internal personnel will then be responsible for leading the overall direction, currently accumulating experience from the grassroots.
+In addition, separate operations teams were established for *Overcooked*, *Sanguosha*, and *Fall Guys*, responsible for the subsequent operation and content updates of these games.
 
-With the establishment of the *Dark Souls* project.
+Furthermore, a dedicated department was formed for the Nebula Games Platform, focusing specifically on maintaining the community and the Workshop (modding platform) features.
 
-The entire team is proceeding with orderly development.
+Currently, the review process for Workshop-related MODs was still being handled internally by Nebula Games employees and customer support staff.
 
-Chen Xu doesn't need to worry too much about the art asset production.
-He primarily has Ruan Ningxue liaise with the outsourcing team, and he just needs to give the final approval.
-For Yang Xin's part, the plot and world-building design don't pose significant difficulties; it's mainly about keeping up with the game's progress.
-The main core of *Dark Souls* development still lies in its combat.
-Under Chen Xu's leadership, the team responsible for this area has made pleasing progress.
-This is largely due to the post-New Year recruitment, where many new Nebula Games employees have considerable experience in action games.
-They can quickly understand Chen Xu's instructions and adjust parameters using the Official Game Engine.
+However, as the number of supported games continued to grow, outsourcing this task would inevitably become necessary.
 
-"For BOSS battles, don't use freeze-frame impact. It's only suitable for specific weapons and situations, like backstabs and parry executions—these are the reward mechanisms where it fits."
-"The entire combat system of Dark Souls revolves around the stamina bar. Implicit resource allocation and fluid combat take priority over the sense of impact."
+The in-house staff would eventually shift to overseeing the broader strategic direction, gaining valuable grassroots experience in the meantime.
 
-A BOSS battle was displayed on the large screen.
-The game's map art assets hadn't been produced yet, so for now, it was just a simple 3D wireframe background.
-However, the BOSS's model had been produced—it was the first BOSS players would face, affectionately known as 'Gundyr the Ash,' the parry teacher.
-Listening to Chen Xu's instructions, the employee in charge of the game's combat system gradually adjusted the parameters.
+With the official launch of the *Dark Souls* project, the entire team was making steady progress in development.
 
-While the team was making gradual parameter adjustments, Qin Yi took the opportunity to discuss various development matters for *Dark Souls* with Chen Xu.
+Chen Xu didn’t need to worry too much about art asset production.
 
-"Mr. Chen, regarding the data, should we also create formulas for easy and normal difficulties?" Qin Yi asked Chen Xu, holding a printed document.
-It contained data on various BOSSes, monsters, and equipment in *Dark Souls*.
+He mainly coordinated between Ruan Ningxue and the outsourced team, only stepping in for final reviews.
 
-"Easy and normal difficulties? I forgot to tell you earlier, this game won't involve difficulty adjustments," Chen Xu said to Qin Yi with a smile.
+As for Yang Xin’s work on the story and worldview design, there weren’t many difficulties—his task was simply to keep pace with the game’s overall development.
 
-"No... no difficulty options!?" Qin Yi's eyes widened.
-He quietly lowered his gaze to the data in the document he held, then looked at the combat test screen beside him, completely bewildered.
+The core focus of *Dark Souls* development remained firmly on the Combat System.
 
-"Mr. Chen... in that case, will we need to optimize and adjust these attributes later?" Qin Yi tentatively asked Chen Xu.
+Under Chen Xu’s leadership, progress in this area was highly encouraging.
 
-"Why adjust them? Actually, the current attributes are quite scientific. Don't just look at the BOSS attributes; you also need to consider the game's combat system design and the player attributes we've designed."
-"First, let's look at the in-game combat system design. Most monsters can be backstabbed for massive damage. There's also the shield mechanic and the invincible rolling mechanic. All of these allow players to easily defeat monsters."
-"In such a situation, if we don't increase the monsters' attributes to add some challenge, wouldn't players be invincible? Then the game would have no difficulty at all. Would players still find it fun to play?"
+This was largely due to the post-holiday recruitment drive, during which many new employees brought substantial experience in action games.
 
-Chen Xu explained to Qin Yi with a serious expression.
+They quickly grasped Chen Xu’s vision and efficiently adjusted parameters using the Official Game Engine.
 
-Listening to Chen Xu, Qin Yi felt a little dizzy.
-It seemed... it did make a little sense.
+"Avoid hit-stun during BOSS battles. Only specific actions, such as backstabs, Perfect Guard counters, and executions, should trigger rewarding mechanics."
+
+"The entire *Dark Souls* Combat System revolves around the stamina bar. Invisible resource management and fluid combat should take priority over sense of impact."
+
+On the large screen was a BOSS battle scene.
+
+Since the map’s art assets had not yet been produced, the background was still a simple 3D wireframe.
+
+However, the BOSS model had already been created—this was the first BOSS players would face, affectionately nicknamed ‘Gundyr the Ash,’ the Shield-Parry Teacher.
+
+Following Chen Xu’s instructions, the employee responsible for the Combat System gradually fine-tuned the parameters.
+
+While the team continued refining the settings, Qin Yi took the opportunity to discuss certain development matters regarding *Dark Souls* with Chen Xu.
+
+"Mr. Chen, regarding data, should we also finalize the formulas for Easy and Normal difficulties?" Qin Yi asked, holding a printed document.
+
+The document listed various stats for BOSSes, monsters, and equipment in *Dark Souls*.
+
+"Easy and Normal difficulties? I forgot to mention earlier—this game won’t have difficulty settings," Chen Xu replied with a smile.
+
+"N-No difficulty options!?" Qin Yi’s eyes widened in shock.
+
+He glanced down at the data in his hands, then at the ongoing combat test on the screen, looking utterly bewildered.
+
+"Mr. Chen… should we still optimize and adjust these attributes later on?" Qin Yi asked tentatively.
+
+"Why adjust them? The current attributes are actually quite scientific. Don’t just look at the BOSS stats—consider the game’s Combat System design and the player attributes we’ve designed."
+
+"First, let’s examine the Combat System. Most monsters can be dealt massive damage via backstabs. There’s also the shield mechanic and invincible rolling—these allow players to defeat enemies quite easily."
+
+"Given that, if we don’t increase monster attributes to add challenge, wouldn’t players become completely invincible? Wouldn’t the game lose all difficulty? Would players even find it fun then?"
+
+Chen Xu explained solemnly.
+
+Listening to Chen Xu, Qin Yi felt a bit dizzy.
+
+Hmm… that actually made a certain amount of sense.
+
 But then another question arose.
-Theoretically, if players avoid getting hit, they're invincible and can take down small monsters in a few punches and kicks.
-But what if the players *do* get hit?
 
-Watching the combat screen that was still being optimized, Qin Yi fell into deep thought.
+Theoretically, if players avoid getting hit, they’re practically invincible—able to defeat mobs in just a few hits.
+
+But what if they *do* get hit?
+
+Staring at the combat test still being optimized on screen, Qin Yi fell into deep thought.
 
 ………………
 
-Leaving the *Dark Souls* project team and returning to his office, Chen Xu stretched.
+After leaving the *Dark Souls* project team and returning to his office, Chen Xu stretched lazily.
 
-During this period, *Fall Guys*' popularity remained very high.
-Furthermore, its game version had already been updated twice, successively introducing several new maps to rotate within the game.
-Concurrently, supported by its large player base, the game also added a single-player matchmaking mode and a team mode.
-The team mode, compared to its previous iteration, had been significantly improved: players could now win crowns as a team, instead of only one person winning in the end.
-In terms of sales, *Fall Guys* continued to break records, achieving nearly 4 million copies sold within almost a month of its launch, with its subsequent sales trend remaining very steady.
+During this time, *Fall Guys* remained extremely popular.
 
-As for *Sanguosha*, its data in various aspects wasn't as dazzling as *Fall Guys*', but it excelled in extremely high player stickiness.
-Both its daily active users and gross revenue were steadily climbing.
+The game had already received two major updates, introducing several new maps into the rotation.
 
-Opening the system's UI interface, for the golden item previously drawn, and its four progress bars.
-The progress bar representing 'happiness' had grown the most, already nearly two-thirds full.
-Next were 'anger' and 'resentment,' each around one-sixth full.
-As for 'sadness,' it hadn't moved at all.
-Clearly, players wouldn't start crying while playing *Sanguosha* or *Fall Guys*.
+Additionally, thanks to strong player support, new modes such as solo matchmaking and Team Up had been added.
 
-As he was watching the growth of Emotion Points, his phone on the desk suddenly vibrated. Chen Xu opened it to find a message from his assistant, Lin Rou.
+The Team Up mode had been significantly improved compared to its previous life—now, entire teams could win the crown, rather than only a single winner emerging at the end.
 
-"Mr. Chen, there's new news about the official game design competition."
+In terms of sales, *Fall Guys* continued to break records. Nearly a month after launch, it had sold close to 4 million copies, with sales trends remaining impressively stable.
 
-New game design competition news?
-Chen Xu paused slightly. Last year's official game design competition primarily targeted sci-fi games.
-For that, he had made *To the Moon*, which, despite winning an award, sparked considerable controversy.
-This year, the news about the game design competition was announced so early?
+As for *Sanguosha*, while its data wasn’t as dazzling as *Fall Guys*, it excelled in player retention, with both Daily active users and Gross revenue steadily climbing.
 
-Opening the Official Game Engine's backend, Chen Xu saw an electronic red-letter document.
-However, this year's game design competition genre!?
+Opening the system’s UI interface, Chen Xu checked the four progress bars linked to the golden item he had previously drawn.
 
-"Anti-war themed game?" Chen Xu habitually pinched his little finger.
+The bar representing happiness had grown the most, already filling up about two-thirds.
 
-Then Chen Xu glanced at the subsequent requirements.
-They were basically not much different from last year's game design competition.
-If there was any real difference from last year, it was that this time the theme was quite a bit more serious.
-After all, it involved anti-war.
+Anger and resentment followed, each around one-sixth filled.
 
-Looking at the relevant requirements, Chen Xu was also considering what kind of game to make.
-Before the New Year, there were *Outlast* and *Overcooked*; after the New Year, *Sanguosha* and *Fall Guys*.
-Originally, he had planned to apply for a higher Job Title after *Dark Souls* development was complete.
-But now, with this game design competition, if he could achieve a good ranking, he wouldn't have to wait until then.
-Moreover, during this 'vacuum period' of *Dark Souls* development, the Nebula Games Platform also needed a game to maintain its exposure and popularity.
-What remained was the choice of game direction.
-For anti-war, he actually had quite a few options.
+The sadness bar, however, hadn’t moved at all.
 
-After some thought, recalling the activation conditions for the golden Gashapon he had just obtained, Chen Xu also had a suitable game in mind.
+Clearly, no one was crying while playing *Sanguosha* or *Fall Guys*.
 
-(Daily request for recommendation votes, monthly passes~)
+As he was observing the growth in emotional points, his phone suddenly vibrated on the desk. Chen Xu picked it up and saw a message from his assistant, Lin Rou.
 
-(End of this chapter)
+"Mr. Chen, there’s a new Game Design Competition announcement from the official side."
+
+A new Game Design Competition?
+
+Chen Xu paused for a moment.
+
+Last year’s competition had focused primarily on sci-fi games.
+
+He had created *To the Moon*, which, despite winning an award, sparked considerable controversy.
+
+This year, the Game Design Competition was being announced so early?
+
+Opening the Official Game Engine’s backend, Chen Xu found an official electronic document.
+
+However, the theme for this year’s competition?
+
+"A game with an anti-war theme?" Chen Xu instinctively pinched his little finger.
+
+He then glanced at the additional requirements.
+
+They were largely similar to last year’s competition.
+
+If anything was different, it was that this year’s theme was slightly more serious.
+
+After all, it involved anti-war messaging.
+
+As Chen Xu reviewed the requirements, he began contemplating what kind of game to create.
+
+Earlier in the year, he had developed *Outlast* and *Overcooked*; later, *Sanguosha* and *Fall Guys*.
+
+Originally, he had planned to apply for a higher Job Title only after completing *Dark Souls*.
+
+But if he could secure a strong ranking in this competition, he wouldn’t need to wait that long.
+
+Moreover, during this vacuum period while *Dark Souls* was in development, the Nebula Games Platform needed a new game to maintain visibility and热度.
+
+Now, only the game’s direction remained to be decided.
+
+An anti-war theme offered him quite a few options.
+
+After some thought, and recalling the unlock condition for the golden gashapon he had recently obtained, Chen Xu had an idea for a suitable game.
+
+(Daily request for recommendation votes and Monthly Pass~)
+
+(End of Chapter) <<END_OF_CHAPTER>>

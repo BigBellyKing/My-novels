@@ -1,62 +1,153 @@
-Chapter 427: Choosing a New Game (Requesting Subscriptions, Monthly Passes)
+Chapter 427: Choosing the New Game (Requesting Subscriptions, Monthly Passes)
 
-Hearing Yang Chen's words, Chen Xu was a little puzzled.
+Chapter 427: Choosing the New Game (Requesting Subscriptions, Monthly Passes)
 
-The loading aspect was quite a significant breakthrough. However, Chen Xu was even more curious about what kind of black technology this 'Awakening Mode' truly was.
+Hearing Yang Chen's words, Chen Xu felt somewhat puzzled.
 
-“Compared to other platforms, the biggest advantage of the VR platform can be said to be immersion. But similarly, this isn't always a good thing for certain games,” Yang Chen introduced to Chen Xu.
+The loading and reading process was indeed a significant breakthrough.
 
-Chen Xu wasn't clear what kind of technology this mode was, or how it was implemented. However, he understood the gist of it. Just as he had said before, the biggest advantage of VR gaming pods was the immersive experience.
+But what intrigued Chen Xu even more was what exactly this so-called 'Awakening Mode' was—what kind of black technology was it?
 
-But when it came to certain special games, sometimes excessive immersion wasn't ideal. The most direct example was horror games. Dying purely from fright was almost nonexistent; it was more likely to trigger other conditions, such as heart disease. Furthermore, few players actively sought the thrill of extreme fright. But not seeking it didn't mean it wouldn't happen. For instance, in the 'Warzone' mode of Call of Duty: Modern Warfare, which Chen Xu previously developed, while players enjoyed the parachuting gameplay, it wasn't ideal for those with acrophobia. That's why an automatic parachuting function was specifically added for it. This also included the Dark Souls port to the VR platform, where some grim scenes like the Undead Asylum were optimized to ensure players wouldn't be too scared. This new technology, however, was designed to ensure players had a better experience in regular games, preventing overly intense emotions due to excessive immersion that could lead to physical and mental strain.
+"Compared to other platforms, the biggest advantage of the VR platform lies in immersion. Yet, this same strength isn't always beneficial for certain specific types of games," Yang Chen explained to Chen Xu.
 
-“In that case, many aspects of game development can be fully unleashed,” Chen Xu said, rubbing his chin.
+Chen Xu didn't understand the technical details behind this mode or how it was implemented.
 
-“By the end of the month, Mr. Chen, you can try to check it out,” Yang Chen said with a smile.
+But he grasped the idea clearly.
 
-The two then chatted a bit more, mainly about the development trends in the gaming industry and some technologies that might be realized in the gaming field.
+As previously mentioned, the greatest strength of the gaming pod was its immersive experience.
+
+However, for certain special games, excessive immersion could actually be detrimental.
+
+The most straightforward example would be horror games.
+
+It's almost impossible for someone to literally die from fright alone—though it might trigger other medical conditions, such as heart disease.
+
+Moreover, few players actively seek out extreme fear for thrills.
+
+Not seeking it, however, doesn't mean they won't experience it.
+
+For example, in the 'Warzone' mode of *Call of Duty: Modern Warfare* previously developed by Chen Xu, while most players enjoyed the parachuting mechanic, it could be extremely uncomfortable for those with a fear of heights.
+
+That's why an auto-parachuting feature had been specifically added.
+
+Similarly, when porting *Dark Souls* to the VR platform, optimizations were made for particularly grim scenes like the underground dungeon, ensuring players wouldn't be overwhelmed by fear.
+
+This new technology ensured that during regular gameplay, players could enjoy a better experience without suffering emotional overstimulation or physical and mental strain due to excessive immersion.
+
+"With this, we can really let loose during many stages of game development," Chen Xu said, stroking his chin thoughtfully.
+
+"By the end of the month, Mr. Chen, you can try it out for yourself," Yang Chen said with a smile.
+
+The two continued chatting, mainly discussing the future trends of the Gaming Industry and some potentially achievable technologies in game development.
 
 ………………
 
-By the end of the month, the Game Department and Zeus overseas simultaneously announced a major patch update for the VR gaming pod. This sparked widespread discussion within the industry and among players.
+By the end of the month, both the Game Department and Zeus overseas simultaneously announced a major patch update for the gaming pod, sparking widespread discussions among the industry and player communities.
 
-Within Nebula Games, Chen Xu, who had already received the news, didn't pay much attention to it. Instead, he experienced it himself. It was a rather special feeling; the sense of immersion hadn't decreased much, but when facing uncomfortable scenes, enabling Awakening Mode brought about a very noticeable change.
+Inside Nebula Games, Chen Xu, who had already received prior notice, remained unfazed.
 
-“I feel this new technology is incredibly useful for developing game types and themes!” Meng Zuo exclaimed from the project office after emerging from the gaming pod.
+Instead, he personally tested it out. The sensation was quite unique—while the sense of immersion wasn't significantly reduced, there was a clearly noticeable difference when encountering disturbing scenes while the Awakening Mode was activated.
 
-“Indeed, the main thing is that it can save a lot of content for later testing,” Qin Yi said.
+"This new technology is incredibly useful for expanding the range of game types and themes we can explore!" Meng Zuo remarked, stepping out of the gaming pod in the project office.
 
-Previously, a lot of testing was required before a game's release. Besides game content, there was also the player experience. For example, scenes that could cause psychological discomfort to players, such as the high-altitude fall in 'Warzone'. Now, with this new mode, even players with acrophobia mostly experience it as a spectator, though it's still thrilling. But they no longer feel fear due to the height. Because with Awakening Mode enabled, they can clearly understand that they are actually playing a game. Similarly, in Rainbow Six Siege, suddenly turning a corner and getting ambushed with a 'bang bang bang' would give many players a fright. But with Awakening Mode, it was much better.
+"Indeed. More importantly, it can save us considerable time and effort in late-stage testing," Qin Yi added.
 
-“Besides that, the optimization of loading progress is actually very important too,” Ruan Ningxue interjected.
+Previously, extensive testing was required before releasing a game.
 
-“Optimize Red Dead Redemption better, and regarding Awakening Mode, use the ported Dark Souls, as well as Rainbow Six and Warzone to observe player reactions,” Chen Xu said to everyone.
+This included not only gameplay content but also player experience.
 
-Hearing Chen Xu's words, everyone nodded. This was considered the first task direction after the New Year. From the current feedback, the new technology is indeed quite excellent. However, its current effectiveness is still unclear.
+For instance, scenes likely to cause psychological discomfort, such as the high-altitude fall in 'Warzone,' needed careful evaluation.
 
-Updating existing games with it was a relatively safe approach. In fact, not just Nebula Games, but domestic game developers like NetDragon and TengHua, and overseas ones like Atrai, all made the same decision. Their teams updated their older games using the new technology. Many players online were also discussing related news.
+Now, with this new mode, even players with acrophobia could experience such moments more as observers. Though still thrilling and intense, they no longer felt fear induced by the height.
+
+Because with Awakening Mode enabled, they clearly understood they were merely playing a game.
+
+Similarly, in *Rainbow Six Siege*, when players suddenly turned a corner and got ambushed with a barrage of gunfire ('Bang Bang Bang'), many would jolt in fright.
+
+But with Awakening Mode, the experience was far more manageable.
+
+"Besides this, the optimization in loading progress is also extremely important," Ruan Ningxue chimed in.
+
+"We should further optimize *Red Dead Redemption*. Also, regarding the Awakening Mode, let's use the ported *Dark Souls* and test player reactions through *Rainbow Six Siege* and 'Warzone,'" Chen Xu addressed the team.
+
+Upon hearing Chen Xu's words, the others nodded in agreement.
+
+This became their first mission direction for the year.
+
+Judging from current feedback, the new technology was indeed impressive.
+
+ 
+
+But its long-term effectiveness remained unclear.
+
+Updating existing games with this technology was a relatively safe and prudent approach.
+
+In fact, not just Nebula Games, but also domestic developers like NetDragon and TengHua, as well as overseas developers like Atrai, had made the same decision.
+
+Development teams across the board were applying the new technology to update their older titles.
+
+Online, numerous players were actively discussing these developments.
 
 ………………
 
-In the office, Qin Yi and Meng Zuo returned to the project office, each responsible for their respective projects. Meanwhile, Chen Xu began a long-awaited gacha pull.
+Back in the office, Qin Yi and Meng Zuo returned to the project office to resume work on their respective projects.
 
-【Director Professional Knowledge * 14】
-【Archaeology Professional Knowledge * 21】
-【Action Performance Professional Knowledge * 5】
-【Rock Climbing Professional Knowledge * 12】
-【Ancient Architecture Professional Knowledge * 5】
+Meanwhile, Chen Xu indulged in a long-overdue gacha pull.
 
-It has to be said that Super Mario Odyssey and The Legend of Zelda: Breath of the Wild were truly two major powerhouses. As soon as they were released, the points visibly soared. By now, Chen Xu had saved up almost two hundred pulls. This time, he directly had a satisfying draw. Among these, the most useful for Chen Xu were various professional knowledge items and Memory Capsules. Unfortunately, as someone prone to unlucky streaks, he didn't pull any black technology items this time. Of course, Chen Xu wasn't too disappointed by this. Mainly because Nebula Games' development had already entered the right track.
+[Directing Professionalism *14]
 
-Moreover, Nebula Games had continuously conducted research into cutting-edge technology. Leading the charge was AI performance; with substantial investment, Nebula Games was currently at the global forefront in this area. Next was physics engine performance, which Nebula Games had also been researching. In terms of technology, Nebula Games was already considered a top-tier entity.
+[Archaeology Professionalism *21]
 
-“This gacha pull... is it an omen?” Chen Xu couldn't help but rub his chin, looking at the pile of skill books he had drawn.
+[Action Performance Professionalism *5]
 
-Originally, he was still a bit conflicted about his project for the first half of the year. After all, he had previously discussed it with Yang Chen, and Chen Xu planned to develop a game for Huanyu VR, aiming to be the first major release of the year. However, Chen Xu was still contemplating what type of game to develop. Especially with the emergence of new technologies, Chen Xu had many options. He had initially thought of developing a Souls-like game, as Awakening Mode aligned well with the game's theme he had in mind.
+[Rock Climbing Professionalism *12]
 
-However, while it fit, sales were also a concern for Chen Xu. After all, Huanyu VR held significant importance, and while Souls-like games had considerable popularity, their sales weren't actually very high. Compared to other blockbusters developed by Chen Xu, the sales of the Dark Souls duology were the lowest.
+[Ancient Architecture Professionalism *5]
 
-But now, this gacha pull made him feel he didn't need to overthink it. Furthermore, players had always complained about his 'love for knives' (referring to his tendency to make difficult games), and even The Legend of Zelda: Breath of the Wild on Switch had a hidden 'knife' (difficulty/challenge). So now, he would give them a truly wholesome game, a family-friendly story.
+It had to be said—*Super Mario Odyssey* and *The Legend of Zelda: Breath of the Wild* were truly game-changers.
 
-(End of Chapter)
-<<END_OF_CHAPTER>>
+As soon as they were released, points surged visibly. So far, Chen Xu had saved up nearly two hundred pulls.
+
+This time, he went all out and pulled to his heart's content.
+
+Currently, the most useful drops for Chen Xu were various professional skill books and Memory Capsules.
+
+Unfortunately, as an Unlucky King, he didn't pull any black technology items this time.
+
+But Chen Xu wasn't particularly dejected.
+
+After all, Nebula Games had long since stabilized and matured in its development.
+
+Moreover, Nebula Games had consistently invested in cutting-edge tech research.
+
+The foremost area was AI performance—massive funds had been poured in, and currently, Nebula Games stood at the global forefront in AI performance.
+
+Next was physical engine performance, another area Nebula Games had continuously researched.
+
+In terms of technology, Nebula Games had firmly established itself among the industry leaders.
+
+"This gacha pull… is it trying to tell me something?" Chen Xu stroked his chin, staring at the pile of skill books he'd obtained.
+
+Originally, he'd been somewhat conflicted about the project for the first half of the year.
+
+After his conversation with Yang Chen, he'd planned to develop a game for Huanyu VR, aiming to launch it as the first major title of the year.
+
+However, he was still undecided on what type of game to make.
+
+Especially with the emergence of new technology, Chen Xu now had many more options.
+
+He'd initially considered developing a souls-like game, since the Awakening Mode fit well with the game theme he had in mind.
+
+While it was a good fit, sales performance was still a concern for Chen Xu.
+
+The Huanyu VR launch was critically important, and while souls-like games maintained decent popularity,
+
+their actual sales figures were relatively low. Compared to Chen Xu's other blockbusters, the two-part *Dark Souls* series had the lowest sales.
+
+But now, this gacha result made him feel the decision had already been made.
+
+Besides, players had long grumbled about his tendency to include knives—like the hidden knife in the Switch version of *The Legend of Zelda: Breath of the Wild*.
+
+So now, he'd give them a genuine wholesome game—a heartwarming, family-friendly story.
+
+(End of Chapter) <<END_OF_CHAPTER>>
