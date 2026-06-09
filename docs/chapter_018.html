@@ -1,0 +1,76 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 18</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>I’m not good at self-introductions.</p>
+<p>Once the boring entrance ceremony was over, we were instructed, "Follow your homeroom teacher to the classroom."</p>
+<p>The homeroom teacher for Class A is a tall man. He looks somewhat strict. I hope there isn't any corporal punishment or anything. Like the British saying, "Strike while the iron is hot!" I follow behind the line, feeling a bit timid.</p>
+<p>The classroom was quite ordinary. Desks and chairs made of wood are normal here, I suppose. Prince Keith sits in the front by the window. After that, everyone naturally sits down in order. I’m at the very back by the hallway. It’s a pretty good seat. To be honest, I like the back by the window the best, but I’m lucky not to be in front of the teacher's podium.</p>
+<p>"Is everyone seated? I am Donald Hagan, your homeroom teacher. I teach mathematics."</p>
+<p>Thank goodness. I'm good at math. After all, it's about 10-year-old level, in other words, upper elementary school arithmetic. But the class is buzzing. I guess there are some kids who aren't good at it.</p>
+<p>"First, I would like you all to introduce yourselves."</p>
+<p>As I thought, it’s going to be like this. I used to hate this. Besides, I don't know what people say in this other world... I'm glad I'm last.</p>
+<p>"I am Keith. I am the Second Prince. I excel at fire magic. I am also training with the sword. I am looking for practice partners. I intend to advance to the Knight's Course, so I will join the Knight's Club."</p>
+<p>Oh, he gave a self-introduction that perfectly displayed his arrogance. Everyone is applauding, so I'll do the same.</p>
+<p>"I am Ralph McKenzie. I am the second son of the Marquis McKenzie family. I have been blessed with wind magic. I also intend to join the Knight's Club. Prince Keith, please train with me in swordsmanship."</p>
+<p>I see, it goes by social status. This Ralph... no, that wasn't him. It was the one who cut in line.</p>
+<p>"I am Hugo Angus. I am the eldest son of the Earl Angus family. I have been blessed with fire magic. I also want to join the Knight's Club."</p>
+<p>Oh, I found the man who cut in line. Hugo, joining the Knight's Club despite being an eldest son? Don't second sons and below usually become knights? He's clearly Prince Keith's sycophant. The boys in this class are overly keen on the Knight's Course or joining the Knight's Club. They’ve probably been told by their parents to get along with Prince Keith. How tough. Being used as a tool for their parents' ambitions at just 10 years old. I was angry about him cutting in line, but I started to feel sorry for Hugo. After all, he was subjected to the intimidation of the scary Prince Richard. How childish.</p>
+<p>Out of a 30-person class, 20 are boys. But there are girls too.</p>
+<p>"I am Louise Fendi. I am the eldest daughter of the Count Fendi family. I have been blessed with light magic. I like to sing, so I'm thinking of joining the Chorus Club."</p>
+<p>A beautiful girl with blonde hair, and light magic to boot! The boys in the class murmured in excitement. Louise is probably the female boss of this class. The boy is Prince Keith. I'll make sure to stay away from both of them.</p>
+<p>After several self-introductions were finished, it was my turn just as most people had stopped listening. They probably won't even notice if I just breeze through it.</p>
+<p>"I am Patience Granger. I am the eldest daughter of the Viscount Granger family. I have been blessed with everyday magic."</p>
+<p>Three girls in the class had everyday magic. The first girl gathered a few mocking gazes of "Everyday magic, huh?", but I was overlooked. Thank goodness.</p>
+<p>"Self-introductions are finished. Now, I will distribute the schedules and textbooks. Also, the annual event calendar as well."</p>
+<p>Yay! Monday has math, Japanese, history... Ugh, magic practicals. A skip-grade might be impossible for this. Is it even possible to skip a grade in everyday magic?</p>
+<p>Let's hope for Friday. Let's see... classics, math, music, magic studies... For music, I remember Patience playing an instrument similar to a piano, and I used to play the piano decently myself. Not enough to go to a music college, but I could play the songs I liked, so it should be fine. But magic studies... I don't have confidence in this. I came from a world where magic didn't exist.</p>
+<p>Leaving the skip-grade matter for later, I look at the entire schedule. Math, Japanese, history, classics, and magic studies are classroom subjects. Music, art, dance, magic practicals, and physical education are practical subjects. Oh, it seems girls can change PE to home economics. Music, art, and dance are mandatory, huh. As expected of nobility.</p>
+<p>I liked sports, but Patience hasn't done them much. Besides, I don't want to do PE with 10-year-old children now. Thanks to everyday magic, my sewing is professional-grade, so I'll go with home economics here.</p>
+<p>There's a homeroom every morning, too. It's been since high school. I hope Mr. Hagan keeps his talks short.</p>
+<p>"Finally, I will distribute the club brochures. Clubs are not mandatory, but they help you lead a meaningful school life. Please consider joining one positively."</p>
+<p>A thick brochure. It might be thicker than the textbooks. I want to go home on the weekends, and if possible, do some side work. Therefore, I have no intention of joining a club at all.</p>
+                <div class="nav">
+                    <a href="chapter_017.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_019.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

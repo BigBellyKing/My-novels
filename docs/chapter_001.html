@@ -1,0 +1,56 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 1</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Information</p>
+<p>Table of Contents URL:</p>
+<p>https://ncode.syosetu.com/n3231hj/</p>
+<p>I Came to Another World, But I Can Only Use Lifestyle Magic</p>
+<p>Published as a book by Mag Garden Corporation.</p>
+<p>I was just an ordinary office worker, but when I woke up, I had become Patience Granger.</p>
+<p>This Granger family is extremely poor. If things keep going like this, my cute little brothers will have such a pitiful life.</p>
+<p>I don't know if I was reincarnated or possessed, but I don't have any cheat abilities either. I have to find a way to make it work using only lifestyle magic.</p>
+                <div class="nav">
+                    <a href="#" style="visibility: hidden">← Previous</a>
+                    <a href="chapter_002.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

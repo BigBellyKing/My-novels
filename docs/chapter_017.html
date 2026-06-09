@@ -1,0 +1,82 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 17</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Turns out entrance ceremonies are boring even in another world.</p>
+<p>I stayed in my room so as not to get involved with royalty. This is the first time I've felt this warm since I was reincarnated.</p>
+<p>I feel like lying on the sofa in the reception set in front of the fireplace and reading a book, but since my "patience manner" kicks in, I'm sitting and reading with proper etiquette.</p>
+<p>I also read the dormitory rules and the academy regulations. There was a wonderful rule among them.</p>
+<p>「Skipping grades! If I pass the tests, I can skip grades, can't I?」</p>
+<p>To skip a grade, I have to pass all subjects. That looks quite difficult. But if I can pass even a few subjects and no longer have to attend those classes for the day, I might be able to increase the number of days I can go home.</p>
+<p>「</p>
+<p>My little brothers.</p>
+<p>Just wait for me. I'll do my best.」</p>
+<p>I want to get out of this academy as soon as possible.</p>
+<p>I want the schedule as soon as possible. If I pass on Friday or Monday, I could stay home on Friday, Saturday, Sunday, and Monday. Thinking about these chickens before they hatch, I had a quiet dinner.</p>
+<p>「I don't have to change for dinner here, right? Long live uniforms!」</p>
+<p>I'm used to eating alone. I was a lonely office worker, after all. Shut up!</p>
+<p>「A bath! A bath!」</p>
+<p>It's my first bath since coming to this other world! Not that I'm dirty. Until I could use life magic, Mary wiped me down with hot water, and after that, I've been using "Clean." But a bath is different, you know.</p>
+<p>「Press the magic stone. Oh, hot water is coming out.」</p>
+<p>A bath really is the best. The Granger house had bathing facilities, too. I'll take one when I get home. I should be able to make hot water with life magic, too.</p>
+<p>The futon in the dormitory is twice as thick as the one at home. It's warm. I fall asleep feeling happy.</p>
+<p>『Clang, clang』</p>
+<p>I still want to sleep, but I have to get up. I don't want to be late for the entrance ceremony and stand out. I already had that trouble in the cafeteria, anyway.</p>
+<p>I have to improve life even more for the Granger family (my little brothers). I don't want to waste time on kids.</p>
+<p>「Schedule, please let the subjects I'm good at be bunched on Friday and Monday!」</p>
+<p>While praying to the Goddess Estena for such a selfish wish, I quickly washed my face and brushed my teeth. I bought the toothbrush with money I earned from darning socks. Mary also thinks that a young lady should keep her teeth beautiful, so it was easy to convince her. But the toothpaste is almost entirely salt. Needs improvement!</p>
+<p>I had breakfast and headed toward the auditorium written in the pamphlet.</p>
+<p>『I wonder where I can find out about my class?』</p>
+<p>The pamphlet says to sit by class, but... there it is. Not only dormitory students but also new students commuting from home are crowding around the board in front of the auditorium.</p>
+<p>『Please, let me not be in the same class as Prince Keith...』</p>
+<p>I'm going to stop believing in the Goddess Estena. What is this, Class A! In the memories of Patience, there is no recollection of taking an entrance exam. In other words, is it based on the parents' status? My father is currently dismissed and super poor, but he is a viscount. Royalty, dukes, marquises, counts, viscounts... somehow I'm barely in Class A. I'm at the very bottom of the list, too. <em>Sigh</em>... I can only sigh.</p>
+<p>If it were Class B, I could have been a baron, baronet, or knight... and felt somewhat at ease. Oh, wait, there's also Class C. That seems to be a gathering of brilliant students who passed the exam and magic prodigies. They're probably children of the ultra-wealthy or relatives of mages, so they likely don't have to worry about money.</p>
+<p>The academy rules stated that from the second year onwards, classes are divided by academic performance. Is there any chance Prince Keith might drop down to Class B? I'm aiming to skip a grade, after all... Maybe I could skip to the second year and end up in Class C?</p>
+<p>Thinking about such things, I listened to the principal's long speech from the very back seat of Class A. Even in another world, entrance ceremonies are boring, aren't they? I thought I’d cut ties with that after graduating from university. Well, entrance ceremonies for companies were pretty boring too, I suppose.</p>
+<p>Just when I thought the long speech was finally over, it was time for the student council president's greeting. Ah, as expected, it's Prince Richard. That presence of his was extraordinary. He really feels like a capable prince.</p>
+<p>And that means, could it be—yes, the representative for the new students was Prince Keith. I can't help but laugh. Yeah, he's nervous, but he's doing a decent job. I’ve re-evaluated him; for a ten-year-old, he’s doing quite well. The royal family really is educated strictly, after all.</p>
+<p>It was a good thing there were no greetings from guests. Well, it's hard to have guests in front of royalty, isn't it? The entrance ceremony ended with the singing of the national anthem. At times like this, Patience's memories are reliable.</p>
+                <div class="nav">
+                    <a href="chapter_016.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_018.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

@@ -1,0 +1,88 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 46</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Aoba Festival: The horses have escaped.</p>
+<p>Prince Keith heads to the equestrian club, full of enthusiasm. He probably thinks it's an easy job. I hope he's right.</p>
+<p>"That is not a horse from our club. I’m sure I told that to Department Head Jeffrey. There’s no way the equestrian club would let a horse escape."</p>
+<p>"Then, where did the horse in the second ground come from?"</p>
+<p>Prince Keith is snubbed by the equestrian club members. Ralph and Hugo remain silent behind him.</p>
+<p>"We don't know anything about that. We have many visitors today, so perhaps it’s one of theirs?"</p>
+<p>But that seems strange. The hulking Department Head Jeffrey is not a simpleton. He must have had a reason for saying it was an equestrian club horse.</p>
+<p>"Then, please, just confirm that it is not an equestrian club horse. If you do that, I won't bother you any further."</p>
+<p>Even though they complained that it wasn't their horse, they were tired of being yelled at by Department Head Jeffrey, so they came all the way to the second ground.</p>
+<p>"Good heavens. This horse is one of ours. How could this happen!"</p>
+<p>They panic and chase after the horse. Horses are animals that flee when chased. They are usually accustomed to handling horses, but now it seems they can't catch it. With Prince Keith, Ralph, and even Hugo chasing it, the horse is going on a rampage.</p>
+<p>"Calm down!"</p>
+<p>I try casting a life magic spell. Perhaps because horses are essential to daily life in this different world, it works.</p>
+<p>"Please don't let it get away."</p>
+<p>"Naturally."</p>
+<p>The horse comes quietly to me, and as I am wondering what to do because it is so large, they prove their worth as an equestrian club. Even without a saddle, they hop onto its back with ease.</p>
+<p>"This one is a backup horse that isn't participating in the equestrian tournament. It’s unlikely only one escaped. We need to split up and search!"</p>
+<p>The equestrian club members mount their horses and leave, saying they must find the others.</p>
+<p>"As I thought, it was an equestrian club horse, wasn't it?"</p>
+<p>Department Head Jeffrey nods with satisfaction and bellows, "Now, let the match begin!" A loud voice might be good on the grounds, but I’d rather not be standing next to him.</p>
+<p>"What did you do just now?"</p>
+<p>Prince Keith asks me as we walk back to the student council room.</p>
+<p>"It was just life magic."</p>
+<p>Hugo complains, saying, "That can't be right." This boy has a habit of pushing for details as always.</p>
+<p>"Hugo, it is bad manners to ask about someone else's magic techniques."</p>
+<p>Thank you, Ralph. Yes, my life magic is a bit unusual.</p>
+<p>"I see, so Patience has received a certificate of completion for practical magic."</p>
+<p>Prince Keith reaches a strange conclusion, so Hugo falls silent as well.</p>
+<p>"Brother, as Department Head Jeffrey said, it was an equestrian club horse. The members took the horse from the second ground, but other backup horses may have escaped as well."</p>
+<p>Prince Richard sighs at Prince Keith's report.</p>
+<p>"It appears that several of the equestrian club's backup horses have escaped. Complaints are coming in from other clubs as well. It was the equestrian club's mistake to put the backup horses in the riding area for guests, but help them catch the rest."</p>
+<p>I spent the afternoon searching for horses, chanting "Behave yourself!" and having Prince Keith, Ralph, and Hugo catch them for me. I mean, I couldn't possibly catch horses that don't even have reins on.</p>
+<p>"Thank you very much. That was the last horse. I will make sure such a mistake never happens again. I will submit a written apology to the Student Council President later."</p>
+<p>After being thanked by the Riding Club's President Daniel, I was finally released from horse-searching duty.</p>
+<p>When I returned to the Student Council room, there were fewer people than before.</p>
+<p>"Older brother, all the escaped horses have been caught. President Daniel says he will submit a written apology later."</p>
+<p>Prince Keith can actually report things properly, I think, and my opinion of him goes up a little.</p>
+<p>"Keith, Ralph, Hugo, Patience, thank you all for your help. The rest will be fine with just the Student Council members. There isn't much time left, but please enjoy the Aoba Festival."</p>
+<p>I was relieved to finally receive permission from Prince Richard to finish helping the Student Council. Although Patience works on strengthening her physical fitness with things like jump rope, I was exhausted from following the boys around.</p>
+<p>It's a shame I couldn't see the play, but it looks like I might still be able to catch the alchemy presentation.</p>
+                <div class="nav">
+                    <a href="chapter_045.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_047.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

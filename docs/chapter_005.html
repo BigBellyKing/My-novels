@@ -1,0 +1,74 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 5</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>A Sad Lunch</p>
+<p>After finishing a breakfast that left me wondering if it was even enough to fill my stomach, I had hoped to at least stay in the dining room, which was warmer than the bedroom, but that didn't seem to be an option. As soon as the meal ended, Father shut himself away in his study, and my younger brothers were taken off to the nursery.</p>
+<p>To make matters worse, George the manservant raked the unburnt wood out of the fire. Staring at a fireplace without a flame wasn't going to keep me warm.</p>
+<p>According to Patience's memories, the morning was for study time. Of course, there was no such luxury as a private tutor. Hmm, I have a faint memory of one being around for a short time when I was very young. I suppose before Father lost his job, the Granger family must have lived like typical aristocrats.</p>
+<p>After that, my mother taught me letters and numbers, and then... oh, that's right! Now it's my job to teach my younger brothers!</p>
+<p>I hurried to the nursery in a fluster. Teaching my brothers! That sounds fun.</p>
+<p>The nursery was spacious. Yeah, it didn't really need to be this big. A tiny, token fire flickered in the fireplace. This isn't enough to keep the cold away.</p>
+<p>"Nashius, continue with your studies. Henry, can you write all your letters yet?"</p>
+<p>In the nursery, there was a desk and three chairs in front of the fireplace. Patience's memory tells me that Nashius is quite brilliant. Henry has just started his studies.</p>
+<p>"I've already memorized them."</p>
+<p>He was writing earnestly on his slate, holding the slate pencil with his still-childish fingers. How cute.</p>
+<p>By the way, what about me, Patience? It seems I quite like studying. My memory is full of reading books.</p>
+<p>The Granger family seems to be a scholarly one. Despite our poor lifestyle, our library is splendid, and Father is a bit of a bookworm—or rather, he does nothing but read newspapers and books.</p>
+<p>"I wonder if there are schools?" I tried "googling" Patience's memories. It seems there are indeed schools in this Kingdom of Laurence. In particular, it is mandatory for nobles to attend the Royal Academy in the royal capital, Romano, from the ages of 10 to 16.</p>
+<p>"Wait, does being 10 mean I have to go too?"</p>
+<p>I don't mind studying, but dealing with other nobles is a hassle. Besides, I'm worried that it might be impossible. I have to rely on Patience's memories for manners and such, but I feel like my clothes might make me stand out.</p>
+<p>As promised, I played with Henry after he finished his writing practice and simple calculations. Well, "playing" just meant reading a book to him. With the wind blowing and mixed with snow outside, there's no way I'm going out there.</p>
+<p>Lunch was... well, it made me sad. Morning soup, a thin slice of bread, and a slice of ham so thin it was almost transparent. It takes real skill to slice something that thin, doesn't it? I find myself escaping reality by thinking that perhaps Eva is incredibly talented.</p>
+<p>Patience used to give this ham to her brothers, didn't she? Yeah, no way! If things go on like this, I'm going to die.</p>
+<p>"I'm still recovering from my illness, so you and Henry eat it, Nashius."</p>
+<p>But still, my 6-year-old and 8-year-old brothers are at a growing age. I really want to let them eat it.</p>
+<p>"Right, I'm going to improve the Granger family's life!" I had been full of enthusiasm, but after the meal, I was called into my father's study. I wonder what it's about? Even in Patience's memories, being called to the study is a rare occurrence.</p>
+<p>"Could it be that my possession of this body has been discovered?"</p>
+<p>I have Patience's memories, and my actions are influenced by her common sense and habits, but I have a vague feeling that the original Patience is gone. Perhaps my father has sensed that.</p>
+<p>"What will I do if I'm kicked out of here?"</p>
+<p>Feeling anxious, I politely knock on the door of my father's study.</p>
+                <div class="nav">
+                    <a href="chapter_004.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_006.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

@@ -1,0 +1,78 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 42</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Mini-Recital</p>
+<p>The horses were rented by the hour. My plan to persuade Mary to go to the shop was thwarted. But, never give up! I’ll think of something else. I decided to make use of the information I gained from this outing.</p>
+<p>"Since we can harvest a lot of strawberries, let's sell half of them."</p>
+<p>I won't sell all of them. They are my younger brothers' favorite, after all. I’ll leave the harvesting to George and have Eva sell them. Since Eva buys meat and other supplies at the grocery store, she has connections. I hope she can sell them for as high a price as possible. Ah, or maybe that portion will turn into meat and seasonings? That would be fine too.</p>
+<p>"The winter roses seem like they'll sell for a good price."</p>
+<p>I'll propagate some of the rose branches left in the front garden by planting them in the greenhouse. I intend to grow them large enough so they bloom by winter.</p>
+<p>"There's still so much to do regarding improving our diet."</p>
+<p>I chant "Grow big!" to the field in the backyard, encouraging them to grow a little. I didn't put as much magic into it as I did the first time I used it in the greenhouse. Back then, I was desperate because there was no food.</p>
+<p>Besides, I also use my magic for piecework on weekends. The side job of painting miniatures on tea sets pays better than darning socks. At home, I prioritize this. I do the socks only after I'm finished with the painting.</p>
+<p>At the dormitory, I decided to do lace edging on handkerchiefs. If someone (like Princess Margaret) were to suddenly enter my room, I could pass this off as a hobby of needlework.</p>
+<p>"Patience, you have zero stamina. It's no good to get tired from just walking that much. Besides, you're still ten years old; you must train your body."</p>
+<p>Patience really doesn't have any stamina. Well, she basically died once. That's to be expected, I suppose.</p>
+<p>Truth be told, I also want to make my father, who is holed up in his study, get some exercise, but that seems impossible, so I'll make sure the younger brothers, especially the bookworm Nasius, do it. Henry runs around on his own, so he's fine with exercise. Ah, Henry is smart too. It’s just that he’s not as much of a bookworm as Nasius, Father, or Patience.</p>
+<p>On weekends, I’ve decided to work on building up our stamina by jumping rope with my younger brothers. Nasius has gotten good at running jumps and can even do crossover jumps. Henry seems to be obsessed with double unders. He's challenging himself to see how many he can do in a row.</p>
+<p>"Big sister, let's have a jump rope race!"</p>
+<p>"Race! Race!"</p>
+<p>I won't lose to my 8-year-old and 6-year-old brothers. <em>Wheeze</em>... I managed to win somehow.</p>
+<p>I’m also having them practice Canon. I write out nursery rhymes from my previous life as sheet music and have the two of them practice those. After all, the practice pieces Patience had were nothing but finger exercises. That alone isn't fun, is it? Besides, seeing them sing nursery rhymes is cute.</p>
+<p>Of course, I’m practicing too. The Aoba Festival is coming up soon. I played "Für Elise," "Minute Waltz," and "Träumerei" from my previous life for Catherine, Harriet, and Liliana. They will likely transcribe the sheet music themselves later. If it changes a little, I think that’s fine. Someone like Albert would be annoying, saying "That part is wrong," though. He’ll guide his juniors, right?</p>
+<p>Parents are also allowed to come and watch the Aoba Festival. I asked my father since advance permission is required, but he told me, "I'll refrain from going."</p>
+<p>Since he was dismissed from his post, he might be lying low, or perhaps he just dislikes crowds and prefers reading books.</p>
+<p>It’s a shame that children can't come to the Aoba Festival. It seems that among the nobility of this other world, it's normal for children under 10 to be raised by nannies. They aren't brought before guests, nor do they seem to be taken to public places.</p>
+<p>But, I wanted my younger brothers to come. So, I decided to hold a mini-recital in the drawing room starting in the afternoon. Father sat and listened, too.</p>
+<p>"Patience, that was very good."</p>
+<p>I’m happy to be praised, but I feel a little bit of guilt.</p>
+<p>"Next, Henry will sing with Nashius accompanying him."</p>
+<p>Nashius played a nursery rhyme, and Henry sang. Since Henry only knows the musical scales, I made it into a song. Seriously, it's adorable.</p>
+<p>"You were both very good," I said, kissing their cheeks.</p>
+<p>"Nashius, you played well. Henry, your singing is great too. Patience, you are good at teaching as well," I was praised once again. Well, that’s because the love involved is different.</p>
+<p>Before my younger brothers enroll in the Royal Academy, I want to teach them as much as I can and also help build up their physical strength. Being a big sister is hard work.</p>
+                <div class="nav">
+                    <a href="chapter_041.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_043.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

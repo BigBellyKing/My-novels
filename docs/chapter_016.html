@@ -1,0 +1,86 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 16</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Being royalty seems tough.</p>
+<p>I arrived at the dining hall a little late, as befits a young lady, but there were already quite a number of students there.</p>
+<p>I thought, "My, everyone must be starving," but the atmosphere felt off. They were all wearing the same grey uniforms, yet something was different.</p>
+<p>Ah, everyone’s uniforms fit them perfectly. Mine is a hand-me-down, a smaller size that I’ve repaired to wear. Mary let out the seams at the shoulders, the hem of the skirt, and the sleeves, but it’s still a bit big, with the excuse that I’ll grow into it eventually.</p>
+<p>I see, so having money means you can just get a perfect fit. They probably just buy new ones when they grow. Besides, the fabric looks high-class, too. Money is important, isn't it?</p>
+<p>Why are such high-and-mighty students here? I figured it out immediately. They were moving the beds, reception sets, and study desks from their rooms down into the basement via the stairs. Their rooms must be undergoing major renovations. I wouldn't dare say it out loud, but they could have done that beforehand...</p>
+<p>It seems the dining hall is self-service. I took a tray and got in line. I’m used to waiting in lines, but I thought there might be at least one idiot who would complain—and sure enough, someone was causing a scene.</p>
+<p>"What is this? We have to carry our own food?"</p>
+<p>"We have to wait in this line?"</p>
+<p>I’d better stay away from people like that. They clearly aren't freshmen; they're all over 170 centimeters tall. It would be hilarious if they were only ten years old. They must be upperclassmen, but they’re acting like children. Hmph!</p>
+<p>"So this isn't</p>
+<p>the Upper Dining Hall</p>
+<p>at the academy."</p>
+<p>Oh ho, so the academy has something called</p>
+<p>the Upper Dining Hall,</p>
+<p>it seems. It wasn't in the dormitory rules, but maybe it’s in the academy regulations? I have a feeling it costs money, so it’s irrelevant to me. Tuition and dormitory fees at this Royal Academy are free.</p>
+<p>Well, there are still costs for things like uniforms and miscellaneous expenses. Thanks to life magic, I’ve managed to get by, but it’s quite a burden for a poor noble. And there are rooms in the dormitory called "special rooms" that you have to pay extra for. That’s irrelevant to me, too. I don't have that kind of money, and I'm satisfied with Room 205.</p>
+<p>It was finally my turn. It looks delicious. I’m about to drool, but that wouldn't be very lady-like.</p>
+<p>I tried to offer my tray as gracefully as I could, but someone cut in line.</p>
+<p>I glared at him, thinking, "I'll kill you!" but he didn't even notice me.</p>
+<p>"Hey, don't cut in line."</p>
+<p>The male student who had been standing behind me got angry.</p>
+<p>"What did you say? This is for Prince Keith..."</p>
+<p>Suddenly, everyone felt the pressure and turned around. A student with golden hair, blue eyes, and an overwhelming aura was standing there.</p>
+<p>"Are you planning to spoil Keith and curry favor with him? Father had us enter the dormitory because he wanted us to become independent. Are you intending to go against his will?"</p>
+<p>It seems to be Prince Richard. The pressure he's putting out is intense. If he's 15, he must be a senior student. I'll make sure to avoid any involvement with him this year. Even though I’m thinking that...</p>
+<p>"Keith, come here and apologize to this female student."</p>
+<p>No, no, I’m fine. I don't want to get involved. I feel like running away, but I don't think that will be allowed either.</p>
+<p>"Brother, I didn't ask for any of this. She just... on her own..."</p>
+<p>Ah, saying something like that is just like adding fuel to the fire.</p>
+<p>The pressure intensified—is this some kind of magic? The male student who had cut in line and Prince Keith both dropped to their knees. Is there a magic called "Coercion"? I should look that up later.</p>
+<p>『I want to escape without being noticed!』</p>
+<p>Taking advantage of my small stature, I sneaked forward, presented my tray, took the plate they placed on it, and quickly left the scene.</p>
+<p>I set the tray down on an unoccupied table in the corner of the cafeteria and sat in a chair.</p>
+<p>『Phew, being royalty seems exhausting. I definitely don't want to get involved.』</p>
+<p>I feel like people are grumbling about how "Patience just ran away from the prince," but I don't want to get dragged into such a terrifying sibling spat. So that Prince Keith is a classmate... I hope we're in different classes.</p>
+<p>The stew was so rich, but because of that sibling quarrel, I couldn't even taste it. I’ll eat quickly and retreat to my room.</p>
+<p>It seems there was a rumor that Prince Richard’s anger had subsided and he had tried to make Prince Keith apologize, but that no one was there.</p>
+                <div class="nav">
+                    <a href="chapter_015.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_017.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

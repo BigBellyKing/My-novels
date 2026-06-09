@@ -1,0 +1,89 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 54</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Lunch at the Duke of Laforet's residence</p>
+<p>We arrived at the Duke of Laforet's mansion before Princess Margaret's stomach could growl. Seriously, it's huge. It was so far from the gate to the house that it was laughable to wonder how long it would take to run there.</p>
+<p>"Welcome, we are honored by your presence."</p>
+<p>Ah, as I thought, the guardian who stood out at the new song presentation was the Duke of Laforet.</p>
+<p>Wow, that’s an incredible number of servants. It’s exactly the kind of line-up greeting you see in British dramas.</p>
+<p>Each member of the Duke of Laforet family is greeting the Queen. I see, Albert has an older brother too. The eldest son, Charles, has short hair and moves with sharp, brisk movements. They are brothers of very different types. Albert is also greeting the Queen very politely.</p>
+<p>After that, they move on to greet Prince Richard, Princess Margaret, and Prince Keith. Huh? Is His Majesty staying behind? I felt a little more at ease. Here too, 10-year-old Princess Jane and Prince Marcus were quickly taken into the mansion by their tutors and nannies. I want to eat in the nursery too.</p>
+<p>"This is Patience Granger. She is my lady-in-waiting."</p>
+<p>Introduced to Princess Margaret, I curtsy gracefully.</p>
+<p>When I greet him, saying, "I am Patience Granger," the Duke of Laforet tilts his head, wondering, "I've seen you somewhere, haven't I? Where was it?"</p>
+<p>"Duke of Laforet, won't you escort me?"</p>
+<p>"My apologies." The Duke of Laforet escorted the Queen into the mansion.</p>
+<p>Prince Richard and Prince Keith enter the mansion while talking with Charles. Albert is keeping Princess Margaret and me company. Is it because we’re in the same music club?</p>
+<p>"I am thinking of having Patience learn the lute."</p>
+<p>"Learning the lute is a good thing. It will broaden your range of composition." The two of them are really hitting it off.</p>
+<p>I wondered if the escort knights would eat with us, but it seems they take turns eating while guarding the carriages. It seems a separate room has been prepared for them. The Duke of Laforet's household has it rough, doesn't it? The escort knights, ladies-in-waiting, maids, tutors, nannies... I wonder how many people there are.</p>
+<p>Everyone takes a short break and has lunch in their assigned rooms. Mmm, it's delicious. I was satisfied with the luxurious meal, but the dessert was, as expected, gritty with sugar. What a shame! Fitting for a music-loving Duke, there was even live music during the meal. And it was a pleasant performance that didn't interfere with our conversation.</p>
+<p>"That was delicious. And a lovely performance," the Queen says, expressing her gratitude before rising from her seat. Everyone follows suit. Just as I was about to get into the carriage, Albert says something unnecessary.</p>
+<p>"Patience, make sure you compose lots of new songs during the summer vacation."</p>
+<p>The Duke of Laforet started making a fuss, shouting, "That's the student from back then!", but it was just in time—we were safe. The carriage departed.</p>
+<p>"Albert and his unnecessary comments... Patience, you really must be careful."</p>
+<p>I thought she was just exaggerating to scare me.</p>
+<p>"Surely not, they live in such a magnificent mansion and employ so many servants. They even hire professional musicians."</p>
+<p>"Patience, you really are naive. You still need a lot more training."</p>
+<p>It is true that Patience is naive and I know nothing of this other world, but the way Princess Margaret spoke suggested there was more to it. It felt like she was mincing her words.</p>
+<p>"There was someone who should have been there today, wasn't there?"</p>
+<p>I received a hint.</p>
+<p>"Is His Majesty staying behind?"</p>
+<p>It seems it was a ridiculous answer. Princess Margaret burst into laughter.</p>
+<p>"Father is arriving a week late. That is not what I meant, I am talking about the Laforet Ducal family."</p>
+<p>"Oh? Was the Duchess out?"</p>
+<p>Princess Margaret looked at me in disbelief.</p>
+<p>"When a Queen is having lunch at a mansion, it is impossible for the Duchess not to be alive and present to welcome her. Even if she were ill, she would crawl out to meet her. That is why you must be careful."</p>
+<p>For a moment, I honestly had no idea what she was talking about.</p>
+<p>"Eh, wait, are you saying I am going to become the Duke of Laforet's new wife? He looks older than my father... that's impossible, right?"</p>
+<p>I have no interest in older men! Besides, I am only ten years old. What is the age gap? Wait, is an age gap of twenty-something years even possible? I’m a shotacon, so it’s impossible for me!</p>
+<p>"If you don't want to become Albert's stepmother, you must never go near the Duke of Laforet."</p>
+<p>Since it was truly, absolutely impossible, I nodded seriously. Patience was also screaming "Impossible!"</p>
+<p>"Also, be careful of Albert. The Duke of Laforet might be thinking of making you his stepdaughter. Well, I certainly won't allow that, though."</p>
+<p>She smiled, implying that while she couldn't touch the Duke of Laforet, she could at least defeat Albert.</p>
+<p>It's terrifying. I felt that Princess Margaret is indeed the daughter of Queen Victoria. Even if she is a late sleeper and loves music above all else.</p>
+                <div class="nav">
+                    <a href="chapter_053.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_055.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

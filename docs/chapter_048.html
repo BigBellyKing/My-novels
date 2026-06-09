@@ -1,0 +1,93 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 48</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Aoba Festival Dance Venue</p>
+<p>I was forcibly taken to the dance venue by Prince Keith.</p>
+<p>"Lady Margaret is here."</p>
+<p>The spacious venue is decorated with flowers, and over a dozen people are performing a light dance to live music.</p>
+<p>Chairs are placed at the edge of the venue, where Princess Margaret is sitting with her school friends. She looks somewhat angry, creating an atmosphere that makes one reluctant to approach. Yet, perhaps unaware of this, Prince Keith heads straight toward her.</p>
+<p>"Sister, I have finished helping the student council with Patience."</p>
+<p>Once I part ways with Prince Keith and the others, I will ask Princess Margaret for permission to return to the dormitory.</p>
+<p>"Oh, Keith, thank you for your hard work. Now, go on and dance."</p>
+<p>I waited a little while for Prince Keith to leave the area, but it seems the third new song presentation really did cause friction with the chorus club.</p>
+<p>"If one truly has love for music, one should be willing to wait even if the time is slightly extended."</p>
+<p>Princess Margaret's love for music is profound. But the schedule is fixed, you know.</p>
+<p>"Really, they should just abolish the chorus club."</p>
+<p>Katherine is making a bold statement. I don't know what will happen if the music club gets abolished for failing to follow the rules.</p>
+<p>"Is there even any point to the club if they just sing songs from the past in chorus?"</p>
+<p>Even Lilina, who is usually reticent, is angry. That's rare.</p>
+<p>"Their solo was also clumsy."</p>
+<p>Harriet has a sweet demeanor, yet she is actually the harshest of them all.</p>
+<p>It is a no-holds-barred insult contest, and there is no room to interject. Ah, the boys who seem to want to ask the four of them to dance also look like they can't approach. Only Prince Keith would walk up without noticing these dark clouds.</p>
+<p>However, noticing the boys from the knight club they had their eyes on, Harriet closes her mouth and smiles.</p>
+<p>"Everyone, it is Lord Percival."</p>
+<p>"My, he is always wonderful, isn't he?"</p>
+<p>Lilina is nodding. I look at Percival, where their gazes are directed. He is certainly handsome. But surely, the winner was supposed to be President Eric.</p>
+<p>As the three began to smile demurely, the dark clouds vanished.</p>
+<p>"Princess Margaret, may I have this dance?"</p>
+<p>The three watch Princess Margaret, who stood up with Percival, leave with a hint of regret. But one boy after another comes to ask them to dance, and they start dancing on the floor.</p>
+<p>"Alright, the moment Princess Margaret returns to her seat, I will get permission to retire to my room!"</p>
+<p>I had been timing it perfectly, but I missed my chance.</p>
+<p>"Let's dance."</p>
+<p>Prince Keith has come to invite me, pitying me for being a wallflower.</p>
+<p>"I am not good at dancing."</p>
+<p>It seems he thought I was being modest.</p>
+<p>"I know that much. But it will be a problem if my sister's attendant cannot even dance. You will have to accompany her to parties as well."</p>
+<p>I feel fed up that being an attendant is already decided even for times like that.</p>
+<p>Prince Keith is a good dancer. Surely, there must be a dance teacher at the royal palace.</p>
+<p>"If you practice a little more, you will get better. Next is Ralph, take her for a dance."</p>
+<p>Eh, I want to do my side work in my room... but dancing with a skilled partner is fun. I have learned the steps, and if the lead is good, it's a breeze.</p>
+<p>After dancing several times with Prince Keith, Ralph, Hugo, and the others, I finally caught Princess Margaret while she was taking a break.</p>
+<p>"I'm thinking it's about time I headed back to my room."</p>
+<p>Oh, it's dinner time already. I'm surprised I'd been dancing for that long.</p>
+<p>"I was thinking of doing the same."</p>
+<p>I head back to the dormitory with Princess Margaret. The dance hall is still lively, but I'm exhausted.</p>
+<p>"Patience, you said you weren't good at dancing, but you danced quite well."</p>
+<p>I'm happy for the compliment, but it’s not going to end there.</p>
+<p>"If you try a little harder at dance, you should be able to get a certificate. If you have extra time, you'll be able to compose more new songs, won't you?"</p>
+<p>Princess Margaret’s love for music knows no bounds. However, it's certain that I won't be getting a certificate if I have to rely on someone else leading.</p>
+                <div class="nav">
+                    <a href="chapter_047.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_049.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

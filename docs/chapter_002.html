@@ -1,0 +1,120 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 2</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Chapter 1: Characters</p>
+<p>https://10842.mitemin.net/i680425/</p>
+<p>Viscount Granger Family</p>
+<p>Patience Granger (Protagonist) ← Inside is a 25-year-old office worker</p>
+<p>10 years old, blond hair, blue eyes, height 140 cm</p>
+<p>Gaunt at the beginning of the story → slim and petite; height is on the shorter side</p>
+<p>Loves her younger brothers, sharp-minded</p>
+<p>Nathius Granger (younger brother)</p>
+<p>8 years old, brown hair, gray eyes, height 132 cm; gaunt at the beginning of the story → slim</p>
+<p>Catches up to Patience in height after 1 year</p>
+<p>Bookworm</p>
+<p>Henry Granger (younger brother)</p>
+<p>6 years old, blond hair, blue eyes, height 123 cm; gaunt at the beginning of the story → slim; scheduled to grow tall</p>
+<p>Active</p>
+<p>Viscount William Granger (father)</p>
+<p>Around 37 years old, brown hair (slightly graying), gray eyes, height around 180 cm; gaunt at the beginning of the story; generally slim</p>
+<p>Academic disposition, currently dismissed from service; lost his wife Julianne two years ago; stays in the study all day</p>
+<p>Julianne Granger</p>
+<p>Blond hair, blue eyes, height 154 cm; short for this other world</p>
+<p>Died at age 31; had a weak constitution</p>
+<p>Passed away 4 years after giving birth to Henry</p>
+<p>Gifted in music; friend of Queen Victoria</p>
+<p>Mary (Granger family maid)</p>
+<p>Around 24 years old, red hair, brown eyes, height around 162 cm, slim</p>
+<p>Loyal servant who followed from mother Julianne’s family home; originally a lady's maid, but also does domestic chores</p>
+<p>Wyatt (Granger family butler)</p>
+<p>Around 35 years old, brown hair with graying strands, neatly styled, height 175 cm, slim</p>
+<p>A capable butler, so why is he working for the poor Granger family??</p>
+<p>Eva (Granger family cook)</p>
+<p>Around 30 years old, brown hair, brown eyes</p>
+<p>Used to be plump, but now gaunt → slim</p>
+<p>George (Granger family manservant)</p>
+<p>Around 28 years old, brown hair, green eyes</p>
+<p>Height around 175 cm; slim at the beginning of the story, but has a solid build</p>
+<p>Matthew (Granger family manservant apprentice)</p>
+<p>13 years old, brown hair, brown eyes</p>
+<p>Height around 162 cm; hired during summer vacation</p>
+<p>Eva’s nephew</p>
+<p>Royal House of Laurence</p>
+<p>His Majesty King Alfred</p>
+<p>37 years old, blond hair, blue eyes, height 185 cm, sturdy build</p>
+<p>Was friends with William Granger</p>
+<p>Queen Victoria</p>
+<p>33 years old, platinum blonde, green eyes, height 165 cm, excellent figure, beautiful</p>
+<p>Was friends with Julianne</p>
+<p>Prince Richard</p>
+<p>14 years old, blond hair, blue eyes, height 175 cm, lean and muscular</p>
+<p>3rd year of middle school, Student Council President</p>
+<p>Princess Margaret</p>
+<p>12 years old, platinum blonde, green eyes, height 158 cm</p>
+<p>Music club; poor at math; poor at sewing</p>
+<p>Prince Keith</p>
+<p>10 years old, platinum blonde, green eyes, height 154 cm</p>
+<p>Knight club; poor at classics</p>
+<p>Princess Jane</p>
+<p>8 years old</p>
+<p>Prince Marcus</p>
+<p>6 years old</p>
+<p>Classmates of Prince Keith</p>
+<p>Ralph Mackenzie; second son of Marquess Mackenzie; sharp-minded; Knight club</p>
+<p>Hugo Angus; eldest son of Earl Angus; red hair; Knight club</p>
+<p>Louise Fendi; eldest daughter of Earl Fendi; beautiful blonde; light magic</p>
+<p>Classmates of Princess Margaret</p>
+<p>Catherine Woodstock; second daughter of Marquess Woodstock</p>
+<p>Lilina Claridge; eldest daughter of Earl Claridge</p>
+<p>Harriet Linderman; third daughter of Earl Linderman</p>
+<p>Music club</p>
+<p>Department Head Melissa Beaumont: An exotic beauty with dark brown hair</p>
+<p>Deputy Department Head</p>
+<p>Albert Laforet: Long, well-groomed chestnut hair; music obsessed</p>
+<p>Knight Club</p>
+<p>Percival Moran: Exceptionally handsome; brown hair, blue eyes</p>
+                <div class="nav">
+                    <a href="chapter_001.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_003.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

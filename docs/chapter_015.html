@@ -1,0 +1,83 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 15</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Comfortable! Dorm Life</p>
+<p>The royals and what appeared to be their entourage of high-ranking nobles finally finished unloading, so we began unloading our luggage too. It seems carriages can only go as far as the front of the school building. From there, we have to walk.</p>
+<p>George helped unload my wardrobe trunk, and Mary carried the box containing my books and study supplies into the dormitory. It seems the dormitory maid will carry the wardrobe trunk. If I recall correctly, there are separate male and female dorms, and there was a rule that men are not allowed in the girls' dorm and women are not allowed in the boys' dorm. I was so sad about parting from my younger brothers that I only skimmed the dorm rules.</p>
+<p>So, a maid will carry the heavy wardrobe trunk for me. That means for the boys' dorm, it must be a manservant, right? Well, there are dollies and carts, and the maid looks quite strong, so I think it'll be fine.</p>
+<p>The first floor is the dining hall. It seems this is shared by men and women.</p>
+<p>There are two staircases in the dining hall; the one on the right leads to the boys' dorm, and the one on the left to the girls' dorm. Even though the right side is closer to the royal palace, which means it's closer to my brothers...</p>
+<p>"My Lady, it seems this is the room."</p>
+<p>Using the key we received at the reception desk, Mary opened the door to Room 205. I felt a strange sense of nostalgia, realizing it was because I was 25.</p>
+<p>"Such a small room... My Lady, how pitiful," she said, but it's more than enough. Granted, it's only half the size of my room at Patience, but it's larger than the apartment I lived in alone in my previous life. Plus, to my surprise, there was a fire crackling in the fireplace.</p>
+<p>"It's warm." For the first time since reincarnating, I feel warmth to the core of my body. Small is wonderful, isn't it?</p>
+<p>While I was moved by the fireplace and relaxing in a chair, Mary was busy working away—taking clothes out of the wardrobe trunk to put in the dresser, putting a bedspread over the mattress provided in the room, and unpacking my study supplies.</p>
+<p>Eh, am I not going to help? Mary is finally able to do work befitting a maid with such liveliness; you want me to take that away from her? I wouldn't do such a cruel thing. Since my body had warmed up, I checked the room.</p>
+<p>In Japanese terms, the room is about 10 tatami mats in size, a studio apartment, and furnished. It includes a bed, a dresser, a desk and chair, and a simple sitting area in front of the fireplace.</p>
+<p>I recall seeing things like sitting sets and beds in that massive amount of luggage; thank you for all your hard work.</p>
+<p>"Um, My Lady... I apologize, but could you please help me move the desk?"</p>
+<p>As it happens, I had repaired and brought along a tattered mini-rug I found in the attic. Yes, laying this down will make it look even warmer.</p>
+<p>Furthermore, it even came with a toilet and a bath. As expected of the Royal Academy! It even comes with a magic stone. That’s very generous.</p>
+<p>"My, this is a magic lamp, isn't it?"</p>
+<p>"Wow, that's amazing."</p>
+<p>Magic lamps—they do have them in the Granger family's dining room and drawing room, but as you might guess, they don't function because the magic stones are dead. We have spells for light, but it’s tiring to keep them lit all the time.</p>
+<p>Frankly speaking, the dormitory is more comfortable than the Granger household. But the drawback is that my brothers aren't here.</p>
+<p>"That's right, Nasius will enter the Royal Academy in two years, and Henry in four years."</p>
+<p>I hope I can buy a horse by then. The dormitory is comfortable, but it's lonely not being able to have a morning kiss and a goodnight kiss.</p>
+<p>Mary seemed reluctant, saying "But you'll be all alone, my lady," but she went home because there was plenty of work to do there.</p>
+<p>"I wonder what time lunch is?"</p>
+<p>I didn't bring many things, and Mary unpacked them quickly. With some free time, I read the dormitory rules. Meal times are important, after all.</p>
+<p>"The noon bell? It hasn't rung yet, has it?"</p>
+<p>Wealthy nobles might have brought watches with them, but I don't have one. Surely, poor nobles don't have them either. It seems the bells ring for that reason.</p>
+<p>"Waking up, breakfast, warning bell, first period, second period, lunch, third period, fourth period, dinner, bedtime... That's quite a lot of bells, isn't it?"</p>
+<p>They ring twice, once before and once after each class. I let out a sigh, wondering if I'll spend my life being chased around by bells.</p>
+<p>"Clang! Clang!"</p>
+<p>Oh, it's time for lunch! I tried to leave the room in a hurry, but a "Patience Check" was triggered. I hadn't had many of them lately. I felt a bit lonely and at the same time relieved, thinking they might be gone for good, but maybe checks will increase here at the academy.</p>
+<p>"A young lady should not rush to the dining hall."</p>
+<p>Well, I suppose it does look unrefined. I washed my hands in the washroom and then headed downstairs slowly.</p>
+<p>"I'm hungry." A very delicious aroma was coming from the dining hall, and my stomach growled halfway down the stairs. I quickened my pace a little and headed to the dining hall.</p>
+                <div class="nav">
+                    <a href="chapter_014.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_016.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

@@ -1,0 +1,95 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 10</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Let's use life magic!</p>
+<p>I was surprised by the lunch that day. Surprisingly, it wasn't thin soup.</p>
+<p>"Today is a celebration for Patience-sama, after all."</p>
+<p>Mary, who serves us, also looks happy.</p>
+<p>"It's potage!"</p>
+<p>Henry is already eating it.</p>
+<p>"Sister, what kind of ability have you been granted?"</p>
+<p>Nashius's expectant eyes are dazzling.</p>
+<p>"It's life magic."</p>
+<p>I feel a little embarrassed. It's magic that even commoners have. I didn't want to become a nun, but it would have been cool if it were something like light. Or a saint... well, that doesn't suit me, does it.</p>
+<p>"Patience, life magic can also be used depending on how you use it. If Julianne were alive, she would have taught you, but you should learn it at the academy."</p>
+<p>My father's eyes look sad, and my heart aches with a pang.</p>
+<p>"Yes, at the academy... Father, I don't have to attend the academy. Nashius and Henry must go, but..."</p>
+<p>Everyone's hands stop as they were drinking the potage.</p>
+<p>"That is not possible. Going to the Royal Academy is the duty of a noble."</p>
+<p>Just from my father's stern words, I understood that I must go to the academy.</p>
+<p>"Sister, you must go to the academy."</p>
+<p>I surrender to Nashius's shocked eyes.</p>
+<p>"That's right, I must learn life magic at the academy, mustn't I?"</p>
+<p>There was potato potage, bread that was a little softer than usual, and the ham was just a little thicker.</p>
+<p>"Nashius, Henry," I tried to give them some ham, but they refused, saying, "It's for Sister's celebration." Even though they must be hungry, what kind, gentle</p>
+<p>younger brothers.</p>
+<p>I wonder. I feel like Japanese elementary school students were cheeky, but Patience is also refined, and I thought deeply about how different it is.</p>
+<p>Now then, once I finish lunch, I'll try using life magic. I was determined to do so, but I was away in the morning. I have to look after my younger brothers' studies.</p>
+<p>So, in the nursery, I taught Nashius arithmetic, set him a few problems, and had Henry write simple words while I read "Beginner Life Magic."</p>
+<p>First, the toilet. Then, cleaning to reduce Mary's burden. Both are cleaning, so it's the same.</p>
+<p>"Cleaning... this is it."</p>
+<p>I look for the cleaning page in the table of contents of "Beginner Life Magic" and read it.</p>
+<p>"Focus your spirit, and first, cleanse a small area."</p>
+<p>Cleanse? Well, it's not fire magic or anything, so it doesn't seem like it would be harmful. Mary cleans the nursery. But it's large, and since we were out in the morning, it doesn't look like it's been cleaned yet today. Besides, the curtains and the carpet are old and have a dingy atmosphere.</p>
+<p>"Become clean!"</p>
+<p>I had never used magic before. I don't know how to focus my spirit either, but I recalled the tingling sensation when I touched that disk, and while remembering the time when this nursery was truly clean from Patience's memories, I chanted it.</p>
+<p>I felt a sudden drain of energy. I felt dizzy, so I closed my eyes. It was a good thing I was sitting in a chair. If I collapsed in front of my brothers, it would worry them.</p>
+<p>"Sister, this is...!"</p>
+<p>I opened my eyes at Nashius's shout.</p>
+<p>"What on earth!" A narrator's voice from a TV renovation show unintentionally slipped out of my mouth.</p>
+<p>Living magic isn't just for cleaning; it can make old curtains and carpets look brand new!</p>
+<p>「Living magic is so convenient, isn't it?」</p>
+<p>Nashius seems to be thinking about something, while Henry is jumping up and down, saying 「Amazing!」.</p>
+<p>Even the stains on the ceiling are gone, and the wallpaper, which had faded from sun exposure, now clearly displays a cheerful pattern suitable for a child's room.</p>
+<p>「With this, perhaps you could become a lady-in-waiting at the royal palace.」</p>
+<p>「A lady-in-waiting at the royal palace?」Seeing my puzzled look, Nashius makes a suspicious face and says, 「That was your wish, wasn't it, sister?」</p>
+<p>「Yes, that's right. But I will decide whether or not to become a lady-in-waiting at the royal palace after I've studied at the academy.」</p>
+<p>Nashius thinks for a moment and then smiles, saying, 「That's true.」 I wonder what it is. I have a bad feeling about this. To get</p>
+<p>a bad feeling</p>
+<p>from my little brother... I am failing as a big sister.</p>
+<p>I was tired that day, so I tested to see if the toilet worked and finished my living magic practice for the time being. With this, I'm one step closer to a civilized life.</p>
+                <div class="nav">
+                    <a href="chapter_009.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_011.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

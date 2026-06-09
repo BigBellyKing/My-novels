@@ -1,0 +1,87 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 3</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Do not be content with honorable poverty.</p>
+<p>The north wind rattles the windowpanes. A cold gust of wind whistled into the room.</p>
+<p>“It’s cold……”</p>
+<p>I woke up in the middle of the night, shivering uncontrollably.</p>
+<p>“Patience’s way of sleeping will leave me frozen.”</p>
+<p>Until just a few days ago, I was supposed to be an office worker in Japan, but for some reason, when I woke up, I had become Patience Granger.</p>
+<p>This Patience Granger appears to be some kind of aristocrat, but she is truly destitute—or rather, dirt poor. Her standard of living is so low that it’s a matter of life and death if things don’t improve.</p>
+<p>The first time I woke up as Patience, I was so weak that I tried to call an ambulance, thinking, "At this rate, I'm going to die. Help!" But when I looked around, it wasn't my room, and there was no telephone.</p>
+<p>“My Lady Patience, have you regained consciousness?”</p>
+<p>A red-headed maid called out to me, looking happy. I knew, for some reason, that the maid’s name was Mary, and I also knew, for some reason, that I was Patience Granger.</p>
+<p>“I seem to be incredibly weak. Please call a doctor.”</p>
+<p>I asked the maid, Mary, but she looked troubled.</p>
+<p>“I cannot call a doctor for my own sake.”</p>
+<p>The Patience inside me protests, "That is preposterous!"</p>
+<p>“We called for the doctor yesterday... and your fever seems to have gone down now, so...”</p>
+<p>Mary helped me drink some water from a feeding cup, and I felt a little relieved.</p>
+<p>From Patience’s memories, I learned that calling a doctor is an immense luxury, something that only happens when one is deathly ill. In other words, the me of yesterday</p>
+<p>I</p>
+<p>must have been in a life-or-death situation, and though it is unclear whether I was possessed or reincarnated, it seems I have become this Patience Granger.</p>
+<p>“Did I die? Patience seems to have died, but what are these memories?” That is the problem.</p>
+<p>I am Kaoru Aoyama, a 25-year-old living alone and working as an office lady after graduating from college; I was in good health and living a normal life. I have no memories of being hit by a truck, which is common in reincarnation stories, nor did I receive cheat abilities from a goddess in a white room.</p>
+<p>I just came home from work, had a simple meal, took a bath, played on my computer for a while, and went to bed, so why did this happen? I tilt my head in confusion, wondering if there was a fire or an earthquake in the middle of the night.</p>
+<p>What is even stranger is that Patience’s memories are incredibly clear. I am grateful that thanks to them, I can speak and understand the language here, but it is troubling that Patience’s common sense controls my actions.</p>
+<p>Patience is proud as an aristocrat, and on top of that, overflowing with a spirit of self-sacrifice.</p>
+<p>It seems Patience’s mother also died of pneumonia due to that spirit of self-sacrifice.</p>
+<p>In this Granger household, there is my father, Lord William, the Viscount, as well as the heir, eight-year-old Nasius, and six-year-old Henry.</p>
+<p>The younger brothers in my memories are absolute angels, and Patience used to give up the thin slices of meat that made it to our meager table for them. Perhaps because of that, she was skin and bones with no resistance, and likely died of pneumonia from the winter cold. Probably.</p>
+<p>Having vivid memories is one thing, but the difficulty lies in trying to make me behave properly.</p>
+<p>『A noble lady sleeps elegantly with her hands clasped on top of the quilt.』</p>
+<p>I’m amazed that she didn’t die because she followed the teachings of her late mother and slept with such a thin quilt in this room with no heating, but it seems my body was still sleeping according to Patience's habits. Sleeping as politely as Sleeping Beauty, whom I saw in my childhood, is only for rooms with heating.</p>
+<p>「It's cold! Wasn't this how Mother slept, and that's why she died of pneumonia? Is this really all the thin quilt there is? I have to check this in the morning.」</p>
+<p>Until then, though it goes against the teachings of Patience's mother, I’ll pull the quilt over my head and sleep curled up like a cat.</p>
+<p>「It might be a little warmer now...</p>
+<p>Are my younger brothers</p>
+<p>doing okay?」</p>
+<p>I have a bit of a shotacon tendency. Ah, I want to delete the shotacon manga on the PC I left behind in Japan... but thinking about that is useless.</p>
+<p>In Patience's memories, my younger brothers under ten are sleeping together in the nursery, so it should be a little warmer.</p>
+<p>Anyway, I have to sleep, recover at least a little strength, and eat something better than watery porridge, or my life—whether it's reincarnation or possession, I don't know—will end.</p>
+<p>Besides, if I don't do something about this Viscount Granger household, I feel terrible for my brothers. This is the shared consensus between me, the shotacon, and the brother-loving Patience.</p>
+                <div class="nav">
+                    <a href="chapter_002.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_004.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

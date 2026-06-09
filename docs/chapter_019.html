@@ -1,0 +1,78 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 19</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Skipping a grade!</p>
+<p>I thought homeroom was over after that, but Mr. Hagan began to talk about something important. Could it be that he had forgotten about it? Because it’s strange to talk about non-mandatory clubs first, right?</p>
+<p>"Everyone, look at your schedules. There will be a test during the first class based on this schedule."</p>
+<p>The classroom grew noisy. Of course, that’s expected. Everyone hates tests.</p>
+<p>"Quiet down! The test is to gauge everyone's actual ability. There is no need to take classes on material you have already mastered. In fact, it would be a waste of time."</p>
+<p>Sounds like an explanation for skipping grades. I should listen seriously.</p>
+<p>"My brother has skipped many subjects. The only reason he remains this year is because he is the Student Council President."</p>
+<p>Prince Keith is bragging about his brother. He certainly seems like a capable prince. But, isn't the reason he hasn't graduated despite skipping grades because he still has a few subjects left? What an arrogant thought that was. Patience, don't get angry at me.</p>
+<p>"Mr. Hagan, is it also possible to skip a grade level?"</p>
+<p>Oh, Louise. I like girls who are quite ambitious. Plus, thank you for asking what I wanted to ask.</p>
+<p>"It is possible to skip a grade level. However, you must pass all subjects except for practical skills: dance, art, music, and physical education. The evaluation for these four subjects varies depending on the instructor, and mastery can be achieved in higher grades as well."</p>
+<p>Perhaps subjects other than magic practicals aren't considered that important. Even on the schedule, other practical skills are once a week, while magic is twice. When combined with Magic Studies, that's four times a week. One-fifth of the 20 class slots. It finally clicked that the Royal Academy gathers nobles and makes them study magic. There are commoner students in Class C who aren't nobles, but they probably seem wealthier than my family. Plus, it seems everyone has magical power. I want money!</p>
+<p>I got sidetracked, but I’ll look at the schedule again. There are no science-related subjects like science, geography, or physics. Classics... are magic books considered classics? Or is it literary cultivation? Including the national language, that's 6 times a week. That's a lot. Math and history are 3 times each. I'll have to rely on Patience for the classics. The Granger family's library has plenty of classic books. It seems Patience has read them, too. History as well—oh, speaking of which, that applies to the national language too.</p>
+<p>"The days of the week are the same as in my previous life. Well, that saves me the trouble of memorizing them, which is good."</p>
+<p>While I was thinking such carefree thoughts, homeroom ended. Now, let’s take the textbooks and head to the room.</p>
+<p>The boys are gathering around Prince Keith, and the girls are gathering around Louise. But since I am burning with enthusiasm to skip a grade, I have to study Magic Studies in my room. After all, I want to go home on Friday if possible.</p>
+<p>I don't know about magic practicals, but I memorized the Magic Studies textbook by heart. As expected of something for children, it’s simple. But whether I understood it is a different matter. It looks like I can pass the test, so I'll think about Magic Studies later. After all, I haven't been chanting any spells.</p>
+<p>Things like "Become beautiful!" or "Become big!" are all there is.</p>
+<p>"I humbly beseech thee, Estena, Goddess of Fire. Send the spirit of the burning flame to my side. Fireball!" Is this some kind of punishment? Oh, it seems that once you become an advanced user, you can cast magic with just "Fireball." However, it appears that the success rate for major techniques is still higher if you ask Goddess Estena for help.</p>
+<p>From now on, whenever I use daily-life magic in front of others, should I say, "I humbly beseech thee, Goddess Estena. For the sake of a civilized life and a maiden's dignity, please flush the toilet cleanly"? Well, I suppose the toilet isn't in front of others, is it? Whenever I have such irreverent thoughts, Patience gets angry. My head hurts! Am I really reincarnated? Or am I just possessing her, and is Patience perhaps in a state of suspended animation? Somehow, I knew with a sense of sadness that Patience is dead.</p>
+<p>"Patience, it's so sad that you passed away at ten years old. I'll make sure to look after your younger brothers. So, could you please refrain from getting so angry? It gives me a headache."</p>
+<p>I suspect I was reincarnated into this other world because Patience was worried about the future of her younger brothers, right? I mean, since there are magic stones, there must be monsters too, but they can't be defeated with daily-life magic. Heroes are impossible, and there are no holy maidens to heal people with light magic either.</p>
+<p>Oh, Patience is making a fuss, telling me to take care of Father as well. Well, I'll take care of him along with my younger brothers. It's truly amazing how she worries only about her family instead of herself, even though she was only ten. I'm an adult on the inside, so leave it to me!</p>
+<p>Schedule</p>
+<p>Monday: Math, Japanese, History, Practical Magic</p>
+<p>Tuesday: Classics, Math, Magic Theory, Dance</p>
+<p>Wednesday: Japanese, History, Classics, P.E./Home Economics</p>
+<p>Thursday: Math, Japanese, History, Practical Magic</p>
+<p>Friday: Classics, Magic Theory, Art, Music</p>
+<p>Every morning, homeroom after the first bell</p>
+                <div class="nav">
+                    <a href="chapter_018.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_020.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

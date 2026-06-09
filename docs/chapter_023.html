@@ -1,0 +1,76 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 23</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>Reunion with my younger brothers</p>
+<p>A carriage is scheduled to pick me up after breakfast on Saturday. I would like to return home first thing in the morning, but I have to go rent a horse. The dormitory has a deserted atmosphere. That’s because most of the royalty and their aristocratic entourages, who wouldn't normally live in the dormitory, have returned to the royal palace or their mansions.</p>
+<p>“Well, it’s more filling than the meals at home, so I should eat up.”</p>
+<p>It seems I can get textbooks, so I’ll take them home for my brothers. I think Nashius could skip grades as much as he wants. He’ll probably struggle with dance and PE, though. I want to save up money (gold coins) to have Nashius get an ability check-up as soon as possible. I think he’ll need to practice, too. Plus, it would be nice if we could hire a tutor. Boys' PE seems a little different from what I imagined. Running is the same, but I caught a glimpse of the upperclassmen’s PE, and there was swordsmanship, horsemanship... though it’s impossible to practice horsemanship without a horse.</p>
+<p>The pursuits of noble sons seem to cost a lot of money. I haven't seen any swords, so maybe they were sold off? And even if I could teach them school subjects, it would be impossible for me to teach them dance, music, or swordsmanship, right?</p>
+<p>I’ll teach them dance, music, and art. I’ve sold off the Hanon, but I still have a keyboard model. However, since it doesn’t make any sound, practicing might be impossible. Patience practiced using Hanon, so even with a flimsy model, she could do finger exercises and such. I have to get one, even if it’s a cheap one. If I have Hanon, it will bring enrichment to our lives. After all, you can only hear music if it's being performed. I miss CDs.</p>
+<p>“I want money!” In the end, it always comes back to that.</p>
+<p>Until Mary comes to pick me up at my room, I’ll think about ways to make money. Darning socks only gets me enough for my personal spending money. Side jobs don't pay much, but of course I'll do them. My brothers will need things like uniforms when they enroll.</p>
+<p>But to buy things like Hanon or a horse, I’ll have to drag the butler, Wyatt, into this.</p>
+<p>“Wyatt will surely be able to do something about it.”</p>
+<p>Having come to the Royal Academy, I could see what was necessary for my brothers' education. Plus, for my own sake, I also want Hanon and art supplies.</p>
+<p>If there were a side job like painting pottery, I could kill two birds with one stone. I’ll try discussing this with Wyatt too.</p>
+<p>“And I want to grasp the family's financial situation. It seems Wyatt will be tight-lipped about this, though.”</p>
+<p>The Granger family's financial situation doesn't seem like it could get any worse, but it doesn't seem like they're just getting by by selling off tools and such. It seems there is some support from relatives, albeit very little. I don't remember ever meeting the relatives who gave me this uniform.</p>
+<p>My memories of Patience’s early childhood are hazy, but guests used to visit. But in aristocratic society, do young children not greet relatives when they visit? By the time I grew up a little, my father had already been dismissed, and no one visited anymore. That’s why I’ve been putting off repairs on the closed-off reception room since it hasn't deteriorated much. Well, I’ll get it done next time just in case a visitor comes.</p>
+<p>“Mary is late.”</p>
+<p>I’d like to go out as far as the front of the academy, but I’m told that’s not allowed. Apparently, it’s a breach of etiquette to go without a maid. If I can persuade Patience, I’ll consider whether I can go to the lower town during my free time from magic practicals, or after school when everyone else is at their club activities. It seems like quite a distance to the lower town, but Eva the cook worked at the market every day, didn't she? I don't think she used a carriage, so is it walkable? Ah, even if I don't go to the lower town, nobles must buy daily necessities too, right? Maybe there's an intermediate district. Like a high-class residential area for commoners, or a middle-class town. I’ll have to check the state of the lower town first. I was thinking of asking Mary about the circumstances around here while she helps me change for dinner, when they finally came to pick me up.</p>
+<p>The carriage feels so slow. After all, I haven't seen my younger brothers in a week.</p>
+<p>Patience is making a fuss about how it’s "unladylike!", but I jumped out of the carriage. I couldn't wait for George to get down from the driver's seat and pull out the carriage steps.</p>
+<p>"Welcome home, My Lady."</p>
+<p>Wyatt opened the front door for me.</p>
+<p>"Sister!"</p>
+<p>Nascius and Henry come running down the stairs. You mustn't trip.</p>
+<p>"Nascius, Henry, have you been doing well?"</p>
+<p>I hug the two of them and bathe in a sense of happiness. I don't want to let go anymore. For these children's sake, I really have to do something about the Granger family's finances!</p>
+<p>Lunch is less than what we get at the academy, but it has improved quite a bit. Could it be because I’ve returned? I have to check what my brothers usually eat. Besides, I need to grow vegetables in the greenhouse, and I need to do some side work as well.</p>
+<p>More than that, I want to study and play with my brothers. Maybe I could go to the greenhouse with Henry, who is more mischievous than Nascius.</p>
+<p>Even so, after the meal, I was called by my father. Ah, a letter must have come from the Royal Academy. Feeling dejected that skipping a grade was a waste, I knock on the door of the study.</p>
+                <div class="nav">
+                    <a href="chapter_022.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_024.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        

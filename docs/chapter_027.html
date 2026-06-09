@@ -1,0 +1,83 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Chapter 27</title>
+            <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+        </head>
+        <body>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+            <div class="container">
+                <div class="nav">
+                    <a href="index.html">Home</a>
+                </div>
+                <p>So even if I skip a grade, we're still together.</p>
+<p>I’m grateful that my classes are different from Princess Margaret’s. That said, this is my first time skipping a grade to join Class 2-A.</p>
+<p>There's homeroom, too, and I had originally intended to go to class much earlier, but since Princess Margaret overslept, I'm barely making it.</p>
+<p>"Oh my, Patience, you're late,"</p>
+<p>Our homeroom teacher, Mr. Kepner, was already in the classroom.</p>
+<p>"This is Patience Granger, who has skipped a grade. Make sure to get along with her."</p>
+<p>Wow, self-introductions again? I hate these!</p>
+<p>I just gave a slight bow and said, "It is a pleasure to meet you." Then, several students scrambled out of their seats and left.</p>
+<p>"Alright, everyone, close up the gaps," he said, clapping his hands. As if accustomed to this, they moved their seats toward the window.</p>
+<p>As I stood there stunned, Mr. Kepner told me, "Take any empty seat." The previous class had been seated by social rank. I took the seat at the very back of the current students.</p>
+<p>Just before the bell rang to start class, a few people hurried into the room. Oh, it’s Prince Keith and the others. We have math first period, so I guess we’re in the same class.</p>
+<p>I suppose it’s still by social rank, as Prince Keith, Ralph, and Hugo took the empty seats from the front. I see, the students in Class 2-A have skipped grades too, which is why there are empty seats.</p>
+<p>That means for second period, Japanese Literature, Louise and many other girls have skipped grades as well. I hope Louise doesn't say anything to me about being an attendant... I thought to myself while listening to the math lesson.</p>
+<p>Yeah, this is a breeze. I want to get a certificate of completion. It’s so boring. I think the elementary level is about upper elementary to middle school, and the secondary level is about middle to high school.</p>
+<p>I’ll need to review high school math, but I think I can pass. Since there are three math periods, if I can free up that time, I could bring socks or something to do on the side and make good money. While I was thinking such impure thoughts, it seems math class ended.</p>
+<p>For Japanese Literature, a large number of students moved. I also moved my seat closer to the window. This is such a hassle. Some people are staying in their same seats. As I was looking around the classroom wondering if I should just pick a seat somewhere, Louise approached me quickly.</p>
+<p>"Good morning, Lady Patience."</p>
+<p>"Good morning, Lady Louise."</p>
+<p>I pretended to be busy putting my math textbook away and taking out my literature textbook. But since the person is Louise, that won't make her give up.</p>
+<p>"I heard that you have become an attendant to Princess Margaret, Lady Patience. Is that true?"</p>
+<p>"Yes, I have become an attendant."</p>
+<p>Leaning over the desk, Louise asked in my ear.</p>
+<p>"How did you become an attendant? Tell me."</p>
+<p>She seems quite desperate. If she wants to be an attendant that much, I wish she would take my place. I'm already fed up after just last night and this morning.</p>
+<p>"My father received a letter from Queen Victoria instructing me to become Princess Margaret's attendant."</p>
+<p>I wasn't bragging, I was just stating the facts. But it seems Louise took it differently.</p>
+<p>"My, there's no need to brag so much. Besides, we are friends, aren't we? Surely you can tell me how you got Queen Victoria to make you an attendant."</p>
+<p>I wonder how long she's been friends with Louise? Well, if Louise becomes an attendant, maybe I'll be taken off the duty. As I was thinking such carefree thoughts, the other girls started complaining.</p>
+<p>「Louise, that's unfair. To think you'd try to become Princess Margaret's attendant all by yourself!」</p>
+<p>These young ladies are supposed to be graceful, but their intensity makes them look like middle-aged women swarming a bargain bin in my previous life. It would be funny if that bargain bin wasn't me... That's it!</p>
+<p>「Princess Margaret's schoolmates didn't move into the dormitory, so this is a dormitory-based attendant role.」</p>
+<p>The girls all fell silent at once. They all commuted from the Romano estate, after all. There is no family in the dormitory, and no maids either. It's inconvenient, isn't it? For a regular noble lady.</p>
+<p>「Since you were the only dormitory student, Queen Victoria must have chosen you as an attendant.」</p>
+<p>Louise, that’s a very rude remark, isn’t it? But your eyes, which seem like you haven't given up on being an attendant yet, are scary. Well, good luck! If you have the guts to give up your comfortable life at the estate and move into the dormitory, you can become Princess Margaret's attendant. Just make sure to wake me up in the morning!</p>
+<p>I didn't know that Prince Keith was watching such a commotion.</p>
+                <div class="nav">
+                    <a href="chapter_026.html" style="visibility: visible">← Previous</a>
+                    <a href="chapter_028.html" style="visibility: visible">Next →</a>
+                </div>
+            </div>
+            
+<script>
+    const toggleButton = document.getElementById('theme-toggle');
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        let theme = document.documentElement.getAttribute('data-theme');
+        if (theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            toggleButton.textContent = '🌙';
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+            toggleButton.textContent = '☀️';
+        }
+    });
+</script>
+
+        </body>
+        </html>
+        
